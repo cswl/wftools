@@ -1,0 +1,13 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/TransmuteCores/DefenseTransmuteCore",
+  "name": "Vazarin Transmute Core",
+  "polarity": "Vazarin",
+  "rarity": "Rare",
+  "baseDrain": 0,
+  "fusionLimit": 0,
+  "description": "Ensures transmuted mod is of Vazarin polarity and eliminates credit cost.",
+  "type": "---",
+  "imageName": "vazarin-transmute-core.jpeg",
+  "tradable": true,
+  "hash": "b1d35a182f28b555103971dc14ecb531"
+}

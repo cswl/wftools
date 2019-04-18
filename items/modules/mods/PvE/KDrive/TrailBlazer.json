@@ -1,0 +1,13 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBElementTrailMod",
+  "name": "Trail Blazer",
+  "polarity": "Vazarin",
+  "rarity": "Common",
+  "baseDrain": 4,
+  "fusionLimit": 3,
+  "description": "Tricks leave a trail inflicting 10 <DT_FIRE>Heat Damage to enemies.",
+  "type": "---",
+  "imageName": "trail-blazer.jpeg",
+  "tradable": true,
+  "hash": "f2683c4bfb2fbaf873f8ddeb3083f9c9"
+}

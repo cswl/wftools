@@ -1,0 +1,592 @@
+{
+  "4ba22e9dee1bc9d8d327fc376e52d815": [
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Adept Surge Conclave Mod "
+    },
+    {
+      "name": "Hotfix 18.0.4 ",
+      "date": "2015-12-08T17:59:59Z",
+      "url": "https://forums.warframe.com/topic/573817-hotfix-1804-spoilers/",
+      "additions": "",
+      "changes": "Increased buff/debuff values of health/shields for the Rising Skill, Adept Surge, Calculated Spring and Tempered Bound Conclave Mods.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18: The Second Dream",
+      "date": "2015-12-03T23:46:40Z",
+      "url": "https://forums.warframe.com/topic/568455-update-18-the-second-dream/",
+      "additions": "",
+      "changes": "The mobility Mods Adept Surge, Rising Skill, Calculated Spring and Tempered Bound have had their armour buffs/debuffs removed and their health/shield values adjusted.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.8.0",
+      "date": "2015-10-21T21:58:23Z",
+      "url": "https://forums.warframe.com/topic/549118-update-1780/",
+      "additions": "",
+      "changes": "Adept Surge: +20% Bullet Jump, -20% Health, -20% armour.",
+      "fixes": ""
+    }
+  ],
+  "0b71341639a08e135db6982b73e36132": [
+    {
+      "name": "Hotfix 18.4.10 & Tactial Alert: Divine Will",
+      "date": "2016-02-11T23:27:12Z",
+      "url": "https://forums.warframe.com/topic/608673-hotfix-18410-tactial-alert-divine-will/",
+      "additions": "",
+      "changes": "New Conclave Mod: Air Thrusters ",
+      "fixes": ""
+    }
+  ],
+  "8a1d3886d21b7a8de138b42df66b3e78": [
+    {
+      "name": "The Silver Grove",
+      "date": "2016-08-19T17:32:55Z",
+      "url": "https://forums.warframe.com/topic/688644-the-silver-grove/",
+      "additions": "",
+      "changes": "Reduced the amount of Blast damage blocked by Anti-Flak Plating mod",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 18.5.5 + 18.5.5.1",
+      "date": "2016-03-08T21:47:49Z",
+      "url": "https://forums.warframe.com/topic/621794-hotfix-1855-18551/",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed Anti-Flak Plating Conclave Mod not being purchasable from Teshin."
+    },
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Anti-Flak Plating "
+    }
+  ],
+  "16fe8815c140a88afca9d4b3f4bdb5c1": [
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Anticipation Conclave Mod "
+    },
+    {
+      "name": "Update 18.4.0",
+      "date": "2016-01-22T00:24:23Z",
+      "url": "https://forums.warframe.com/topic/597888-update-1840/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Stagger from Excalibur’s Slash Dash not properly taking the Anticipation Mod’s affect in Conclave."
+    },
+    {
+      "name": "Update 18.2.0",
+      "date": "2016-01-05T18:24:20Z",
+      "url": "https://forums.warframe.com/topic/590253-update-1820/",
+      "additions": "",
+      "changes": "The Conclave Mod Enguard has been combined with the Anticipation Mod and renamed Armored Recovery.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 17.0.4",
+      "date": "2015-08-06T14:48:33Z",
+      "url": "https://forums.warframe.com/topic/504855-hotfix-1704/",
+      "additions": "",
+      "changes": "Enguard, Anticipation and the Overcharge Detectors Mod can now be equipped in the Utility Slot.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 17.0.3",
+      "date": "2015-08-04T22:21:45Z",
+      "url": "https://forums.warframe.com/topic/503583-hotfix-1703/",
+      "additions": "",
+      "changes": "Fixed Anticipation mod to give immunity to all stagger types in PvP.",
+      "fixes": ""
+    }
+  ],
+  "08f57988d56467e04f5ba25bda135f12": [
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Armored Acrobatics, Armored Evade and Armored Recovery Conclave Mods lowered from Rare to Uncommon."
+    },
+    {
+      "name": "Update 18.2.0",
+      "date": "2016-01-05T18:24:20Z",
+      "url": "https://forums.warframe.com/topic/590253-update-1820/",
+      "additions": "",
+      "changes": "Armored Acrobatics:  +20% Damage Resistance during Bullet Jump, -0.1 Mobility",
+      "fixes": ""
+    }
+  ],
+  "40a726682dee1aede556656a863d87cd": [
+    {
+      "name": "The War Within: Update 19.4.2 + 19.4.2.1",
+      "date": "2016-12-20T23:37:56Z",
+      "url": "https://forums.warframe.com/topic/737306-the-war-within-update-1942-19421/",
+      "additions": "",
+      "changes": "Armored Evade Conclave Mod damage resistance increased to 40% while dodging (-20% Slide changed to -10% Mobility)",
+      "fixes": ""
+    },
+    {
+      "name": "The War Within: Update 19.2.0",
+      "date": "2016-12-01T21:22:08Z",
+      "url": "https://forums.warframe.com/topic/728401-the-war-within-update-1920/",
+      "imgUrl": "http://i.imgur.com/1f5rmjA.jpg",
+      "additions": "",
+      "changes": "‘Armored Evade’ Conclave Mod damage resistance increased to 40% while dodging. -20% Slide changed to -10% Mobility.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Armored Acrobatics, Armored Evade and Armored Recovery Conclave Mods lowered from Rare to Uncommon."
+    },
+    {
+      "name": "Update 18.2.0",
+      "date": "2016-01-05T18:24:20Z",
+      "url": "https://forums.warframe.com/topic/590253-update-1820/",
+      "additions": "",
+      "changes": "Armored Evade: +20% Damage Resistance while dodging, -20% Slide",
+      "fixes": ""
+    }
+  ],
+  "3e8be8745ce863fb5ece10a0fbaf1125": [
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Armored Acrobatics, Armored Evade and Armored Recovery Conclave Mods lowered from Rare to Uncommon."
+    },
+    {
+      "name": "Update 18.2.0",
+      "date": "2016-01-05T18:24:20Z",
+      "url": "https://forums.warframe.com/topic/590253-update-1820/",
+      "additions": "",
+      "changes": "The Conclave Mod Enguard has been combined with the Anticipation Mod and renamed Armored Recovery.\nArmored Recovery: 50% Damage Resistance while knocked down, -20% slide.",
+      "fixes": ""
+    }
+  ],
+  "d78a53f97ebd77765fe3e54ae90b721a": [
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Calculated Spring Conclave Mod "
+    },
+    {
+      "name": "Hotfix 18.0.4 ",
+      "date": "2015-12-08T17:59:59Z",
+      "url": "https://forums.warframe.com/topic/573817-hotfix-1804-spoilers/",
+      "additions": "",
+      "changes": "Increased buff/debuff values of health/shields for the Rising Skill, Adept Surge, Calculated Spring and Tempered Bound Conclave Mods.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18: The Second Dream",
+      "date": "2015-12-03T23:46:40Z",
+      "url": "https://forums.warframe.com/topic/568455-update-18-the-second-dream/",
+      "additions": "",
+      "changes": "The mobility Mods Adept Surge, Rising Skill, Calculated Spring and Tempered Bound have had their armour buffs/debuffs removed and their health/shield values adjusted.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.8.0",
+      "date": "2015-10-21T21:58:23Z",
+      "url": "https://forums.warframe.com/topic/549118-update-1780/",
+      "additions": "",
+      "changes": "Calculated Spring: -20% Bullet Jump, +10% Health, +100 armour.",
+      "fixes": ""
+    }
+  ],
+  "1831ea05f59ff76758eaa02befb8ea8c": [
+    {
+      "name": "Hydroid Prime: Update 21.6.0",
+      "date": "2017-08-29T17:55:46Z",
+      "url": "https://forums.warframe.com/topic/836927-hydroid-prime-update-2160/",
+      "imgUrl": "http://n8k6e2y6.ssl.hwcdn.net/uploads/098afb7883e26718f1dfbc26fe1de1c3.jpg",
+      "additions": "",
+      "changes": "Increased duration of the Final Act Mod to 8 seconds and updated the description text in Conclave.",
+      "fixes": ""
+    },
+    {
+      "name": "Octavia's Anthem: Update 20",
+      "date": "2017-03-24T19:46:02Z",
+      "url": "https://forums.warframe.com/topic/776642-octavias-anthem-update-20/",
+      "imgUrl": "http://i.imgur.com/h14igRz.jpg",
+      "additions": "",
+      "changes": "Conclave Mods Final Act and Tactical Retreat now have a full screen effect when activated.\nConclave Mod Final Act changed to: +30% Ability Strength and +30% Casting Speed for 4 seconds when health drops below 50.",
+      "fixes": ""
+    },
+    {
+      "name": "The War Within: Update 19.2.0",
+      "date": "2016-12-01T21:22:08Z",
+      "url": "https://forums.warframe.com/topic/728401-the-war-within-update-1920/",
+      "imgUrl": "http://i.imgur.com/1f5rmjA.jpg",
+      "additions": "",
+      "changes": "‘Final Act’ Conclave Mod Ability Efficiency increased to 40%.",
+      "fixes": ""
+    },
+    {
+      "name": "The Index Preview",
+      "date": "2016-10-20T23:28:18Z",
+      "url": "https://forums.warframe.com/topic/709665-the-index-preview/",
+      "imgUrl": "http://i.imgur.com/49dlyEz.jpg",
+      "additions": "",
+      "changes": "Conclave Mods Tactical Retreat and Final Act Low Health condition changed to When Health drops below 50.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18: The Second Dream",
+      "date": "2015-12-03T23:46:40Z",
+      "url": "https://forums.warframe.com/topic/568455-update-18-the-second-dream/",
+      "additions": "",
+      "changes": "At Low Health, +0.1 Mobility and +20% damage resistance while airborne for 4 seconds (cannot be slotted with Final Act).\nFinal Act (Warframe) ",
+      "fixes": ""
+    }
+  ],
+  "1580cd1849beaa9fe942b06be6d6eed7": [
+    {
+      "name": "The Index Preview",
+      "date": "2016-10-20T23:28:18Z",
+      "url": "https://forums.warframe.com/topic/709665-the-index-preview/",
+      "imgUrl": "http://i.imgur.com/49dlyEz.jpg",
+      "additions": "",
+      "changes": "Increased energy gained from Follow Through Conclave Mod to +10.",
+      "fixes": ""
+    },
+    {
+      "name": "Specters of the Rail: Hotfix 12",
+      "date": "2016-07-20T20:28:28Z",
+      "url": "https://forums.warframe.com/topic/677187-specters-of-the-rail-hotfix-12/",
+      "additions": "",
+      "changes": "Fixed the Follow Through Mod not always giving energy on respawn in Conclave.",
+      "fixes": ""
+    },
+    {
+      "name": "Specters of the Rail: Hotfix 11",
+      "date": "2016-07-19T21:24:37Z",
+      "url": "https://forums.warframe.com/topic/676666-specters-of-the-rail-hotfix-11/",
+      "additions": "",
+      "changes": "Conclave mod 'Follow Through' effects changed to Respawn with +5 Energy and rarity lowered to Uncommon.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 18.0.4 ",
+      "date": "2015-12-08T17:59:59Z",
+      "url": "https://forums.warframe.com/topic/573817-hotfix-1804-spoilers/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a duplicate Follow Through Mod appearing in Teshins Conclave Offerings."
+    },
+    {
+      "name": "Update 18: The Second Dream",
+      "date": "2015-12-03T23:46:40Z",
+      "url": "https://forums.warframe.com/topic/568455-update-18-the-second-dream/",
+      "additions": "",
+      "changes": "Follow Through ",
+      "fixes": ""
+    }
+  ],
+  "cd894c9b84dbe43d334900fadded1535": [
+    {
+      "name": "Octavia’s Anthem: Update 20.5.0",
+      "date": "2017-05-17T19:16:26Z",
+      "url": "https://forums.warframe.com/topic/797978-octavia%E2%80%99s-anthem-update-2050/",
+      "imgUrl": "http://i.imgur.com/ADvsdMP.jpg",
+      "additions": "",
+      "changes": "Updated Aviator, Agility Drift and Heightened Reflexes Mods to read absolute % to avoid double negatives.",
+      "fixes": "Fixed the Electromagnetic Shield and Heightened Reflexes Mods displaying incorrect text descriptions."
+    },
+    {
+      "name": "The Glast Gambit: Hotfix 19.11.4",
+      "date": "2017-02-22T15:44:39Z",
+      "url": "https://forums.warframe.com/topic/765827-the-glast-gambit-hotfix-19114/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Ash’s Bladestorm not marking targets when Heightened Reflexes is equipped in Conclave."
+    }
+  ],
+  "01d8f9cb10a681b17fb32be2ecb80b6d": [
+    {
+      "name": "Hydroid Prime: Update 21.6.0",
+      "date": "2017-08-29T17:55:46Z",
+      "url": "https://forums.warframe.com/topic/836927-hydroid-prime-update-2160/",
+      "imgUrl": "http://n8k6e2y6.ssl.hwcdn.net/uploads/098afb7883e26718f1dfbc26fe1de1c3.jpg",
+      "additions": "",
+      "changes": "Inaros and Nidus can now use No Current Leap Mod in Conclave",
+      "fixes": ""
+    },
+    {
+      "name": "The War Within: Update 19.2.0",
+      "date": "2016-12-01T21:22:08Z",
+      "url": "https://forums.warframe.com/topic/728401-the-war-within-update-1920/",
+      "imgUrl": "http://i.imgur.com/1f5rmjA.jpg",
+      "additions": "",
+      "changes": "Changed ‘Low Current Leap’ Conclave Mod name to ‘No Current Leap’ and +5 second Shield regeneration delay changed to 0 Power Rate.",
+      "fixes": ""
+    }
+  ],
+  "1292ea5d3cb60c210706c992a32fb8c4": [
+    {
+      "name": "Hotfix 17.0.4",
+      "date": "2015-08-06T14:48:33Z",
+      "url": "https://forums.warframe.com/topic/504855-hotfix-1704/",
+      "additions": "",
+      "changes": "Enguard, Anticipation and the Overcharge Detectors Mod can now be equipped in the Utility Slot.",
+      "fixes": ""
+    }
+  ],
+  "83b450d12c75d5c245e7f9ce7511d22a": [
+    {
+      "name": "Plains of Eidolon: Update 22.9.0",
+      "date": "2018-01-17T18:31:13Z",
+      "url": "https://forums.warframe.com/topic/908909-plains-of-eidolon-update-2290/",
+      "imgUrl": "https://i.imgur.com/SHOrsWk.jpg",
+      "additions": "",
+      "changes": "The Conclave Mod Overcharged description now correctly states that 100% of 50 Energy converted to Energy on respawn.",
+      "fixes": ""
+    },
+    {
+      "name": "The Silver Grove",
+      "date": "2016-08-19T17:32:55Z",
+      "url": "https://forums.warframe.com/topic/688644-the-silver-grove/",
+      "additions": "",
+      "changes": "Overcharged mod now converts up to 50 energy at 100% to Overshields on respawn",
+      "fixes": ""
+    }
+  ],
+  "a7bc929db6cfc6fe62fdcb1fdb8971c2": [
+    {
+      "name": "Update 18.2.0",
+      "date": "2016-01-05T18:24:20Z",
+      "url": "https://forums.warframe.com/topic/590253-update-1820/",
+      "additions": "",
+      "changes": "The Quick Charge Conclave Mod now has a trade-off of -20 Shield Capacity.",
+      "fixes": ""
+    }
+  ],
+  "b98cda09763901c042b4a90f437fec62": [
+    {
+      "name": "Update 17.5: The Jordas Precept. + Hotfix 17.5.1",
+      "date": "2015-10-02T02:05:33Z",
+      "url": "https://forums.warframe.com/topic/536207-update-175-the-jordas-precept-hotfix-1751/",
+      "additions": "",
+      "changes": "Rime Vault ",
+      "fixes": ""
+    }
+  ],
+  "d79ec75471ede864fddddd1769820639": [
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Rising Skill Conclave Mod "
+    },
+    {
+      "name": "Hotfix 18.0.4 ",
+      "date": "2015-12-08T17:59:59Z",
+      "url": "https://forums.warframe.com/topic/573817-hotfix-1804-spoilers/",
+      "additions": "",
+      "changes": "Increased buff/debuff values of health/shields for the Rising Skill, Adept Surge, Calculated Spring and Tempered Bound Conclave Mods.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18: The Second Dream",
+      "date": "2015-12-03T23:46:40Z",
+      "url": "https://forums.warframe.com/topic/568455-update-18-the-second-dream/",
+      "additions": "",
+      "changes": "The mobility Mods Adept Surge, Rising Skill, Calculated Spring and Tempered Bound have had their armour buffs/debuffs removed and their health/shield values adjusted.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.8.0",
+      "date": "2015-10-21T21:58:23Z",
+      "url": "https://forums.warframe.com/topic/549118-update-1780/",
+      "additions": "",
+      "changes": "Rising Skill: +20% Bullet Jump, -30% Shield, -20% armour.",
+      "fixes": ""
+    }
+  ],
+  "385fafe4d82bad120d6e35a3135723ee": [
+    {
+      "name": "Specters of the Rail: U1.1",
+      "date": "2016-07-29T15:45:33Z",
+      "url": "https://forums.warframe.com/topic/680905-specters-of-the-rail-u11/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a crash that could occur in the Arsenal when using an \"at max energy\" Mod (e.g.Searing Leap) with other Mods that increase your max energy."
+    },
+    {
+      "name": "Update 17.5: The Jordas Precept. + Hotfix 17.5.1",
+      "date": "2015-10-02T02:05:33Z",
+      "url": "https://forums.warframe.com/topic/536207-update-175-the-jordas-precept-hotfix-1751/",
+      "additions": "",
+      "changes": "Searing Leap ",
+      "fixes": ""
+    }
+  ],
+  "8fa3262c56f74fffdf0ada40bfaa726c": [
+    {
+      "name": "Plains of Eidolon: Hotfix 22.3.5",
+      "date": "2017-11-20T23:06:42Z",
+      "url": "https://forums.warframe.com/topic/882798-plains-of-eidolon-hotfix-2235/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Surplus Diverters Conclave Mod unintentionally applying to Limbo when entering/exiting the Rift."
+    }
+  ],
+  "86740c0b270076e824c90567c085208e": [
+    {
+      "name": "Hydroid Prime: Update 21.6.0",
+      "date": "2017-08-29T17:55:46Z",
+      "url": "https://forums.warframe.com/topic/836927-hydroid-prime-update-2160/",
+      "imgUrl": "http://n8k6e2y6.ssl.hwcdn.net/uploads/098afb7883e26718f1dfbc26fe1de1c3.jpg",
+      "additions": "",
+      "changes": "Updated the description text of Tactical Retreat Mod in Conclave.",
+      "fixes": ""
+    },
+    {
+      "name": "Octavia's Anthem: Update 20",
+      "date": "2017-03-24T19:46:02Z",
+      "url": "https://forums.warframe.com/topic/776642-octavias-anthem-update-20/",
+      "imgUrl": "http://i.imgur.com/h14igRz.jpg",
+      "additions": "",
+      "changes": "Conclave Mods Final Act and Tactical Retreat now have a full screen effect when activated.",
+      "fixes": ""
+    },
+    {
+      "name": "The Index Preview",
+      "date": "2016-10-20T23:28:18Z",
+      "url": "https://forums.warframe.com/topic/709665-the-index-preview/",
+      "imgUrl": "http://i.imgur.com/49dlyEz.jpg",
+      "additions": "",
+      "changes": "Conclave Mods Tactical Retreat and Final Act Low Health condition changed to When Health drops below 50.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.2.0",
+      "date": "2016-01-05T18:24:20Z",
+      "url": "https://forums.warframe.com/topic/590253-update-1820/",
+      "additions": "",
+      "changes": "Damage resistance while airborne has been removed from the Tactical Retreat Mod.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 18.0.2",
+      "date": "2015-12-05T01:52:31Z",
+      "url": "https://forums.warframe.com/topic/570056-hotfix-1802/",
+      "additions": "",
+      "changes": "Fixed the Tactical Retreat Mod not decreasing damage while airborne at low health.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18: The Second Dream",
+      "date": "2015-12-03T23:46:40Z",
+      "url": "https://forums.warframe.com/topic/568455-update-18-the-second-dream/",
+      "additions": "",
+      "changes": "Tactical Retreat (Warframe) \nAt Low Health, +20% Ability Efficiency and +50% Ability Range for 4 seconds (cannot be slotted with Tactical Retreat).",
+      "fixes": ""
+    }
+  ],
+  "d59191e254d75c45bf5b71ac135b5692": [
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Tempered Bound Conclave Mod "
+    },
+    {
+      "name": "Hotfix 18.0.5 ",
+      "date": "2015-12-08T23:12:31Z",
+      "url": "https://forums.warframe.com/topic/574103-hotfix-1805-spoilers/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an incorrect description in the Tempered Bound Conclave Mod that read +0.2 Mobility instead of +0.1 Mobility."
+    },
+    {
+      "name": "Hotfix 18.0.4 ",
+      "date": "2015-12-08T17:59:59Z",
+      "url": "https://forums.warframe.com/topic/573817-hotfix-1804-spoilers/",
+      "additions": "",
+      "changes": "Increased buff/debuff values of health/shields for the Rising Skill, Adept Surge, Calculated Spring and Tempered Bound Conclave Mods.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18: The Second Dream",
+      "date": "2015-12-03T23:46:40Z",
+      "url": "https://forums.warframe.com/topic/568455-update-18-the-second-dream/",
+      "additions": "",
+      "changes": "The mobility Mods Adept Surge, Rising Skill, Calculated Spring and Tempered Bound have had their armour buffs/debuffs removed and their health/shield values adjusted.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.8.0",
+      "date": "2015-10-21T21:58:23Z",
+      "url": "https://forums.warframe.com/topic/549118-update-1780/",
+      "additions": "",
+      "changes": "Tempered Bound: -20% Bullet Jump, +20% Shield, +100 armour.",
+      "fixes": ""
+    }
+  ],
+  "af58732cbf583aab613550aea184d099": [
+    {
+      "name": "Update 17.5: The Jordas Precept. + Hotfix 17.5.1",
+      "date": "2015-10-02T02:05:33Z",
+      "url": "https://forums.warframe.com/topic/536207-update-175-the-jordas-precept-hotfix-1751/",
+      "additions": "",
+      "changes": "Venomous Rise ",
+      "fixes": ""
+    }
+  ],
+  "8232f7c749c38b2da8352d02bb6da15e": [
+    {
+      "name": "Update 17.2",
+      "date": "2015-08-19T21:49:41Z",
+      "url": "https://forums.warframe.com/topic/514266-update-172/",
+      "additions": "",
+      "changes": "Vital Systems Bypass ",
+      "fixes": ""
+    }
+  ],
+  "101ecb2c1e455731cf2ede55a70f1fff": [
+    {
+      "name": "Update 17.5: The Jordas Precept. + Hotfix 17.5.1",
+      "date": "2015-10-02T02:05:33Z",
+      "url": "https://forums.warframe.com/topic/536207-update-175-the-jordas-precept-hotfix-1751/",
+      "additions": "",
+      "changes": "Voltaic Lance ",
+      "fixes": ""
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBJumpHeightMod",
+  "name": "Venerdo Hoverdrive",
+  "polarity": "Madurai",
+  "rarity": "Uncommon",
+  "baseDrain": 4,
+  "fusionLimit": 5,
+  "description": "+5% K-Drive Jump Height",
+  "type": "---",
+  "imageName": "venerdo-hoverdrive.jpeg",
+  "tradable": true,
+  "hash": "cad4b5effde26d9a2d44bcae389a9000"
+}

@@ -1,0 +1,13 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/TransmuteCores/AttackTransmuteCore",
+  "name": "Madurai Transmute Core",
+  "polarity": "Madurai",
+  "rarity": "Rare",
+  "baseDrain": 0,
+  "fusionLimit": 0,
+  "description": "Ensures transmuted mod is of Madurai polarity and eliminates credit cost.",
+  "type": "---",
+  "imageName": "madurai-transmute-core.jpeg",
+  "tradable": true,
+  "hash": "a823589a20a62c391f92a4a4c706f8a1"
+}

@@ -1,0 +1,13 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBTrickExplosionMod",
+  "name": "Thrash Landing",
+  "polarity": "Madurai",
+  "rarity": "Rare",
+  "baseDrain": 6,
+  "fusionLimit": 3,
+  "description": "Landing a trick releases an explosion dealing 10% Trick Score <DT_EXPLOSION>Blast Damage to enemies within 1m.",
+  "type": "---",
+  "imageName": "thrash-landing.jpeg",
+  "tradable": true,
+  "hash": "713568b7d7d9ed8fb7a3311cec5103ae"
+}

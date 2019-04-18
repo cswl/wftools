@@ -1,0 +1,43 @@
+{
+  "154385c99b763ffc30fcad9dfc9abe25": [
+    {
+      "name": "Chains of Harrow: Hotfix 21.3.1",
+      "date": "2017-08-04T20:10:26Z",
+      "url": "https://forums.warframe.com/topic/827047-chains-of-harrow-hotfix-2131/",
+      "imgUrl": "http://i.imgur.com/mOCuLqc.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the ability to procure the unreleased Helminth Ferocity mod via Transmute/trade. "
+    }
+  ],
+  "64d7de937ed4eeab4d0dd3fb209eacc4": [
+    {
+      "name": "Fortuna: Update 24.1.0 - TennoGen Round 14",
+      "date": "2018-11-22T21:50:53Z",
+      "url": "https://forums.warframe.com/topic/1035982-fortuna-update-2410-tennogen-round-14/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Mecha Overdrive Mod not affecting Status Chance in the Arsenal UI stats for Kubrows."
+    }
+  ],
+  "ef55f25233e8c7828117b888636ea392": [
+    {
+      "name": "Fortuna: Hotfix 24.2.8",
+      "date": "2019-01-15T14:46:54Z",
+      "url": "https://forums.warframe.com/topic/1054314-fortuna-hotfix-2428/",
+      "additions": "",
+      "changes": "Fixed using Transference while Baruuk’s Savagery is active resulting in breaking his custom UI.",
+      "fixes": ""
+    }
+  ],
+  "2ac24bb5e7d44cc9da11135714adf30c": [
+    {
+      "name": "Fortuna: Hotfix 24.2.8",
+      "date": "2019-01-15T14:46:54Z",
+      "url": "https://forums.warframe.com/topic/1054314-fortuna-hotfix-2428/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Strain Mod set causing a script error and failing to grow Cysts if the player does not have Strain Fever equipped."
+    }
+  ]
+}

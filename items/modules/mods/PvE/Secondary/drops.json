@@ -1,0 +1,5682 @@
+{
+  "5ef0846c3fb43e0db90389298f0219a2": [
+    {
+      "location": "Derelict Vault",
+      "type": "Transient Rewards",
+      "rarity": "Rare",
+      "chance": 0.0417
+    }
+  ],
+  "3009c91fe07c7092c55fe6077c8a908e": [
+    {
+      "location": "Recon Commander",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.37939999999999996
+    },
+    {
+      "location": "Level 20 - 40 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Common",
+      "chance": 0.3519
+    },
+    {
+      "location": "Level 20 - 40 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.2021
+    },
+    {
+      "location": "Level 20 - 40 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1979
+    }
+  ],
+  "560cbbe2657a8e835f47a7209577fc93": [
+    {
+      "location": "Level 20 - 40 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.0488
+    },
+    {
+      "location": "Level 20 - 40 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.0211
+    },
+    {
+      "location": "Tusk Thumper",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.01875
+    },
+    {
+      "location": "Tusk Thumper Bull",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.01875
+    },
+    {
+      "location": "Tusk Thumper Doma",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.01875
+    },
+    {
+      "location": "Recon Commander",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.005
+    }
+  ],
+  "9b20856ece70dbe1a14326d499871a93": [
+    {
+      "location": "Leekter",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.1
+    },
+    {
+      "location": "Shik Tal",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.1
+    },
+    {
+      "location": "Vem Tabook",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.05
+    },
+    {
+      "location": "Jupiter - Sinai",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0184,
+      "rotation": "C"
+    },
+    {
+      "location": "Uranus - Ur",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0184,
+      "rotation": "C"
+    },
+    {
+      "location": "Pluto - Sechura",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0184,
+      "rotation": "C"
+    },
+    {
+      "location": "Ceres - Seimeni",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0184,
+      "rotation": "C"
+    },
+    {
+      "location": "Eris - Akkad",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0184,
+      "rotation": "C"
+    },
+    {
+      "location": "Sedna - Sangeru",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0184,
+      "rotation": "C"
+    },
+    {
+      "location": "Europa - Larzac",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0184,
+      "rotation": "C"
+    },
+    {
+      "location": "Earth - Coba",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0184,
+      "rotation": "C"
+    },
+    {
+      "location": "Venus - Romula",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0184,
+      "rotation": "C"
+    },
+    {
+      "location": "Mars - Kadesh",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0184,
+      "rotation": "C"
+    },
+    {
+      "location": "Arid Seeker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000201
+    },
+    {
+      "location": "Drekar Seeker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000201
+    },
+    {
+      "location": "Grineer Manic",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000201
+    },
+    {
+      "location": "Seeker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000201
+    },
+    {
+      "location": "Frontier Seeker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000201
+    },
+    {
+      "location": "Tusk Seeker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000201
+    },
+    {
+      "location": "Kuva Seeker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000201
+    }
+  ],
+  "60cae08e98516b17ce8562e7b0349097": [
+    {
+      "location": "Razorback",
+      "type": "Transient Rewards",
+      "rarity": "Rare",
+      "chance": 0.0553
+    },
+    {
+      "location": "Eidolon Gantulyst",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.0084
+    }
+  ],
+  "98d3f7184a81a48779dc0c33a196d9b6": [
+    {
+      "location": "Terra Attack Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.00134
+    },
+    {
+      "location": "Terra Shield Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.00134
+    },
+    {
+      "location": "Terra Attack Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000335
+    },
+    {
+      "location": "Terra Oxium Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000335
+    },
+    {
+      "location": "Terra Shield Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000335
+    },
+    {
+      "location": "Terra Turret Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000335
+    },
+    {
+      "location": "Mutalist Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000201
+    },
+    {
+      "location": "Mine Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000201
+    },
+    {
+      "location": "Sikula",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000201
+    },
+    {
+      "location": "Venin Mutalist",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000201
+    }
+  ],
+  "fbaba20a44324891628a1e6f6b97bc19": [
+    {
+      "location": "Terra Manker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00884
+    },
+    {
+      "location": "Terra Trencher",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00884
+    },
+    {
+      "location": "Terra Overtaker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00884
+    },
+    {
+      "location": "Terra Provisor",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00884
+    },
+    {
+      "location": "Terra Elite Trencher",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00442
+    },
+    {
+      "location": "Terra Overtaker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00442
+    },
+    {
+      "location": "Terra Trencher",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00442
+    },
+    {
+      "location": "Terra Manker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00442
+    },
+    {
+      "location": "Terra Provisor",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00442
+    },
+    {
+      "location": "Terra Elite Overtaker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00442
+    },
+    {
+      "location": "Terra Elite Provisor",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00442
+    },
+    {
+      "location": "Terra Jailer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00442
+    },
+    {
+      "location": "Volatile Runner",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Orphid Husks",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Detron Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001692
+    },
+    {
+      "location": "Orb Vallis - Enrichment Labs Enemies",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0013750000000000001
+    }
+  ],
+  "a7b0e6f051d3ca0253ed1851b849061e": [
+    {
+      "location": "Recover The Orokin Archive",
+      "type": "Key Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Phobos - Opik",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084,
+      "rotation": "C"
+    },
+    {
+      "location": "Saturn Six Fugitive",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.045840000000000006
+    },
+    {
+      "location": "Exploiter Orb",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0451
+    },
+    {
+      "location": "Pluto - Outer",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0226,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Eris - Kala-Azar",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0226,
+      "rotation": "C"
+    },
+    {
+      "location": "Eris - Ixodes",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0226,
+      "rotation": "C"
+    },
+    {
+      "location": "Sedna - Hydron",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0226,
+      "rotation": "C"
+    },
+    {
+      "location": "Uranus - Miranda",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0226,
+      "rotation": "C"
+    },
+    {
+      "location": "Lua - StöFler",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0226,
+      "rotation": "C"
+    },
+    {
+      "location": "Kuva - Fortress",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0226,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Uranus - Stephano",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0226,
+      "rotation": "C"
+    },
+    {
+      "location": "Neptune - Proteus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0226,
+      "rotation": "C"
+    },
+    {
+      "location": "Uranus - Bianca",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0226,
+      "rotation": "C"
+    },
+    {
+      "location": "Terra Attack Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.007380000000000001
+    },
+    {
+      "location": "Terra Shield Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.007380000000000001
+    },
+    {
+      "location": "Oxium Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Juggernaut",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Sensor Regulator",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Nemes",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Regulator",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Carabus",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Charger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Observation Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Terra Turret Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Attack Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Frontier Regulator",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Remech Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Rathuum Broadcaster",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Carrion Charger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Jack O'Naut",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Juggernaut Behemoth",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Terra Turret Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0018450000000000003
+    },
+    {
+      "location": "Terra Shield Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0018450000000000003
+    },
+    {
+      "location": "Terra Attack Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0018450000000000003
+    },
+    {
+      "location": "Terra Oxium Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0018450000000000003
+    }
+  ],
+  "3f998285b57d6b81726e91ae0fa48437": [
+    {
+      "location": "Recover The Orokin Archive",
+      "type": "Key Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Phobos - Opik",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084,
+      "rotation": "C"
+    },
+    {
+      "location": "Saturn Six Fugitive",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.045840000000000006
+    },
+    {
+      "location": "Exploiter Orb",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0451
+    },
+    {
+      "location": "Pluto - Outer",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0226,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Eris - Kala-Azar",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0226,
+      "rotation": "C"
+    },
+    {
+      "location": "Eris - Ixodes",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0226,
+      "rotation": "C"
+    },
+    {
+      "location": "Sedna - Hydron",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0226,
+      "rotation": "C"
+    },
+    {
+      "location": "Uranus - Miranda",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0226,
+      "rotation": "C"
+    },
+    {
+      "location": "Lua - StöFler",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0226,
+      "rotation": "C"
+    },
+    {
+      "location": "Kuva - Fortress",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0226,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Uranus - Stephano",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0226,
+      "rotation": "C"
+    },
+    {
+      "location": "Neptune - Proteus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0226,
+      "rotation": "C"
+    },
+    {
+      "location": "Uranus - Bianca",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0226,
+      "rotation": "C"
+    },
+    {
+      "location": "Terra Attack Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.007380000000000001
+    },
+    {
+      "location": "Terra Shield Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.007380000000000001
+    },
+    {
+      "location": "Oxium Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Juggernaut",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Sensor Regulator",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Nemes",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Regulator",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Carabus",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Charger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Observation Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Terra Turret Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Attack Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Frontier Regulator",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Remech Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Rathuum Broadcaster",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Carrion Charger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Jack O'Naut",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Juggernaut Behemoth",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Terra Turret Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0018450000000000003
+    },
+    {
+      "location": "Terra Shield Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0018450000000000003
+    },
+    {
+      "location": "Terra Attack Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0018450000000000003
+    },
+    {
+      "location": "Terra Oxium Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0018450000000000003
+    }
+  ],
+  "7c6f56f466ef383f7ee49639bda97329": [
+    {
+      "location": "Derelict Vault",
+      "type": "Transient Rewards",
+      "rarity": "Rare",
+      "chance": 0.0417
+    }
+  ],
+  "76ebcc6b96ea37c5440beb62780e1e13": [
+    {
+      "location": "Eris - Kala-Azar",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Kuva - Fortress",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Sedna - Hydron",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Miranda",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Bianca",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Stephano",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Neptune - Proteus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Pluto - Outer",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Eris - Oestrus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Eris - Ixodes",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Lua - StöFler",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Lua - Pavlov",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0649,
+      "rotation": "B"
+    },
+    {
+      "location": "Jupiter - Io",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0625,
+      "rotation": "B"
+    },
+    {
+      "location": "Sedna - Camenae",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0625,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Helene",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0625,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Paimon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0625,
+      "rotation": "B"
+    },
+    {
+      "location": "Mars - Alator",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Mercury - Odin",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Earth - Gaia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Ceres - Cinxia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Venus - Cytherean",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Valac",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Ceres - Bode",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Jupiter - Amalthea",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Dione",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Aegaeon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn Six Fugitive",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.045840000000000006
+    },
+    {
+      "location": "Exploiter Orb",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0451
+    }
+  ],
+  "29d3a79597ab273a33d7218b9b152226": [
+    {
+      "location": "Mania",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.22219999999999998
+    },
+    {
+      "location": "Misery",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.037000000000000005
+    }
+  ],
+  "4bebfb39acde48fd1ee2b1b20e6da1f7": [
+    {
+      "location": "Phobos - Memphis",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0553,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Caracol",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0258,
+      "rotation": "A"
+    },
+    {
+      "location": "Neptune - Yursa",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0258,
+      "rotation": "A"
+    }
+  ],
+  "2910f0254de58979c8b30b1bb2b85948": [
+    {
+      "location": "Manic Bombard",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.04424
+    },
+    {
+      "location": "Drekar Manic Bombard",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.04424
+    },
+    {
+      "location": "Tusk Heavy Gunner",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.01106
+    },
+    {
+      "location": "Kuva Heavy Gunner",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.01106
+    },
+    {
+      "location": "Bombard",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Tusk Bombard",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Tusk Mortar Bombard",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Kuva Bombard",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    }
+  ],
+  "84f663d9ef17d1b90e054cbf03a064e2": [
+    {
+      "location": "Derelict - Orokin",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0442,
+      "rotation": "Sabotage"
+    },
+    {
+      "location": "Brood Mother",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.006632999999999999
+    },
+    {
+      "location": "Tar Mutalist Moa",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Ancient Disruptor",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    }
+  ],
+  "dbdbf42ec5779e4e866e692e3bfc1fe7": [
+    {
+      "location": "Kuva - Fortress",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1128,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Uranus - Rosalind",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0752,
+      "rotation": "C"
+    },
+    {
+      "location": "Neptune - Laomedeia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0752,
+      "rotation": "C"
+    },
+    {
+      "location": "Pluto - Oceanum",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0752,
+      "rotation": "C"
+    },
+    {
+      "location": "Eris - Cyath",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0752,
+      "rotation": "C"
+    },
+    {
+      "location": "Eris - Gnathos",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0752,
+      "rotation": "C"
+    },
+    {
+      "location": "Sedna - Kappa",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0752,
+      "rotation": "C"
+    },
+    {
+      "location": "Sedna - Tikoloshe",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0752,
+      "rotation": "C"
+    }
+  ],
+  "b509c3bf408e68c781a27d2b8d588299": [
+    {
+      "location": "Eidolon Hydrolyst",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.22219999999999998
+    },
+    {
+      "location": "Captain Vor",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.1106
+    },
+    {
+      "location": "Alad V",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.1106
+    },
+    {
+      "location": "Mutalist Alad V",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.1106
+    },
+    {
+      "location": "Scavenger Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003384
+    },
+    {
+      "location": "Napalm",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001659
+    },
+    {
+      "location": "Tusk Napalm",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001659
+    },
+    {
+      "location": "Kuva Napalm",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001659
+    }
+  ],
+  "78685b9e5d495e0d7456324017b80db3": [
+    {
+      "location": "Terra Attack Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.007380000000000001
+    },
+    {
+      "location": "Terra Shield Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.007380000000000001
+    },
+    {
+      "location": "Vallis Surveillance Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Terra Shield Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Shield Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Arbitration Shield Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Terra Attack Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0018450000000000003
+    },
+    {
+      "location": "Terra Oxium Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0018450000000000003
+    },
+    {
+      "location": "Terra Shield Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0018450000000000003
+    },
+    {
+      "location": "Terra Turret Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0018450000000000003
+    }
+  ],
+  "55823087e8904c074345a8304b9685ea": [
+    {
+      "location": "Captain Vor",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.1106
+    },
+    {
+      "location": "Alad V",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.1106
+    },
+    {
+      "location": "Mutalist Alad V",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.1106
+    },
+    {
+      "location": "Sedna - Sangeru",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0759,
+      "rotation": "C"
+    },
+    {
+      "location": "Pluto - Sechura",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0759,
+      "rotation": "C"
+    },
+    {
+      "location": "Ceres - Seimeni",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0759,
+      "rotation": "C"
+    },
+    {
+      "location": "Eris - Akkad",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0759,
+      "rotation": "C"
+    },
+    {
+      "location": "Mars - Kadesh",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0759,
+      "rotation": "C"
+    },
+    {
+      "location": "Europa - Larzac",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0759,
+      "rotation": "C"
+    },
+    {
+      "location": "Venus - Romula",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0759,
+      "rotation": "C"
+    },
+    {
+      "location": "Jupiter - Sinai",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0759,
+      "rotation": "C"
+    },
+    {
+      "location": "Uranus - Ur",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0759,
+      "rotation": "C"
+    },
+    {
+      "location": "Earth - Coba",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0759,
+      "rotation": "C"
+    },
+    {
+      "location": "Saturn Six Fugitive",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.045840000000000006
+    },
+    {
+      "location": "Ambulas",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.04512
+    },
+    {
+      "location": "Exploiter Orb",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0451
+    },
+    {
+      "location": "Heavy Gunner",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Frontier Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Nightwatch Reaver",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Hellion",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Tusk Hellion",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Coildrive",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Special Duty Coildrive",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Frontier Hellion",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Kuva Hellion",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Drekar Scorpion",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Tusk Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Tusk Reaver",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Frontier Heavy Gunner",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Arid Hellion",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Arid Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Kuva Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Thermic Raknoid",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002765
+    },
+    {
+      "location": "Drekar Elite Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Drekar Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    }
+  ],
+  "6f43298602e78f953f86d61780b0372b": [
+    {
+      "location": "Captain Vor",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.1106
+    },
+    {
+      "location": "Alad V",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.1106
+    },
+    {
+      "location": "Mutalist Alad V",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.1106
+    },
+    {
+      "location": "Sedna - Sangeru",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0759,
+      "rotation": "C"
+    },
+    {
+      "location": "Pluto - Sechura",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0759,
+      "rotation": "C"
+    },
+    {
+      "location": "Ceres - Seimeni",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0759,
+      "rotation": "C"
+    },
+    {
+      "location": "Eris - Akkad",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0759,
+      "rotation": "C"
+    },
+    {
+      "location": "Mars - Kadesh",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0759,
+      "rotation": "C"
+    },
+    {
+      "location": "Europa - Larzac",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0759,
+      "rotation": "C"
+    },
+    {
+      "location": "Venus - Romula",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0759,
+      "rotation": "C"
+    },
+    {
+      "location": "Jupiter - Sinai",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0759,
+      "rotation": "C"
+    },
+    {
+      "location": "Uranus - Ur",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0759,
+      "rotation": "C"
+    },
+    {
+      "location": "Earth - Coba",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0759,
+      "rotation": "C"
+    },
+    {
+      "location": "Saturn Six Fugitive",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.045840000000000006
+    },
+    {
+      "location": "Ambulas",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.04512
+    },
+    {
+      "location": "Exploiter Orb",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0451
+    },
+    {
+      "location": "Heavy Gunner",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Frontier Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Nightwatch Reaver",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Hellion",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Tusk Hellion",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Coildrive",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Special Duty Coildrive",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Frontier Hellion",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Kuva Hellion",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Drekar Scorpion",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Tusk Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Tusk Reaver",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Frontier Heavy Gunner",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Arid Hellion",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Arid Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Kuva Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Thermic Raknoid",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002765
+    },
+    {
+      "location": "Drekar Elite Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Drekar Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    }
+  ],
+  "fc02f5ca2730f418f492f21ecd5d9b6d": [
+    {
+      "location": "Derelict Vault",
+      "type": "Transient Rewards",
+      "rarity": "Rare",
+      "chance": 0.0417
+    }
+  ],
+  "eebd8981a75cfaca1825aa0beaca2e88": [
+    {
+      "location": "Level 5 - 15 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.3056
+    },
+    {
+      "location": "Mercury - Suisei",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "C"
+    },
+    {
+      "location": "Venus - Vesper",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "C"
+    },
+    {
+      "location": "Venus - Unda",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "C"
+    },
+    {
+      "location": "Earth - Cambria",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "C"
+    },
+    {
+      "location": "Phobos - Shklovsky",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "C"
+    },
+    {
+      "location": "Phobos - Grildrig",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "C"
+    },
+    {
+      "location": "Mars - Arval",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "C"
+    },
+    {
+      "location": "Ceres - Hapke",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "C"
+    },
+    {
+      "location": "Phobos - Wendell",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Mercury - Apollodorus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Earth - Everest",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Phobos - Flimnap",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Phobos - Stickney",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Earth - Tikal",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Mars - Arcadia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Venus - V",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Venus - Malva",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Mars - Augustus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Ceres - Gabii",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Venus - Kiliken",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Level 5 - 15 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.0752
+    },
+    {
+      "location": "Level 5 - 15 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.0737
+    },
+    {
+      "location": "Phobos - Zeugma",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0714,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Titan",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0714,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Piscinas",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0714,
+      "rotation": "B"
+    },
+    {
+      "location": "Ceres - Draco",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0714,
+      "rotation": "B"
+    },
+    {
+      "location": "Jupiter - Cameria",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0714,
+      "rotation": "B"
+    },
+    {
+      "location": "Mars - Wahiba",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0714,
+      "rotation": "B"
+    },
+    {
+      "location": "Jupiter - Elara",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0714,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Lillith",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0714,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Valefor",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0714,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Zagan",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0714,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Bianca",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Iapetus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Stephano",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Assur",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Neptune - Proteus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Neptune - Despina",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Neptune - Kelashin",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Pluto - Outer",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Pluto - Palus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Rhea",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Pluto - Hieracon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Eris - Oestrus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Cholistan",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Jupiter - Callisto",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Kuva - Fortress",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Kuva - Fortress",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Eris - Kala-Azar",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Eris - Hymeno",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Eris - Ixodes",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Umbriel",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Eris - Nimus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Lua - StöFler",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Sedna - Selkie",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Sedna - Hydron",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Sedna - Scylla",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Sedna - Yemaja",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Sedna - Amarna",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Lua - Tycho",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Miranda",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Ophelia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Ose",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Cupid",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Lua - Pavlov",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0649,
+      "rotation": "B"
+    },
+    {
+      "location": "Ceres - Cinxia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Mars - Alator",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Mercury - Odin",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Earth - Gaia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Venus - Cytherean",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Jupiter - Amalthea",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Ceres - Bode",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Valac",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Dione",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Aegaeon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Mars - Kadesh",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Venus - Romula",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Earth - Coba",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Larzac",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Sedna - Sangeru",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Eris - Akkad",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Ceres - Seimeni",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Phobos - Opik",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Jupiter - Sinai",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Ur",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Recover The Orokin Archive",
+      "type": "Key Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158
+    },
+    {
+      "location": "Pluto - Sechura",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Arcane Boiler",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Boiler",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Toxic Ancient",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    }
+  ],
+  "0b6f3dd0805ffe38f16208e7437a9de7": [
+    {
+      "location": "Level 5 - 15 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.3056
+    },
+    {
+      "location": "Mercury - Suisei",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "C"
+    },
+    {
+      "location": "Venus - Vesper",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "C"
+    },
+    {
+      "location": "Venus - Unda",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "C"
+    },
+    {
+      "location": "Earth - Cambria",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "C"
+    },
+    {
+      "location": "Phobos - Shklovsky",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "C"
+    },
+    {
+      "location": "Phobos - Grildrig",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "C"
+    },
+    {
+      "location": "Mars - Arval",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "C"
+    },
+    {
+      "location": "Ceres - Hapke",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "C"
+    },
+    {
+      "location": "Phobos - Wendell",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Mercury - Apollodorus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Earth - Everest",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Phobos - Flimnap",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Phobos - Stickney",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Earth - Tikal",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Mars - Arcadia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Venus - V",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Venus - Malva",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Mars - Augustus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Ceres - Gabii",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Venus - Kiliken",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833,
+      "rotation": "B"
+    },
+    {
+      "location": "Level 5 - 15 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.0752
+    },
+    {
+      "location": "Level 5 - 15 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.0737
+    },
+    {
+      "location": "Phobos - Zeugma",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0714,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Titan",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0714,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Piscinas",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0714,
+      "rotation": "B"
+    },
+    {
+      "location": "Ceres - Draco",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0714,
+      "rotation": "B"
+    },
+    {
+      "location": "Jupiter - Cameria",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0714,
+      "rotation": "B"
+    },
+    {
+      "location": "Mars - Wahiba",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0714,
+      "rotation": "B"
+    },
+    {
+      "location": "Jupiter - Elara",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0714,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Lillith",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0714,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Valefor",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0714,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Zagan",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0714,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Bianca",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Iapetus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Stephano",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Assur",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Neptune - Proteus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Neptune - Despina",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Neptune - Kelashin",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Pluto - Outer",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Pluto - Palus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Rhea",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Pluto - Hieracon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Eris - Oestrus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Cholistan",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Jupiter - Callisto",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Kuva - Fortress",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Kuva - Fortress",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Eris - Kala-Azar",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Eris - Hymeno",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Eris - Ixodes",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Umbriel",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Eris - Nimus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Lua - StöFler",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Sedna - Selkie",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Sedna - Hydron",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Sedna - Scylla",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Sedna - Yemaja",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Sedna - Amarna",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Lua - Tycho",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Miranda",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Ophelia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Ose",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Cupid",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Lua - Pavlov",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0649,
+      "rotation": "B"
+    },
+    {
+      "location": "Ceres - Cinxia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Mars - Alator",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Mercury - Odin",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Earth - Gaia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Venus - Cytherean",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Jupiter - Amalthea",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Ceres - Bode",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Valac",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Dione",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Aegaeon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Mars - Kadesh",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Venus - Romula",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Earth - Coba",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Larzac",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Sedna - Sangeru",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Eris - Akkad",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Ceres - Seimeni",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Phobos - Opik",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Jupiter - Sinai",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Ur",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Recover The Orokin Archive",
+      "type": "Key Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158
+    },
+    {
+      "location": "Pluto - Sechura",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0158,
+      "rotation": "B"
+    },
+    {
+      "location": "Arcane Boiler",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Boiler",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Toxic Ancient",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    }
+  ],
+  "40ff66ab5bbc1740c9964aa6872380cc": [
+    {
+      "location": "Torment",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.5152
+    },
+    {
+      "location": "Lua - Pavlov",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1218,
+      "rotation": "A"
+    },
+    {
+      "location": "Misery",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0857
+    }
+  ],
+  "479f3af676eeed32270a6655f80cfc2b": [
+    {
+      "location": "Nightmare Mode Rewards",
+      "type": "Transient Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.18969999999999998
+    }
+  ],
+  "3fca00f3bc28cd4deb9c71ac0294e083": [
+    {
+      "location": "Eidolon Teralyst",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.22219999999999998
+    },
+    {
+      "location": "Tyl Regor",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0752
+    }
+  ],
+  "6b606e9a3c81404cdcc7474ae91be37e": [
+    {
+      "location": "Nightmare Mode Rewards",
+      "type": "Transient Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1549
+    }
+  ],
+  "a81c19f287ff1ac0ba2cd2c73786b19a": [
+    {
+      "location": "Derelict Vault",
+      "type": "Transient Rewards",
+      "rarity": "Rare",
+      "chance": 0.0417
+    }
+  ],
+  "aa9aeac1f02899541217e029067fb97c": [
+    {
+      "location": "Eidolon Hydrolyst",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0833
+    }
+  ],
+  "65f16d38376af90703bf80468bb5a71b": [
+    {
+      "location": "Phobos - Opik",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Recover The Orokin Archive",
+      "type": "Key Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843
+    },
+    {
+      "location": "Venus - Romula",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Larzac",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Earth - Coba",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Sedna - Sangeru",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Mars - Kadesh",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Eris - Akkad",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Ceres - Seimeni",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Jupiter - Sinai",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Pluto - Sechura",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Ur",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Rhea",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Umbriel",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Iapetus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Jupiter - Callisto",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Ose",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Lua - Pavlov",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0649,
+      "rotation": "B"
+    },
+    {
+      "location": "Ceres - Cinxia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Mercury - Odin",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Earth - Gaia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Mars - Alator",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Venus - Cytherean",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Valac",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Ceres - Bode",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Dione",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Jupiter - Amalthea",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Aegaeon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Terra Sniper Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00884
+    },
+    {
+      "location": "Terra Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00884
+    },
+    {
+      "location": "Terra Plasmor Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00884
+    },
+    {
+      "location": "Corpus Power Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0042699999999999995
+    },
+    {
+      "location": "Eidolon Vomvalyst",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0036850000000000003
+    },
+    {
+      "location": "Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Nightwatch Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Corpus Power Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Mutalist Osprey Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Grineer Power Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Hellion Power Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Sap Comba",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00221
+    },
+    {
+      "location": "Slo Comba",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00221
+    },
+    {
+      "location": "Nul Comba",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00221
+    },
+    {
+      "location": "Terra Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00221
+    },
+    {
+      "location": "Fog Comba",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00221
+    },
+    {
+      "location": "Terra Elite Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00221
+    },
+    {
+      "location": "Terra Sniper Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00221
+    },
+    {
+      "location": "Terra Plasmor Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00221
+    },
+    {
+      "location": "Orb Vallis - Temple of Profit Enemies",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0018450000000000003
+    },
+    {
+      "location": "Elite Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001659
+    },
+    {
+      "location": "Machinist",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001659
+    }
+  ],
+  "255830c886642f667c5e64d2bbae00c5": [
+    {
+      "location": "Eris - Candiru",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0564,
+      "rotation": "B"
+    },
+    {
+      "location": "Eris - Lepis",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0564,
+      "rotation": "B"
+    },
+    {
+      "location": "Eris - Psoro",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0564,
+      "rotation": "B"
+    },
+    {
+      "location": "Eris - Viver",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0564,
+      "rotation": "B"
+    },
+    {
+      "location": "Eris - Naeglar",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0564,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn Six Fugitive",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.045840000000000006
+    },
+    {
+      "location": "Exploiter Orb",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0451
+    },
+    {
+      "location": "Anti Moa",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002256
+    }
+  ],
+  "4adb58ebd9099200cbe2b4d54f2782b6": [
+    {
+      "location": "Eidolon Gantulyst",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.3221
+    },
+    {
+      "location": "Arid Butcher",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011381999999999998
+    },
+    {
+      "location": "Frontier Butcher",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011381999999999998
+    }
+  ],
+  "56b3a3961296aa13a80065e48cceb2d7": [
+    {
+      "location": "Ceres - Draco",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Mercury - Apollodorus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Venus - Kiliken",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Earth - Everest",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Earth - Tikal",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Mars - Arcadia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Mars - Augustus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Jupiter - Elara",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Saturn - Titan",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Uranus - Ophelia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Uranus - Cupid",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Neptune - Despina",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Pluto - Palus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Pluto - Hieracon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Venus - V",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Eris - Hymeno",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Eris - Nimus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Sedna - Selkie",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Sedna - Scylla",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Sedna - Yemaja",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Europa - Lillith",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Europa - Valefor",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Europa - Zagan",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Europa - Cholistan",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Phobos - Stickney",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Phobos - Wendell",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Phobos - Flimnap",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Lua - Tycho",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "C"
+    },
+    {
+      "location": "Kuva - Fortress",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "rewards"
+    }
+  ],
+  "94c8ee6ad8229073d8b55c2e1adec21d": [
+    {
+      "location": "Exploiter Orb",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.3872
+    },
+    {
+      "location": "Lua - Pavlov",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1218,
+      "rotation": "A"
+    },
+    {
+      "location": "Jupiter - Amalthea",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "A"
+    },
+    {
+      "location": "Saturn - Dione",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "A"
+    },
+    {
+      "location": "Saturn - Aegaeon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "A"
+    },
+    {
+      "location": "Ceres - Bode",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "A"
+    },
+    {
+      "location": "Europa - Valac",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "A"
+    },
+    {
+      "location": "Venus - Romula",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Pluto - Sechura",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Jupiter - Sinai",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Ceres - Seimeni",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Eris - Akkad",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Sedna - Sangeru",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Mars - Kadesh",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Larzac",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Phobos - Opik",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Recover The Orokin Archive",
+      "type": "Key Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843
+    },
+    {
+      "location": "Uranus - Ur",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Earth - Coba",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Terra Plasmor Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.07588
+    },
+    {
+      "location": "Terra Sniper Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.07588
+    },
+    {
+      "location": "Terra Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.07588
+    },
+    {
+      "location": "Nul Comba",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.01897
+    },
+    {
+      "location": "Slo Comba",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.01897
+    },
+    {
+      "location": "Terra Plasmor Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.01897
+    },
+    {
+      "location": "Fog Comba",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.01897
+    },
+    {
+      "location": "Terra Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.01897
+    },
+    {
+      "location": "Sap Comba",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.01897
+    },
+    {
+      "location": "Terra Elite Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.01897
+    },
+    {
+      "location": "Terra Sniper Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.01897
+    },
+    {
+      "location": "Corpus Power Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.017235
+    },
+    {
+      "location": "Orb Vallis - Temple of Profit Enemies",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.012645000000000002
+    },
+    {
+      "location": "Prod Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011381999999999998
+    },
+    {
+      "location": "Tusk Eviscerator",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Trooper",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Tusk Trooper",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Eviscerator",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Drekar Trooper",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Arid Eviscerator",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Drekar Eviscerator",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Kuva Trooper",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Kuva Eviscerator",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Arid Trooper",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Frontier Eviscerator",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Frontier Trooper",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    }
+  ],
+  "a2b493643ea10b4908712142cfc78748": [
+    {
+      "location": "Corrupted Vor",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.25
+    }
+  ],
+  "7b4150cb247165aac27602f3ad6b7904": [
+    {
+      "location": "Angst",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0404
+    },
+    {
+      "location": "Misery",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.0067
+    }
+  ],
+  "aa4640871394ce3a564aaeb4e858cf36": [
+    {
+      "location": "Eidolon Teralyst",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0833
+    }
+  ],
+  "18bf1a6447a9c967952de89e9b1e4237": [
+    {
+      "location": "Captain Vor",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.2529
+    },
+    {
+      "location": "Alad V",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.2529
+    },
+    {
+      "location": "Mutalist Alad V",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.2529
+    },
+    {
+      "location": "Europa - Beleth",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Mars - Quirinus",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Jupiter - Ananke",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Saturn - Phoebe",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Saturn - Cassini",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Uranus - Ariel",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Uranus - Trinculo",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Neptune - Galatea",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Pluto - Hydra",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Pluto - Corb",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Ceres - Lex",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Eris - Cosis",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Eris - Isos",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Sedna - Rusalka",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Europa - Abaddon",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Europa - Cryotic",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Europa - Cryotic",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Europa - Cryotic",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Venus - Venera",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Phobos - Limtoc",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Phobos - Skyresh",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Phobos - Todd",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Lua - Copernicus",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Kuva - Fortress",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Mercury - Elion",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Earth - Mantle",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Mars - Ara",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Crawler",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011381999999999998
+    },
+    {
+      "location": "Void Shade",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011381999999999998
+    },
+    {
+      "location": "Nauseous Crawler",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011381999999999998
+    },
+    {
+      "location": "Nauseous Void Shade",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011381999999999998
+    },
+    {
+      "location": "Elite Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Elite Frontier Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Elite Arid Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Tusk Elite Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Dargyn Pilot",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Kuva Elite Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Draga",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Shock Draga",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Darek Draga",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    }
+  ],
+  "8c693303ea302f93c8e8258af618d05f": [
+    {
+      "location": "Elite Arid Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Elite Frontier Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Dargyn Pilot",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Elite Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Tusk Elite Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Kuva Elite Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Draga",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Shock Draga",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Darek Draga",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Orb Vallis - Spaceport Enemies",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001405
+    }
+  ],
+  "8b8f0b1c20c51c64979995f8f21911dc": [
+    {
+      "location": "Jackal",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0737
+    }
+  ],
+  "dc184ed059a39ef2b4adabcd2e7e1f6a": [
+    {
+      "location": "15 Endo",
+      "type": "Mod Locations",
+      "rarity": "Common",
+      "chance": 0.3872
+    },
+    {
+      "location": "Assault Mode",
+      "type": "Mod Locations",
+      "rarity": "Common",
+      "chance": 0.3872
+    },
+    {
+      "location": "Uranus - Rosalind",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0645,
+      "rotation": "C"
+    },
+    {
+      "location": "Pluto - Oceanum",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0645,
+      "rotation": "C"
+    },
+    {
+      "location": "Eris - Cyath",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0645,
+      "rotation": "C"
+    },
+    {
+      "location": "Eris - Gnathos",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0645,
+      "rotation": "C"
+    },
+    {
+      "location": "Sedna - Kappa",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0645,
+      "rotation": "C"
+    },
+    {
+      "location": "Sedna - Tikoloshe",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0645,
+      "rotation": "C"
+    },
+    {
+      "location": "Kuva - Fortress",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0645,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Neptune - Laomedeia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0645,
+      "rotation": "C"
+    },
+    {
+      "location": "Swirling Tiger",
+      "type": "Mod Locations",
+      "rarity": "Rare",
+      "chance": 0.0564
+    },
+    {
+      "location": "Sure Shot",
+      "type": "Mod Locations",
+      "rarity": "Rare",
+      "chance": 0.0564
+    },
+    {
+      "location": "Bane Of Grineer",
+      "type": "Mod Locations",
+      "rarity": "Rare",
+      "chance": 0.0564
+    },
+    {
+      "location": "50 Endo",
+      "type": "Mod Locations",
+      "rarity": "Rare",
+      "chance": 0.0564
+    },
+    {
+      "location": "Scorch",
+      "type": "Enemy Mod Tables",
+      "chance": null
+    },
+    {
+      "location": "Thermic Raknoid",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.00025
+    }
+  ],
+  "4b310b3b94762b454856c72bccffd6ba": [
+    {
+      "location": "Sawtooth Clip",
+      "type": "Mod Locations",
+      "rarity": "Common",
+      "chance": 0.7587999999999999
+    },
+    {
+      "location": "Shimmering Blight",
+      "type": "Mod Locations",
+      "rarity": "Rare",
+      "chance": 0.0737
+    },
+    {
+      "location": "Killing Blow",
+      "type": "Mod Locations",
+      "rarity": "Rare",
+      "chance": 0.0737
+    },
+    {
+      "location": "Accelerated Deflection",
+      "type": "Mod Locations",
+      "rarity": "Rare",
+      "chance": 0.0737
+    },
+    {
+      "location": "Crushing Ruin",
+      "type": "Mod Locations",
+      "rarity": "Legendary",
+      "chance": 0.0067
+    },
+    {
+      "location": "Barrel Diffusion",
+      "type": "Mod Locations",
+      "rarity": "Legendary",
+      "chance": 0.0067
+    },
+    {
+      "location": "80 Endo",
+      "type": "Mod Locations",
+      "rarity": "Legendary",
+      "chance": 0.0067
+    },
+    {
+      "location": "Seeker",
+      "type": "Enemy Mod Tables",
+      "chance": null
+    },
+    {
+      "location": "Ancient Healer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.000303
+    },
+    {
+      "location": "Swarm Mutalist Moa",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.000303
+    }
+  ],
+  "38f59739b40d4e25c5731f3ca45f5a33": [
+    {
+      "location": "Violence",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.22219999999999998
+    },
+    {
+      "location": "Misery",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.037000000000000005
+    }
+  ],
+  "e07affbfc74a18eb5265c16a4265e1ba": [
+    {
+      "location": "Captain Vor",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.2529
+    },
+    {
+      "location": "Mutalist Alad V",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.2529
+    },
+    {
+      "location": "Alad V",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.2529
+    },
+    {
+      "location": "Commander",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007743
+    },
+    {
+      "location": "Heavy Gunner",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Corrupted Warden",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Grineer Warden",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Arid Heavy Gunner",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Boiler",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.004554
+    },
+    {
+      "location": "Arcane Boiler",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.004554
+    },
+    {
+      "location": "Toxic Ancient",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.004554
+    }
+  ],
+  "22c45fa557cc6d0e0eda3b44b254cc72": [
+    {
+      "location": "Uranus - Rosalind",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1429,
+      "rotation": "A"
+    },
+    {
+      "location": "Neptune - Laomedeia",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1429,
+      "rotation": "A"
+    },
+    {
+      "location": "Pluto - Oceanum",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1429,
+      "rotation": "A"
+    },
+    {
+      "location": "Eris - Cyath",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1429,
+      "rotation": "A"
+    },
+    {
+      "location": "Eris - Gnathos",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1429,
+      "rotation": "A"
+    },
+    {
+      "location": "Sedna - Kappa",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1429,
+      "rotation": "A"
+    },
+    {
+      "location": "Sedna - Tikoloshe",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1429,
+      "rotation": "A"
+    },
+    {
+      "location": "Kuva - Fortress",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1429,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Corrupted Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000258
+    }
+  ],
+  "9bad068532acda68f59a8e63294c3315": [
+    {
+      "location": "Nightmare Mode Rewards",
+      "type": "Transient Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.18969999999999998
+    }
+  ],
+  "3164ae735fa9be61eede61d46cb1607a": [
+    {
+      "location": "Exploiter Orb",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.3872
+    },
+    {
+      "location": "Corrupted Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.009741
+    }
+  ],
+  "48ba63dbab582541d6308a4778f94fb7": [
+    {
+      "location": "Ghoul Auger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00553
+    },
+    {
+      "location": "Scorch",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001692
+    },
+    {
+      "location": "Kuva Scorch",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001692
+    },
+    {
+      "location": "Electric Crawler",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001659
+    }
+  ],
+  "bb3fec410a1b5974f80d4ebf72b3237a": [
+    {
+      "location": "Level 10 - 30 Orb Vallis Bounty",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.22219999999999998
+    },
+    {
+      "location": "Level 10 - 30 Orb Vallis Bounty",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.069
+    },
+    {
+      "location": "Corpus Supra Target",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.05
+    },
+    {
+      "location": "Corpus Sniper Target",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.05
+    }
+  ],
+  "4570cd890271e03779822b466645547c": [
+    {
+      "location": "Derelict Vault",
+      "type": "Transient Rewards",
+      "rarity": "Rare",
+      "chance": 0.0417
+    }
+  ],
+  "c161dae957a2083533cac4a53f9e5b1e": [
+    {
+      "location": "Uranus - Ur",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Recover The Orokin Archive",
+      "type": "Key Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843
+    },
+    {
+      "location": "Venus - Romula",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Phobos - Opik",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Earth - Coba",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Larzac",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Mars - Kadesh",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Sedna - Sangeru",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Eris - Akkad",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Jupiter - Sinai",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Ceres - Seimeni",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Pluto - Sechura",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0843,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Rhea",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Umbriel",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Iapetus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Jupiter - Callisto",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Ose",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0667,
+      "rotation": "B"
+    },
+    {
+      "location": "Lua - Pavlov",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0649,
+      "rotation": "B"
+    },
+    {
+      "location": "Ceres - Cinxia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Earth - Gaia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Mercury - Odin",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Mars - Alator",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Venus - Cytherean",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0588,
+      "rotation": "B"
+    },
+    {
+      "location": "Europa - Valac",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Aegaeon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Dione",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Ceres - Bode",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Jupiter - Amalthea",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0556,
+      "rotation": "B"
+    },
+    {
+      "location": "Exploiter Orb",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0451
+    },
+    {
+      "location": "Powerfist",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001659
+    },
+    {
+      "location": "Kuva Powerclaw",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001659
+    }
+  ],
+  "c65f60e819ee5ebc5c10d65df5df3c53": [
+    {
+      "location": "Malice",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.22219999999999998
+    },
+    {
+      "location": "Misery",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.037000000000000005
+    }
+  ],
+  "b6e93084a30aeab8640fdb2f4f5accdf": [
+    {
+      "location": "Hyena Ng",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.22763999999999995
+    },
+    {
+      "location": "Hyena Th",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.22763999999999995
+    },
+    {
+      "location": "Hyena Ln2",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.22763999999999995
+    },
+    {
+      "location": "Hyena Pb",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.22763999999999995
+    },
+    {
+      "location": "Hyena Pack",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.22763999999999995
+    },
+    {
+      "location": "Phobos - Opik",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1518,
+      "rotation": "A"
+    },
+    {
+      "location": "Recover The Orokin Archive",
+      "type": "Key Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1518
+    },
+    {
+      "location": "Venus - Cytherean",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.11109999999999999,
+      "rotation": "A"
+    },
+    {
+      "location": "Mars - Alator",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.11109999999999999,
+      "rotation": "A"
+    },
+    {
+      "location": "Earth - Gaia",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.11109999999999999,
+      "rotation": "A"
+    },
+    {
+      "location": "Mercury - Odin",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.11109999999999999,
+      "rotation": "A"
+    },
+    {
+      "location": "Ceres - Cinxia",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.11109999999999999,
+      "rotation": "A"
+    },
+    {
+      "location": "Europa - Cryotic",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Earth - Mantle",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Jupiter - Ananke",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Kuva - Fortress",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Lua - Copernicus",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Saturn - Phoebe",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Mars - Ara",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Venus - Venera",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Uranus - Ariel",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Phobos - Todd",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Uranus - Trinculo",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Neptune - Galatea",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Pluto - Hydra",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Pluto - Corb",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Phobos - Skyresh",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Ceres - Lex",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Mars - Quirinus",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Phobos - Limtoc",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Eris - Cosis",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Eris - Isos",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Mercury - Elion",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Europa - Beleth",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Sedna - Rusalka",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Europa - Cryotic",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Europa - Abaddon",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Europa - Cryotic",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Cassini",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1084
+    },
+    {
+      "location": "Phobos - Drunlo",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Mercury - Lares",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Kuva - Fortress",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Ceres - Varro",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Venus - Tessera",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Ceres - Casta",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Mars - Spear",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Ceres - Egeria",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Uranus - Miranda",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Uranus - Bianca",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Eris - Kala-Azar",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Phobos - Gulliver",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Uranus - Stephano",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Eris - Ixodes",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Eris - Phalan",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Eris - Oestrus",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Jupiter - Ganymede",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Eris - Xini",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Earth - Lith",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Sedna - Berehynia",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Sedna - Hydron",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Neptune - Proteus",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Pluto - Outer",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Lua - StöFler",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Pluto - Cerberus",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Eris - Sporid",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "A"
+    },
+    {
+      "location": "Jupiter - Callisto",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "A"
+    },
+    {
+      "location": "Ceres - Bode",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "A"
+    },
+    {
+      "location": "Uranus - Umbriel",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "A"
+    },
+    {
+      "location": "Saturn - Aegaeon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "A"
+    },
+    {
+      "location": "Europa - Ose",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "A"
+    },
+    {
+      "location": "Saturn - Iapetus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "A"
+    },
+    {
+      "location": "Saturn - Dione",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "A"
+    },
+    {
+      "location": "Jupiter - Amalthea",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "A"
+    },
+    {
+      "location": "Europa - Valac",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "A"
+    },
+    {
+      "location": "Saturn - Rhea",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0909,
+      "rotation": "A"
+    },
+    {
+      "location": "Ceres - Seimeni",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.069,
+      "rotation": "A"
+    },
+    {
+      "location": "Europa - Larzac",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.069,
+      "rotation": "A"
+    },
+    {
+      "location": "Pluto - Sechura",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.069,
+      "rotation": "A"
+    },
+    {
+      "location": "Jupiter - Sinai",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.069,
+      "rotation": "A"
+    },
+    {
+      "location": "Venus - Romula",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.069,
+      "rotation": "A"
+    },
+    {
+      "location": "Earth - Coba",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.069,
+      "rotation": "A"
+    },
+    {
+      "location": "Mars - Kadesh",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.069,
+      "rotation": "A"
+    },
+    {
+      "location": "Uranus - Ur",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.069,
+      "rotation": "A"
+    },
+    {
+      "location": "Sedna - Sangeru",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.069,
+      "rotation": "A"
+    },
+    {
+      "location": "Eris - Akkad",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.069,
+      "rotation": "A"
+    },
+    {
+      "location": "Gyre Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.05634
+    },
+    {
+      "location": "Rabbleback Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.05634
+    },
+    {
+      "location": "Cinderthresh Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.05634
+    },
+    {
+      "location": "Icemire Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.05634
+    },
+    {
+      "location": "Railgun Moa",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011616
+    },
+    {
+      "location": "Flameblade",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Kuva Flameblade",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Shockwave Moa",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Tusk Predator",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Tusk Flameblade",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Roller",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Tusk Roller",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Lobber Crawler",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Roller Sentry",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Nervo",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Kuva Roller",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Latcher",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Toxic Crawler",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    }
+  ]
+}

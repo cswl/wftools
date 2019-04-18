@@ -1,0 +1,13 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBGrindMagnetismMod",
+  "name": "Mag Locks",
+  "polarity": "Naramon",
+  "rarity": "Common",
+  "baseDrain": 4,
+  "fusionLimit": 5,
+  "description": "+5% K-Drive Grind Magnetism",
+  "type": "---",
+  "imageName": "mag-locks.jpeg",
+  "tradable": true,
+  "hash": "aa58966dae31f414a3366bddec50e2fb"
+}

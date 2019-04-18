@@ -1,0 +1,4359 @@
+{
+  "63253947c11d764589c86f903a89d901": [
+    {
+      "name": "Fortuna: Hotfix 24.0.8",
+      "date": "2018-11-15T22:34:29Z",
+      "url": "https://forums.warframe.com/topic/1032170-fortuna-hotfix-2408/",
+      "additions": "",
+      "changes": "Tweaked Khora’s Accumulating Whipclaw Augment sounds.",
+      "fixes": ""
+    },
+    {
+      "name": "Chimera: Hotfix 23.10.3",
+      "date": "2018-10-15T21:13:13Z",
+      "url": "https://forums.warframe.com/topic/1018682-chimera-hotfix-23103/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Khora Accumulating Whipclaw Augment success sound playing even when you don't have the Augment equipped."
+    }
+  ],
+  "8a6893efb01e04e8246f7c263411cc6a": [
+    {
+      "name": "Fortuna: Mesa Prime - Hotfix 24.2.3",
+      "date": "2018-12-19T15:53:01Z",
+      "url": "https://forums.warframe.com/topic/1045817-fortuna-mesa-prime-hotfix-2423/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Adaptation Mod showing a Corrosive Damage Icon instead of the correct Tau Resistance in the HUD."
+    },
+    {
+      "name": "Chimera: Hotfix 23.10.7",
+      "date": "2018-10-24T14:34:07Z",
+      "url": "https://forums.warframe.com/topic/1021711-chimera-hotfix-23107/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed script error resulting in black icons to appear in place of HUD buffs when the Adaptation Mod is equipped."
+    },
+    {
+      "name": "Chimera: Hotfix 23.10.5",
+      "date": "2018-10-18T14:52:11Z",
+      "url": "https://forums.warframe.com/topic/1019687-chimera-hotfix-23105/",
+      "additions": "",
+      "changes": "",
+      "fixes": "More fixes towards the Adaptation Mod sometimes making players invincible."
+    },
+    {
+      "name": "Chimera: Hotfix 23.10.4",
+      "date": "2018-10-16T21:02:30Z",
+      "url": "https://forums.warframe.com/topic/1019115-chimera-hotfix-23104/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Adaptation Mod sometimes making players completely invincible."
+    }
+  ],
+  "5705dd8ebddf6891320a46590e324097": [
+    {
+      "name": "The Sacrifice: Update 23.2.0",
+      "date": "2018-08-02T15:02:26Z",
+      "url": "https://forums.warframe.com/topic/991847-the-sacrifice-update-2320/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/0101f9fd2313734f1f72031130a1d0cd.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed inability to place Komi stones in The Sacrifice quest if Jump and Move Up/Afterburner are bound to a different button when using a controller."
+    },
+    {
+      "name": "Shrine of the Eidolon: Update 22.16.0",
+      "date": "2018-03-15T20:27:52Z",
+      "url": "https://forums.warframe.com/topic/933296-shrine-of-the-eidolon-update-22160/",
+      "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/DojoRework_NewsHeader.jpg",
+      "additions": "",
+      "changes": "You can now shoot while initiating Afterburner in Sky Archwing. ",
+      "fixes": ""
+    },
+    {
+      "name": "Specters of the Rail: Update 2",
+      "date": "2016-08-03T21:43:21Z",
+      "url": "https://forums.warframe.com/topic/682884-specters-of-the-rail-update-2/",
+      "imgUrl": "http://i.imgur.com/4kfneNf.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed players no longer being able to perform the \"slide attack\" motion to execute a unique melee in Archwing missions. You can now only do a slide attack when Afterburner mode is enabled."
+    },
+    {
+      "name": "Update 17.11.0 + 17.11.0.1",
+      "date": "2015-11-12T22:55:35Z",
+      "url": "https://forums.warframe.com/topic/560104-update-17110-171101/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Chroma’s Afterburn Augment leaving lingering damage if killed while in use. 17.11.0.1"
+    },
+    {
+      "name": "Update 17.9.0",
+      "date": "2015-10-28T15:12:27Z",
+      "url": "https://forums.warframe.com/topic/552544-update-1790/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Afterburn Mod still being applied to players transitioning out of Archwing."
+    },
+    {
+      "name": "Hotfix 17.5.3",
+      "date": "2015-10-02T16:07:50Z",
+      "url": "https://forums.warframe.com/topic/536870-hotfix-1753/",
+      "additions": "",
+      "changes": "Archwing Afterburner speed increased by 2x (default Spacebar to activate).",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.5: The Jordas Precept. + Hotfix 17.5.1",
+      "date": "2015-10-02T02:05:33Z",
+      "url": "https://forums.warframe.com/topic/536207-update-175-the-jordas-precept-hotfix-1751/",
+      "additions": "Afterburner: Pressing the ‘jump’ button while boosting will cause the Archwing afterburners to kick in, giving players a significant speed increase.",
+      "changes": "",
+      "fixes": ""
+    },
+    {
+      "name": "Warframe: Sanctuary",
+      "date": "2015-03-20T02:21:54Z",
+      "url": "https://forums.warframe.com/topic/420448-warframe-sanctuary/",
+      "additions": "",
+      "changes": "Afterburn.",
+      "fixes": ""
+    }
+  ],
+  "2cb1e94dde28e0e7846134a460aed8eb": [
+    {
+      "name": "Buried Debts: Hotfix 24.5.5",
+      "date": "2019-03-25T21:21:51Z",
+      "url": "https://forums.warframe.com/topic/1076040-buried-debts-hotfix-2455/",
+      "additions": "",
+      "changes": "Aviator and Agility Drift now apply to Titania while she is in Razorwing. ",
+      "fixes": ""
+    },
+    {
+      "name": "Octavia’s Anthem: Update 20.5.0",
+      "date": "2017-05-17T19:16:26Z",
+      "url": "https://forums.warframe.com/topic/797978-octavia%E2%80%99s-anthem-update-2050/",
+      "imgUrl": "http://i.imgur.com/ADvsdMP.jpg",
+      "additions": "",
+      "changes": "Updated Aviator, Agility Drift and Heightened Reflexes Mods to read absolute % to avoid double negatives.",
+      "fixes": ""
+    }
+  ],
+  "e9ec3d6d2bd6f9f9608bfea98498c39c": [
+    {
+      "name": "Hotfix 17.4.2",
+      "date": "2015-09-11T20:40:57Z",
+      "url": "https://forums.warframe.com/topic/526883-hotfix-1742/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Nova’s Antimatter Absorb Augment Mod not being affected by power range Mods."
+    }
+  ],
+  "57aa61da7d7e48f8bda3d079de33afba": [
+    {
+      "name": "The Silver Grove: U2",
+      "date": "2016-09-15T21:31:02Z",
+      "url": "https://forums.warframe.com/topic/699623-the-silver-grove-u2/",
+      "imgUrl": "http://i.imgur.com/VXWS19k.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Nova’s Antimatter Mine Conclave Augment not fully charging an orb. "
+    },
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Antimatter Mine "
+    }
+  ],
+  "081e84a945e6fbcef046605e65162a12": [
+    {
+      "name": "Chimera: Update 23.10",
+      "date": "2018-10-12T13:56:43Z",
+      "url": "https://forums.warframe.com/topic/1016610-chimera-update-2310/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/1a5052e0e614dd7d7858b2a38fca9bf8.jpg",
+      "additions": "",
+      "changes": "Added a progress wheel to UI to show Antitoxin Strength.\nAntitoxin console disables when strength is at 100% to avoid wasting Antitoxins.\nSlightly increased strength score of common and uncommon Antitoxins. \nFixed incorrect Affinity reward scaling for Antitoxins.\nFixed broken materials on the Antitoxin console.",
+      "fixes": ""
+    },
+    {
+      "name": "Recurring Dreams + Hotfix 1",
+      "date": "2016-11-03T21:40:35Z",
+      "url": "https://forums.warframe.com/topic/713313-recurring-dreams-hotfix-1/",
+      "additions": "",
+      "changes": "It is no longer necessary to use Antitoxin to get Nightmare rewards on Earth Sabotage missions.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 15.7.0 Nova Prime",
+      "date": "2014-12-16T18:58:55Z",
+      "url": "https://forums.warframe.com/topic/367069-update-1570-nova-prime/",
+      "additions": "",
+      "changes": "Adjusted Conclave rating for resistance Mods.  The following Mods are now 15 Conclave points when fully ranked:  Lightning Rod, Flame Repellent, Insulation, Shock Absorbers, Diamond Skin, Antitoxin, and Resilient Focus. Sure Footed is now 10 Conclave points.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 11.5.2",
+      "date": "2013-12-19T23:07:42Z",
+      "url": "https://forums.warframe.com/topic/151302-hotfix-1152/",
+      "additions": "",
+      "changes": "The VERMILLION Antitoxin formula has been added for Solo Players to achieve the required points for the event rewards, as well as to allow competitive clans to reach higher scores.",
+      "fixes": ""
+    }
+  ],
+  "a061df0df768655087017012640a61a2": [
+    {
+      "name": "Recurring Nightmares",
+      "date": "2016-10-27T19:03:48Z",
+      "url": "https://forums.warframe.com/topic/711418-recurring-nightmares/",
+      "imgUrl": "http://i.imgur.com/Oail8jd.jpg",
+      "additions": "",
+      "changes": "Armored Agility",
+      "fixes": ""
+    }
+  ],
+  "3b22594eee38fe572d475b92cd71e35d": [
+    {
+      "name": "Buried Debts: Update 24.5.0",
+      "date": "2019-03-14T21:06:12Z",
+      "url": "https://forums.warframe.com/topic/1070992-buried-debts-update-2450/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/5576015e88951a00ab3824307aea467a.jpg",
+      "additions": "",
+      "changes": "Hildryn can use her custom dodge while in Aegis Storm at the cost of her Shields (50). We're starting with this cost because many abilities of this nature have movement restrictions that can be overcome with Augments (Peacemaker, Resonating Quake, Assimilate). We want to try out a movement cost before we tweak further based on feedback. ",
+      "fixes": ""
+    },
+    {
+      "name": "Fortuna: Hotfix 24.2.7 + 24.2.7.1",
+      "date": "2019-01-09T18:37:18Z",
+      "url": "https://forums.warframe.com/topic/1052727-fortuna-hotfix-2427-24271/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Absorb damage scaling/CC Range reviews. While with the Assimilate Augment frankly Absorb is a different ability, but the base Absorb offerings are still being reviewed to escalate benefit for those who know how to tactically use it in a squad and solo setting. "
+    },
+    {
+      "name": "Fortuna: Hotfix 24.1.2 + 24.1.2.1",
+      "date": "2018-11-29T19:46:27Z",
+      "url": "https://forums.warframe.com/topic/1038856-fortuna-hotfix-2412-24121/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue where using the Assimilate Ability Augment on Nyx will deactivate toggle sprint, and force the player to toggle again."
+    },
+    {
+      "name": "Octavia’s Anthem: Update 20.4.0",
+      "date": "2017-05-04T13:58:50Z",
+      "url": "https://forums.warframe.com/topic/793570-octavia%E2%80%99s-anthem-update-2040/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed becoming invincible after casting Nyx’s Absorb with Assimilate equipped and then Transferring to the Operator. "
+    },
+    {
+      "name": "Octavia’s Anthem: Hotfix 20.2.3",
+      "date": "2017-04-19T22:08:42Z",
+      "url": "https://forums.warframe.com/topic/788574-octavia%E2%80%99s-anthem-hotfix-2023/",
+      "additions": "",
+      "changes": "Nyx's Assimilate Augment for Absorb no longer Absorbs Friendly Fire.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 19.13.0",
+      "date": "2017-03-09T20:40:48Z",
+      "url": "https://forums.warframe.com/topic/771036-update-19130/",
+      "imgUrl": "http://i.imgur.com/PDgOqJ8.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Nyx’s Assimilate Augment not allowing teammates to charge you up by fire absorption."
+    },
+    {
+      "name": "The Glast Gambit: Hotfix 19.11.2",
+      "date": "2017-02-17T20:40:41Z",
+      "url": "https://forums.warframe.com/topic/763931-the-glast-gambit-hotfix-19112/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed screen blur & color correction remaining when you use Transference while in Nyx’s Absorb with the Assimilate Augment equipped. "
+    },
+    {
+      "name": "The Silver Grove: U2",
+      "date": "2016-09-15T21:31:02Z",
+      "url": "https://forums.warframe.com/topic/699623-the-silver-grove-u2/",
+      "imgUrl": "http://i.imgur.com/VXWS19k.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed being able to roll with Nyx’s Assimilate Augment active by binding a dedicated roll key (not sprint/roll)."
+    }
+  ],
+  "d39544707b9d06ffd4e86197cb566437": [
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "Augur Accord (Warframe) ",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "f58cd158ebc1f5df5cd0e2614fd8249d": [
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "Augur Message (Warframe)",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "49f18ddb050dfe0b41b092acb82fabe8": [
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "Augur Reach (Warframe) ",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "1c040ac5f72233e41e574ac18d35d44b": [
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "Augur Secrets (Warframe) ",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "fce3a29eac318725b8cabb0426d582c8": [
+    {
+      "name": "Buried Debts: Hotfix 24.5.5",
+      "date": "2019-03-25T21:21:51Z",
+      "url": "https://forums.warframe.com/topic/1076040-buried-debts-hotfix-2455/",
+      "additions": "",
+      "changes": "Aviator and Agility Drift now apply to Titania while she is in Razorwing. ",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.8 + 22.20.8.1",
+      "date": "2018-06-05T17:20:04Z",
+      "url": "https://forums.warframe.com/topic/963818-beasts-of-the-sanctuary-hotfix-22208-222081/",
+      "additions": "",
+      "changes": "For consistency, damage link abilities (Trinity, Nidus, Nekros) will no longer transmit self-damage, but you will still get the damage reduction. This is particularly relevant for the healer/support class of Trinity who had become the go-to DPS frame in addition to the intended support roles. The re-release of Mods like Aviator added to some clever but ultimately uncharacteristic roles for Trinity. ",
+      "fixes": ""
+    },
+    {
+      "name": "Octavia’s Anthem: Update 20.5.0",
+      "date": "2017-05-17T19:16:26Z",
+      "url": "https://forums.warframe.com/topic/797978-octavia%E2%80%99s-anthem-update-2050/",
+      "imgUrl": "http://i.imgur.com/ADvsdMP.jpg",
+      "additions": "",
+      "changes": "Updated Aviator, Agility Drift and Heightened Reflexes Mods to read absolute % to avoid double negatives.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Aviator",
+      "fixes": ""
+    }
+  ],
+  "78bfcca70ff8bf390c039e673234da2f": [
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Battering Maneuver",
+      "fixes": ""
+    }
+  ],
+  "e00a7945ea32e307f78cfa4fb54badcd": [
+    {
+      "name": "Octavia’s Anthem: Hotfix 20.2.4",
+      "date": "2017-04-20T20:57:53Z",
+      "url": "https://forums.warframe.com/topic/788921-octavia%E2%80%99s-anthem-hotfix-2024/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed new Augments released in Update 20.2.0 (Pyroclastic Flow, Piercing Navigator, Negation Swarm, and Beguiling Lantern) not appearing in Codex and not able to be linked in chat. "
+    }
+  ],
+  "81e850ebd12792b9e8a907a4bb1ab7ee": [
+    {
+      "name": "Update 18.12.0: Vauban Prime & 18.12.1",
+      "date": "2016-05-17T18:00:00Z",
+      "url": "https://forums.warframe.com/topic/649037-update-18120-vauban-prime-18121/",
+      "imgUrl": "http://i.imgur.com/vmd8QPm.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed Power Strength Mods (Blind Rage, Intensify, etc.) not applying very much to Vauban’s Vortex initial blast and damage over time."
+    },
+    {
+      "name": "Hotfix 15.0.9",
+      "date": "2014-10-30T22:22:26Z",
+      "url": "https://forums.warframe.com/topic/336430-hotfix-1509/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with Corrupted Mod Transient Fortitude not being equippable simultaneously with Blind Rage."
+    }
+  ],
+  "8abe72871e9cd157787a3f3a59625cb4": [
+    {
+      "name": "Update 19: The War Within",
+      "date": "2016-11-12T04:02:28Z",
+      "url": "https://forums.warframe.com/topic/715768-update-19-the-war-within/",
+      "imgUrl": "http://i.imgur.com/gCfJMUs.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed finishers not triggering Equinox’s Rest & Rage's Augment, Calm & Frenzy, to spread as Host as per: https://forums.warframe.com/topic/701225-calm-frenzy-covert-lethality-broken-as-host/  "
+    }
+  ],
+  "e823718eb38bb24d092b76bffa27f37b": [
+    {
+      "name": "Plains of Eidolon: Hotfix 22.11.1",
+      "date": "2018-02-06T18:58:57Z",
+      "url": "https://forums.warframe.com/topic/916858-plains-of-eidolon-hotfix-22111/",
+      "imgUrl": "https://i.imgur.com/OvBt230.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Volt’s Capacitance Augment giving Shields to Operators. "
+    }
+  ],
+  "97b8a21e9f498ebd85f0d6649fc89072": [
+    {
+      "name": "Update 16.7",
+      "date": "2015-06-04T21:14:52Z",
+      "url": "https://forums.warframe.com/topic/469825-update-167/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Cataclysm: Cataclysmic Continuum: Duration is restored by 1s whenever an enemy is killed inside."
+    }
+  ],
+  "379cd15e200f55a3dcf743e72adb3751": [
+    {
+      "name": "Chimera: Update 23.10",
+      "date": "2018-10-12T13:56:43Z",
+      "url": "https://forums.warframe.com/topic/1016610-chimera-update-2310/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/1a5052e0e614dd7d7858b2a38fca9bf8.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Nyx’s Chaos Sphere Augment being removed when another cast occurs.\nFixed Nyx’s Chaos Sphere Augment script error."
+    },
+    {
+      "name": "Mask of the Revenant: Chroma Prime 23.9.0 + 23.9.0.1",
+      "date": "2018-09-25T17:57:10Z",
+      "url": "https://forums.warframe.com/topic/1011982-mask-of-the-revenant-chroma-prime-2390-23901/",
+      "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/2cf190206c4590728d39582b26d3fbec.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Nyx’s Chaos Sphere Augment not always grabbing every enemy in its radius."
+    },
+    {
+      "name": "Hotfix 17.5.3",
+      "date": "2015-10-02T16:07:50Z",
+      "url": "https://forums.warframe.com/topic/536870-hotfix-1753/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Nyx's Chaos Sphere augment not working at all."
+    },
+    {
+      "name": "Update 16.7",
+      "date": "2015-06-04T21:14:52Z",
+      "url": "https://forums.warframe.com/topic/469825-update-167/",
+      "additions": "",
+      "changes": "Nyx’s Chaos Sphere Augment FX has been made more visible.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 16.6.0",
+      "date": "2015-05-27T21:08:21Z",
+      "url": "https://forums.warframe.com/topic/465618-update-1660/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Chaos Sphere: For a % duration of Chaos, any enemy entering the effect radius will be affected by Chaos.  This effect radius decreases over time."
+    }
+  ],
+  "31f04f8a6389e59f920be1938dacbc10": [
+    {
+      "name": "The Sacrifice: Hotfix 23.0.2 + 23.0.2.1",
+      "date": "2018-06-15T20:55:38Z",
+      "url": "https://forums.warframe.com/topic/968321-the-sacrifice-hotfix-2302-23021/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Energy colour element not appearing when you change your Energy colour on an Excalibur equipped with the Chromatic Blade Augment."
+    },
+    {
+      "name": "Chains of Harrow: Update 21.2.0 + 21.2.0.1",
+      "date": "2017-07-26T21:16:57Z",
+      "url": "https://forums.warframe.com/topic/823165-chains-of-harrow-update-2120-21201/",
+      "imgUrl": "http://n8k6e2y6.ssl.hwcdn.net/uploads/187b9471217cc3cefd8ddbcfa43a6ded.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Excalibur’s Chromatic Blade Augment not adding Elemental FX to the energy wave."
+    },
+    {
+      "name": "Update 21: Chains of Harrow",
+      "date": "2017-06-29T03:00:20Z",
+      "url": "https://forums.warframe.com/topic/809842-update-21-chains-of-harrow/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/harrow/PriestSpear_1080p.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Chromatic Blade Augment not applying elemental FX on Exalted Blade’s projectiles. "
+    }
+  ],
+  "7e9a468829a5e597fa957efc9202e8a3": [
+    {
+      "name": "Update 19.13.0",
+      "date": "2017-03-09T20:40:48Z",
+      "url": "https://forums.warframe.com/topic/771036-update-19130/",
+      "imgUrl": "http://i.imgur.com/PDgOqJ8.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Coaction Drift Mod not fully applying when put into the Exilus slot as opposed to a non-Exilus slot. "
+    },
+    {
+      "name": "Hotfix 18.0.4 ",
+      "date": "2015-12-08T17:59:59Z",
+      "url": "https://forums.warframe.com/topic/573817-hotfix-1804-spoilers/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Coaction Drift Mod not properly increasing Aura strength or effectiveness."
+    }
+  ],
+  "ea9d18c7dfe947514adce7f579aaa4dc": [
+    {
+      "name": "Mask of the Revenant: Chroma Prime 23.9.0 + 23.9.0.1",
+      "date": "2018-09-25T17:57:10Z",
+      "url": "https://forums.warframe.com/topic/1011982-mask-of-the-revenant-chroma-prime-2390-23901/",
+      "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/2cf190206c4590728d39582b26d3fbec.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed ranking up Octavia's Conductor Augment not actually increasing the speed of Resonator."
+    },
+    {
+      "name": "Mask of the Revenant: Update 23.8.0 + 23.8.0.1 + 23.8.0.2",
+      "date": "2018-09-12T18:41:12Z",
+      "url": "https://forums.warframe.com/topic/1008095-mask-of-the-revenant-update-2380-23801-23802/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/b04e5e955cbe351ab0be19dddf7b7b6a.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a script error when using Octavia’s Conductor Augment."
+    },
+    {
+      "name": "Mask of the Revenant: Hotfix 23.7.1",
+      "date": "2018-09-06T20:46:57Z",
+      "url": "https://forums.warframe.com/topic/1006342-mask-of-the-revenant-hotfix-2371/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a script error when using Octavia’s Conductor Augment. "
+    }
+  ],
+  "62f5735d621b8690408aceb07b4ffc02": [
+    {
+      "name": "Recurring Nightmares",
+      "date": "2016-10-27T19:03:48Z",
+      "url": "https://forums.warframe.com/topic/711418-recurring-nightmares/",
+      "imgUrl": "http://i.imgur.com/Oail8jd.jpg",
+      "additions": "",
+      "changes": "Constitution",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 9.4.1: Double Affinity Weekend!",
+      "date": "2013-08-02T22:39:43Z",
+      "url": "https://forums.warframe.com/topic/90015-hotfix-941-double-affinity-weekend/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixes for Constitution mod and Fortitude mod not working as intended."
+    }
+  ],
+  "ba77aae4c7cff7050dbe5eba9ee7bf4b": [
+    {
+      "name": "Update 18.3",
+      "date": "2016-01-13T22:55:58Z",
+      "url": "https://forums.warframe.com/topic/594267-update-183/",
+      "additions": "",
+      "changes": "Fixed Saryn’s Contagion Cloud Augment Mod not properly displaying its duration on proc.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 16.7",
+      "date": "2015-06-04T21:14:52Z",
+      "url": "https://forums.warframe.com/topic/469825-update-167/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Contagion: Contagion Cloud:  Melee kills will leave behind a cloud of gas that deals 150 damage per second for 12 seconds within 2 meters."
+    }
+  ],
+  "e97c3a38f74fe8245f772f882225b8bc": [
+    {
+      "name": "Update 7.9.0: The Glaive",
+      "date": "2013-04-26T22:56:42Z",
+      "url": "https://forums.warframe.com/topic/35529-update-790-the-glaive/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Saryn's Miasma power not being affected by Continuity or Focus mods.\nFixed Saryn's Venom power not being affected by Continuity mod.\nFixed Frost's Freeze power not being affected by Continuity mod.\nFixed Frost's Snow Globe power not being affected by Continuity and Range mods."
+    },
+    {
+      "name": "Update 7.8.0",
+      "date": "2013-04-19T21:13:26Z",
+      "url": "https://forums.warframe.com/topic/31722-update-780/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fix cases where Reach, Focus, and Continuity Mods were not affecting many Warframe abilities"
+    }
+  ],
+  "ff9bd0e6aa4a4574ce740d4b77aa10d0": [
+    {
+      "name": "Update 7.9.0: The Glaive",
+      "date": "2013-04-26T22:56:42Z",
+      "url": "https://forums.warframe.com/topic/35529-update-790-the-glaive/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Saryn's Miasma power not being affected by Continuity or Focus mods.\nFixed Saryn's Venom power not being affected by Continuity mod.\nFixed Frost's Freeze power not being affected by Continuity mod.\nFixed Frost's Snow Globe power not being affected by Continuity and Range mods."
+    },
+    {
+      "name": "Update 7.8.0",
+      "date": "2013-04-19T21:13:26Z",
+      "url": "https://forums.warframe.com/topic/31722-update-780/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fix cases where Reach, Focus, and Continuity Mods were not affecting many Warframe abilities"
+    }
+  ],
+  "d862c0f2d8a589ed8679385400ca8740": [
+    {
+      "name": "Hydroid Prime: Update 21.6.0",
+      "date": "2017-08-29T17:55:46Z",
+      "url": "https://forums.warframe.com/topic/836927-hydroid-prime-update-2160/",
+      "imgUrl": "http://n8k6e2y6.ssl.hwcdn.net/uploads/098afb7883e26718f1dfbc26fe1de1c3.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed being able to Corrosive Status Effect yourself with Hydroid’s Corroding Barrage Augment if hit at the start of casting Undertow."
+    },
+    {
+      "name": "Chains of Harrow: Hotfix 21.4.1",
+      "date": "2017-08-10T21:41:50Z",
+      "url": "https://forums.warframe.com/topic/829696-chains-of-harrow-hotfix-2141/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Hydroid’s Corroding Barrage Augment not applying to enemies in Undertow."
+    }
+  ],
+  "360664d9decb412ea936e4d58a479abb": [
+    {
+      "name": "Chains of Harrow: Hotfix 21.0.5",
+      "date": "2017-07-06T20:47:36Z",
+      "url": "https://forums.warframe.com/topic/813821-chains-of-harrow-hotfix-2105/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed pillar hit-detection in the Cunning Drift Hall of Ascension (more improves to follow)."
+    }
+  ],
+  "fa6b863319fdbe4237a487a1e83d858c": [
+    {
+      "name": "Chains of Harrow: Hotfix 21.4.1",
+      "date": "2017-08-10T21:41:50Z",
+      "url": "https://forums.warframe.com/topic/829696-chains-of-harrow-hotfix-2141/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Hydroid’s Curative Undertow Augment not healing the caster or any allies when the caster is a Client."
+    },
+    {
+      "name": "Mesa Update",
+      "date": "2014-11-27T17:30:05Z",
+      "url": "https://forums.warframe.com/topic/352963-mesa-update/",
+      "additions": "",
+      "changes": "Healing speed from Hydroid’s Curative Undertow Mod slowed. Also increased energy consumption from 2 to 5",
+      "fixes": ""
+    }
+  ],
+  "608979a88c215244dc556a2aa55024eb": [
+    {
+      "name": "The War Within: Update 19.2.0",
+      "date": "2016-12-01T21:22:08Z",
+      "url": "https://forums.warframe.com/topic/728401-the-war-within-update-1920/",
+      "imgUrl": "http://i.imgur.com/1f5rmjA.jpg",
+      "additions": "",
+      "changes": "Fixed a localization tag showing when Loki’s Deceptive Bond Decoy Augment activates.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Deceptive Bond "
+    }
+  ],
+  "c80051ad4408b19832afab93394c3d77": [
+    {
+      "name": "Specters of the Rail: U2.1",
+      "date": "2016-08-10T17:57:04Z",
+      "url": "https://forums.warframe.com/topic/685418-specters-of-the-rail-u21/",
+      "additions": "",
+      "changes": "Desecrate is now a toggle ability! Energy (or Health if you use the Despoil Augment) are consumed on Desecration. \nEach enemy desecrated will now cost 10 Energy (or Health if the Despoil Augment is equipped). This is affected by Efficiency Mods. ",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 18.4.7",
+      "date": "2016-02-04T22:43:36Z",
+      "url": "https://forums.warframe.com/topic/605204-hotfix-1847/",
+      "additions": "",
+      "changes": "Directional damage indicators have been removed for Abilities, weapons or effects that do self-inflicted damage (Focus abilities, Nekros' Despoil, etc).",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 15.6.3 + 15.6.3.1",
+      "date": "2014-12-12T19:42:51Z",
+      "url": "https://forums.warframe.com/topic/364174-hotfix-1563-15631/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a typo in Nekros’ Despoil Augment Mod."
+    }
+  ],
+  "9bc6478abf0533252c60dc7d2b04204f": [
+    {
+      "name": "Update 15.7.0 Nova Prime",
+      "date": "2014-12-16T18:58:55Z",
+      "url": "https://forums.warframe.com/topic/367069-update-1570-nova-prime/",
+      "additions": "",
+      "changes": "Adjusted Conclave rating for resistance Mods.  The following Mods are now 15 Conclave points when fully ranked:  Lightning Rod, Flame Repellent, Insulation, Shock Absorbers, Diamond Skin, Antitoxin, and Resilient Focus. Sure Footed is now 10 Conclave points.",
+      "fixes": ""
+    }
+  ],
+  "406465cad5d783ccf8bc2f185bf45ebe": [
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Discharge Strike "
+    }
+  ],
+  "9cb3ae8363e64ed214626ae69d53c191": [
+    {
+      "name": "Buried Debts: Hotfix 24.5.2",
+      "date": "2019-03-18T22:43:12Z",
+      "url": "https://forums.warframe.com/topic/1072987-buried-debts-hotfix-2452/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed clones from Ash’s Blade Storm (Rising Storm) and Equinox’s Metamorphosis Augment (Duality) not using the proper loadout in Dojo Duels as reported here: https://www.reddit.com/r/Warframe/comments/b2hapq/this_is_what_happens_when_you_take_duality/"
+    },
+    {
+      "name": "The Sacrifice: Update 23",
+      "date": "2018-06-15T00:51:48Z",
+      "url": "https://forums.warframe.com/topic/967249-the-sacrifice-update-23/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/53a0647e239997f245a6d957c7347b3e.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Specters having trouble aiming at enemies who are not standing upright when using Equinox’s Metamorphosis Duality Augment. "
+    },
+    {
+      "name": "Plains of Eidolon: Update 22.10.0",
+      "date": "2018-01-25T23:53:14Z",
+      "url": "https://forums.warframe.com/topic/911802-plains-of-eidolon-update-22100/",
+      "imgUrl": "https://i.imgur.com/Hh3GKF6.jpg",
+      "additions": "",
+      "changes": "Increased duration of Duality Augment to be 10 seconds at Max Rank (affected by Duration Mods).",
+      "fixes": ""
+    },
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a crash with Equinox’s Duality Augment. "
+    },
+    {
+      "name": "Hotfix 18.4.8",
+      "date": "2016-02-05T23:22:31Z",
+      "url": "https://forums.warframe.com/topic/605807-hotfix-1848/",
+      "additions": "",
+      "changes": "Updated Duality’s clone death animation to be less morbid ",
+      "fixes": "Fixed Duality Augment Mod scaling improperly "
+    }
+  ],
+  "53b0fd0ac0d0a5f5cb27ae3f201269fc": [
+    {
+      "name": "The Silver Grove: U1.1",
+      "date": "2016-08-31T20:46:07Z",
+      "url": "https://forums.warframe.com/topic/694841-the-silver-grove-u11/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Inaros Elemental Sandstorm Mod not being in alphabetical order in the Syndicate offerings list."
+    }
+  ],
+  "c7cd831b4100b53e83548a391fcbec62": [
+    {
+      "name": "The Sacrifice: Hotfix 23.0.7",
+      "date": "2018-06-28T20:24:15Z",
+      "url": "https://forums.warframe.com/topic/975538-the-sacrifice-hotfix-2307/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed being cloaked by Ivara’s Empowered Quiver potentially resulting in a status proc by AoE procs.\nFixed Energy Conversion not increasing the Critical damage increase of Ivara’s Empowered Quiver"
+    }
+  ],
+  "d4cb9fc65fc1cbd8de87b754710cda03": [
+    {
+      "name": "Fortuna: Hotfix 24.0.9",
+      "date": "2018-11-21T14:01:56Z",
+      "url": "https://forums.warframe.com/topic/1035270-fortuna-hotfix-2409/",
+      "additions": "",
+      "changes": "Synth Reflex and Vigilante Pursuit are now Exilus Mods. These Mods currently have similarly functioning Exilus Mods (Streamlined Form and Enemy Sense), therefore utilizing a Mod slot was counter intuitive.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Enemy Sense",
+      "fixes": ""
+    }
+  ],
+  "9cbf160b004961e0d38b8fafba8c4a06": [
+    {
+      "name": "Fortuna: Hotfix 24.0.9",
+      "date": "2018-11-21T14:01:56Z",
+      "url": "https://forums.warframe.com/topic/1035270-fortuna-hotfix-2409/",
+      "additions": "",
+      "changes": "Synth Reflex and Vigilante Pursuit are now Exilus Mods. These Mods currently have similarly functioning Exilus Mods (Streamlined Form and Enemy Sense), therefore utilizing a Mod slot was counter intuitive.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Enemy Sense",
+      "fixes": ""
+    }
+  ],
+  "f0a65c199b81f809e7f405b90f2ba7e2": [
+    {
+      "name": "The Sacrifice: Hotfix 23.0.7",
+      "date": "2018-06-28T20:24:15Z",
+      "url": "https://forums.warframe.com/topic/975538-the-sacrifice-hotfix-2307/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Energy Conversion not increasing the Critical damage increase of Ivara’s Empowered Quiver"
+    },
+    {
+      "name": "Beasts of the Sanctuary: Update 22.19.0",
+      "date": "2018-05-02T18:30:06Z",
+      "url": "https://forums.warframe.com/topic/952702-beasts-of-the-sanctuary-update-22190/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/8c27eabbd9bc9b5af2ba5944cd490302.jpg",
+      "additions": "",
+      "changes": "A buff icon for Toxic Lash is now displayed so you can see the bonus (ie: after Growing Power, Energy Conversion, and other temporary power-strength buffs are applied).",
+      "fixes": ""
+    },
+    {
+      "name": "Update 21: Chains of Harrow",
+      "date": "2017-06-29T03:00:20Z",
+      "url": "https://forums.warframe.com/topic/809842-update-21-chains-of-harrow/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/harrow/PriestSpear_1080p.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Energy Conversion FX remaining active when accessing the Arsenal in the Simulacrum."
+    },
+    {
+      "name": "The Glast Gambit: Update 19.6.0 + 19.6.0.1",
+      "date": "2017-01-11T23:47:27Z",
+      "url": "https://forums.warframe.com/topic/748631-the-glast-gambit-update-1960-19601/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Health Conversion and Energy Conversion Mod FX not appearing on Clients."
+    },
+    {
+      "name": "The War Within: Update 19.2.0",
+      "date": "2016-12-01T21:22:08Z",
+      "url": "https://forums.warframe.com/topic/728401-the-war-within-update-1920/",
+      "imgUrl": "http://i.imgur.com/1f5rmjA.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Energy Conversion blue spinning HUD buff icon from disappearing over time."
+    },
+    {
+      "name": "Update 18.9.0",
+      "date": "2016-04-20T21:39:18Z",
+      "url": "https://forums.warframe.com/topic/639851-update-1890/",
+      "imgUrl": "http://i.imgur.com/mY2Txwh.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed the Energy Conversion Mod buff displaying in Archwing missions."
+    },
+    {
+      "name": "Hotfix 18.8.2",
+      "date": "2016-04-13T18:53:32Z",
+      "url": "https://forums.warframe.com/topic/637581-hotfix-1882/",
+      "imgUrl": "http://i.imgur.com/LdxUao4.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed Energy Conversion and Health Conversion mods occasionally skipping a pickup."
+    },
+    {
+      "name": "Hotfix 18.6.2",
+      "date": "2016-03-22T17:37:40Z",
+      "url": "https://forums.warframe.com/topic/628628-hotfix-1862/",
+      "imgUrl": "http://i.imgur.com/ZtBrjRp.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Focus Powers consuming the Energy Conversion Mod’s buff."
+    },
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Energy Conversion: Picking up an Energy Orb grants 50% more power strength to your next ability cast."
+    }
+  ],
+  "2aac2fb6605bafade7cc8eb667f449a4": [
+    {
+      "name": "Mask of the Revenant: Hotfix 23.7.1",
+      "date": "2018-09-06T20:46:57Z",
+      "url": "https://forums.warframe.com/topic/1006342-mask-of-the-revenant-hotfix-2371/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Wukong’s Enveloping Cloud Augment Duration scaling off of Modded Power Range instead of Duration."
+    }
+  ],
+  "c5f7475372189d8811992e4b64671ba3": [
+    {
+      "name": "Fortuna: Hotfix 24.2.9 + 24.2.9.1",
+      "date": "2019-01-18T14:16:39Z",
+      "url": "https://forums.warframe.com/topic/1055092-fortuna-hotfix-2429-24291/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed using a Warframe with the Equilibrium Mod equipped resulting in disproportionate Health/Energy gains displayed on the UI when picking up multiple orbs in succession."
+    },
+    {
+      "name": "Mask of the Revenant: Update 23.8.0 + 23.8.0.1 + 23.8.0.2",
+      "date": "2018-09-12T18:41:12Z",
+      "url": "https://forums.warframe.com/topic/1008095-mask-of-the-revenant-update-2380-23801-23802/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/b04e5e955cbe351ab0be19dddf7b7b6a.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "With 90% damage resistance, Nezha is still very capable of tanking, but encouraged to rely on his other tools to avoid getting overwhelmed. Taking minimal health damage allows for synergy with Blazing Chakram’s health orbs, not to mention new modding avenues like Equilibrium, Health Conversion and various Arcanes. The change also allows us to improve survivability in other ways, such as the increased health pool, and major Warding Halo quality-of-life buffs listed below."
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Equilibrium Mod not showing the correct popup notification icons."
+    },
+    {
+      "name": "Hotfix 13.9.3.1",
+      "date": "2014-07-11T22:34:36Z",
+      "url": "https://forums.warframe.com/topic/260180-hotfix-13931/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Equilibrium and all Ammo Mutation mods have been added into Mod packs and Transmutation tables."
+    },
+    {
+      "name": "Hotfix 9.7.3",
+      "date": "2013-09-03T22:18:36Z",
+      "url": "https://forums.warframe.com/topic/101864-hotfix-973/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Scaled Equilibrium mod results to reflect amount of health or energy picked up."
+    }
+  ],
+  "7b7b7bcfe97d2b16fee1e11a29fdc945": [
+    {
+      "name": "Fortuna: Hotfix 24.2.9 + 24.2.9.1",
+      "date": "2019-01-18T14:16:39Z",
+      "url": "https://forums.warframe.com/topic/1055092-fortuna-hotfix-2429-24291/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed using a Warframe with the Equilibrium Mod equipped resulting in disproportionate Health/Energy gains displayed on the UI when picking up multiple orbs in succession."
+    },
+    {
+      "name": "Mask of the Revenant: Update 23.8.0 + 23.8.0.1 + 23.8.0.2",
+      "date": "2018-09-12T18:41:12Z",
+      "url": "https://forums.warframe.com/topic/1008095-mask-of-the-revenant-update-2380-23801-23802/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/b04e5e955cbe351ab0be19dddf7b7b6a.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "With 90% damage resistance, Nezha is still very capable of tanking, but encouraged to rely on his other tools to avoid getting overwhelmed. Taking minimal health damage allows for synergy with Blazing Chakram’s health orbs, not to mention new modding avenues like Equilibrium, Health Conversion and various Arcanes. The change also allows us to improve survivability in other ways, such as the increased health pool, and major Warding Halo quality-of-life buffs listed below."
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Equilibrium Mod not showing the correct popup notification icons."
+    },
+    {
+      "name": "Hotfix 13.9.3.1",
+      "date": "2014-07-11T22:34:36Z",
+      "url": "https://forums.warframe.com/topic/260180-hotfix-13931/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Equilibrium and all Ammo Mutation mods have been added into Mod packs and Transmutation tables."
+    },
+    {
+      "name": "Hotfix 9.7.3",
+      "date": "2013-09-03T22:18:36Z",
+      "url": "https://forums.warframe.com/topic/101864-hotfix-973/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Scaled Equilibrium mod results to reflect amount of health or energy picked up."
+    }
+  ],
+  "b0414391e81e1049dec646f24bc653c6": [
+    {
+      "name": "Buried Debts: Update 24.4.0",
+      "date": "2019-03-08T02:01:23Z",
+      "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/f07ee60119e2c8efc746da7ecf4cb49e.png",
+      "additions": "",
+      "changes": "Fixed Valkyr’s Warcry UI not reflecting the Eternal War Mods timer increase.",
+      "fixes": ""
+    },
+    {
+      "name": "Specters of the Rail: U2.3",
+      "date": "2016-08-12T16:38:03Z",
+      "url": "https://forums.warframe.com/topic/686115-specters-of-the-rail-u23/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Valkyr’s Eternal War not working as intended once deactivating Hysteria as per: https://forums.warframe.com/topic/680982-eternal-war-only-active-during-hysteria/"
+    },
+    {
+      "name": "Specters of the Rail: Hotfix 1",
+      "date": "2016-07-08T21:33:56Z",
+      "url": "https://forums.warframe.com/topic/668573-specters-of-the-rail-hotfix-1/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with Eternal War augment not properly increasing the duration of the buff and also preventing you from recasting."
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Valkyr’s Warcry stacking multiple times on Squad members when Eternal War Augment is equipped."
+    }
+  ],
+  "1c9e01e2cee2e46fbb5568855bd3ab1f": [
+    {
+      "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
+      "date": "2016-05-27T21:20:29Z",
+      "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
+      "imgUrl": "http://i.imgur.com/1JPOZC1.png",
+      "additions": "",
+      "changes": "•    The ‘Fast Deflection’ Sentinel Mod has been renamed to ‘Accelerated Deflection’\n•    The ‘Fast Deflection’ Kubrow Mod has been renamed to ‘Hastened Deflection’",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.2.0",
+      "date": "2016-01-05T18:24:20Z",
+      "url": "https://forums.warframe.com/topic/590253-update-1820/",
+      "additions": "",
+      "changes": "The Fast Deflection Mod has been removed from Conclave, and its effects have been applied to all Conclave players by default.",
+      "fixes": ""
+    }
+  ],
+  "7524e0f0dfdf0f1842a26c6faa86db04": [
+    {
+      "name": "Fortuna: Hotfix 24.0.9",
+      "date": "2018-11-21T14:01:56Z",
+      "url": "https://forums.warframe.com/topic/1035270-fortuna-hotfix-2409/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Ash’s Fatal Teleport Augment Mod not functioning on the Plains of Eidolon or in Orb Vallis."
+    },
+    {
+      "name": "Chains of Harrow: Update 21.2.0 + 21.2.0.1",
+      "date": "2017-07-26T21:16:57Z",
+      "url": "https://forums.warframe.com/topic/823165-chains-of-harrow-update-2120-21201/",
+      "imgUrl": "http://n8k6e2y6.ssl.hwcdn.net/uploads/187b9471217cc3cefd8ddbcfa43a6ded.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Ash’s Fatal Teleport Augment causing enemies to teleport up high if cast from up above."
+    },
+    {
+      "name": "Oberon Prime: Hotfix 20.7.1",
+      "date": "2017-06-14T21:01:39Z",
+      "url": "https://forums.warframe.com/topic/806282-oberon-prime-hotfix-2071/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Ash Fatal Teleport Augment teleporting enemies down through the floor in certain situations."
+    },
+    {
+      "name": "Oberon Prime: Update 20.7.0",
+      "date": "2017-06-07T19:08:59Z",
+      "url": "https://forums.warframe.com/topic/804548-oberon-prime-update-2070/",
+      "imgUrl": "http://i.imgur.com/nXgSS3H.jpg",
+      "additions": "",
+      "changes": "Ash’s Fatal Teleport Augment will now only rotate the target so their back is facing you (before would rotate to front or back) since many weapons don't have frontal finishers.",
+      "fixes": "Fixed a case where Ash’s Fatal Teleport target may move too far away during the casting animation for the finisher to succeed.\nFixed a case where some tilesets would block Ash’s Fatal Teleport finishers. "
+    },
+    {
+      "name": "Update: Lunaro",
+      "date": "2016-06-15T23:58:19Z",
+      "url": "https://forums.warframe.com/topic/660347-update-lunaro/",
+      "imgUrl": "http://i.imgur.com/8pv5NTb.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed some cases where Ash’s Fatal Teleport Augment wouldn't auto finish enemies moving quickly.\n•    Fixed Ash’s Fatal Teleport Augment targeting dead bodies.\n•    Fixed Ash’s Fatal Teleport Augment failing to activate when moving too quickly (bullet jump, etc.)."
+    },
+    {
+      "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
+      "date": "2016-05-27T21:20:29Z",
+      "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
+      "imgUrl": "http://i.imgur.com/1JPOZC1.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed Ash’s Fatal Teleport augment Mod not performing finishers on enemies immune to being stunned. (Arctic Eximus, etc.) "
+    }
+  ],
+  "42e3139e448865785b181e454d476969": [
+    {
+      "name": "Hotfix 16.5.3",
+      "date": "2015-05-13T22:21:59Z",
+      "url": "https://forums.warframe.com/topic/457163-hotfix-1653/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Ember’s Fireball Frenzy Augment causing Fireballs to bounce off of Mesa’s Shatter Shield."
+    },
+    {
+      "name": "Update 15.13",
+      "date": "2015-02-05T21:08:01Z",
+      "url": "https://forums.warframe.com/topic/396379-update-1513/",
+      "additions": "",
+      "changes": "Ember's Fireball Frenzy",
+      "fixes": ""
+    },
+    {
+      "name": "Update 15.10.0",
+      "date": "2015-01-15T00:17:31Z",
+      "url": "https://forums.warframe.com/topic/385108-update-15100/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Ember’s Fireball Frenzy Augment Mod remaining on a player when cast twice on a player before the first cast expired."
+    }
+  ],
+  "79671e3f96ee5625780c3f651a191c37": [
+    {
+      "name": "Fortuna: The Profit-Taker - Update 24.2",
+      "date": "2018-12-18T13:59:14Z",
+      "url": "https://forums.warframe.com/topic/1044890-fortuna-the-profit-taker-update-242/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Nezha’s Firewalker missing its fiery FX. "
+    },
+    {
+      "name": "Mask of the Revenant: Update 23.8.0 + 23.8.0.1 + 23.8.0.2",
+      "date": "2018-09-12T18:41:12Z",
+      "url": "https://forums.warframe.com/topic/1008095-mask-of-the-revenant-update-2380-23801-23802/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/b04e5e955cbe351ab0be19dddf7b7b6a.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Why? As a channeled ability, keeping Firewalker active would block all energy regeneration. Making the ability a single cast with a long moddable duration solves that problem, encouraging more frequent use.\nFirewalker and Divine Spears offer great area/crowd control, Blazing Chakram offers healing and self-sustain, and his outstanding movement can make the player a hard target to hit. In this context, Warding Halo’s 100% damage resistance was completely overshadowing his other options "
+    },
+    {
+      "name": "The Silver Grove: U4+4.1",
+      "date": "2016-09-29T19:31:28Z",
+      "url": "https://forums.warframe.com/topic/703921-the-silver-grove-u441/",
+      "imgUrl": "http://i.imgur.com/hCEvZkm.jpg",
+      "additions": "",
+      "changes": "Removed the flare FX from the Firewalker Mod due to poor visibility reports. ",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 17.0.5",
+      "date": "2015-08-07T20:42:35Z",
+      "url": "https://forums.warframe.com/topic/505953-hotfix-1705/",
+      "additions": "",
+      "changes": "Added improved visual FX to the Firewalker Mod.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Firewalker",
+      "fixes": ""
+    }
+  ],
+  "1dd98aab3d6c10ae47f1e980e361e615": [
+    {
+      "name": "Update 15.7.0 Nova Prime",
+      "date": "2014-12-16T18:58:55Z",
+      "url": "https://forums.warframe.com/topic/367069-update-1570-nova-prime/",
+      "additions": "",
+      "changes": "Adjusted Conclave rating for resistance Mods.  The following Mods are now 15 Conclave points when fully ranked:  Lightning Rod, Flame Repellent, Insulation, Shock Absorbers, Diamond Skin, Antitoxin, and Resilient Focus. Sure Footed is now 10 Conclave points.",
+      "fixes": ""
+    }
+  ],
+  "06eba1063d7ac162637d09d0b7f98cb1": [
+    {
+      "name": "Octavia’s Anthem: Update 20.6.0 + 20.6.0.1",
+      "date": "2017-05-24T20:42:16Z",
+      "url": "https://forums.warframe.com/topic/800141-octavia%E2%80%99s-anthem-update-2060-20601/",
+      "imgUrl": "http://i.imgur.com/ZsmkFGO.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Ember’s Flash Accelerant Augment Mod description reading ‘Fire’ instead of ‘Heat’."
+    },
+    {
+      "name": "The Glast Gambit: Update 19.7.0",
+      "date": "2017-01-18T22:29:49Z",
+      "url": "https://forums.warframe.com/topic/751635-the-glast-gambit-update-1970/",
+      "imgUrl": "http://n8k6e2y6.ssl.hwcdn.net/images/_newsImages/2017/Jan/18/Reinforcements_CorpusTonfa_Header.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Ember's Flash Accelerant Augment not adding Fire Damage to the caster."
+    }
+  ],
+  "0ac7a02f1835e48b7ada63fc25296c0e": [
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.8 + 22.20.8.1",
+      "date": "2018-06-05T17:20:04Z",
+      "url": "https://forums.warframe.com/topic/963818-beasts-of-the-sanctuary-hotfix-22208-222081/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Zenurik Void Flow not being applied with maximum Energy on first Transference usage."
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.18.8",
+      "date": "2018-04-27T23:14:52Z",
+      "url": "https://forums.warframe.com/topic/950912-beasts-of-the-sanctuary-hotfix-22188/",
+      "additions": "",
+      "changes": "Peculiar Bloom will now spawn a max of 5 flowers per target. Flowers so beautiful they hurt ya perf.",
+      "fixes": ""
+    },
+    {
+      "name": "Octavia’s Anthem: Hotfix 20.2.4",
+      "date": "2017-04-20T20:57:53Z",
+      "url": "https://forums.warframe.com/topic/788921-octavia%E2%80%99s-anthem-hotfix-2024/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed new Augments released in Update 20.2.0 (Pyroclastic Flow, Piercing Navigator, Negation Swarm, and Beguiling Lantern) not appearing in Codex and not able to be linked in chat. "
+    },
+    {
+      "name": "Update 19: The War Within",
+      "date": "2016-11-12T04:02:28Z",
+      "url": "https://forums.warframe.com/topic/715768-update-19-the-war-within/",
+      "imgUrl": "http://i.imgur.com/gCfJMUs.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed being able to collect an infinite amount of Energy Orbs even when Max Energy has been reached with Loki/Nova Prime and a maxed rank Primed Flow equipped as per: https://forums.warframe.com/topic/700300-consuming-energy-orbs-even-with-full-energy/"
+    },
+    {
+      "name": "Update: Specters of the Rail",
+      "date": "2016-07-08T14:12:48Z",
+      "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
+      "imgUrl": "http://i.imgur.com/YMVXfyw.jpg",
+      "additions": "",
+      "changes": "Item linking is a popular pastime in many MMOs, and now you’ll be able to link items in Warframe’s chat by typing “[“ plus the name of the item you wish to link! Clicking the link will open a description of that item. We hope this will also help the [Flow] when trading your [Spare Parts]!",
+      "fixes": ""
+    }
+  ],
+  "9740a3f6c8ad75c519dfbf7224a40908": [
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.8 + 22.20.8.1",
+      "date": "2018-06-05T17:20:04Z",
+      "url": "https://forums.warframe.com/topic/963818-beasts-of-the-sanctuary-hotfix-22208-222081/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Zenurik Void Flow not being applied with maximum Energy on first Transference usage."
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.18.8",
+      "date": "2018-04-27T23:14:52Z",
+      "url": "https://forums.warframe.com/topic/950912-beasts-of-the-sanctuary-hotfix-22188/",
+      "additions": "",
+      "changes": "Peculiar Bloom will now spawn a max of 5 flowers per target. Flowers so beautiful they hurt ya perf.",
+      "fixes": ""
+    },
+    {
+      "name": "Octavia’s Anthem: Hotfix 20.2.4",
+      "date": "2017-04-20T20:57:53Z",
+      "url": "https://forums.warframe.com/topic/788921-octavia%E2%80%99s-anthem-hotfix-2024/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed new Augments released in Update 20.2.0 (Pyroclastic Flow, Piercing Navigator, Negation Swarm, and Beguiling Lantern) not appearing in Codex and not able to be linked in chat. "
+    },
+    {
+      "name": "Update 19: The War Within",
+      "date": "2016-11-12T04:02:28Z",
+      "url": "https://forums.warframe.com/topic/715768-update-19-the-war-within/",
+      "imgUrl": "http://i.imgur.com/gCfJMUs.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed being able to collect an infinite amount of Energy Orbs even when Max Energy has been reached with Loki/Nova Prime and a maxed rank Primed Flow equipped as per: https://forums.warframe.com/topic/700300-consuming-energy-orbs-even-with-full-energy/"
+    },
+    {
+      "name": "Update: Specters of the Rail",
+      "date": "2016-07-08T14:12:48Z",
+      "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
+      "imgUrl": "http://i.imgur.com/YMVXfyw.jpg",
+      "additions": "",
+      "changes": "Item linking is a popular pastime in many MMOs, and now you’ll be able to link items in Warframe’s chat by typing “[“ plus the name of the item you wish to link! Clicking the link will open a description of that item. We hope this will also help the [Flow] when trading your [Spare Parts]!",
+      "fixes": ""
+    }
+  ],
+  "2bc6adfe1bc1cb47425d10b21f059fa1": [
+    {
+      "name": "Recurring Nightmares",
+      "date": "2016-10-27T19:03:48Z",
+      "url": "https://forums.warframe.com/topic/711418-recurring-nightmares/",
+      "imgUrl": "http://i.imgur.com/Oail8jd.jpg",
+      "additions": "",
+      "changes": "Fortitude",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 16.0.1",
+      "date": "2015-03-20T16:33:47Z",
+      "url": "https://forums.warframe.com/topic/421286-hotfix-1601/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed text on “Sure Footed” and “Fortitude” mods."
+    },
+    {
+      "name": "Hotfix 15.0.9",
+      "date": "2014-10-30T22:22:26Z",
+      "url": "https://forums.warframe.com/topic/336430-hotfix-1509/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with Corrupted Mod Transient Fortitude not being equippable simultaneously with Blind Rage."
+    },
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Transient Fortitude: Warframe: Increased power strength, but decreased duration.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 9.4.1: Double Affinity Weekend!",
+      "date": "2013-08-02T22:39:43Z",
+      "url": "https://forums.warframe.com/topic/90015-hotfix-941-double-affinity-weekend/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixes for Constitution mod and Fortitude mod not working as intended."
+    }
+  ],
+  "440005c1a9bbd255c8ad37ba2411b12b": [
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Mag’s Fracturing Crush Augment will no longer stop boss-type enemies."
+    }
+  ],
+  "d626e049c4c6ac5a75ef2e62b6390595": [
+    {
+      "name": "Update 15.13",
+      "date": "2015-02-05T21:08:01Z",
+      "url": "https://forums.warframe.com/topic/396379-update-1513/",
+      "additions": "",
+      "changes": "Frost’s Freeze Force",
+      "fixes": ""
+    }
+  ],
+  "1b0da2d65e32e604225431f43a3c4338": [
+    {
+      "name": "Hotfix 18.13.2",
+      "date": "2016-06-01T22:37:51Z",
+      "url": "https://forums.warframe.com/topic/655270-hotfix-18132/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Reduced the post FX of Zephyr’s Tornados when the Funnel Clouds Augment is equipped."
+    },
+    {
+      "name": "Hotfix 16.3.3 + 16.3.3.1",
+      "date": "2015-04-15T23:15:27Z",
+      "url": "https://forums.warframe.com/topic/441719-hotfix-1633-16331/",
+      "additions": "",
+      "changes": "Funnel Clouds: Tornado generates an additional X tornadoes, but tornadoes have reduced size and do not pull enemies.Excalibur ",
+      "fixes": ""
+    }
+  ],
+  "1feecefaa676b160b8191071fbbccdfc": [
+    {
+      "name": "Update 15.13",
+      "date": "2015-02-05T21:08:01Z",
+      "url": "https://forums.warframe.com/topic/396379-update-1513/",
+      "additions": "",
+      "changes": "Increased damage bonus to Excalibur’s Furious Javelin Mod.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 15.0.7",
+      "date": "2014-10-28T23:04:04Z",
+      "url": "https://forums.warframe.com/topic/334873-hotfix-1507/",
+      "additions": "• Added a visual effect to Furious Javelin which will grow in intensity the more times it is cast.",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "aa3ebd19320f869d4c7d746267ca2712": [
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "Gladiator Aegis (Warframe) ",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "9ed7eabec9f3e574d3dab6819a5953ce": [
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "Gladiator Finesse (Warframe) ",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "1faf1cd3e6580f7fbcb19864d7a9638b": [
+    {
+      "name": "Plains of Eidolon: Hotfix 22.0.8",
+      "date": "2017-10-20T21:44:33Z",
+      "url": "https://forums.warframe.com/topic/863518-plains-of-eidolon-hotfix-2208/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Gladiator Resolve appearing in two different bounty reward tables."
+    },
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "Gladiator Resolve (Warframe) ",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "5896093bd953bc25bb66db8a0c4c0c8c": [
+    {
+      "name": "The Glast Gambit: Update 19.8.0",
+      "date": "2017-01-25T19:24:45Z",
+      "url": "https://forums.warframe.com/topic/754548-the-glast-gambit-update-1980/",
+      "imgUrl": "http://i.imgur.com/W9ze8eZ.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed pick-ups sometimes falling through the ground after being moved by Vacuum or Mag’s passive or Greedy Pull ability."
+    },
+    {
+      "name": "Hotfix 17.0.4",
+      "date": "2015-08-06T14:48:33Z",
+      "url": "https://forums.warframe.com/topic/504855-hotfix-1704/",
+      "additions": "",
+      "changes": "Mag’s Greedy Pull Augment Mod will no longer pull Syndicate Medallions.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 16.11: Ash Prime + Hotfix 16.11.1",
+      "date": "2015-07-07T18:41:10Z",
+      "url": "https://forums.warframe.com/topic/486216-update-1611-ash-prime-hotfix-16111/",
+      "additions": "",
+      "changes": "Mag’s Greedy Pull Augment will now only draw in items for Mag.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 15.12.0",
+      "date": "2015-01-29T22:14:29Z",
+      "url": "https://forums.warframe.com/topic/393115-update-15120/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Mag’s Greedy Pull moving weapons disarmed by the Drahk Master, making the weapon unrecoverable.\nFixed Mag’s Greedy Pull Augment not properly using its full range for other clients when relocating items."
+    },
+    {
+      "name": "Update 15.11",
+      "date": "2015-01-21T23:52:13Z",
+      "url": "https://forums.warframe.com/topic/388964-update-1511/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Mag’s Greedy Pull Augment not picking up items within range on client, due to host registering items as being further away."
+    },
+    {
+      "name": "Update 15.10.0",
+      "date": "2015-01-15T00:17:31Z",
+      "url": "https://forums.warframe.com/topic/385108-update-15100/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Mag’s Greedy Pull Mod picking up items at only half the range it should be as per: https://forums.warframe.com/index.php?/topic/346046-greedy-pull-bug/"
+    }
+  ],
+  "c940745f96474f998ac19c0892f64019": [
+    {
+      "name": "Update 21: Chains of Harrow",
+      "date": "2017-06-29T03:00:20Z",
+      "url": "https://forums.warframe.com/topic/809842-update-21-chains-of-harrow/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/harrow/PriestSpear_1080p.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Clients not able to see the destination circle after they or a squadmate has casted Effigy using Chroma’s Guided Effigy Augment. "
+    }
+  ],
+  "747737ee6c345925836504c3d9870fcc": [
+    {
+      "name": "Buried Debts: Update 24.4.0",
+      "date": "2019-03-08T02:01:23Z",
+      "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/f07ee60119e2c8efc746da7ecf4cb49e.png",
+      "additions": "",
+      "changes": "Improved performance for Oberon’s Hallowed Eruption Augment.",
+      "fixes": ""
+    },
+    {
+      "name": "Octavia’s Anthem: Hotfix 20.3.1",
+      "date": "2017-04-27T20:46:08Z",
+      "url": "https://forums.warframe.com/topic/791287-octavia%E2%80%99s-anthem-hotfix-2031/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a script error with Hallowed Eruption Augment upon deactivating while another Oberon has Hallowed Ground active, resulting in the FX to remain forever.\nFixed Hallowed Ground & Hallowed Eruption Augment not hurting ragdolled enemies."
+    },
+    {
+      "name": "Update 15.13",
+      "date": "2015-02-05T21:08:01Z",
+      "url": "https://forums.warframe.com/topic/396379-update-1513/",
+      "additions": "",
+      "changes": "Oberon’s Hallowed Ground will no longer create a second AoE effect on a second cast when the Hallowed Eruption Mod is equipped.",
+      "fixes": ""
+    }
+  ],
+  "6b293c06856abf78ec535eac52595ba8": [
+    {
+      "name": "Update 17.5: The Jordas Precept. + Hotfix 17.5.1",
+      "date": "2015-10-02T02:05:33Z",
+      "url": "https://forums.warframe.com/topic/536207-update-175-the-jordas-precept-hotfix-1751/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Hallowed Reckoning Augment Mod activating on all hits instead of kills as per:"
+    },
+    {
+      "name": "Update 16.8.0",
+      "date": "2015-06-10T22:03:09Z",
+      "url": "https://forums.warframe.com/topic/473028-update-1680/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Oberon: Hallowed Reckoning: Enemies killed by Reckoning create small areas of Hallowed Ground for 10 seconds. Enemies standing in the Hallowed Ground take 150 damage per second, while allies gain 250 armor."
+    }
+  ],
+  "850579660b703973d6e7de261407557d": [
+    {
+      "name": "Hotfix 17.0.5",
+      "date": "2015-08-07T20:42:35Z",
+      "url": "https://forums.warframe.com/topic/505953-hotfix-1705/",
+      "additions": "",
+      "changes": "The Handspring Mod will now show percentage.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Handspring",
+      "fixes": ""
+    },
+    {
+      "name": "Update 7.10.0: Weekend Extermination Event!",
+      "date": "2013-05-04T02:28:56Z",
+      "url": "https://forums.warframe.com/topic/39130-update-7100-weekend-extermination-event/",
+      "additions": "New Warframe mod: Handspring.",
+      "changes": "",
+      "fixes": "Handspring [Warframe]: Quicker recovery after being knocked down."
+    }
+  ],
+  "3d617205ce17d2fca0a682de44ff777d": [
+    {
+      "name": "Mask of the Revenant: Update 23.8.0 + 23.8.0.1 + 23.8.0.2",
+      "date": "2018-09-12T18:41:12Z",
+      "url": "https://forums.warframe.com/topic/1008095-mask-of-the-revenant-update-2380-23801-23802/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/b04e5e955cbe351ab0be19dddf7b7b6a.png",
+      "additions": "",
+      "changes": "Changed Health Conversion to only remove stacks on Health damage. Previously it removed stacks on any damage, which was counterproductive when the damage was on Shields as they are not affected by Armor.",
+      "fixes": "With 90% damage resistance, Nezha is still very capable of tanking, but encouraged to rely on his other tools to avoid getting overwhelmed. Taking minimal health damage allows for synergy with Blazing Chakram’s health orbs, not to mention new modding avenues like Equilibrium, Health Conversion and various Arcanes. The change also allows us to improve survivability in other ways, such as the increased health pool, and major Warding Halo quality-of-life buffs listed below."
+    },
+    {
+      "name": "Update 21: Chains of Harrow",
+      "date": "2017-06-29T03:00:20Z",
+      "url": "https://forums.warframe.com/topic/809842-update-21-chains-of-harrow/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/harrow/PriestSpear_1080p.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Clients not able to see the Health Conversion Mod effects."
+    },
+    {
+      "name": "Oberon Prime: Hotfix 20.7.1",
+      "date": "2017-06-14T21:01:39Z",
+      "url": "https://forums.warframe.com/topic/806282-oberon-prime-hotfix-2071/",
+      "additions": "",
+      "changes": "The Health Conversion Mod now activates upon taking damage instead of getting hit. Previously, Warframes (like Valkyr, Rhino or Nezha) that have abilities that make themselves invincible to damage, were consuming the conversion when hit even though no damage was being done due to invincibility. This rendered the Health Conversion Mod rather useless, and has since been changed to improve functionality.",
+      "fixes": ""
+    },
+    {
+      "name": "The Glast Gambit: Update 19.6.0 + 19.6.0.1",
+      "date": "2017-01-11T23:47:27Z",
+      "url": "https://forums.warframe.com/topic/748631-the-glast-gambit-update-1960-19601/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Health Conversion and Energy Conversion Mod FX not appearing on Clients."
+    },
+    {
+      "name": "Update: Specters of the Rail",
+      "date": "2016-07-08T14:12:48Z",
+      "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
+      "imgUrl": "http://i.imgur.com/YMVXfyw.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with the visual FX of the Health Conversion Mod not reflecting the bonus' you have active."
+    },
+    {
+      "name": "Hotfix 18.8.2",
+      "date": "2016-04-13T18:53:32Z",
+      "url": "https://forums.warframe.com/topic/637581-hotfix-1882/",
+      "imgUrl": "http://i.imgur.com/LdxUao4.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed Energy Conversion and Health Conversion mods occasionally skipping a pickup."
+    },
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Health Conversion: Picking up Health Orbs grants up to 450 armor, stacking up to 3 times. Taking damage will consume a stack after 2 seconds."
+    }
+  ],
+  "f300bda7dd37c5b11dc12d6e8cc810d9": [
+    {
+      "name": "Buried Debts: Update 24.4.0",
+      "date": "2019-03-08T02:01:23Z",
+      "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/f07ee60119e2c8efc746da7ecf4cb49e.png",
+      "additions": "",
+      "changes": "Shockwaves caused by Heavy Impact or Rhino’s Passive now use your Energy colour.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18: The Second Dream",
+      "date": "2015-12-03T23:46:40Z",
+      "url": "https://forums.warframe.com/topic/568455-update-18-the-second-dream/",
+      "additions": "",
+      "changes": "Rhino has been given a passive: Heavy Impact!",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Heavy Impact",
+      "fixes": ""
+    },
+    {
+      "name": "Update 12.1.0: Grinlok",
+      "date": "2014-02-13T03:03:59Z",
+      "url": "https://forums.warframe.com/topic/178607-update-1210-grinlok/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed  Heavy Impact effect only playing once."
+    },
+    {
+      "name": "Update 11: Valkyr Unleashed",
+      "date": "2013-11-21T00:23:32Z",
+      "url": "https://forums.warframe.com/topic/132825-update-11-valkyr-unleashed/",
+      "additions": "",
+      "changes": "Improved the sound for the Heavy Impact mod",
+      "fixes": ""
+    }
+  ],
+  "96c4f1082c95c604c2dc30b2dd9f4312": [
+    {
+      "name": "Update 18.8.0",
+      "date": "2016-04-06T20:31:30Z",
+      "url": "https://forums.warframe.com/topic/635136-update-1880/",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed Hush and Hushed Invisibility not applying to the Ignis."
+    }
+  ],
+  "61063af2ef0100aab836695c7d12e019": [
+    {
+      "name": "Buried Debts: Hotfix 24.5.5",
+      "date": "2019-03-25T21:21:51Z",
+      "url": "https://forums.warframe.com/topic/1076040-buried-debts-hotfix-2455/",
+      "additions": "",
+      "changes": "Increased Valkyr’s Hysterical Assault Augment Mod max Range from 30m to 40m.\nFixed Valkyr’s Hysterical Assault Augment Mod having broken functionality with Melee 2.99997 due to the removal of Secondary Fire in Melee mode. Now Aiming + Melee will trigger the leap function while in Hysteria. The Mod description has been updated to reflect this new mechanic.",
+      "fixes": ""
+    },
+    {
+      "name": "Buried Debts: Update 24.4.0",
+      "date": "2019-03-08T02:01:23Z",
+      "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/f07ee60119e2c8efc746da7ecf4cb49e.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed script error with Valkyr’s Hysterical Assault Augment. "
+    },
+    {
+      "name": "The Silver Grove: U1.2 + U1.3",
+      "date": "2016-09-02T18:01:23Z",
+      "url": "https://forums.warframe.com/topic/695536-the-silver-grove-u12-u13/",
+      "additions": "",
+      "changes": "Valkyr now screams when casting Hysteria with the Hysterical Assault Augment Mod equipped.",
+      "fixes": ""
+    }
+  ],
+  "9dc9595faad3bfce6a32e5ee967c42b3": [
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Ice Spring",
+      "fixes": ""
+    }
+  ],
+  "4a9e089cddd4637908aa576d163a873d": [
+    {
+      "name": "Update 21: Chains of Harrow",
+      "date": "2017-06-29T03:00:20Z",
+      "url": "https://forums.warframe.com/topic/809842-update-21-chains-of-harrow/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/harrow/PriestSpear_1080p.jpg",
+      "additions": "",
+      "changes": "Improved the performance of Frost's Ice Wave Impedance Mod.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 16.1.3",
+      "date": "2015-03-26T22:31:46Z",
+      "url": "https://forums.warframe.com/topic/427542-hotfix-1613/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Added audio cue to Frost’s Ice Wave Impedance Mod effect."
+    },
+    {
+      "name": "Warframe: Sanctuary",
+      "date": "2015-03-20T02:21:54Z",
+      "url": "https://forums.warframe.com/topic/420448-warframe-sanctuary/",
+      "additions": "",
+      "changes": "Ice Wave Impedance",
+      "fixes": ""
+    }
+  ],
+  "9ba9b5438002278754bfee4609218ab8": [
+    {
+      "name": "Chimera: Update 23.10",
+      "date": "2018-10-12T13:56:43Z",
+      "url": "https://forums.warframe.com/topic/1016610-chimera-update-2310/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/1a5052e0e614dd7d7858b2a38fca9bf8.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a progress stopper in The War Within’s \"Infiltrate the Grineer Asteroid Fortress\" mission."
+    },
+    {
+      "name": "The War Within: Hotfix 19.3.2 + 19.3.2.1",
+      "date": "2016-12-13T19:17:37Z",
+      "url": "https://forums.warframe.com/topic/734004-the-war-within-hotfix-1932-19321/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Infiltrate Augment’s speed increase infiltrating on to Focus powers. "
+    },
+    {
+      "name": "Update: Lunaro",
+      "date": "2016-06-15T23:58:19Z",
+      "url": "https://forums.warframe.com/topic/660347-update-lunaro/",
+      "imgUrl": "http://i.imgur.com/8pv5NTb.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed Ivaras Infiltrate Augment Mod not protecting you from lasers in the Orokin Moon, Grineer, and Uranus spy mission tilesets.  "
+    }
+  ],
+  "a53b26fa196ddfebf51d6615a244f964": [
+    {
+      "name": "Update 15.7.0 Nova Prime",
+      "date": "2014-12-16T18:58:55Z",
+      "url": "https://forums.warframe.com/topic/367069-update-1570-nova-prime/",
+      "additions": "",
+      "changes": "Adjusted Conclave rating for resistance Mods.  The following Mods are now 15 Conclave points when fully ranked:  Lightning Rod, Flame Repellent, Insulation, Shock Absorbers, Diamond Skin, Antitoxin, and Resilient Focus. Sure Footed is now 10 Conclave points.",
+      "fixes": ""
+    }
+  ],
+  "ad58e4e79efed0232e65a839837dddc9": [
+    {
+      "name": "Update 18.12.0: Vauban Prime & 18.12.1",
+      "date": "2016-05-17T18:00:00Z",
+      "url": "https://forums.warframe.com/topic/649037-update-18120-vauban-prime-18121/",
+      "imgUrl": "http://i.imgur.com/vmd8QPm.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed Power Strength Mods (Blind Rage, Intensify, etc.) not applying very much to Vauban’s Vortex initial blast and damage over time."
+    },
+    {
+      "name": "Hotfix 17.8.1",
+      "date": "2015-10-22T19:48:48Z",
+      "url": "https://forums.warframe.com/topic/549685-hotfix-1781/",
+      "additions": "",
+      "changes": "Renamed the Intensify Affector to Potency.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.8.0",
+      "date": "2015-10-21T21:58:23Z",
+      "url": "https://forums.warframe.com/topic/549118-update-1780/",
+      "additions": "",
+      "changes": "Excalibur’s Radial Javelin is now affected by Intensify in Conclave.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.5: The Jordas Precept. + Hotfix 17.5.1",
+      "date": "2015-10-02T02:05:33Z",
+      "url": "https://forums.warframe.com/topic/536207-update-175-the-jordas-precept-hotfix-1751/",
+      "additions": "",
+      "changes": "Intensify ",
+      "fixes": ""
+    },
+    {
+      "name": "Update 12.3.0: The Grustrag Three",
+      "date": "2014-02-27T05:01:52Z",
+      "url": "https://forums.warframe.com/topic/186244-update-1230-the-grustrag-three/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Changed Focus mod name to \"Intensify\"Changes:"
+    }
+  ],
+  "f15dab9a24268dc848b33f22dab8b324": [
+    {
+      "name": "Update 18.12.0: Vauban Prime & 18.12.1",
+      "date": "2016-05-17T18:00:00Z",
+      "url": "https://forums.warframe.com/topic/649037-update-18120-vauban-prime-18121/",
+      "imgUrl": "http://i.imgur.com/vmd8QPm.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed Power Strength Mods (Blind Rage, Intensify, etc.) not applying very much to Vauban’s Vortex initial blast and damage over time."
+    },
+    {
+      "name": "Hotfix 17.8.1",
+      "date": "2015-10-22T19:48:48Z",
+      "url": "https://forums.warframe.com/topic/549685-hotfix-1781/",
+      "additions": "",
+      "changes": "Renamed the Intensify Affector to Potency.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.8.0",
+      "date": "2015-10-21T21:58:23Z",
+      "url": "https://forums.warframe.com/topic/549118-update-1780/",
+      "additions": "",
+      "changes": "Excalibur’s Radial Javelin is now affected by Intensify in Conclave.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.5: The Jordas Precept. + Hotfix 17.5.1",
+      "date": "2015-10-02T02:05:33Z",
+      "url": "https://forums.warframe.com/topic/536207-update-175-the-jordas-precept-hotfix-1751/",
+      "additions": "",
+      "changes": "Intensify ",
+      "fixes": ""
+    },
+    {
+      "name": "Update 12.3.0: The Grustrag Three",
+      "date": "2014-02-27T05:01:52Z",
+      "url": "https://forums.warframe.com/topic/186244-update-1230-the-grustrag-three/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Changed Focus mod name to \"Intensify\"Changes:"
+    }
+  ],
+  "0f2fb2a11787a282a5c5a53f2b83656e": [
+    {
+      "name": "Update 18.2.0",
+      "date": "2016-01-05T18:24:20Z",
+      "url": "https://forums.warframe.com/topic/590253-update-1820/",
+      "additions": "",
+      "changes": "The Intruder Mod will now work on Grineer hacking puzzles by slowing the hacking spinner.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Intruder",
+      "fixes": ""
+    }
+  ],
+  "2658aa3b4ec80bc409bc9e19ade3ca70": [
+    {
+      "name": "Banshee Prime: Hotfix 19.11.5 + 19.11.6",
+      "date": "2017-02-28T22:44:49Z",
+      "url": "https://forums.warframe.com/topic/767736-banshee-prime-hotfix-19115-19116/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Clients being able to toggle off Rhino’s Iron Skin with Iron Shrapnel immediately after casting."
+    },
+    {
+      "name": "Update 17.10.0",
+      "date": "2015-11-04T23:21:00Z",
+      "url": "https://forums.warframe.com/topic/556384-update-17100/",
+      "additions": "",
+      "changes": "Reduced the damage of Rhino’s Iron Shrapnel Augment in Conclave.",
+      "fixes": ""
+    },
+    {
+      "name": "Warframe: Sanctuary",
+      "date": "2015-03-20T02:21:54Z",
+      "url": "https://forums.warframe.com/topic/420448-warframe-sanctuary/",
+      "additions": "",
+      "changes": "Iron Shrapnel",
+      "fixes": ""
+    }
+  ],
+  "8a733e97af751e02158583ccecaa6f61": [
+    {
+      "name": "Beasts of the Sanctuary: Update 22.19.0",
+      "date": "2018-05-02T18:30:06Z",
+      "url": "https://forums.warframe.com/topic/952702-beasts-of-the-sanctuary-update-22190/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/8c27eabbd9bc9b5af2ba5944cd490302.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Thrown weapons equipped with Power Throw scaling with the range from Wukong’s Iron Vault Augment. "
+    },
+    {
+      "name": "Plains of Eidolon: Update 22.6.0 + Hotfix 22.6.0.1",
+      "date": "2017-12-07T22:05:21Z",
+      "url": "https://forums.warframe.com/topic/891096-plains-of-eidolon-update-2260-hotfix-22601/",
+      "imgUrl": "https://content.invisioncic.com/Mwarframe/monthly_2017_12/Warframe0044.thumb.jpg.301d3829b792af173307be6fda35cbb8.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the range increase from Iron Vault scaling with Exodia Contagion. "
+    }
+  ],
+  "f6ce12c56beb9c5918ba71c83e760b5f": [
+    {
+      "name": "Update 15.10.0",
+      "date": "2015-01-15T00:17:31Z",
+      "url": "https://forums.warframe.com/topic/385108-update-15100/",
+      "additions": "Ability buffs will also show self-buffs such as Roar, and Augment Mods that provide buffs such as Rhino’s Ironclad Charge will also detail information (ie armor gained from targets hit with Charge).",
+      "changes": "",
+      "fixes": ""
+    },
+    {
+      "name": "Mesa Update",
+      "date": "2014-11-27T17:30:05Z",
+      "url": "https://forums.warframe.com/topic/352963-mesa-update/",
+      "additions": "",
+      "changes": "Buffed effects from Rhino’s Ironclad Charge Mod.\nFixed enemies not taking damage from Rhino’s Charge when under the effect of Ironclad Charge. Also correct strength Mods double applying to explosion damage.",
+      "fixes": ""
+    }
+  ],
+  "2bcb68986a83d0ef7153562c62febf21": [
+    {
+      "name": "The Index Preview",
+      "date": "2016-10-20T23:28:18Z",
+      "url": "https://forums.warframe.com/topic/709665-the-index-preview/",
+      "imgUrl": "http://i.imgur.com/49dlyEz.jpg",
+      "additions": "",
+      "changes": "Optimized Loki’s Radial Disarm and Irradiating Disarm Augment Mod to smooth out frame-rate issues.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Loki’s Irradiating Disarm Augment will no longer be able to confuse boss-type enemies."
+    },
+    {
+      "name": "Update 15.9",
+      "date": "2015-01-08T21:39:10Z",
+      "url": "https://forums.warframe.com/topic/381637-update-159/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed enemies immune to Warframe abilities still being affected by Loki’s Irradiating Disarm Augment Mod."
+    }
+  ],
+  "6b2dd94cc9d05fe8571ccf808e7988bd": [
+    {
+      "name": "Update 15.7.2 + 15.7.2.1",
+      "date": "2014-12-19T18:09:43Z",
+      "url": "https://forums.warframe.com/topic/369418-update-1572-15721/",
+      "additions": "",
+      "changes": "Added a 3 second delay on players losing Zephyr’s Jet Stream Mod buff once stepping out of range of Turbulence.",
+      "fixes": ""
+    }
+  ],
+  "3d34577653de2e73055de20abb0400ec": [
+    {
+      "name": "Plains of Eidolon: Update 22.11.0",
+      "date": "2018-01-31T21:41:13Z",
+      "url": "https://forums.warframe.com/topic/914315-plains-of-eidolon-update-22110/",
+      "imgUrl": "https://i.imgur.com/CkFwkmo.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Nidus’ Larva Burst Augment not activating when using \"Use Selected Power\" input."
+    },
+    {
+      "name": "Plains of Eidolon: Hotfix 22.10.2",
+      "date": "2018-01-26T19:02:16Z",
+      "url": "https://forums.warframe.com/topic/912278-plains-of-eidolon-hotfix-22102/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Larva Burst not appearing in Codex or linking in chat. "
+    },
+    {
+      "name": "Plains of Eidolon: Hotfix 22.10.1",
+      "date": "2018-01-26T04:48:38Z",
+      "url": "https://forums.warframe.com/topic/911974-plains-of-eidolon-hotfix-22101/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed enemies not getting up from ragdoll if they survived Nidus' Larva Burst Augment being triggered."
+    }
+  ],
+  "f7ac000565d918dde818774c0d25990c": [
+    {
+      "name": "Plains of Eidolon: Update 22.6.0 + Hotfix 22.6.0.1",
+      "date": "2017-12-07T22:05:21Z",
+      "url": "https://forums.warframe.com/topic/891096-plains-of-eidolon-update-2260-hotfix-22601/",
+      "imgUrl": "https://content.invisioncic.com/Mwarframe/monthly_2017_12/Warframe0044.thumb.jpg.301d3829b792af173307be6fda35cbb8.jpg",
+      "additions": "",
+      "changes": "Lightning Dash now costs 10 energy per cast.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Lightning Dash",
+      "fixes": ""
+    }
+  ],
+  "aae2533103cb5cf2f29280cc5657d436": [
+    {
+      "name": "Update 15.7.0 Nova Prime",
+      "date": "2014-12-16T18:58:55Z",
+      "url": "https://forums.warframe.com/topic/367069-update-1570-nova-prime/",
+      "additions": "",
+      "changes": "Adjusted Conclave rating for resistance Mods.  The following Mods are now 15 Conclave points when fully ranked:  Lightning Rod, Flame Repellent, Insulation, Shock Absorbers, Diamond Skin, Antitoxin, and Resilient Focus. Sure Footed is now 10 Conclave points.",
+      "fixes": ""
+    }
+  ],
+  "a45688155d3db88ae652b6d2504fbebf": [
+    {
+      "name": "Update 17.10.0",
+      "date": "2015-11-04T23:21:00Z",
+      "url": "https://forums.warframe.com/topic/556384-update-17100/",
+      "additions": "",
+      "changes": "Maglev Mod has been removed from PvP.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Maglev",
+      "fixes": ""
+    }
+  ],
+  "c3287a585f1e1441956955d593ff5e9d": [
+    {
+      "name": "Chains of Harrow: Hotfix 21.0.7",
+      "date": "2017-07-13T16:02:08Z",
+      "url": "https://forums.warframe.com/topic/817066-chains-of-harrow-hotfix-2107/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Mag’s Magnetized Discharge Augment not triggering when using the \"use selected ability\" key."
+    }
+  ],
+  "2fba1f4caf2e29a0285993b9bb0e7b17": [
+    {
+      "name": "Fortuna: Hotfix 24.2.7 + 24.2.7.1",
+      "date": "2019-01-09T18:37:18Z",
+      "url": "https://forums.warframe.com/topic/1052727-fortuna-hotfix-2427-24271/",
+      "additions": "",
+      "changes": "Corpus Lockers will show their new hologram if unlocked with the Master Thief Mod.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.8.0",
+      "date": "2015-10-21T21:58:23Z",
+      "url": "https://forums.warframe.com/topic/549118-update-1780/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Master Thief Mod visuals not properly displaying for Hosts and Clients."
+    },
+    {
+      "name": "Update 17.7",
+      "date": "2015-10-14T21:37:19Z",
+      "url": "https://forums.warframe.com/topic/545312-update-177/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Master Thief Mod not properly unlocking chests in secret rooms."
+    },
+    {
+      "name": "Hotfix 17.6.2",
+      "date": "2015-10-08T21:38:43Z",
+      "url": "https://forums.warframe.com/topic/541693-hotfix-1762/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Master Thief Mod not unlocking lockers in secret rooms."
+    },
+    {
+      "name": "Update 17.1.0 - 17.1.4",
+      "date": "2015-08-12T21:08:45Z",
+      "url": "https://forums.warframe.com/topic/509640-update-1710-1714/",
+      "additions": "",
+      "changes": "",
+      "fixes": "• Fixed the Master Thief Mod not properly showing locker colors changing from Red to Green on Clients."
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Master Thief",
+      "fixes": ""
+    }
+  ],
+  "77253856a25c1482cf06f460501d13bc": [
+    {
+      "name": "Fortuna: Hotfix 24.0.10",
+      "date": "2018-11-21T21:38:12Z",
+      "url": "https://forums.warframe.com/topic/1035481-fortuna-hotfix-24010/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Mecha Pulse Mod having lower (incorrect) buff values in-game than what is shown in the Mod/Arsenal UI."
+    }
+  ],
+  "8f2a114795fd99f525203c20e896f41c": [
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Mesa’s Muzzle Flash Augment will no longer blind boss-type enemies."
+    }
+  ],
+  "27c6f0d3bfcc2bfbd15b07f3d90fad77": [
+    {
+      "name": "Fortuna: Hotfix 24.1.2 + 24.1.2.1",
+      "date": "2018-11-29T19:46:27Z",
+      "url": "https://forums.warframe.com/topic/1038856-fortuna-hotfix-2412-24121/",
+      "additions": "",
+      "changes": "Dread Mirror animations play faster with Natural Talent equipped.\nBlood Altar animations play faster with Natural Talent equipped.",
+      "fixes": ""
+    },
+    {
+      "name": "Fortuna: Hotfix 24.0.2",
+      "date": "2018-11-09T22:23:12Z",
+      "url": "https://forums.warframe.com/topic/1027194-fortuna-hotfix-2402/",
+      "additions": "",
+      "changes": "Natural Talent Mod now applies to Garuda’s Dread Mirror and Seeking Talons ability.",
+      "fixes": ""
+    },
+    {
+      "name": "Shrine of the Eidolon: Update 22.13.0",
+      "date": "2018-02-15T16:35:03Z",
+      "url": "https://forums.warframe.com/topic/922109-shrine-of-the-eidolon-update-22130/",
+      "imgUrl": "http://i.imgur.com/pMAZ2A5.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixes Natural Talent causing a delay after the Mag Crush animation ends where you couldn't cast other Abilities."
+    },
+    {
+      "name": "Chains of Harrow: Hotfix 21.0.4",
+      "date": "2017-07-05T17:02:16Z",
+      "url": "https://forums.warframe.com/topic/813247-chains-of-harrow-hotfix-2104/",
+      "additions": "",
+      "changes": "Energy Channeling speed is now affected by Natural Talent",
+      "fixes": ""
+    },
+    {
+      "name": "The War Within: Update 19.2.0",
+      "date": "2016-12-01T21:22:08Z",
+      "url": "https://forums.warframe.com/topic/728401-the-war-within-update-1920/",
+      "imgUrl": "http://i.imgur.com/1f5rmjA.jpg",
+      "additions": "",
+      "changes": "Casting speed Mods (Natural Talent) now affect:",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 16.10.2",
+      "date": "2015-07-02T22:10:51Z",
+      "url": "https://forums.warframe.com/topic/484099-hotfix-16102/",
+      "additions": "",
+      "changes": "Ember’s Accelerant now provides a buff to casting speed for the duration of the Ability (Equivalent to a max-rank Natural Talent).",
+      "fixes": ""
+    },
+    {
+      "name": "Update 15.13",
+      "date": "2015-02-05T21:08:01Z",
+      "url": "https://forums.warframe.com/topic/396379-update-1513/",
+      "additions": "",
+      "changes": "Updated Natural Talent to now be a Rare Mod on Interception drop tables.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 15.6.0",
+      "date": "2014-12-11T22:04:26Z",
+      "url": "https://forums.warframe.com/topic/363216-update-1560/",
+      "additions": "",
+      "changes": "The Natural Talent Mod has had its Conclave Rating adjusted to 10 at max range.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 12.0.1",
+      "date": "2014-02-06T07:29:13Z",
+      "url": "https://forums.warframe.com/topic/173291-hotfix-1201/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Natural Talent not being tradeable"
+    }
+  ],
+  "1c76204bb10cf78ca5af894575ed76a2": [
+    {
+      "name": "Octavia’s Anthem: Update 20.5.0",
+      "date": "2017-05-17T19:16:26Z",
+      "url": "https://forums.warframe.com/topic/797978-octavia%E2%80%99s-anthem-update-2050/",
+      "imgUrl": "http://i.imgur.com/ADvsdMP.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a case where Clients would incorrectly think they received a proc they were supposed to be immune to with Inaros’ Negation Swarm Mod IF they were shot twice on the same frame, by the same source, and the 2nd shot tried to apply a proc that the 1st shot didn't."
+    },
+    {
+      "name": "Octavia’s Anthem: Hotfix 20.2.4",
+      "date": "2017-04-20T20:57:53Z",
+      "url": "https://forums.warframe.com/topic/788921-octavia%E2%80%99s-anthem-hotfix-2024/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed new Augments released in Update 20.2.0 (Pyroclastic Flow, Piercing Navigator, Negation Swarm, and Beguiling Lantern) not appearing in Codex and not able to be linked in chat. "
+    }
+  ],
+  "4b5baf99de1a1f0a6a7a385972357f1f": [
+    {
+      "name": "Buried Debts: Hotfix 24.4.4 + 24.4.4.1",
+      "date": "2019-03-11T21:01:34Z",
+      "url": "https://forums.warframe.com/topic/1069857-buried-debts-hotfix-2444-24441/",
+      "additions": "",
+      "changes": "Updated the Neutron Star Augment description to match updated behaviour.",
+      "fixes": ""
+    },
+    {
+      "name": "Buried Debts: Update 24.4.0",
+      "date": "2019-03-08T02:01:23Z",
+      "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/f07ee60119e2c8efc746da7ecf4cb49e.png",
+      "additions": "",
+      "changes": "Nova’s Neutron Star Augment has been updated to reflect the following mechanic change:",
+      "fixes": ""
+    },
+    {
+      "name": "Update 15.13",
+      "date": "2015-02-05T21:08:01Z",
+      "url": "https://forums.warframe.com/topic/396379-update-1513/",
+      "additions": "",
+      "changes": "Nova’s Neutron Star Augment now has a max  range of 8 meters, in addition to some slight camera shake for effect.",
+      "fixes": ""
+    },
+    {
+      "name": "Mesa Update",
+      "date": "2014-11-27T17:30:05Z",
+      "url": "https://forums.warframe.com/topic/352963-mesa-update/",
+      "additions": "",
+      "changes": "Slightly increased the range and damage of Nova’s Neutron Star Mod.",
+      "fixes": ""
+    }
+  ],
+  "a099f8037067ffdf9af7fbdab3783505": [
+    {
+      "name": "The Index Preview",
+      "date": "2016-10-20T23:28:18Z",
+      "url": "https://forums.warframe.com/topic/709665-the-index-preview/",
+      "imgUrl": "http://i.imgur.com/49dlyEz.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Pain Threshold (Exilus)"
+    }
+  ],
+  "532ac186e4dc73deaee3d9aac35f71e7": [
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Patagium",
+      "fixes": ""
+    }
+  ],
+  "ed5c83614ec31bb5ad615c5fd218da71": [
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.18.8",
+      "date": "2018-04-27T23:14:52Z",
+      "url": "https://forums.warframe.com/topic/950912-beasts-of-the-sanctuary-hotfix-22188/",
+      "additions": "",
+      "changes": "Peculiar Bloom will now spawn a max of 5 flowers per target. Flowers so beautiful they hurt ya perf.",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.18.4",
+      "date": "2018-04-23T19:06:23Z",
+      "url": "https://forums.warframe.com/topic/949165-beasts-of-the-sanctuary-hotfix-22184/",
+      "additions": "",
+      "changes": "Peculiar Bloom Mod can now be chat-linked!",
+      "fixes": ""
+    }
+  ],
+  "f14299a3a36683d3bace2864bc3515dc": [
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.4",
+      "date": "2018-05-22T20:13:20Z",
+      "url": "https://forums.warframe.com/topic/959378-beasts-of-the-sanctuary-hotfix-22204/",
+      "additions": "",
+      "changes": "You can now trade the Peculiar Growth Mod!",
+      "fixes": ""
+    }
+  ],
+  "93e9c431dafda0012dcfa8e252b45728": [
+    {
+      "name": "Hotfix 16.3.4",
+      "date": "2015-04-16T20:21:12Z",
+      "url": "https://forums.warframe.com/topic/442256-hotfix-1634/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Vauban’s Perpetual Vortex Mod no longer pulling in enemies after the initial Vortex time has ended."
+    },
+    {
+      "name": "Hotfix 16.3.3 + 16.3.3.1",
+      "date": "2015-04-15T23:15:27Z",
+      "url": "https://forums.warframe.com/topic/441719-hotfix-1633-16331/",
+      "additions": "",
+      "changes": "Perpetual Vortex: Vortex's duration is increased by % for each additional Vortex thrown into the initial Vortex.",
+      "fixes": ""
+    }
+  ],
+  "f17827551ed9e1c224d3ab83868b2ad2": [
+    {
+      "name": "Beasts of the Sanctuary: Update 22.20.0",
+      "date": "2018-05-17T14:55:31Z",
+      "url": "https://forums.warframe.com/topic/957066-beasts-of-the-sanctuary-update-22200/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/09cdfacb9f01a572c3205b5ccb861822.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Oberon’s Phoenix Renewal Augment turning you immortal in Onslaught."
+    },
+    {
+      "name": "Octavia’s Anthem: Update 20.4.0",
+      "date": "2017-05-04T13:58:50Z",
+      "url": "https://forums.warframe.com/topic/793570-octavia%E2%80%99s-anthem-update-2040/",
+      "additions": "",
+      "changes": "Fixed Health Regeneration not working after triggering the Phoenix Renewal Augment.",
+      "fixes": ""
+    },
+    {
+      "name": "The Glast Gambit: Update 19.9.0",
+      "date": "2017-02-01T21:04:20Z",
+      "url": "https://forums.warframe.com/topic/757465-the-glast-gambit-update-1990/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Phoenix Renewal (Regeneration Augment Mod) Impact message showing loc tag."
+    },
+    {
+      "name": "The War Within: Hotfix 19.3.2 + 19.3.2.1",
+      "date": "2016-12-13T19:17:37Z",
+      "url": "https://forums.warframe.com/topic/734004-the-war-within-hotfix-1932-19321/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed exploit with Phoenix Renewal Augment."
+    },
+    {
+      "name": "Update: Specters of the Rail",
+      "date": "2016-07-08T14:12:48Z",
+      "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
+      "imgUrl": "http://i.imgur.com/YMVXfyw.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Oberon's Phoenix Renewal Augment causing Wukong's Defy to stop working if active at the time of the effect."
+    }
+  ],
+  "bfcc34e2e62cd41c2c07b171c0f339eb": [
+    {
+      "name": "Octavia’s Anthem: Hotfix 20.2.4",
+      "date": "2017-04-20T20:57:53Z",
+      "url": "https://forums.warframe.com/topic/788921-octavia%E2%80%99s-anthem-hotfix-2024/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed new Augments released in Update 20.2.0 (Pyroclastic Flow, Piercing Navigator, Negation Swarm, and Beguiling Lantern) not appearing in Codex and not able to be linked in chat. "
+    },
+    {
+      "name": "Octavia’s Anthem: Hotfix 20.2.1",
+      "date": "2017-04-12T22:06:27Z",
+      "url": "https://forums.warframe.com/topic/785900-octavia%E2%80%99s-anthem-hotfix-2021/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Ivara’s Piercing Navigator Augment being marked as an Exilus Mod."
+    }
+  ],
+  "81a558145dbeb50ff5791789305c819f": [
+    {
+      "name": "Update 17.5: The Jordas Precept. + Hotfix 17.5.1",
+      "date": "2015-10-02T02:05:33Z",
+      "url": "https://forums.warframe.com/topic/536207-update-175-the-jordas-precept-hotfix-1751/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Piercing Step Mod not properly displaying the Puncture symbol in the Arsenal stats screen."
+    }
+  ],
+  "ec9d53b1ba6a5a955e6b9931e8fb8d59": [
+    {
+      "name": "Hotfix 18.0.4 ",
+      "date": "2015-12-08T17:59:59Z",
+      "url": "https://forums.warframe.com/topic/573817-hotfix-1804-spoilers/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue causing Hydroid’s Pilfering Swarm Mod to prevent Defense or Excavation Waves from ending."
+    },
+    {
+      "name": "Hotfix 17.0.4",
+      "date": "2015-08-06T14:48:33Z",
+      "url": "https://forums.warframe.com/topic/504855-hotfix-1704/",
+      "additions": "",
+      "changes": "The drop rates from the Pilfering Swarm Augment Mod will no longer be affected by Power Strength.\nThe Pilfering Swarm Augment Mod will now generate drops for enemies that are slain being held by tentacles, not just dying from the tentacle’s appearing. In short, enemies don't need to be killed by the tentacles to have an added drop chance.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 15.16.2",
+      "date": "2015-03-11T22:21:44Z",
+      "url": "https://forums.warframe.com/topic/415936-hotfix-15162/",
+      "additions": "",
+      "changes": "Hydroid's Tentacle Swarm 'Pilfering Swarm' Augment no longer applies to bosses.",
+      "fixes": ""
+    }
+  ],
+  "02f3fdf06b8bc99c94980805acd430e7": [
+    {
+      "name": "Hotfix 18.4.7",
+      "date": "2016-02-04T22:43:36Z",
+      "url": "https://forums.warframe.com/topic/605204-hotfix-1847/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a bug where the Power Drift Mod was not working as intended as per:  https://forums.warframe.com/index.php?/topic/596954-power-drifts-resist-knowckdown-not-working/"
+    },
+    {
+      "name": "Hotfix 18.0.4 ",
+      "date": "2015-12-08T17:59:59Z",
+      "url": "https://forums.warframe.com/topic/573817-hotfix-1804-spoilers/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Power Drift Mod not properly increasing knockdown recovery."
+    }
+  ],
+  "f5836fcae0d4015d0c9c7a856de2a26e": [
+    {
+      "name": "Plains of Eidolon: Update 22.1.0",
+      "date": "2017-10-25T20:57:43Z",
+      "url": "https://forums.warframe.com/topic/867056-plains-of-eidolon-update-2210/",
+      "additions": "",
+      "changes": "Fixed Ivara's \"The Power Of Three\" Augment needing more energy than it should if you tried to use it repeatedly",
+      "fixes": ""
+    }
+  ],
+  "104ed073233bbd6e5e6fac13e5014f1d": [
+    {
+      "name": "Hotfix 18.14.2",
+      "date": "2016-06-09T21:21:23Z",
+      "url": "https://forums.warframe.com/topic/658183-hotfix-18142/",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed a filepath appearing in the UI when Wukong's Primal Rage Augment is in use."
+    }
+  ],
+  "d828d783efd9f16960c0d93fb4a388c9": [
+    {
+      "name": "Update 19: The War Within",
+      "date": "2016-11-12T04:02:28Z",
+      "url": "https://forums.warframe.com/topic/715768-update-19-the-war-within/",
+      "imgUrl": "http://i.imgur.com/gCfJMUs.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed being able to collect an infinite amount of Energy Orbs even when Max Energy has been reached with Loki/Nova Prime and a maxed rank Primed Flow equipped as per: https://forums.warframe.com/topic/700300-consuming-energy-orbs-even-with-full-energy/"
+    }
+  ],
+  "c55bb29482088b9f7f2e6a33c9cd8808": [
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Prism Guard "
+    }
+  ],
+  "2bd287a25312d14cce48b7684c941b8a": [
+    {
+      "name": "Update 19: The War Within",
+      "date": "2016-11-12T04:02:28Z",
+      "url": "https://forums.warframe.com/topic/715768-update-19-the-war-within/",
+      "imgUrl": "http://i.imgur.com/gCfJMUs.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a script error with Valkyr’s Prolonged Paralysis augment."
+    },
+    {
+      "name": "Hotfix 17.5.3",
+      "date": "2015-10-02T16:07:50Z",
+      "url": "https://forums.warframe.com/topic/536870-hotfix-1753/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Valkyr's Prolonged Paralysis pulling enemies significantly farther than intended."
+    },
+    {
+      "name": "Mesa Update",
+      "date": "2014-11-27T17:30:05Z",
+      "url": "https://forums.warframe.com/topic/352963-mesa-update/",
+      "additions": "",
+      "changes": "Updated Valkyr’s Prolonged Paralysis Mod to leave enemies stunned on the ground, open to execution attacks.",
+      "fixes": ""
+    }
+  ],
+  "d1fe1a86e7ffda1550237e17f11876c7": [
+    {
+      "name": "Hotfix 18.5.4",
+      "date": "2016-03-07T22:52:10Z",
+      "url": "https://forums.warframe.com/topic/621181-hotfix-1854/",
+      "additions": "",
+      "changes": "•    The Provoked Mod now affects Inaros's bleed out damage.",
+      "fixes": ""
+    }
+  ],
+  "5f49aa577ab30b563159769fb76e60de": [
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.7",
+      "date": "2018-05-30T19:03:25Z",
+      "url": "https://forums.warframe.com/topic/961879-beasts-of-the-sanctuary-hotfix-22207/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a script error when using Equinox’s Push & Pull Augment Mod.  "
+    },
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Push & Pull "
+    }
+  ],
+  "30445862bec68a826a75a9d922c04b5c": [
+    {
+      "name": "Octavia’s Anthem: Hotfix 20.2.4",
+      "date": "2017-04-20T20:57:53Z",
+      "url": "https://forums.warframe.com/topic/788921-octavia%E2%80%99s-anthem-hotfix-2024/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed new Augments released in Update 20.2.0 (Pyroclastic Flow, Piercing Navigator, Negation Swarm, and Beguiling Lantern) not appearing in Codex and not able to be linked in chat. "
+    }
+  ],
+  "891e669f10e60249c574b2a13f0e75ab": [
+    {
+      "name": "Buried Debts: Update 24.4.0",
+      "date": "2019-03-08T02:01:23Z",
+      "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/f07ee60119e2c8efc746da7ecf4cb49e.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Quick Thinking allowing multiple damage hits while knocked down."
+    },
+    {
+      "name": "Fortuna: Hotfix 24.2.12",
+      "date": "2019-01-30T20:11:23Z",
+      "url": "https://forums.warframe.com/topic/1058298-fortuna-hotfix-24212/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a loss of functionality when K-driving with Quick Thinking equipped."
+    },
+    {
+      "name": "Fortuna: The Profit-Taker - Update 24.2",
+      "date": "2018-12-18T13:59:14Z",
+      "url": "https://forums.warframe.com/topic/1044890-fortuna-the-profit-taker-update-242/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed getting Transferred back to Operator if your Warframes reaches 2HP, regardless of being invulnerable (Quick Thinking)."
+    },
+    {
+      "name": "Chains of Harrow: Update 21.3.0",
+      "date": "2017-08-02T21:28:54Z",
+      "url": "https://forums.warframe.com/topic/826127-chains-of-harrow-update-2130/",
+      "imgUrl": "http://i.imgur.com/ge1PMGU.jpg",
+      "additions": "",
+      "changes": "Reduced the frequency that Quick Thinking can stagger lock a player. This is actually undoing a bug fix where Quick Thinking wasn't staggering players as often as it was intended to, but this is the new intention now! Essentially Quick Thinking is back to the way it was pre Update 21.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.10.0",
+      "date": "2015-11-04T23:21:00Z",
+      "url": "https://forums.warframe.com/topic/556384-update-17100/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Quick Thinking Mod not properly taking damage reduction into account before removing energy from a Client."
+    },
+    {
+      "name": "Hotfix 14.6.1",
+      "date": "2014-09-11T21:03:05Z",
+      "url": "https://forums.warframe.com/topic/308432-hotfix-1461/",
+      "additions": "",
+      "changes": "The 14.6.0 fix resolves issues where Rage + Quick Thinking gave effective permanent invulnerability because energy was being added to pool that was never dealt to player. With this change in mind, the combination of Rage and Quick Thinking may seem less efficient as before due to no longer giving effective invulnerability. The scope of this change is being monitored to ensure the usefulness of these Mods as a combination.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 14.0.8",
+      "date": "2014-07-23T22:39:59Z",
+      "url": "https://forums.warframe.com/topic/272088-hotfix-1408/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Quick Thinking not working as described or intended."
+    },
+    {
+      "name": "Update 11.6.0",
+      "date": "2014-01-08T22:33:40Z",
+      "url": "https://forums.warframe.com/topic/161101-update-1160/",
+      "additions": "",
+      "changes": "-  Increased stagger threshold and made stagger only occur on big hits instead of on accumulated damage; this should prevent situations where Quick Thinking would save you only to let you get knocked down and killed again.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 11.1.0",
+      "date": "2013-11-27T22:50:48Z",
+      "url": "https://forums.warframe.com/topic/139326-update-1110/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Reduced effectiveness of the interaction between Rage/Quick Thinking mods to prevent indefinite immortality in all game modes."
+    }
+  ],
+  "4b772e1200a119fd6ad216d2ea5161de": [
+    {
+      "name": "Fortuna: Hotfix 24.1.4",
+      "date": "2018-12-10T20:09:14Z",
+      "url": "https://forums.warframe.com/topic/1042413-fortuna-hotfix-2414/",
+      "additions": "",
+      "changes": "Updated Arcane Rage description to read \"Primary Weapons\" instead of \"Rifles\".",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Update 22.20.0",
+      "date": "2018-05-17T14:55:31Z",
+      "url": "https://forums.warframe.com/topic/957066-beasts-of-the-sanctuary-update-22200/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/09cdfacb9f01a572c3205b5ccb861822.jpg",
+      "additions": "",
+      "changes": "Converted decimals to whole numbers (e.g. Equinox’s Rest & Rage Wakeup Health Threshold has been changed from 0.5 to 50% for max rank). ",
+      "fixes": ""
+    },
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed some script errors that could occur if you killed targets affected by Equinox's Rage."
+    },
+    {
+      "name": "Update 19: The War Within",
+      "date": "2016-11-12T04:02:28Z",
+      "url": "https://forums.warframe.com/topic/715768-update-19-the-war-within/",
+      "imgUrl": "http://i.imgur.com/gCfJMUs.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed finishers not triggering Equinox’s Rest & Rage's Augment, Calm & Frenzy, to spread as Host as per: https://forums.warframe.com/topic/701225-calm-frenzy-covert-lethality-broken-as-host/  "
+    },
+    {
+      "name": "The Silver Grove",
+      "date": "2016-08-19T17:32:55Z",
+      "url": "https://forums.warframe.com/topic/688644-the-silver-grove/",
+      "additions": "",
+      "changes": "Equinox’s Rest & Rage range reduced in Conclave",
+      "fixes": ""
+    },
+    {
+      "name": "Update: Specters of the Rail",
+      "date": "2016-07-08T14:12:48Z",
+      "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
+      "imgUrl": "http://i.imgur.com/YMVXfyw.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with the Rage Mod triggering even when all damage was being blocked by Channeled blocking."
+    },
+    {
+      "name": "Hotfix 18.14.2",
+      "date": "2016-06-09T21:21:23Z",
+      "url": "https://forums.warframe.com/topic/658183-hotfix-18142/",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed a filepath appearing in the UI when Wukong's Primal Rage Augment is in use."
+    },
+    {
+      "name": "Update 18.12.0: Vauban Prime & 18.12.1",
+      "date": "2016-05-17T18:00:00Z",
+      "url": "https://forums.warframe.com/topic/649037-update-18120-vauban-prime-18121/",
+      "imgUrl": "http://i.imgur.com/vmd8QPm.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed Power Strength Mods (Blind Rage, Intensify, etc.) not applying very much to Vauban’s Vortex initial blast and damage over time."
+    },
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Equinox’s Rest & Rage will now slow boss-type enemies instead of putting them to sleep."
+    },
+    {
+      "name": "Update 18.3",
+      "date": "2016-01-13T22:55:58Z",
+      "url": "https://forums.warframe.com/topic/594267-update-183/",
+      "additions": "",
+      "changes": "Rest and Rage",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.12.0",
+      "date": "2015-11-25T17:32:33Z",
+      "url": "https://forums.warframe.com/topic/564564-update-17120/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Equinox’s Rest & Rage Ability ending early when switching forms as per: https://forums.warframe.com/index.php?/topic/552607-equinoxs-rest-and-rage-are-canceled-when-switching-forms/"
+    },
+    {
+      "name": "Update 17.5: The Jordas Precept. + Hotfix 17.5.1",
+      "date": "2015-10-02T02:05:33Z",
+      "url": "https://forums.warframe.com/topic/536207-update-175-the-jordas-precept-hotfix-1751/",
+      "additions": "",
+      "changes": "Equinox’s Rest & Rage has had its base range doubled.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 17.0.3",
+      "date": "2015-08-04T22:21:45Z",
+      "url": "https://forums.warframe.com/topic/503583-hotfix-1703/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Equinox sliding instead of jogging when using Rest/Rage while moving."
+    },
+    {
+      "name": "Hotfix 15.0.9",
+      "date": "2014-10-30T22:22:26Z",
+      "url": "https://forums.warframe.com/topic/336430-hotfix-1509/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with Corrupted Mod Transient Fortitude not being equippable simultaneously with Blind Rage."
+    },
+    {
+      "name": "Hotfix 14.6.1",
+      "date": "2014-09-11T21:03:05Z",
+      "url": "https://forums.warframe.com/topic/308432-hotfix-1461/",
+      "additions": "",
+      "changes": "The 14.6.0 fix resolves issues where Rage + Quick Thinking gave effective permanent invulnerability because energy was being added to pool that was never dealt to player. With this change in mind, the combination of Rage and Quick Thinking may seem less efficient as before due to no longer giving effective invulnerability. The scope of this change is being monitored to ensure the usefulness of these Mods as a combination.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 11.1.1",
+      "date": "2013-11-28T17:42:06Z",
+      "url": "https://forums.warframe.com/topic/139996-hotfix-1111/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Rage mod activating when shield-only damage is received"
+    },
+    {
+      "name": "Update 11.1.0",
+      "date": "2013-11-27T22:50:48Z",
+      "url": "https://forums.warframe.com/topic/139326-update-1110/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Reduced effectiveness of the interaction between Rage/Quick Thinking mods to prevent indefinite immortality in all game modes."
+    },
+    {
+      "name": "Update 10.5.0: The Gradivus Dilemma",
+      "date": "2013-10-24T03:55:25Z",
+      "url": "https://forums.warframe.com/topic/122841-update-1050-the-gradivus-dilemma/",
+      "additions": "",
+      "changes": "Rage mod value increased to upper tier conclaves (200 to 500)",
+      "fixes": ""
+    },
+    {
+      "name": "Update 10.2.0",
+      "date": "2013-09-27T19:52:28Z",
+      "url": "https://forums.warframe.com/topic/113787-update-1020/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Rage mod no longer converts oxygen-depletion damage in Survival mode to energy and will not convert asphyxiation or vampire damage to energy"
+    },
+    {
+      "name": "Update 5.4 - \"Hammer Time\" (Preview)",
+      "date": "2013-01-14T23:05:07Z",
+      "url": "https://forums.warframe.com/topic/4030-update-54-hammer-time-preview/",
+      "additions": "",
+      "changes": "",
+      "fixes": "639 French updates from ap0k41yp5, Flamby, Jupiter87a, Kolo, Ln_Fridfromedisailleur and RageSeeker."
+    }
+  ],
+  "fa2b927aec5afbbc48b0150c45f5672f": [
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Rapid Resilience: Warframe: Reduces Proc Time applied to player.",
+      "fixes": ""
+    }
+  ],
+  "51057563bab22a23d8c7f372f6840fc2": [
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.5",
+      "date": "2018-05-24T19:33:19Z",
+      "url": "https://forums.warframe.com/topic/960082-beasts-of-the-sanctuary-hotfix-22205/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed misspelled text in the Nezha Reaping Chakram Augment."
+    },
+    {
+      "name": "Beasts of the Sanctuary: Update 22.19.0",
+      "date": "2018-05-02T18:30:06Z",
+      "url": "https://forums.warframe.com/topic/952702-beasts-of-the-sanctuary-update-22190/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/8c27eabbd9bc9b5af2ba5944cd490302.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Nezha’s Reaping Chakram damage not getting doubled for every enemy hit for Clients."
+    }
+  ],
+  "5a54efaef418ffe3ad74aebb1d05d019": [
+    {
+      "name": "The Silver Grove",
+      "date": "2016-08-19T17:32:55Z",
+      "url": "https://forums.warframe.com/topic/688644-the-silver-grove/",
+      "additions": "",
+      "changes": "Recharge Barrier Augment shield restore reduced",
+      "fixes": ""
+    }
+  ],
+  "58e72d9a03a1e75a2e718e7542484ff3": [
+    {
+      "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
+      "date": "2016-05-27T21:20:29Z",
+      "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
+      "imgUrl": "http://i.imgur.com/1JPOZC1.png",
+      "additions": "•    A buff indicator has been added for Traumatic Redirection (Naramon).",
+      "changes": "•    The ‘Redirection’ Sentinel Mod has been renamed to ‘Calculated Redirection’",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.8.0",
+      "date": "2016-04-06T20:31:30Z",
+      "url": "https://forums.warframe.com/topic/635136-update-1880/",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed the status effects of Saryn’s Toxic Lash and the Traumatic Redirection (Naramon) skill not applying to finishers."
+    },
+    {
+      "name": "Update 14.10.0",
+      "date": "2014-10-08T22:00:00Z",
+      "url": "https://forums.warframe.com/topic/321746-update-14100/",
+      "additions": "",
+      "changes": "Changed the Sentinel “Sanctuary” mod: it now goes up to Rank 10 (600 total shield) and is now amplified by your Sentinel's Redirection mod.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 11.3.0",
+      "date": "2013-12-12T03:08:07Z",
+      "url": "https://forums.warframe.com/topic/146580-update-1130/",
+      "additions": "",
+      "changes": "Redirection mod now remains in the player’s inventory after completing the tutorial.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 10.8.0",
+      "date": "2013-11-13T18:48:01Z",
+      "url": "https://forums.warframe.com/topic/130600-update-1080/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed mod card sorting so that like-named cards are grouped properly (Sentinel Redirection separate from Warframe Redirection)."
+    }
+  ],
+  "48d0efa2234833785158fab6289aafe4": [
+    {
+      "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
+      "date": "2016-05-27T21:20:29Z",
+      "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
+      "imgUrl": "http://i.imgur.com/1JPOZC1.png",
+      "additions": "•    A buff indicator has been added for Traumatic Redirection (Naramon).",
+      "changes": "•    The ‘Redirection’ Sentinel Mod has been renamed to ‘Calculated Redirection’",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.8.0",
+      "date": "2016-04-06T20:31:30Z",
+      "url": "https://forums.warframe.com/topic/635136-update-1880/",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed the status effects of Saryn’s Toxic Lash and the Traumatic Redirection (Naramon) skill not applying to finishers."
+    },
+    {
+      "name": "Update 14.10.0",
+      "date": "2014-10-08T22:00:00Z",
+      "url": "https://forums.warframe.com/topic/321746-update-14100/",
+      "additions": "",
+      "changes": "Changed the Sentinel “Sanctuary” mod: it now goes up to Rank 10 (600 total shield) and is now amplified by your Sentinel's Redirection mod.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 11.3.0",
+      "date": "2013-12-12T03:08:07Z",
+      "url": "https://forums.warframe.com/topic/146580-update-1130/",
+      "additions": "",
+      "changes": "Redirection mod now remains in the player’s inventory after completing the tutorial.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 10.8.0",
+      "date": "2013-11-13T18:48:01Z",
+      "url": "https://forums.warframe.com/topic/130600-update-1080/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed mod card sorting so that like-named cards are grouped properly (Sentinel Redirection separate from Warframe Redirection)."
+    }
+  ],
+  "b89a156500dd6f6b635bf13b905b23c6": [
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Reflection Probes have been built through many areas of the game, grounding PBR materials with more accurate lighting.        "
+    },
+    {
+      "name": "Update 18.3",
+      "date": "2016-01-13T22:55:58Z",
+      "url": "https://forums.warframe.com/topic/594267-update-183/",
+      "additions": "",
+      "changes": "The Mortal Conduct Conclave Mod has been changed to: At Low Health, +60% Channeled Damage Reflection for 8 seconds.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 17.1.5",
+      "date": "2015-08-14T21:14:23Z",
+      "url": "https://forums.warframe.com/topic/511107-hotfix-1715/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the text on the Reflection Mod to read Channelling instead of Blocking as per new Stamina changes."
+    },
+    {
+      "name": "Update 14.7.0: Operation Gate Crash!",
+      "date": "2014-09-18T03:51:15Z",
+      "url": "https://forums.warframe.com/topic/311669-update-1470-operation-gate-crash/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Disabled Local Reflections and High Dynamic Range on certain Direct X9 enabled video cards which do not properly support these features."
+    },
+    {
+      "name": "Hotfix 14.6.1",
+      "date": "2014-09-11T21:03:05Z",
+      "url": "https://forums.warframe.com/topic/308432-hotfix-1461/",
+      "additions": "",
+      "changes": "Tweaked performance of Local Reflections code on Dx10 and Dx11 to address potential FPS loss.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 13.5.0: Edo Armor & Nami Solo",
+      "date": "2014-05-28T23:05:58Z",
+      "url": "https://forums.warframe.com/topic/238069-update-1350-edo-armor-nami-solo/",
+      "additions": "",
+      "changes": "Reduced the amount of damage dealt to attacking players when using Reflection in PvP matches.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 10.6.0: The Vectis!",
+      "date": "2013-10-31T01:56:50Z",
+      "url": "https://forums.warframe.com/topic/126269-update-1060-the-vectis/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed game crash when Reflection Mod parries an Infested suicide runner."
+    },
+    {
+      "name": "Update 10.3.0: Hump Day!",
+      "date": "2013-10-09T22:12:04Z",
+      "url": "https://forums.warframe.com/topic/117806-update-1030-hump-day/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Reflection mod not working on Grineer Lancers."
+    },
+    {
+      "name": "Update 6.3 - \"make Love, Not War(Frame)\"",
+      "date": "2013-02-14T16:34:59Z",
+      "url": "https://forums.warframe.com/topic/10554-update-63-make-love-not-warframe/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Local Reflections settings now properly save"
+    },
+    {
+      "name": "Update 6: Hotfixes",
+      "date": "2013-01-30T22:05:30Z",
+      "url": "https://forums.warframe.com/topic/7727-update-6-hotfixes/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Brightness, Contrast, Local Reflections and Tutorials Enabled not taking effect"
+    }
+  ],
+  "609293d2bd588fbd42d7f55bde739145": [
+    {
+      "name": "Buried Debts: Update 24.4.0",
+      "date": "2019-03-08T02:01:23Z",
+      "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/f07ee60119e2c8efc746da7ecf4cb49e.png",
+      "additions": "",
+      "changes": "Reflex Guard Mod has changed from 55% Auto Parry Chance to +100% Parry Angle.",
+      "fixes": ""
+    },
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed being able to rapidly fire your Bow if Reflex Guard is equipped."
+    },
+    {
+      "name": "Update 18: The Second Dream",
+      "date": "2015-12-03T23:46:40Z",
+      "url": "https://forums.warframe.com/topic/568455-update-18-the-second-dream/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed melee weapons becoming stuck in the player’s hand after blocking an attack via the Reflex Guard Mod."
+    }
+  ],
+  "1be5bf892924da0b583602f865f4c1dc": [
+    {
+      "name": "Update 15.12.0",
+      "date": "2015-01-29T22:14:29Z",
+      "url": "https://forums.warframe.com/topic/393115-update-15120/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed spelling error on Saryn’s Regenerative Molt Augment."
+    }
+  ],
+  "0efdf6e0392d63eacd47b7765119460b": [
+    {
+      "name": "The Sacrifice: Update 23.3.0 + 23.3.0.1",
+      "date": "2018-08-09T15:46:06Z",
+      "url": "https://forums.warframe.com/topic/995084-the-sacrifice-update-2330-23301/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/a5997e71355d1daebf5f0086006610d2.jpg",
+      "additions": "",
+      "changes": "Repelling Bastille Augment now pushes additional enemies outwards every 4s. ",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
+      "date": "2016-05-27T21:20:29Z",
+      "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
+      "imgUrl": "http://i.imgur.com/1JPOZC1.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed hearing Vauban’s Bastille sound effect across the map when the Repelling Bastille Mod is equipped."
+    }
+  ],
+  "e20e52d15889115f31a1a8753506082f": [
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Banshee’s Sonar Resonance Augment not properly functioning when an enemy is ragdolled during the killing blow."
+    },
+    {
+      "name": "Hotfix 17.8.1",
+      "date": "2015-10-22T19:48:48Z",
+      "url": "https://forums.warframe.com/topic/549685-hotfix-1781/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Banshee’s Sonar indefinitely stacking Resonance in the same location without a delay."
+    },
+    {
+      "name": "Update 15.7.0 Nova Prime",
+      "date": "2014-12-16T18:58:55Z",
+      "url": "https://forums.warframe.com/topic/367069-update-1570-nova-prime/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Banshee’s Resonance Augment Mod not functioning."
+    }
+  ],
+  "21db3010315f59b5694a159d675d309d": [
+    {
+      "name": "Buried Debts: Update 24.5.0",
+      "date": "2019-03-14T21:06:12Z",
+      "url": "https://forums.warframe.com/topic/1070992-buried-debts-update-2450/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/5576015e88951a00ab3824307aea467a.jpg",
+      "additions": "",
+      "changes": "Hildryn can use her custom dodge while in Aegis Storm at the cost of her Shields (50). We're starting with this cost because many abilities of this nature have movement restrictions that can be overcome with Augments (Peacemaker, Resonating Quake, Assimilate). We want to try out a movement cost before we tweak further based on feedback. ",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.7",
+      "date": "2018-05-30T19:03:25Z",
+      "url": "https://forums.warframe.com/topic/961879-beasts-of-the-sanctuary-hotfix-22207/",
+      "additions": "",
+      "changes": "Updated \"Resonating Quake\" Augment description to better describe its function:",
+      "fixes": ""
+    },
+    {
+      "name": "Shrine of the Eidolon: Update 22.16.0",
+      "date": "2018-03-15T20:27:52Z",
+      "url": "https://forums.warframe.com/topic/933296-shrine-of-the-eidolon-update-22160/",
+      "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/DojoRework_NewsHeader.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed enemies sometimes not getting back up after being hit by Banshee’s Resonating Quake."
+    }
+  ],
+  "77c8a3a32afb97f0e7527702afd95277": [
+    {
+      "name": "Plains of Eidolon: Update 22.10.0",
+      "date": "2018-01-25T23:53:14Z",
+      "url": "https://forums.warframe.com/topic/911802-plains-of-eidolon-update-22100/",
+      "imgUrl": "https://i.imgur.com/Hh3GKF6.jpg",
+      "additions": "",
+      "changes": "Removed the \"kill unalerted enemies\" or \"hack 1 terminal\" Challenges from The Law of Retribution and The Jordas Verdict.",
+      "fixes": "Fixed a possible crash in the Law of Retribution. "
+    },
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed issues with destroyable loot crates spawning in rocks in the Law of Retribution. \nFixed Fomorian Ship not appearing in the sky during the Law of Retribution Trial. Now the laser won’t be appearing out of thin air!"
+    },
+    {
+      "name": "Chains of Harrow: Update 21.5.0",
+      "date": "2017-08-16T20:44:07Z",
+      "url": "https://forums.warframe.com/topic/832153-chains-of-harrow-update-2150/",
+      "imgUrl": "http://n8k6e2y6.ssl.hwcdn.net/uploads/da8dd0d10932c10f50a5d6ed3d8e7cc0.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a script error when spawning G3 during Law of Retribution."
+    },
+    {
+      "name": "Chains of Harrow: Update 21.4.0",
+      "date": "2017-08-10T17:26:21Z",
+      "url": "https://forums.warframe.com/topic/829596-chains-of-harrow-update-2140/",
+      "imgUrl": "http://i.imgur.com/insXTUT.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Law of Retribution \"arming tritium battery\" UI stopping progressing if a player looks at the mission progress."
+    },
+    {
+      "name": "Chains of Harrow: Hotfix 21.0.3",
+      "date": "2017-06-30T20:56:47Z",
+      "url": "https://forums.warframe.com/topic/811064-chains-of-harrow-hotfix-2103/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a crash when loading into the Law of Retribution or The Jordas Verdict. "
+    },
+    {
+      "name": "Update 21: Chains of Harrow",
+      "date": "2017-06-29T03:00:20Z",
+      "url": "https://forums.warframe.com/topic/809842-update-21-chains-of-harrow/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/harrow/PriestSpear_1080p.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a script error upon finding a Rare Crate in the Law of Retribution.\nHopeful fix for the Grustrag Three not always spawning in the Law of Retribution."
+    },
+    {
+      "name": "Oberon Prime: Hotfix 20.7.1",
+      "date": "2017-06-14T21:01:39Z",
+      "url": "https://forums.warframe.com/topic/806282-oberon-prime-hotfix-2071/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the marker disappearing on ragdolled Bomb carrier enemies in The Law of Retribution. We have also added some logging in general to Bomb carriers to solve future issues."
+    },
+    {
+      "name": "Oberon Prime: Hotfix 20.6.2",
+      "date": "2017-05-30T18:11:50Z",
+      "url": "https://forums.warframe.com/topic/801884-oberon-prime-hotfix-2062/",
+      "imgUrl": "http://i.imgur.com/Nf6tprV.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed The Grustrag 3 sometimes not spawning (or conversely double spawning)  in The Law of Retribution.\nFixed the Hek Drone that spawns with The Grustrag 3 leaving immediately in The Law of Retribution.\nFixed the Hek Drone sometimes arriving as an Eximus unit, but also as a Corpus attack drone in The Law of Retribution. "
+    },
+    {
+      "name": "Octavia’s Anthem: Hotfix 20.2.3",
+      "date": "2017-04-19T22:08:42Z",
+      "url": "https://forums.warframe.com/topic/788574-octavia%E2%80%99s-anthem-hotfix-2023/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed NPCs spawning in view during the Law of Retribution mission 2."
+    },
+    {
+      "name": "Octavia's Anthem: Hotfix 20.0.9",
+      "date": "2017-04-03T21:18:36Z",
+      "url": "https://forums.warframe.com/topic/782477-octavias-anthem-hotfix-2009/",
+      "additions": "",
+      "changes": "If a tie occurs for first place in the Law of Retribution leaderboards, the team who earned their score first is now listed first for the all-time leaderboards.",
+      "fixes": "Fixed Law of Retribution improperly reporting leaderboard times. "
+    },
+    {
+      "name": "Octavia's Anthem: Update 20",
+      "date": "2017-03-24T19:46:02Z",
+      "url": "https://forums.warframe.com/topic/776642-octavias-anthem-update-20/",
+      "imgUrl": "http://i.imgur.com/h14igRz.jpg",
+      "additions": "We have also fixed missing Jordas Verdict Leaderboards in game, as well as issues with sorting and emptiness of the Law of Retribution Trials Leaderboards.",
+      "changes": "",
+      "fixes": "Fixed a color emissive issue with the second stage of The Law of Retribution that left pressure pads looking as if someone was still standing on them."
+    },
+    {
+      "name": "Banshee Prime: Hotfix 19.11.5 + 19.11.6",
+      "date": "2017-02-28T22:44:49Z",
+      "url": "https://forums.warframe.com/topic/767736-banshee-prime-hotfix-19115-19116/",
+      "additions": "",
+      "changes": "Vay Hek is now invulnerable in the opening scene of The Law of Retribution by default so that players can't damage and/or kill him as per:",
+      "fixes": "Fixed the bombs in stage 3 of Law of Retribution charging at a slower rate than intended.\nFixed aborting The Law of Retribution while carrying the bomb resulting in the bomb becoming bugged and stopping the mission progression."
+    },
+    {
+      "name": "The Glast Gambit: Hotfix 19.11.2",
+      "date": "2017-02-17T20:40:41Z",
+      "url": "https://forums.warframe.com/topic/763931-the-glast-gambit-hotfix-19112/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Law of Retribution's bombs taking longer to charge as per: https://forums.warframe.com/topic/762609-lor-stage-3-bomb-charge-time-doubled/\nFixed being able to insta-kill Vay Hek in The Law of Retribution as per: https://forums.warframe.com/topic/763014-glich-stage-3-law-of-retribution-re-posted/"
+    },
+    {
+      "name": "The Glast Gambit: Hotfix 19.9.2 (Phase One: DB Upgrades)",
+      "date": "2017-02-07T13:58:54Z",
+      "url": "https://forums.warframe.com/topic/759911-the-glast-gambit-hotfix-1992-phase-one-db-upgrades/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed being able to complete the puzzle phase of The Law of Retribution by going in and out of Transference to occupy numerous pads."
+    },
+    {
+      "name": "The Glast Gambit: Hotfix 19.5.6+19.5.6.1",
+      "date": "2017-01-04T22:09:02Z",
+      "url": "https://forums.warframe.com/topic/745386-the-glast-gambit-hotfix-195619561/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed instances of enemies not spawning in The Jordas Verdict, Law of Retribution, and Infested Salvage. "
+    },
+    {
+      "name": "The War Within: Update 19.4.2 + 19.4.2.1",
+      "date": "2016-12-20T23:37:56Z",
+      "url": "https://forums.warframe.com/topic/737306-the-war-within-update-1942-19421/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a script error that occurred when entering and backing out of a Law of Retribution lobby in the Landing Craft."
+    },
+    {
+      "name": "The War Within: Hotfix 19.0.2",
+      "date": "2016-11-13T03:16:00Z",
+      "url": "https://forums.warframe.com/topic/717209-the-war-within-hotfix-1902/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the level ranges displayed on navigation for the Jordas Golem Assassinate, Jordas Verdict, Law of Retribution, and Mutalist Alad V Assassinate."
+    },
+    {
+      "name": "Update 19: The War Within",
+      "date": "2016-11-12T04:02:28Z",
+      "url": "https://forums.warframe.com/topic/715768-update-19-the-war-within/",
+      "imgUrl": "http://i.imgur.com/gCfJMUs.jpg",
+      "additions": "",
+      "changes": "Made several optimizations to host-performance in the Law of Retribution and the Jordas Verdict",
+      "fixes": "Fixed the Disrupter Drones in The Nightmare Law of Retribution being too large and not nullifying their area. \nFixed a Law of Retribution progression stopper due to Nekros spawning a Grineer holding a Tritium Bomb as per: https://forums.warframe.com/topic/698100-nekros-shadows-of-the-dead-can-spawn-with-tritium-bomb-for-last-part-of-law-of-retribution-raid/"
+    },
+    {
+      "name": "The Index Preview: Hotfix #4",
+      "date": "2016-10-25T21:51:26Z",
+      "url": "https://forums.warframe.com/topic/710966-the-index-preview-hotfix-4/",
+      "imgUrl": "http://i.imgur.com/dYLoinT.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed players and enemies getting stuck in a net decoration in The Law of Retribution tileset. \nFixed wonky wall textures in The Law of Retribution tileset."
+    },
+    {
+      "name": "The Index Preview",
+      "date": "2016-10-20T23:28:18Z",
+      "url": "https://forums.warframe.com/topic/709665-the-index-preview/",
+      "imgUrl": "http://i.imgur.com/49dlyEz.jpg",
+      "additions": "",
+      "changes": "Further increased bandwidth allocation for the Hijack payload slightly higher; this may help with the Law of Retribution in some cases where the host can't keep up.",
+      "fixes": ""
+    },
+    {
+      "name": "The Vacuum Within: Hotfix #3",
+      "date": "2016-10-13T18:16:13Z",
+      "url": "https://forums.warframe.com/topic/708168-the-vacuum-within-hotfix-3/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Increased bandwidth allocation for the Hijack payload; this may help with the Law of Retribution in some cases where the host can't keep up."
+    },
+    {
+      "name": "The Vacuum Within",
+      "date": "2016-10-05T21:17:28Z",
+      "url": "https://forums.warframe.com/topic/705566-the-vacuum-within%C2%A0/",
+      "imgUrl": "http://i.giphy.com/l0HlutHBjgD1tSY9y.gif",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed being able keep the hijack buttons in The Law of Retribution pressed indefinitely using Loki's Decoy and then re-casting somewhere else. "
+    },
+    {
+      "name": "The Silver Grove: U2",
+      "date": "2016-09-15T21:31:02Z",
+      "url": "https://forums.warframe.com/topic/699623-the-silver-grove-u2/",
+      "imgUrl": "http://i.imgur.com/VXWS19k.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a crash upon starting the Law of Retribution. "
+    },
+    {
+      "name": "Specters of the Rail: Update 1",
+      "date": "2016-07-28T15:17:30Z",
+      "url": "https://forums.warframe.com/topic/680396-specters-of-the-rail-update-1/",
+      "imgUrl": "http://i.imgur.com/0WM4BG3.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed key-based missions (i.e. Derelict, Law of Retribution,etc) always appearing as \"incomplete\" (glowy-blue icon)."
+    },
+    {
+      "name": "Update: Specters of the Rail",
+      "date": "2016-07-08T14:12:48Z",
+      "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
+      "imgUrl": "http://i.imgur.com/YMVXfyw.jpg",
+      "additions": "",
+      "changes": "Increased the spawn rate of Rare Crates in The Jordas Verdict to match the Law of Retribution.",
+      "fixes": "Fixed doors locking if a player enters and exits the door while the buttons are held in Stage 3 of The Law of Retribution.\nFixed Disruptor Drones in the Law of Retribution not blocking damage in a consistent manner.\nFixed destroying multiple Disruptor Drone bubbles in the Law of Retribution being difficult due to stacking on top of each other.\nFixed an issue with Disruptor Drones in the Law of Retribution not properly registering hitscan weapon fire."
+    },
+    {
+      "name": "Hotfix 18.4.12: Saryn Prime",
+      "date": "2016-02-16T21:10:22Z",
+      "url": "https://forums.warframe.com/topic/611132-hotfix-18412-saryn-prime/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the second stage of the Law of Retribution failing if the Squad has less than four players.  The Law of Retribution will no longer allow players to continue with less than the required Squad size.Fixed an error that caused Clients to not earn standing in Conclave depending on how they entered a session.Fixed an error causing Convergence to potentially spawn off the map.Fixed Sentinels teleporting around when players get close to an out-of-bounds area of the map.Fixed the Defense objective in Sortie Defense Missions being teleported to a side room on the Grineer Asteroid tileset, preventing the Mission from being completed as per: https://forums.warframe.com/index.php?/topic/611010-sortie-defence-bug/"
+    },
+    {
+      "name": "Hotfix 18.0.7 ",
+      "date": "2015-12-11T15:33:06Z",
+      "url": "https://forums.warframe.com/topic/576214-hotfix-1807-spoilers/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed various lighting issues visible on doors in the Law of Retribution Trial."
+    },
+    {
+      "name": "Update 17.9.0",
+      "date": "2015-10-28T15:12:27Z",
+      "url": "https://forums.warframe.com/topic/552544-update-1790/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Clients being unable to see damage numbers when attacking Toxin Injectors in Stage One of the Law of Retribution Trial."
+    },
+    {
+      "name": "Update 17.5: The Jordas Precept. + Hotfix 17.5.1",
+      "date": "2015-10-02T02:05:33Z",
+      "url": "https://forums.warframe.com/topic/536207-update-175-the-jordas-precept-hotfix-1751/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Clients not being damaged by full charged bombs in the Law of Retribution Trial."
+    },
+    {
+      "name": "Hotfix 17.4.2",
+      "date": "2015-09-11T20:40:57Z",
+      "url": "https://forums.warframe.com/topic/526883-hotfix-1742/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed floor buttons in the Law of Retribution Trial not changing the blue when stepped on."
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Retribution",
+      "fixes": "Fixed players being able to bypass the Plate Puzzle in the Law of Retribution Trial by using Decoy / Switch Teleport or Wormhole.\nFixed an issue preventing Vay Hek or the G3 from spawning in the Phase 2 of the Law of Retribution Trial."
+    },
+    {
+      "name": "Update 16.6.0",
+      "date": "2015-05-27T21:08:21Z",
+      "url": "https://forums.warframe.com/topic/465618-update-1660/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Nullifier enemies appearing in non-Nightmare Law of Retribution Trials.\nFixed the Law of Retribution’s second phase becoming unbeatable if a player dies before the pressure-plate puzzle can be completed."
+    },
+    {
+      "name": "Hotfix 16.5.4",
+      "date": "2015-05-14T15:41:07Z",
+      "url": "https://forums.warframe.com/topic/457698-hotfix-1654/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Further fixed players being able to trigger the Hijack mission of The Trials of Retribution Nightmare mode before completing the puzzle stage."
+    },
+    {
+      "name": "Hotfix 16.5.3",
+      "date": "2015-05-13T22:21:59Z",
+      "url": "https://forums.warframe.com/topic/457163-hotfix-1653/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the final doorway not opening during the Hijack mission in The Trials of Retribution Nightmare mode. Please note that all keys removed from inventories will be reimbursed as this bug related to a lot of failed attempts \nFixed players being able to trigger the Hijack mission of The Trials of Retribution Nightmare mode before completing the puzzle stage. Fixed in 16.5.4!"
+    },
+    {
+      "name": "Hotfix 16.5.2",
+      "date": "2015-05-13T16:10:12Z",
+      "url": "https://forums.warframe.com/topic/456875-hotfix-1652/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed instances of shields being nuked to 0 as soon as the core is pushed during the Hijack portion of The Trials of Retribution Nightmare mode."
+    },
+    {
+      "name": "Hotfix 16.5.1",
+      "date": "2015-05-12T20:51:22Z",
+      "url": "https://forums.warframe.com/topic/456211-hotfix-1651/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Nullifier auras from drones in the Law of Retribution Nightmare Trial not properly breaking lingering Warframe CC abilities such as Bastille."
+    },
+    {
+      "name": "Update 16.4",
+      "date": "2015-04-23T21:03:45Z",
+      "url": "https://forums.warframe.com/topic/445957-update-164/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed AI pathing so that enemies no longer get stuck on pillars in the second phase of the Law of Retribution."
+    },
+    {
+      "name": "Update 16.2",
+      "date": "2015-04-01T22:22:39Z",
+      "url": "https://forums.warframe.com/topic/432384-update-162/",
+      "additions": "",
+      "changes": "",
+      "fixes": "The Law of Retribution Changes"
+    },
+    {
+      "name": "Hotfix 16.0.2",
+      "date": "2015-03-20T23:22:15Z",
+      "url": "https://forums.warframe.com/topic/421728-hotfix-1602/",
+      "additions": "",
+      "changes": "·         Removed exits from Vay Hek boss fight in Law of Retribution.",
+      "fixes": "·         Fixed various exploits in the Law of Retribution encounters."
+    },
+    {
+      "name": "Warframe: Sanctuary",
+      "date": "2015-03-20T02:21:54Z",
+      "url": "https://forums.warframe.com/topic/420448-warframe-sanctuary/",
+      "additions": "",
+      "changes": "",
+      "fixes": "The Law of Retribution Key Blueprint is available for purchase in the marketplace for 100,000 Credits."
+    },
+    {
+      "name": "Hotfix 11.0.1",
+      "date": "2013-11-21T05:54:39Z",
+      "url": "https://forums.warframe.com/topic/133329-hotfix-1101/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Ancient Retribution issue appearing in UI as mission reward."
+    },
+    {
+      "name": "Update 7.10.0: Weekend Extermination Event!",
+      "date": "2013-05-04T02:28:56Z",
+      "url": "https://forums.warframe.com/topic/39130-update-7100-weekend-extermination-event/",
+      "additions": "New Warframe mod: Retribution.",
+      "changes": "",
+      "fixes": "Retribution [Warframe]: Chance to do electrical damage when shield struck by melee enemies."
+    }
+  ],
+  "c14bd0ba4dbe23d5385d618e02db16c2": [
+    {
+      "name": "Buried Debts: Update 24.4.0",
+      "date": "2019-03-08T02:01:23Z",
+      "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/f07ee60119e2c8efc746da7ecf4cb49e.png",
+      "additions": "",
+      "changes": "Renamed Limbo’s Haven Augment Mod to Rift Haven.",
+      "fixes": ""
+    }
+  ],
+  "dc01748cd6d75f36fd000341bae92c25": [
+    {
+      "name": "Octavia's Anthem: Update 20",
+      "date": "2017-03-24T19:46:02Z",
+      "url": "https://forums.warframe.com/topic/776642-octavias-anthem-update-20/",
+      "imgUrl": "http://i.imgur.com/h14igRz.jpg",
+      "additions": "",
+      "changes": "The Rift Torrent Augment Mod will now grant Limbo a damage increase (15/20/25/30%) for every enemy affected by Rift Surge and has had it’s description changed to reflect this.",
+      "fixes": ""
+    }
+  ],
+  "fe095e0696cd176d54f559d1b56ba712": [
+    {
+      "name": "Buried Debts: Hotfix 24.5.2",
+      "date": "2019-03-18T22:43:12Z",
+      "url": "https://forums.warframe.com/topic/1072987-buried-debts-hotfix-2452/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed clones from Ash’s Blade Storm (Rising Storm) and Equinox’s Metamorphosis Augment (Duality) not using the proper loadout in Dojo Duels as reported here: https://www.reddit.com/r/Warframe/comments/b2hapq/this_is_what_happens_when_you_take_duality/"
+    }
+  ],
+  "a760a963198088fe83cc22863124ab7b": [
+    {
+      "name": "Fortuna: Update 24.0",
+      "date": "2018-11-08T20:46:20Z",
+      "url": "https://forums.warframe.com/topic/1025679-fortuna-update-240/",
+      "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/images/promo/fortuna/info/hubheader.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Rolling Guard Mod not protecting oneself from self-inflicted Lenz Status Effects."
+    }
+  ],
+  "46ca6e0aef4f2008b45f187a63a5e4d4": [
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Rumbled "
+    }
+  ],
+  "d25d87587d91fce365ccd8e1dac4883b": [
+    {
+      "name": "Fortuna: Hotfix 24.2.11",
+      "date": "2019-01-29T19:01:28Z",
+      "url": "https://forums.warframe.com/topic/1057949-fortuna-hotfix-24211/",
+      "additions": "",
+      "changes": "Changed the cost of Rushing the Gravimag Blueprint from 50 Platinum to 10 Platinum.\nReduced the Gravimag Blueprint Rush time from 3 days to 1 day.",
+      "fixes": ""
+    },
+    {
+      "name": "Chimera: Update 23.10",
+      "date": "2018-10-12T13:56:43Z",
+      "url": "https://forums.warframe.com/topic/1016610-chimera-update-2310/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/1a5052e0e614dd7d7858b2a38fca9bf8.jpg",
+      "additions": "",
+      "changes": "Changed cost of Stasis Rush cost from 10 Platinum to 10,000 Credits.",
+      "fixes": ""
+    },
+    {
+      "name": "Mask of the Revenant: Hotfix 23.8.2",
+      "date": "2018-09-19T14:29:43Z",
+      "url": "https://forums.warframe.com/topic/1010324-mask-of-the-revenant-hotfix-2382/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Rushing a Dojo Decoration completion temporarily setting the Synthetic Clan XP to a lower amount."
+    },
+    {
+      "name": "Plains of Eidolon: Update 22.6.0 + Hotfix 22.6.0.1",
+      "date": "2017-12-07T22:05:21Z",
+      "url": "https://forums.warframe.com/topic/891096-plains-of-eidolon-update-2260-hotfix-22601/",
+      "imgUrl": "https://content.invisioncic.com/Mwarframe/monthly_2017_12/Warframe0044.thumb.jpg.301d3829b792af173307be6fda35cbb8.jpg",
+      "additions": "",
+      "changes": "Reduced number of stasis mines in Archwing Rush.\nAdded 'destroyable' shine FX to mines in Archwing Rush. ",
+      "fixes": ""
+    },
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "Gladiator Rush (Melee)",
+      "changes": "",
+      "fixes": "Fixed the Archwing Rush Drones not appearing in the Codex after being scanned."
+    },
+    {
+      "name": "Update 21: Chains of Harrow",
+      "date": "2017-06-29T03:00:20Z",
+      "url": "https://forums.warframe.com/topic/809842-update-21-chains-of-harrow/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/harrow/PriestSpear_1080p.jpg",
+      "additions": "",
+      "changes": "Changed Archwing Rush extraction marker to always path outside its zone to improve pathing flow.",
+      "fixes": ""
+    },
+    {
+      "name": "The Glast Gambit: Hotfix 19.10.1+19.10.1.1",
+      "date": "2017-02-14T14:20:17Z",
+      "url": "https://forums.warframe.com/topic/762596-the-glast-gambit-hotfix-19101191011/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed script error that would occur when checking time left on an expired timer during Archwing Rush.\nFixed Orbiter drones not spawning after a Host migration occurred during Archwing Rush.\nFixed the Courier ship in Archwing Rush appearing warped and flat."
+    },
+    {
+      "name": "The Glast Gambit: Hotfix 19.8.1",
+      "date": "2017-01-27T17:06:00Z",
+      "url": "https://forums.warframe.com/topic/755337-the-glast-gambit-hotfix-1981/",
+      "imgUrl": "http://i.imgur.com/h4dCI6y.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Transports from Archwing Rush missing from the Codex."
+    },
+    {
+      "name": "Specters of the Rail: Update 2",
+      "date": "2016-08-03T21:43:21Z",
+      "url": "https://forums.warframe.com/topic/682884-specters-of-the-rail-update-2/",
+      "imgUrl": "http://i.imgur.com/4kfneNf.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Codex not listing Shell Rush’s drop location. "
+    },
+    {
+      "name": "Update: Specters of the Rail",
+      "date": "2016-07-08T14:12:48Z",
+      "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
+      "imgUrl": "http://i.imgur.com/YMVXfyw.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Archwing Rush (Phobos "
+    },
+    {
+      "name": "Update 18: The Second Dream",
+      "date": "2015-12-03T23:46:40Z",
+      "url": "https://forums.warframe.com/topic/568455-update-18-the-second-dream/",
+      "additions": "Foundry Rush costs will now offer a scaled Rush Platinum price once an item reaches 50% craft completion.",
+      "changes": "",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Rush",
+      "fixes": ""
+    }
+  ],
+  "1140a76ad96e2c6d666673a91c168e4d": [
+    {
+      "name": "Buried Debts: Update 24.4.0",
+      "date": "2019-03-08T02:01:23Z",
+      "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/f07ee60119e2c8efc746da7ecf4cb49e.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed halo FX from Nezha’s Safeguard Augment appearing too low on Sentinels. "
+    },
+    {
+      "name": "Mask of the Revenant: Update 23.8.0 + 23.8.0.1 + 23.8.0.2",
+      "date": "2018-09-12T18:41:12Z",
+      "url": "https://forums.warframe.com/topic/1008095-mask-of-the-revenant-update-2380-23801-23802/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/b04e5e955cbe351ab0be19dddf7b7b6a.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Players will receive a HUD icon indicating the Health of a Safeguard Halo they received from Nezha."
+    },
+    {
+      "name": "The Vacuum Within: Hotfix #3",
+      "date": "2016-10-13T18:16:13Z",
+      "url": "https://forums.warframe.com/topic/708168-the-vacuum-within-hotfix-3/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed seeing Nezha’s Warding Halo Safeguard Augment lingering on ally companions when they are invisible."
+    }
+  ],
+  "27cb2e73c492b9591a5c1b22e3b58585": [
+    {
+      "name": "Banshee Prime: Hotfix 19.11.5 + 19.11.6",
+      "date": "2017-02-28T22:44:49Z",
+      "url": "https://forums.warframe.com/topic/767736-banshee-prime-hotfix-19115-19116/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Mag's Sapping Reach Augment in Conclave removing Energy from teammates (should only remove from enemies)."
+    }
+  ],
+  "f6c106cf7fc3eb480ee22fdd2123457b": [
+    {
+      "name": "Mesa Update",
+      "date": "2014-11-27T17:30:05Z",
+      "url": "https://forums.warframe.com/topic/352963-mesa-update/",
+      "additions": "",
+      "changes": "Enemies affected by Banshee’s Savage Silence Mod are now open to finishes while under the effects of crowd control.",
+      "fixes": ""
+    }
+  ],
+  "1d0e93ebf507a9ca0b24ca4fdffa1bff": [
+    {
+      "name": "Plains of Eidolon: Hotfix 22.10.2",
+      "date": "2018-01-26T19:02:16Z",
+      "url": "https://forums.warframe.com/topic/912278-plains-of-eidolon-hotfix-22102/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Seeking Shuriken not reducing target armor. "
+    }
+  ],
+  "13cc97fd26f42a3235ccfe36daf613b5": [
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Shock Absorbers",
+      "fixes": ""
+    },
+    {
+      "name": "Update 15.7.0 Nova Prime",
+      "date": "2014-12-16T18:58:55Z",
+      "url": "https://forums.warframe.com/topic/367069-update-1570-nova-prime/",
+      "additions": "",
+      "changes": "Adjusted Conclave rating for resistance Mods.  The following Mods are now 15 Conclave points when fully ranked:  Lightning Rod, Flame Repellent, Insulation, Shock Absorbers, Diamond Skin, Antitoxin, and Resilient Focus. Sure Footed is now 10 Conclave points.",
+      "fixes": ""
+    }
+  ],
+  "a16187de368c0f74a33f0fb0805f3691": [
+    {
+      "name": "Update 15.13",
+      "date": "2015-02-05T21:08:01Z",
+      "url": "https://forums.warframe.com/topic/396379-update-1513/",
+      "additions": "",
+      "changes": "Volt’s Shock Trooper",
+      "fixes": ""
+    }
+  ],
+  "56e463ca69fc2c2824246b7fa6f4c755": [
+    {
+      "name": "Update 16.2",
+      "date": "2015-04-01T22:22:39Z",
+      "url": "https://forums.warframe.com/topic/432384-update-162/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Volt’s Shocking Speed effect now has accompanying audio."
+    },
+    {
+      "name": "Hotfix 15.13.3",
+      "date": "2015-02-06T16:44:41Z",
+      "url": "https://forums.warframe.com/topic/397107-hotfix-15133/",
+      "additions": "",
+      "changes": "Adjusted Volt’s Shocking Speed Augment visuals to be a little more subtle.",
+      "fixes": ""
+    }
+  ],
+  "4e04bf2fc3e9c8ff997317815ec7f63f": [
+    {
+      "name": "Shrine of the Eidolon: Hotfix 22.15.1",
+      "date": "2018-03-08T20:29:51Z",
+      "url": "https://forums.warframe.com/topic/931023-shrine-of-the-eidolon-hotfix-22151/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Zenurik's Void Singularity pulling in friendly NPCS, instead of just enemies."
+    },
+    {
+      "name": "Plains of Eidolon: Update 22.6.0 + Hotfix 22.6.0.1",
+      "date": "2017-12-07T22:05:21Z",
+      "url": "https://forums.warframe.com/topic/891096-plains-of-eidolon-update-2260-hotfix-22601/",
+      "imgUrl": "https://content.invisioncic.com/Mwarframe/monthly_2017_12/Warframe0044.thumb.jpg.301d3829b792af173307be6fda35cbb8.jpg",
+      "additions": "",
+      "changes": "Void Singularity’s pull speed has been doubled.  ",
+      "fixes": ""
+    },
+    {
+      "name": "Update 16.10.0",
+      "date": "2015-06-25T21:50:17Z",
+      "url": "https://forums.warframe.com/topic/480637-update-16100/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Simulor Gravitational Singularity Generator available now!\nSend the enemy into oblivion! The Simulor Gravitational Singularity Generator produces miniature Gravitational Singularities that can be used for scientific study or self-defense."
+    }
+  ],
+  "67fe701e905090425427b6759b838b62": [
+    {
+      "name": "Oberon Prime: Update 20.7.0",
+      "date": "2017-06-07T19:08:59Z",
+      "url": "https://forums.warframe.com/topic/804548-oberon-prime-update-2070/",
+      "imgUrl": "http://i.imgur.com/nXgSS3H.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Oberon's Smite Infusion Augment allowing you to Smite the Defense pod."
+    },
+    {
+      "name": "Update 15.13",
+      "date": "2015-02-05T21:08:01Z",
+      "url": "https://forums.warframe.com/topic/396379-update-1513/",
+      "additions": "",
+      "changes": "Oberon’s Smite Infusion",
+      "fixes": ""
+    },
+    {
+      "name": "Mesa Update",
+      "date": "2014-11-27T17:30:05Z",
+      "url": "https://forums.warframe.com/topic/352963-mesa-update/",
+      "additions": "",
+      "changes": "Fixed typo on Oberon’s Smite Infusion Mod.",
+      "fixes": ""
+    }
+  ],
+  "f55cbbd6181934a7fd2e048672f8230b": [
+    {
+      "name": "Shrine of the Eidolon: Update 22.17.0 + 22.17.0.1",
+      "date": "2018-03-28T18:49:46Z",
+      "url": "https://forums.warframe.com/topic/939097-shrine-of-the-eidolon-update-22170-221701/",
+      "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/f987a0c10e87a41fe6c95a4283231bb5.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed persisting muffled sound when casting Ash’s Smoke Shadow Augment as reported here: https://forums.warframe.com/topic/935041-smoke-screen-persisting-muffled-sound/"
+    },
+    {
+      "name": "Update 18.3",
+      "date": "2016-01-13T22:55:58Z",
+      "url": "https://forums.warframe.com/topic/594267-update-183/",
+      "additions": "",
+      "changes": "Ash’s Smoke Shadow Augment Mod now affects ally NPCs.",
+      "fixes": ""
+    },
+    {
+      "name": "Warframe: Sanctuary",
+      "date": "2015-03-20T02:21:54Z",
+      "url": "https://forums.warframe.com/topic/420448-warframe-sanctuary/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Ash’s Smoke Shadow Augment Mod not functioning properly."
+    },
+    {
+      "name": "Hotfix 15.1.2",
+      "date": "2014-11-08T00:06:22Z",
+      "url": "https://forums.warframe.com/topic/341594-hotfix-1512/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with Ash’s Smoke Shadow Augment lasting forever if cast by a client who subsequently quits the mission.\nFixed an issue with Ash’s Smoke Shadow affecting Defense targets."
+    }
+  ],
+  "d91f56f7bde79eb9569406007a4a5097": [
+    {
+      "name": "Update 16.9.0",
+      "date": "2015-06-17T21:50:27Z",
+      "url": "https://forums.warframe.com/topic/476490-update-1690/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Banshee’s Sonic Fracture Mod not affecting all enemies when used by Clients as per: https://forums.warframe.com/index.php?/topic/465697-sonic-fracture-inconsistency/"
+    },
+    {
+      "name": "Update 16.7",
+      "date": "2015-06-04T21:14:52Z",
+      "url": "https://forums.warframe.com/topic/469825-update-167/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Banshee’s Sonic Fracture FX lingering if the target became immediately ragdolled."
+    },
+    {
+      "name": "Update 16.6.0",
+      "date": "2015-05-27T21:08:21Z",
+      "url": "https://forums.warframe.com/topic/465618-update-1660/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Sonic Fracture: Enemies hit by Sonic Bomb have their armor reduced."
+    }
+  ],
+  "c8b6eed51ed47d12009b2b263cefd4f5": [
+    {
+      "name": "Update 16.4",
+      "date": "2015-04-23T21:03:45Z",
+      "url": "https://forums.warframe.com/topic/445957-update-164/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Nekros’ Soul Survivor Augment not properly tracking revives or counting towards revive challenges as per: https://forums.warframe.com/index.php?/topic/443040-nekros-soul-survivor-does-not-count-as-a-revive/"
+    }
+  ],
+  "7217ad5687dda083c49b10b9079a1e8a": [
+    {
+      "name": "Update 16.8.0",
+      "date": "2015-06-10T22:03:09Z",
+      "url": "https://forums.warframe.com/topic/473028-update-1680/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Mesa: Staggering Shield: Reflected bullets have a 50% chance to stumble enemies."
+    }
+  ],
+  "c91fc79aadd2757499403f3ecc8b4922": [
+    {
+      "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
+      "date": "2016-05-27T21:20:29Z",
+      "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
+      "imgUrl": "http://i.imgur.com/1JPOZC1.png",
+      "additions": "",
+      "changes": "•    The ‘Steel Fiber’ Sentinel Mod had been renamed to ‘Metal Fiber’",
+      "fixes": ""
+    }
+  ],
+  "613be1039348d5279975314ed2da0b03": [
+    {
+      "name": "Fortuna: Hotfix 24.1.2 + 24.1.2.1",
+      "date": "2018-11-29T19:46:27Z",
+      "url": "https://forums.warframe.com/topic/1038856-fortuna-hotfix-2412-24121/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Chilling Reload, Streamlined Form, and Drifting Contact missing from Alerts. "
+    },
+    {
+      "name": "Fortuna: Hotfix 24.0.9",
+      "date": "2018-11-21T14:01:56Z",
+      "url": "https://forums.warframe.com/topic/1035270-fortuna-hotfix-2409/",
+      "additions": "",
+      "changes": "Synth Reflex and Vigilante Pursuit are now Exilus Mods. These Mods currently have similarly functioning Exilus Mods (Streamlined Form and Enemy Sense), therefore utilizing a Mod slot was counter intuitive.",
+      "fixes": ""
+    },
+    {
+      "name": "Recurring Nightmares",
+      "date": "2016-10-27T19:03:48Z",
+      "url": "https://forums.warframe.com/topic/711418-recurring-nightmares/",
+      "imgUrl": "http://i.imgur.com/Oail8jd.jpg",
+      "additions": "",
+      "changes": "Streamlined Form (Warframe): Increases Holster Speed and Slide Boost! \nStreamlined Form (new!)",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 14.0.8",
+      "date": "2014-07-23T22:39:59Z",
+      "url": "https://forums.warframe.com/topic/272088-hotfix-1408/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with Prism's energy per second cost being reduced every time it is used when you have an ability efficiency mod (like Streamline) equipped."
+    },
+    {
+      "name": "Hotfix 8.2: Tenno Reinforcement",
+      "date": "2013-06-28T17:08:23Z",
+      "url": "https://forums.warframe.com/topic/70880-hotfix-82-tenno-reinforcement/",
+      "additions": "",
+      "changes": "Changes to Streamline Mod: cost reduction is now linear (further explanation: https://forums.warframe.com/index.php?/topic/70880-hotfix-82-tenno-reinforcement/?p=760062)",
+      "fixes": ""
+    }
+  ],
+  "c58862e9dd5013567dadaaf57abc5d22": [
+    {
+      "name": "Fortuna: Hotfix 24.1.2 + 24.1.2.1",
+      "date": "2018-11-29T19:46:27Z",
+      "url": "https://forums.warframe.com/topic/1038856-fortuna-hotfix-2412-24121/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Chilling Reload, Streamlined Form, and Drifting Contact missing from Alerts. "
+    },
+    {
+      "name": "Fortuna: Hotfix 24.0.9",
+      "date": "2018-11-21T14:01:56Z",
+      "url": "https://forums.warframe.com/topic/1035270-fortuna-hotfix-2409/",
+      "additions": "",
+      "changes": "Synth Reflex and Vigilante Pursuit are now Exilus Mods. These Mods currently have similarly functioning Exilus Mods (Streamlined Form and Enemy Sense), therefore utilizing a Mod slot was counter intuitive.",
+      "fixes": ""
+    },
+    {
+      "name": "Recurring Nightmares",
+      "date": "2016-10-27T19:03:48Z",
+      "url": "https://forums.warframe.com/topic/711418-recurring-nightmares/",
+      "imgUrl": "http://i.imgur.com/Oail8jd.jpg",
+      "additions": "",
+      "changes": "Streamlined Form (Warframe): Increases Holster Speed and Slide Boost! \nStreamlined Form (new!)",
+      "fixes": ""
+    }
+  ],
+  "f4ae306fa28ca90279b74a8321f6a9e7": [
+    {
+      "name": "Banshee Prime: Hotfix 19.11.5 + 19.11.6",
+      "date": "2017-02-28T22:44:49Z",
+      "url": "https://forums.warframe.com/topic/767736-banshee-prime-hotfix-19115-19116/",
+      "additions": "",
+      "changes": "Removed Crimson Dervish & Sure Footed from Kuva heavy Gunner drop tables (still available in many other places)",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Sure Footed",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 16.0.1",
+      "date": "2015-03-20T16:33:47Z",
+      "url": "https://forums.warframe.com/topic/421286-hotfix-1601/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed text on “Sure Footed” and “Fortitude” mods."
+    },
+    {
+      "name": "Update 15.7.0 Nova Prime",
+      "date": "2014-12-16T18:58:55Z",
+      "url": "https://forums.warframe.com/topic/367069-update-1570-nova-prime/",
+      "additions": "",
+      "changes": "Adjusted Conclave rating for resistance Mods.  The following Mods are now 15 Conclave points when fully ranked:  Lightning Rod, Flame Repellent, Insulation, Shock Absorbers, Diamond Skin, Antitoxin, and Resilient Focus. Sure Footed is now 10 Conclave points.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 10.3.0: Hump Day!",
+      "date": "2013-10-09T22:12:04Z",
+      "url": "https://forums.warframe.com/topic/117806-update-1030-hump-day/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Sure Footed mod that was not working on clients."
+    }
+  ],
+  "db246e71fa93653fbaddf6ae73654fce": [
+    {
+      "name": "Plains of Eidolon: Hotfix 22.8.2",
+      "date": "2018-01-04T20:43:45Z",
+      "url": "https://forums.warframe.com/topic/904138-plains-of-eidolon-hotfix-2282/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed not being able to progress in The War Within quest due to Void Dash not hitting certain enemies if you had Surging Dash equipped on your Warframe as per: https://forums.warframe.com/topic/901382-not-able-to-finish-war-within-finally-boss-missions-with-focus-naramon/\nFixed overlapping Radius values displaying on the Surging Dash description. "
+    }
+  ],
+  "8dc3d6ad17462a63cdf2047a54b103e4": [
+    {
+      "name": "Fortuna: Hotfix 24.0.9",
+      "date": "2018-11-21T14:01:56Z",
+      "url": "https://forums.warframe.com/topic/1035270-fortuna-hotfix-2409/",
+      "additions": "",
+      "changes": "Synth Reflex and Vigilante Pursuit are now Exilus Mods. These Mods currently have similarly functioning Exilus Mods (Streamlined Form and Enemy Sense), therefore utilizing a Mod slot was counter intuitive.",
+      "fixes": ""
+    }
+  ],
+  "a363dca54664b471bc748f0b8d690cc0": [
+    {
+      "name": "Fortuna: Hotfix 24.0.10",
+      "date": "2018-11-21T21:38:12Z",
+      "url": "https://forums.warframe.com/topic/1035481-fortuna-hotfix-24010/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Tek Collateral Mod FX not appearing for Clients."
+    }
+  ],
+  "b49e517136b0ba92873c30f350b2300a": [
+    {
+      "name": "The War Within: Hotfix 19.3.2 + 19.3.2.1",
+      "date": "2016-12-13T19:17:37Z",
+      "url": "https://forums.warframe.com/topic/734004-the-war-within-hotfix-1932-19321/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a couple memory leaks and offset damage triggers with Vauban’s Tesla Link Augment Mod."
+    },
+    {
+      "name": "Mesa Update",
+      "date": "2014-11-27T17:30:05Z",
+      "url": "https://forums.warframe.com/topic/352963-mesa-update/",
+      "additions": "",
+      "changes": "Limited the number of links that Tesla can make when under the Tesla Link Augment. Now connects with up to 4 other Tesla orbs.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 15.2.0",
+      "date": "2014-11-13T01:00:05Z",
+      "url": "https://forums.warframe.com/topic/344505-update-1520/",
+      "additions": "",
+      "changes": "Vauban’s Tesla beam from the Tesla Link Mod has received an improved visual effect to reduce visual clutter when cast multiple times and\nVauban’s Tesla beam from the Tesla Link Mod should now properly deal Slash damage.",
+      "fixes": ""
+    }
+  ],
+  "347e0aae6a45b80d2c9797798a545908": [
+    {
+      "name": "Plains of Eidolon: Hotfix 22.2.5",
+      "date": "2017-11-11T02:19:26Z",
+      "url": "https://forums.warframe.com/topic/877028-plains-of-eidolon-hotfix-2225/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Mirage’s Total Eclipse Augment Mod applying to the Operator."
+    }
+  ],
+  "4ade63d5231e45eacf87218534373e02": [
+    {
+      "name": "Hotfix: Lunaro 6",
+      "date": "2016-06-28T17:58:04Z",
+      "url": "https://forums.warframe.com/topic/665045-hotfix-lunaro-6/",
+      "additions": "",
+      "changes": "Concentrated the Drekar Ballista drop-table slightly in an attempt to disperse more Toxic Flight Mods.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 17.0.5",
+      "date": "2015-08-07T20:42:35Z",
+      "url": "https://forums.warframe.com/topic/505953-hotfix-1705/",
+      "additions": "",
+      "changes": "Added improved gooey FX to the Toxic Flight Mod.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Toxic Flight",
+      "fixes": ""
+    }
+  ],
+  "b22107a9cf0c3d9a5718f0379b9e43df": [
+    {
+      "name": "Hotfix 15.0.9",
+      "date": "2014-10-30T22:22:26Z",
+      "url": "https://forums.warframe.com/topic/336430-hotfix-1509/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with Corrupted Mod Transient Fortitude not being equippable simultaneously with Blind Rage."
+    },
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Transient Fortitude: Warframe: Increased power strength, but decreased duration.",
+      "fixes": ""
+    }
+  ],
+  "5dc07955ec4ccf2d8ab5b35816edc7ad": [
+    {
+      "name": "Shrine of the Eidolon: Update 22.16.0",
+      "date": "2018-03-15T20:27:52Z",
+      "url": "https://forums.warframe.com/topic/933296-shrine-of-the-eidolon-update-22160/",
+      "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/DojoRework_NewsHeader.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed being unable to use your Primary weapon when Transferring in-out of the Operator while holding Volt’s Transistor Shield."
+    },
+    {
+      "name": "Chains of Harrow: Update 21.5.0",
+      "date": "2017-08-16T20:44:07Z",
+      "url": "https://forums.warframe.com/topic/832153-chains-of-harrow-update-2150/",
+      "imgUrl": "http://n8k6e2y6.ssl.hwcdn.net/uploads/da8dd0d10932c10f50a5d6ed3d8e7cc0.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Volt’s Transistor Shield Energy drain when moving applying to elevators."
+    }
+  ],
+  "cd1634efe4b1a22d344deb4b22e16e44": [
+    {
+      "name": "Fortuna: Hotfix 24.2.10",
+      "date": "2019-01-23T20:08:15Z",
+      "url": "https://forums.warframe.com/topic/1056534-fortuna-hotfix-24210/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed broken tags in the Venari Bodyguard Mod that were broken in a few languages (German, Polish, Chinese)."
+    }
+  ],
+  "81b6ecd3565f568914d15f9160d51318": [
+    {
+      "name": "Beasts of the Sanctuary: Update 22.20.0",
+      "date": "2018-05-17T14:55:31Z",
+      "url": "https://forums.warframe.com/topic/957066-beasts-of-the-sanctuary-update-22200/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/09cdfacb9f01a572c3205b5ccb861822.jpg",
+      "additions": "",
+      "changes": "Venom Dose Augment: Spores cast on allies temporarily grant them additional Corrosive damage to all attacks.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 15.13",
+      "date": "2015-02-05T21:08:01Z",
+      "url": "https://forums.warframe.com/topic/396379-update-1513/",
+      "additions": "",
+      "changes": "Saryn’s Venom Dose",
+      "fixes": ""
+    }
+  ],
+  "17a18e020fcfbc99322e805ffb912c7a": [
+    {
+      "name": "Update 17.2",
+      "date": "2015-08-19T21:49:41Z",
+      "url": "https://forums.warframe.com/topic/514266-update-172/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Blast procs not functioning properly. Also fixes Vexing Retaliation not functioning properly."
+    }
+  ],
+  "c7d8a7187df427237287fc0bfd945ac6": [
+    {
+      "name": "Fortuna: Hotfix 24.0.9",
+      "date": "2018-11-21T14:01:56Z",
+      "url": "https://forums.warframe.com/topic/1035270-fortuna-hotfix-2409/",
+      "additions": "",
+      "changes": "Synth Reflex and Vigilante Pursuit are now Exilus Mods. These Mods currently have similarly functioning Exilus Mods (Streamlined Form and Enemy Sense), therefore utilizing a Mod slot was counter intuitive.",
+      "fixes": ""
+    },
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "Vigilante Pursuit (Warframe) ",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "03e9cae46748fee3c64891e785406e8e": [
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "Vigilante Vigor (Warframe) ",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "9bbab6aec2421aa71d79d2720d8a2b0f": [
+    {
+      "name": "Chimera: Hotfix 23.10.5",
+      "date": "2018-10-18T14:52:11Z",
+      "url": "https://forums.warframe.com/topic/1019687-chimera-hotfix-23105/",
+      "additions": "",
+      "changes": "Vigorous Swap will now deactivate when an Ability weapon is active (Mesa’s Peacemaker, Valkyr’s Hysteria, etc). ",
+      "fixes": ""
+    },
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "Vigilante Vigor (Warframe) ",
+      "changes": "",
+      "fixes": ""
+    },
+    {
+      "name": "Recurring Nightmares",
+      "date": "2016-10-27T19:03:48Z",
+      "url": "https://forums.warframe.com/topic/711418-recurring-nightmares/",
+      "imgUrl": "http://i.imgur.com/Oail8jd.jpg",
+      "additions": "",
+      "changes": "Vigor",
+      "fixes": ""
+    },
+    {
+      "name": "Update 9.7",
+      "date": "2013-08-30T16:01:06Z",
+      "url": "https://forums.warframe.com/topic/100482-update-97/",
+      "additions": "",
+      "changes": "Mod Rewards from “Arid Fear” event (Shred, Vigor, Lethal Torrent) now available in Nightmare Mode",
+      "fixes": ""
+    }
+  ],
+  "1b480527efefd182f2c3afbf9a6a7344": [
+    {
+      "name": "Chimera: Hotfix 23.10.5",
+      "date": "2018-10-18T14:52:11Z",
+      "url": "https://forums.warframe.com/topic/1019687-chimera-hotfix-23105/",
+      "additions": "",
+      "changes": "Vigorous Swap will now deactivate when an Ability weapon is active (Mesa’s Peacemaker, Valkyr’s Hysteria, etc). ",
+      "fixes": ""
+    }
+  ],
+  "74f76aacbb0dc9f245760363481f6285": [
+    {
+      "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
+      "date": "2016-05-27T21:20:29Z",
+      "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
+      "imgUrl": "http://i.imgur.com/1JPOZC1.png",
+      "additions": "",
+      "changes": "•    The ‘Vitality’ Sentinel Mod has been renamed to ‘Enhanced Vitality’",
+      "fixes": ""
+    },
+    {
+      "name": "Update 13.7.1",
+      "date": "2014-06-12T19:52:13Z",
+      "url": "https://forums.warframe.com/topic/245171-update-1371/",
+      "additions": "",
+      "changes": "Removed Vitality and other common gear from Void Vor’s drops, replaced with option of Orokin Cell or Argon Crystal AND one of four Cicero Crisis mods.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 13.2.2+13.2.2.1",
+      "date": "2014-05-02T21:10:03Z",
+      "url": "https://forums.warframe.com/topic/225898-hotfix-132213221/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with Defense rewards giving Maxed Vitality mods."
+    }
+  ],
+  "8f7db63112a900eafccdb6819c3ba372": [
+    {
+      "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
+      "date": "2016-05-27T21:20:29Z",
+      "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
+      "imgUrl": "http://i.imgur.com/1JPOZC1.png",
+      "additions": "",
+      "changes": "•    The ‘Vitality’ Sentinel Mod has been renamed to ‘Enhanced Vitality’",
+      "fixes": ""
+    },
+    {
+      "name": "Update 13.7.1",
+      "date": "2014-06-12T19:52:13Z",
+      "url": "https://forums.warframe.com/topic/245171-update-1371/",
+      "additions": "",
+      "changes": "Removed Vitality and other common gear from Void Vor’s drops, replaced with option of Orokin Cell or Argon Crystal AND one of four Cicero Crisis mods.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 13.2.2+13.2.2.1",
+      "date": "2014-05-02T21:10:03Z",
+      "url": "https://forums.warframe.com/topic/225898-hotfix-132213221/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with Defense rewards giving Maxed Vitality mods."
+    }
+  ],
+  "c38a95dc359779fb5ddc24b423d2e595": [
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Ward Recovery "
+    }
+  ],
+  "11537a2e411caa4e51231ac48c0b343f": [
+    {
+      "name": "The Sacrifice: Hotfix 23.0.7",
+      "date": "2018-06-28T20:24:15Z",
+      "url": "https://forums.warframe.com/topic/975538-the-sacrifice-hotfix-2307/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed crash that could happen when someone affected by Harrow's Warding Thurible Augment died."
+    }
+  ],
+  "6d8b62817132f2d4abbc0f4adc751f83": [
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Warm Coat",
+      "fixes": ""
+    }
+  ]
+}

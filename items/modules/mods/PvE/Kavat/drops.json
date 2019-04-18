@@ -1,0 +1,42 @@
+{
+  "4db3c14ac7954edac76607db8220001a": [
+    {
+      "location": "Level 10 - 30 Orb Vallis Bounty",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.22219999999999998
+    },
+    {
+      "location": "Level 10 - 30 Orb Vallis Bounty",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.069
+    },
+    {
+      "location": "Corpus Cestra Target",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.05
+    }
+  ],
+  "7a9febec2c61196ed3a88e9a3011c451": [
+    {
+      "location": "Level 20 - 40 Orb Vallis Bounty",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.25
+    },
+    {
+      "location": "Level 20 - 40 Orb Vallis Bounty",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.11109999999999999
+    },
+    {
+      "location": "Corpus Cestra Target",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.05
+    }
+  ]
+}

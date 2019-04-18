@@ -1,0 +1,13 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBSonicBoomMod",
+  "name": "Sonic Boost",
+  "polarity": "Madurai",
+  "rarity": "Rare",
+  "baseDrain": 4,
+  "fusionLimit": 3,
+  "description": "Every 40s, boosting will release a shockwave, stunning enemies in 1m.",
+  "type": "---",
+  "imageName": "sonic-boost.jpeg",
+  "tradable": true,
+  "hash": "6d30af8ec8d31d4437792daf6c891b38"
+}

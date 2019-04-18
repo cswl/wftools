@@ -1,0 +1,134 @@
+{
+  "154385c99b763ffc30fcad9dfc9abe25": [
+    {
+      "location": "Kubrow",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    },
+    {
+      "location": "Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    },
+    {
+      "location": "Kuva Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    }
+  ],
+  "64d7de937ed4eeab4d0dd3fb209eacc4": [
+    {
+      "location": "Level 10 - 30 Orb Vallis Bounty",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.22219999999999998
+    },
+    {
+      "location": "Level 10 - 30 Orb Vallis Bounty",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.069
+    },
+    {
+      "location": "Corpus Trencher Target",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.05
+    }
+  ],
+  "a6f5a5dd620dfc114e2675ad3a7a5249": [
+    {
+      "location": "Level 20 - 40 Orb Vallis Bounty",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.25
+    },
+    {
+      "location": "Level 20 - 40 Orb Vallis Bounty",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.11109999999999999
+    },
+    {
+      "location": "Corpus Trencher Target",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.05
+    }
+  ],
+  "ef55f25233e8c7828117b888636ea392": [
+    {
+      "location": "Kubrow",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    },
+    {
+      "location": "Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    },
+    {
+      "location": "Kuva Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    }
+  ],
+  "b41c0970101d85de7241943e4f85c247": [
+    {
+      "location": "Armaments Director",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Vivisect Director",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Sentient Research Director",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Bounty Completion",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.0125
+    }
+  ],
+  "2ac24bb5e7d44cc9da11135714adf30c": [
+    {
+      "location": "Armaments Director",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Vivisect Director",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Sentient Research Director",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Bounty Completion",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.0125
+    }
+  ]
+}

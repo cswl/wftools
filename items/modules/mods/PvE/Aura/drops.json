@@ -1,0 +1,78 @@
+{
+  "8285f9ee3ed93b91bf1f2667c574471f": [
+    {
+      "location": "Orphid Specter",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.386
+    }
+  ],
+  "df96eb13a76367242d6e6c3b307d2f05": [
+    {
+      "location": "Feyarch Specter",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.060599999999999994
+    }
+  ],
+  "05c8e3dd062f3dd28e0f2ee8b997a538": [
+    {
+      "location": "Knave Specter",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.060599999999999994
+    }
+  ],
+  "28775dc2c085346ddf1f386a3843cb52": [
+    {
+      "location": "Level 30 - 50 Orb Vallis Bounty",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Common",
+      "chance": 0.3448
+    },
+    {
+      "location": "Level 30 - 50 Orb Vallis Bounty",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1099
+    },
+    {
+      "location": "Corpus Trencher Target",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.05
+    }
+  ],
+  "fa5b0fd72cee750a94beae7df2dedd07": [
+    {
+      "location": "Knave Specter",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.5152
+    }
+  ],
+  "55e3a71f254b38098ba40674e7da6e54": [
+    {
+      "location": "Feyarch Specter",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.5152
+    }
+  ],
+  "5db48777c1d9ae627557055fb57f855d": [
+    {
+      "location": "Orphid Specter",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.2982
+    }
+  ],
+  "2a0395e82020f97a8b86f8940545e3f8": [
+    {
+      "location": "Nox",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002256
+    }
+  ]
+}

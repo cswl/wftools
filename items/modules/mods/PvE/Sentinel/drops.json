@@ -1,0 +1,1368 @@
+{
+  "c33a4449f0c0a1ea25ac1da7cf7bb924": [
+    {
+      "location": "Arid Seeker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Drekar Seeker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Grineer Manic",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Seeker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Frontier Seeker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Tusk Seeker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Toxic Ancient",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Boiler",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Arcane Boiler",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Kuva Seeker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    }
+  ],
+  "5b24b351a5f2f0897d07cf5151054090": [
+    {
+      "location": "Corrupted Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011381999999999998
+    },
+    {
+      "location": "Corrupted Butcher",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011381999999999998
+    }
+  ],
+  "487a6fb3b2fc2031d73b91bf627e3fef": [
+    {
+      "location": "Nightmare Mode Rewards",
+      "type": "Transient Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1549
+    }
+  ],
+  "c2ac97dc8de6ab63b107a9d9e018a7c7": [
+    {
+      "location": "Ghoul Auger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.03794
+    },
+    {
+      "location": "Nullifier Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.022763999999999996
+    },
+    {
+      "location": "Sniper Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.022763999999999996
+    },
+    {
+      "location": "Scorch",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011616
+    },
+    {
+      "location": "Kuva Scorch",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011616
+    },
+    {
+      "location": "Leaper",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011381999999999998
+    },
+    {
+      "location": "Corrupted Moa",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    }
+  ],
+  "bc5579674d1c472958ff75f6f671914f": [
+    {
+      "location": "Earth - Cervantes",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0367,
+      "rotation": "C"
+    },
+    {
+      "location": "Kubrow",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    },
+    {
+      "location": "Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    },
+    {
+      "location": "Kuva Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    }
+  ],
+  "4896c269e117d30b66300dced166d724": [
+    {
+      "location": "Powerfist",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011381999999999998
+    },
+    {
+      "location": "Kuva Powerclaw",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011381999999999998
+    },
+    {
+      "location": "Juggernaut",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Charger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Carrion Charger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Jack O'Naut",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Juggernaut Behemoth",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    }
+  ],
+  "ecc0bf9cb873158ef595901ea4913730": [
+    {
+      "location": "Orokin Spectator",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000201
+    },
+    {
+      "location": "Orokin Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000201
+    }
+  ],
+  "e6ba37f3fc8b697b9007dafd45d78717": [
+    {
+      "location": "Leech Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Sapping Osprey",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    }
+  ],
+  "445ee1855555b69f842c6548d03175b9": [
+    {
+      "location": "Anti Moa",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011616
+    },
+    {
+      "location": "Kuva Napalm",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Napalm",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Tusk Napalm",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Nervo",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Roller Sentry",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Fusion Moa",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Roller",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Latcher",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Kuva Roller",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Tusk Roller",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    }
+  ],
+  "3893857e6f061dd8c93959968ecb0020": [
+    {
+      "location": "Corrupted Moa",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    }
+  ],
+  "8ee2f4a517f1f2b96a022e99252b20dd": [
+    {
+      "location": "Gyre Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.03284
+    },
+    {
+      "location": "Cinderthresh Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.03284
+    },
+    {
+      "location": "Rabbleback Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.03284
+    },
+    {
+      "location": "Icemire Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.03284
+    },
+    {
+      "location": "Orb Vallis - Temple of Profit Enemies",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0018450000000000003
+    },
+    {
+      "location": "Orb Vallis - Spaceport Enemies",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001405
+    },
+    {
+      "location": "Orb Vallis - Enrichment Labs Enemies",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0013750000000000001
+    }
+  ],
+  "4d9d034499f483ed5f60fa5abc921b10": [
+    {
+      "location": "Corrupted Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000258
+    },
+    {
+      "location": "Orokin Spectator",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000201
+    },
+    {
+      "location": "Orokin Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000201
+    }
+  ],
+  "0a70ad4280cdf1c3ad367a00dcab753f": [
+    {
+      "location": "Gyre Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.0006000000000000001
+    },
+    {
+      "location": "Cinderthresh Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.0006000000000000001
+    },
+    {
+      "location": "Rabbleback Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.0006000000000000001
+    },
+    {
+      "location": "Icemire Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.0006000000000000001
+    },
+    {
+      "location": "Orb Vallis - Spaceport Enemies",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.00047000000000000004
+    }
+  ],
+  "efaead94d75b475e1fb1f3f1d47902ba": [
+    {
+      "location": "Gyre Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.0006000000000000001
+    },
+    {
+      "location": "Cinderthresh Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.0006000000000000001
+    },
+    {
+      "location": "Rabbleback Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.0006000000000000001
+    },
+    {
+      "location": "Icemire Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.0006000000000000001
+    },
+    {
+      "location": "Orb Vallis - Spaceport Enemies",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.00047000000000000004
+    },
+    {
+      "location": "Orb Vallis - Enrichment Labs Enemies",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.00046
+    },
+    {
+      "location": "Orb Vallis - Temple of Profit Enemies",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000335
+    }
+  ],
+  "a7797b64779de17262b2b2aba7682700": [
+    {
+      "location": "Volatile Runner",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Orphid Husks",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    }
+  ],
+  "b71757183bbdcbbf438a4cd24b4588f1": [
+    {
+      "location": "Orokin Spectator",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Orokin Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Nox",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005808
+    }
+  ],
+  "d2aa13bd885dcaa7ac2ec57824a4f4c5": [
+    {
+      "location": "Earth - Cervantes",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0367,
+      "rotation": "C"
+    },
+    {
+      "location": "Kubrow",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0011070000000000001
+    },
+    {
+      "location": "Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0011070000000000001
+    },
+    {
+      "location": "Kuva Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0011070000000000001
+    }
+  ],
+  "9f7ff02a354819a8349e2f79b375e022": [
+    {
+      "location": "Level 40 - 50 Ghoul Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.11900000000000001
+    },
+    {
+      "location": "Hemocyte",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.10529999999999999
+    },
+    {
+      "location": "Level 40 - 50 Ghoul Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.08230000000000001
+    },
+    {
+      "location": "Ghoul Auger Alpha",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00505
+    }
+  ],
+  "ce74ea1384eeb6223cbf3c555fea6eef": [
+    {
+      "location": "Ghoul Auger Alpha",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.37939999999999996
+    },
+    {
+      "location": "Level 40 - 50 Ghoul Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Common",
+      "chance": 0.3333
+    },
+    {
+      "location": "Hemocyte",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.2895
+    },
+    {
+      "location": "Level 40 - 50 Ghoul Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1174
+    },
+    {
+      "location": "Level 40 - 50 Ghoul Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.10289999999999999
+    }
+  ],
+  "0a0e86b255cc3180a708fcb804127ada": [
+    {
+      "location": "Level 40 - 50 Ghoul Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.11900000000000001
+    },
+    {
+      "location": "Ghoul Auger Alpha",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.11055
+    },
+    {
+      "location": "Hemocyte",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.10529999999999999
+    },
+    {
+      "location": "Level 40 - 50 Ghoul Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.09390000000000001
+    },
+    {
+      "location": "Level 40 - 50 Ghoul Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.08230000000000001
+    }
+  ],
+  "ce8c93026e47d82077aab3402893dba0": [
+    {
+      "location": "Earth - Cervantes",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0367,
+      "rotation": "C"
+    },
+    {
+      "location": "Kubrow",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0011070000000000001
+    },
+    {
+      "location": "Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0011070000000000001
+    },
+    {
+      "location": "Kuva Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0011070000000000001
+    }
+  ],
+  "fb62fd6029ec042a8eb48319aac00f04": [
+    {
+      "location": "Earth - Cervantes",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0367,
+      "rotation": "C"
+    },
+    {
+      "location": "Kubrow",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0011070000000000001
+    },
+    {
+      "location": "Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0011070000000000001
+    },
+    {
+      "location": "Kuva Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0011070000000000001
+    }
+  ],
+  "50016d767e63d89da2ff913a59b406d3": [
+    {
+      "location": "Earth - Cervantes",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0367,
+      "rotation": "C"
+    },
+    {
+      "location": "Kubrow",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0011070000000000001
+    },
+    {
+      "location": "Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0011070000000000001
+    },
+    {
+      "location": "Kuva Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0011070000000000001
+    }
+  ],
+  "3adc7e07637cd0c6d6fd941e5d2a4752": [
+    {
+      "location": "Kubrow",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Kuva Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    }
+  ],
+  "dc99ce586112a3b09b23f9e595a04c06": [
+    {
+      "location": "Earth - Cervantes",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0367,
+      "rotation": "C"
+    },
+    {
+      "location": "Kubrow",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0011070000000000001
+    },
+    {
+      "location": "Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0011070000000000001
+    },
+    {
+      "location": "Kuva Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0011070000000000001
+    }
+  ],
+  "02cb750c14f9ca696624fa1c416207c6": [
+    {
+      "location": "Jen Dro",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Ved Xol",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Pelna Cade",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Lockjaw & Sol",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Jad Teran",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Azoth",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Raptor Rx",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Auditor",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Nako Xol",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "M-W.A.M.",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Derim Zahn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Tia Mayn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Armis Ulta",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Dru Pesfor",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Rana Del",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "002-Er",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    }
+  ],
+  "1e87fae0de453f74201884fb699ecb87": [
+    {
+      "location": "Kela De Thaym",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.11109999999999999
+    }
+  ],
+  "0b97bfc84c67d17698a297d9b61b341a": [
+    {
+      "location": "Terra Plasmor Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.07588
+    },
+    {
+      "location": "Terra Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.07588
+    },
+    {
+      "location": "Terra Sniper Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.07588
+    },
+    {
+      "location": "Terra Elite Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.01897
+    },
+    {
+      "location": "Nul Comba",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.01897
+    },
+    {
+      "location": "Terra Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.01897
+    },
+    {
+      "location": "Fog Comba",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.01897
+    },
+    {
+      "location": "Sap Comba",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.01897
+    },
+    {
+      "location": "Terra Sniper Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.01897
+    },
+    {
+      "location": "Slo Comba",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.01897
+    },
+    {
+      "location": "Terra Plasmor Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.01897
+    },
+    {
+      "location": "Corpus Power Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.017235
+    },
+    {
+      "location": "Orb Vallis - Temple of Profit Enemies",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.012645000000000002
+    },
+    {
+      "location": "Prod Crewman",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011381999999999998
+    }
+  ],
+  "0731bd664e4ddf6afc5bb0fbdd9c88d7": [
+    {
+      "location": "Kubrow",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Kuva Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    }
+  ],
+  "7d840532fbbc55e8a90d31d019f762bf": [
+    {
+      "location": "Juggernaut",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Charger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Carrion Charger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Jack O'Naut",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Juggernaut Behemoth",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    }
+  ],
+  "21c9eef4e99c6bc0ab630a3829565c5b": [
+    {
+      "location": "Orb Vallis - Enrichment Labs Enemies",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.017275
+    },
+    {
+      "location": "Elite Arid Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Elite Frontier Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Isolator Bursa",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Drover Bursa",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Dargyn Pilot",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Moa",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Denial Bursa",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Elite Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Tusk Elite Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Kuva Elite Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Draga",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Shock Draga",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Darek Draga",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Ratel",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    }
+  ],
+  "44cdd9a732e46ca0530e697a4eafd387": [
+    {
+      "location": "Bombard",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.00015
+    },
+    {
+      "location": "Tusk Bombard",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.00015
+    },
+    {
+      "location": "Tusk Mortar Bombard",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.00015
+    },
+    {
+      "location": "Kuva Bombard",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.00015
+    }
+  ],
+  "19ae493c3aa5f6fec1f35fd65b183f34": [
+    {
+      "location": "Fusion Moa",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.000303
+    }
+  ],
+  "48d88fec2c391306d065eba74d2f37c3": [
+    {
+      "location": "Jen Dro",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Ved Xol",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Pelna Cade",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Lockjaw & Sol",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Jad Teran",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Azoth",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Raptor Rx",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Auditor",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Nako Xol",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "M-W.A.M.",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Derim Zahn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Tia Mayn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Armis Ulta",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Dru Pesfor",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "Rana Del",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    },
+    {
+      "location": "002-Er",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0125
+    }
+  ],
+  "5ecfb32ddde9a7e1b64e7a55d043ddf9": [
+    {
+      "location": "Gyre Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.0006000000000000001
+    },
+    {
+      "location": "Cinderthresh Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.0006000000000000001
+    },
+    {
+      "location": "Rabbleback Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.0006000000000000001
+    },
+    {
+      "location": "Icemire Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.0006000000000000001
+    },
+    {
+      "location": "Orb Vallis - Temple of Profit Enemies",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000335
+    }
+  ],
+  "6a46038501a24fc2c895d86cb89f9a2e": [
+    {
+      "location": "Lephantis",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.2211
+    },
+    {
+      "location": "Corrupted Bombard",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Corrupted Heavy Gunner",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Corrupted Nullifier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    }
+  ],
+  "ab4b2c1b3d458554abb02c73b306d0f8": [
+    {
+      "location": "Level 20 - 40 Orb Vallis Bounty",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.25
+    },
+    {
+      "location": "Level 20 - 40 Orb Vallis Bounty",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.11109999999999999
+    },
+    {
+      "location": "Corpus Supra Target",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.05
+    },
+    {
+      "location": "Corpus Sniper Target",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.05
+    }
+  ],
+  "bacbe126164f052c2aad57e32cfe07a2": [
+    {
+      "location": "Level 30 - 50 Orb Vallis Bounty",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Common",
+      "chance": 0.3448
+    },
+    {
+      "location": "Level 30 - 50 Orb Vallis Bounty",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1099
+    },
+    {
+      "location": "Corpus Supra Target",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.05
+    },
+    {
+      "location": "Corpus Sniper Target",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.05
+    }
+  ],
+  "1adc29e6eb6c1e00e0fef37fb83202ad": [
+    {
+      "location": "Corrupted Lancer",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011381999999999998
+    },
+    {
+      "location": "Corrupted Butcher",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011381999999999998
+    }
+  ],
+  "ef0c53e4cfa0997ae153716fd898d5e9": [
+    {
+      "location": "Powerfist",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011381999999999998
+    },
+    {
+      "location": "Kuva Powerclaw",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011381999999999998
+    },
+    {
+      "location": "Fusion Moa",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    }
+  ],
+  "19ff14b6e6bf752aabd6772c152cce51": [
+    {
+      "location": "Gyre Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.0006000000000000001
+    },
+    {
+      "location": "Cinderthresh Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.0006000000000000001
+    },
+    {
+      "location": "Rabbleback Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.0006000000000000001
+    },
+    {
+      "location": "Icemire Hyena",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.0006000000000000001
+    },
+    {
+      "location": "Orb Vallis - Enrichment Labs Enemies",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.00046
+    }
+  ]
+}

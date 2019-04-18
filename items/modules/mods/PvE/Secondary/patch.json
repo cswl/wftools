@@ -1,0 +1,841 @@
+{
+  "5ef0846c3fb43e0db90389298f0219a2": [
+    {
+      "name": "Update 15.7.2 + 15.7.2.1",
+      "date": "2014-12-19T18:09:43Z",
+      "url": "https://forums.warframe.com/topic/369418-update-1572-15721/",
+      "additions": "",
+      "changes": "Removed the Anemic Agility Mod from the Grineer Ballista's drop table. This was only ever intended to drop in Orokin Derelict Vaults.",
+      "fixes": ""
+    },
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Anemic Agility: Pistol: Increased fire rate, but decreased damage.",
+      "fixes": ""
+    }
+  ],
+  "3009c91fe07c7092c55fe6077c8a908e": [
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "Augur Pact (Pistol)",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "560cbbe2657a8e835f47a7209577fc93": [
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "Augur Seeker (Pistol)",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "9b20856ece70dbe1a14326d499871a93": [
+    {
+      "name": "Hotfix 15.5.8",
+      "date": "2014-12-05T23:17:49Z",
+      "url": "https://forums.warframe.com/topic/359419-hotfix-1558/",
+      "additions": "",
+      "changes": "Fixed issue with Gammacor caused by using the Barrel Diffusion, Lethal Torrent and Seeker Mods all at once.  ",
+      "fixes": ""
+    }
+  ],
+  "60cae08e98516b17ce8562e7b0349097": [
+    {
+      "name": "Recurring Dreams + Hotfix 1",
+      "date": "2016-11-03T21:40:35Z",
+      "url": "https://forums.warframe.com/topic/713313-recurring-dreams-hotfix-1/",
+      "additions": "Meteor Crash, Nebula Bore, and Astral Slash have been added to the Codex.",
+      "changes": "",
+      "fixes": ""
+    },
+    {
+      "name": "Specters of the Rail: U2.1",
+      "date": "2016-08-10T17:57:04Z",
+      "url": "https://forums.warframe.com/topic/685418-specters-of-the-rail-u21/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Archwing Impact, Slash, and Puncture Mods giving incorrect bonuses to stats. They were giving flat bonus rather than percentages as intended by the precedent set by all other physical damage mods  (Comet Blast, Quasar Drill, Zodiac Shred, Meteor Crash, Nebula Bore, and Astral Slash are all +90%)."
+    },
+    {
+      "name": "Specters of the Rail: Update 2",
+      "date": "2016-08-03T21:43:21Z",
+      "url": "https://forums.warframe.com/topic/682884-specters-of-the-rail-update-2/",
+      "imgUrl": "http://i.imgur.com/4kfneNf.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "  Arch-Melee: Nebula Bore "
+    }
+  ],
+  "98d3f7184a81a48779dc0c33a196d9b6": [
+    {
+      "name": "Plains of Eidolon: Update 22.6.0 + Hotfix 22.6.0.1",
+      "date": "2017-12-07T22:05:21Z",
+      "url": "https://forums.warframe.com/topic/891096-plains-of-eidolon-update-2260-hotfix-22601/",
+      "imgUrl": "https://content.invisioncic.com/Mwarframe/monthly_2017_12/Warframe0044.thumb.jpg.301d3829b792af173307be6fda35cbb8.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Concealed Explosives mod description showing Pistol instead of Thrown."
+    },
+    {
+      "name": "Update 18.9.0",
+      "date": "2016-04-20T21:39:18Z",
+      "url": "https://forums.warframe.com/topic/639851-update-1890/",
+      "imgUrl": "http://i.imgur.com/mY2Txwh.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed overlapping explosive sounds on the Concealed Explosives mod."
+    },
+    {
+      "name": "Update 18: The Second Dream",
+      "date": "2015-12-03T23:46:40Z",
+      "url": "https://forums.warframe.com/topic/568455-update-18-the-second-dream/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed explosions from the Concealed Explosives Mod damaging Corpus Nullifiers through their bubbles."
+    },
+    {
+      "name": "Update 17.3.0",
+      "date": "2015-09-02T20:56:46Z",
+      "url": "https://forums.warframe.com/topic/521781-update-1730/",
+      "additions": "",
+      "changes": "Mirage’s clones produced from Hall of Mirrors will now display a smaller explosion when using the Concealed Explosives Mod to help improve performance.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 17.0.3",
+      "date": "2015-08-04T22:21:45Z",
+      "url": "https://forums.warframe.com/topic/503583-hotfix-1703/",
+      "additions": "",
+      "changes": "Altered the visual effect of explosions that come from the Concealed Explosives Mod.\nTweaked the audio FX of explosions triggered by the Concealed Explosives Mod.",
+      "fixes": ""
+    }
+  ],
+  "7c6f56f466ef383f7ee49639bda97329": [
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Creeping Bullseye: Pistol: Increased crit chance, but decreased fire rate.",
+      "fixes": ""
+    }
+  ],
+  "76ebcc6b96ea37c5440beb62780e1e13": [
+    {
+      "name": "Update 15.13",
+      "date": "2015-02-05T21:08:01Z",
+      "url": "https://forums.warframe.com/topic/396379-update-1513/",
+      "additions": "",
+      "changes": "Updated the Deep Freeze Mod to give up to 90% Freeze damage to match other elemental Mods.",
+      "fixes": ""
+    }
+  ],
+  "9547d53af101472c578ce5149ccdd099": [
+    {
+      "name": "Hotfix 16.1.3",
+      "date": "2015-03-26T22:31:46Z",
+      "url": "https://forums.warframe.com/topic/427542-hotfix-1613/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Mod description of the Entropy Spike Mod to clarify its intended purpose."
+    },
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Bolto: Entropy Spike: adds 0.1% projectile explosion chance",
+      "fixes": ""
+    }
+  ],
+  "64fe3021afaeac722d204edce16db03d": [
+    {
+      "name": "Update 11.3.0",
+      "date": "2013-12-12T03:08:07Z",
+      "url": "https://forums.warframe.com/topic/146580-update-1130/",
+      "additions": "",
+      "changes": "Conclave values added for Bane of Corpus, Bane of Grineer, Band of Infested, Expel Corpus, Expel Grineer, Expel Infested, Smite Corpus, Smite Grineer, Smite Infested",
+      "fixes": ""
+    }
+  ],
+  "2910f0254de58979c8b30b1bb2b85948": [
+    {
+      "name": "Update 11.3.0",
+      "date": "2013-12-12T03:08:07Z",
+      "url": "https://forums.warframe.com/topic/146580-update-1130/",
+      "additions": "",
+      "changes": "Conclave values added for Bane of Corpus, Bane of Grineer, Band of Infested, Expel Corpus, Expel Grineer, Expel Infested, Smite Corpus, Smite Grineer, Smite Infested",
+      "fixes": ""
+    }
+  ],
+  "84f663d9ef17d1b90e054cbf03a064e2": [
+    {
+      "name": "Update 11.3.0",
+      "date": "2013-12-12T03:08:07Z",
+      "url": "https://forums.warframe.com/topic/146580-update-1130/",
+      "additions": "",
+      "changes": "Conclave values added for Bane of Corpus, Bane of Grineer, Band of Infested, Expel Corpus, Expel Grineer, Expel Infested, Smite Corpus, Smite Grineer, Smite Infested",
+      "fixes": ""
+    }
+  ],
+  "3ec148fe55068ca6ffc04d385a8305b8": [
+    {
+      "name": "Fortuna: Mesa Prime - Hotfix 24.2.2",
+      "date": "2018-12-18T18:58:36Z",
+      "url": "https://forums.warframe.com/topic/1045159-fortuna-mesa-prime-hotfix-2422/",
+      "additions": "",
+      "changes": "You can now equip the Fulmination Mod on the Staticor.",
+      "fixes": ""
+    }
+  ],
+  "b509c3bf408e68c781a27d2b8d588299": [
+    {
+      "name": "Mesa Update",
+      "date": "2014-11-27T17:30:05Z",
+      "url": "https://forums.warframe.com/topic/352963-mesa-update/",
+      "additions": "",
+      "changes": "Update 15.5operation: Mutalist Incursionsstop The Infestation!A Message From Alad V:Mutalist Incursions:What You Should Knowrewardsmesa: The Gunslinger:",
+      "fixes": ""
+    }
+  ],
+  "eebd8981a75cfaca1825aa0beaca2e88": [
+    {
+      "name": "Hotfix 8.1.3",
+      "date": "2013-06-19T13:43:51Z",
+      "url": "https://forums.warframe.com/topic/66795-hotfix-813/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Hornet Strike not affecting DOT from the Acrid"
+    }
+  ],
+  "0b6f3dd0805ffe38f16208e7437a9de7": [
+    {
+      "name": "Hotfix 8.1.3",
+      "date": "2013-06-19T13:43:51Z",
+      "url": "https://forums.warframe.com/topic/66795-hotfix-813/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Hornet Strike not affecting DOT from the Acrid"
+    }
+  ],
+  "40ff66ab5bbc1740c9964aa6872380cc": [
+    {
+      "name": "Mask of the Revenant: Update 23.8.0 + 23.8.0.1 + 23.8.0.2",
+      "date": "2018-09-12T18:41:12Z",
+      "url": "https://forums.warframe.com/topic/1008095-mask-of-the-revenant-update-2380-23801-23802/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/b04e5e955cbe351ab0be19dddf7b7b6a.png",
+      "additions": "",
+      "changes": "Removed ability to unintentionally equip Hydraulic Crosshairs and Sharpened Bullets on Mesa’s Regulators. Although the buff appeared to trigger, it never actually applied due to the \"on aim\" criteria not being fulfilled (unless you had a very specific loadout with the Mesa Waltz Augment equipped).",
+      "fixes": ""
+    },
+    {
+      "name": "The Glast Gambit: Hotfix 19.8.1",
+      "date": "2017-01-27T17:06:00Z",
+      "url": "https://forums.warframe.com/topic/755337-the-glast-gambit-hotfix-1981/",
+      "imgUrl": "http://i.imgur.com/h4dCI6y.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Argon Scope, Hydraulic Crosshairs and Repeater Clip not using proper HUD buff icon."
+    }
+  ],
+  "479f3af676eeed32270a6655f80cfc2b": [
+    {
+      "name": "Recurring Nightmares",
+      "date": "2016-10-27T19:03:48Z",
+      "url": "https://forums.warframe.com/topic/711418-recurring-nightmares/",
+      "imgUrl": "http://i.imgur.com/Oail8jd.jpg",
+      "additions": "",
+      "changes": "Ice Storm",
+      "fixes": ""
+    }
+  ],
+  "9cc4801b36f0f05bdf77d780d937f72c": [
+    {
+      "name": "Hotfix 19.0.3",
+      "date": "2016-11-14T23:41:18Z",
+      "url": "https://forums.warframe.com/topic/718965-hotfix-1903/",
+      "additions": "",
+      "changes": "Fixed missing link to Tethra's Doom mods in the codex (was preventing Jolt and Voltaic Strike from showing up in the codex).",
+      "fixes": ""
+    }
+  ],
+  "3fca00f3bc28cd4deb9c71ac0294e083": [
+    {
+      "name": "Update 15.13",
+      "date": "2015-02-05T21:08:01Z",
+      "url": "https://forums.warframe.com/topic/396379-update-1513/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Buzlok and Twin Gremlin being unable to equip Terminal Velocity or the Lethal Momentum Mods."
+    },
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Lethal Momentum: Pistol: Weapon Projectile Speed.",
+      "fixes": ""
+    }
+  ],
+  "6b606e9a3c81404cdcc7474ae91be37e": [
+    {
+      "name": "Recurring Nightmares",
+      "date": "2016-10-27T19:03:48Z",
+      "url": "https://forums.warframe.com/topic/711418-recurring-nightmares/",
+      "imgUrl": "http://i.imgur.com/Oail8jd.jpg",
+      "additions": "",
+      "changes": "Lethal Torrent",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 15.5.8",
+      "date": "2014-12-05T23:17:49Z",
+      "url": "https://forums.warframe.com/topic/359419-hotfix-1558/",
+      "additions": "",
+      "changes": "Fixed issue with Gammacor caused by using the Barrel Diffusion, Lethal Torrent and Seeker Mods all at once.  ",
+      "fixes": ""
+    },
+    {
+      "name": "Update 9.7",
+      "date": "2013-08-30T16:01:06Z",
+      "url": "https://forums.warframe.com/topic/100482-update-97/",
+      "additions": "",
+      "changes": "Mod Rewards from “Arid Fear” event (Shred, Vigor, Lethal Torrent) now available in Nightmare Mode",
+      "fixes": ""
+    }
+  ],
+  "a81c19f287ff1ac0ba2cd2c73786b19a": [
+    {
+      "name": "Update 21: Chains of Harrow",
+      "date": "2017-06-29T03:00:20Z",
+      "url": "https://forums.warframe.com/topic/809842-update-21-chains-of-harrow/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/harrow/PriestSpear_1080p.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Magnum Force equipped on Castanas modded for multishot resulting in pin-point accuracy. "
+    },
+    {
+      "name": "Octavia’s Anthem: Hotfix 20.3.1",
+      "date": "2017-04-27T20:46:08Z",
+      "url": "https://forums.warframe.com/topic/791287-octavia%E2%80%99s-anthem-hotfix-2031/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Magnum Force Mod having 2 Accuracy stats in the description."
+    },
+    {
+      "name": "Update 10.5.0: The Gradivus Dilemma",
+      "date": "2013-10-24T03:55:25Z",
+      "url": "https://forums.warframe.com/topic/122841-update-1050-the-gradivus-dilemma/",
+      "additions": "",
+      "changes": "Corrupted “Magnum Force” mod now works with Acrid.\nCorrupted Mod “Magnum Force” changed from Damage/Recoil to Damage/Accuracy trade-off.",
+      "fixes": ""
+    }
+  ],
+  "aa9aeac1f02899541217e029067fb97c": [
+    {
+      "name": "Plains of Eidolon: Hotfix 22.8.2",
+      "date": "2018-01-04T20:43:45Z",
+      "url": "https://forums.warframe.com/topic/904138-plains-of-eidolon-hotfix-2282/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Maim not damaging enemies if there are many enemies in its radius."
+    },
+    {
+      "name": "The Vacuum Within: Hotfix #3",
+      "date": "2016-10-13T18:16:13Z",
+      "url": "https://forums.warframe.com/topic/708168-the-vacuum-within-hotfix-3/",
+      "additions": "",
+      "changes": "Moved Nyx’ Absorb damage counter up to the buff notification area (like Equinox' Maim damage counter).\nMade Equinox’ Maim damage counter show up immediately (as zero) so that you can tell you've cast it even when there are no enemies in range. ",
+      "fixes": ""
+    },
+    {
+      "name": "The Vacuum Within: Hotfix #2",
+      "date": "2016-10-06T20:50:11Z",
+      "url": "https://forums.warframe.com/topic/705955-the-vacuum-within-hotfix-2/",
+      "additions": "",
+      "changes": "Compacted large numbers for some ability notifications on the HUD (eg: Equinox’s Maim).",
+      "fixes": ""
+    },
+    {
+      "name": "Update: Specters of the Rail",
+      "date": "2016-07-08T14:12:48Z",
+      "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
+      "imgUrl": "http://i.imgur.com/YMVXfyw.jpg",
+      "additions": "",
+      "changes": "Mend and Maim ",
+      "fixes": ""
+    },
+    {
+      "name": "Update: Lunaro",
+      "date": "2016-06-15T23:58:19Z",
+      "url": "https://forums.warframe.com/topic/660347-update-lunaro/",
+      "imgUrl": "http://i.imgur.com/8pv5NTb.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed the Maiming Strike Mod not applying Critical Damage if your slide was cancelled right before you attacked the enemy. "
+    },
+    {
+      "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
+      "date": "2016-05-27T21:20:29Z",
+      "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
+      "imgUrl": "http://i.imgur.com/1JPOZC1.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed not seeing squadmates using certain Warframe abilities (Sound Quake, Spectral Scream, Elemental Ward, Undertow, Absorb, Mend & Maim, and Sandstorm) when joining a mission in progress."
+    },
+    {
+      "name": "Hotfix 18.4.7",
+      "date": "2016-02-04T22:43:36Z",
+      "url": "https://forums.warframe.com/topic/605204-hotfix-1847/",
+      "additions": "",
+      "changes": "Lowered the damage of Equinox’s Maim Ability in Conclave.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 18.0.4 ",
+      "date": "2015-12-08T17:59:59Z",
+      "url": "https://forums.warframe.com/topic/573817-hotfix-1804-spoilers/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Equinox’s Mend & Maim visual FX not properly displaying if the player is stealthed while the Ability is active."
+    },
+    {
+      "name": "Update 17.5: The Jordas Precept. + Hotfix 17.5.1",
+      "date": "2015-10-02T02:05:33Z",
+      "url": "https://forums.warframe.com/topic/536207-update-175-the-jordas-precept-hotfix-1751/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Equinox’s Maim doing damage to the player when deactivated on a Rampart."
+    },
+    {
+      "name": "Update 14.7.0: Operation Gate Crash!",
+      "date": "2014-09-18T03:51:15Z",
+      "url": "https://forums.warframe.com/topic/311669-update-1470-operation-gate-crash/",
+      "additions": "",
+      "changes": "",
+      "fixes": "10 Exposure points: Set of 4 Mods – Buzz Kill, Fanged Fusillade, Sweeping Serration and Maim"
+    }
+  ],
+  "4adb58ebd9099200cbe2b4d54f2782b6": [
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Perpetual Agony: Pistol: Weapon Proc Time.",
+      "fixes": ""
+    }
+  ],
+  "94c8ee6ad8229073d8b55c2e1adec21d": [
+    {
+      "name": "Hotfix 16.10.1",
+      "date": "2015-06-26T20:53:20Z",
+      "url": "https://forums.warframe.com/topic/481160-hotfix-16101/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed incorrect stats showing on the Primed Pistol Gambit Mod in the Arsenal "
+    }
+  ],
+  "82d55968da3fbf5d6d573cae21edeb1c": [
+    {
+      "name": "Hotfix 16.10.1",
+      "date": "2015-06-26T20:53:20Z",
+      "url": "https://forums.warframe.com/topic/481160-hotfix-16101/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed incorrect stats showing on the Primed Pistol Gambit Mod in the Arsenal "
+    }
+  ],
+  "37b0972587fd4a43695af1df74754c45": [
+    {
+      "name": "Fortuna: Update 24.0",
+      "date": "2018-11-08T20:46:20Z",
+      "url": "https://forums.warframe.com/topic/1025679-fortuna-update-240/",
+      "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/images/promo/fortuna/info/hubheader.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Primed Quickdraw not appearing in the Codex when owned."
+    },
+    {
+      "name": "The Sacrifice: Update 23.2.0",
+      "date": "2018-08-02T15:02:26Z",
+      "url": "https://forums.warframe.com/topic/991847-the-sacrifice-update-2320/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/0101f9fd2313734f1f72031130a1d0cd.jpg",
+      "additions": "",
+      "changes": "Primed Quickdraw is now Tradeable. ",
+      "fixes": ""
+    }
+  ],
+  "18bf1a6447a9c967952de89e9b1e4237": [
+    {
+      "name": "Fortuna: Update 24.0",
+      "date": "2018-11-08T20:46:20Z",
+      "url": "https://forums.warframe.com/topic/1025679-fortuna-update-240/",
+      "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/images/promo/fortuna/info/hubheader.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Primed Quickdraw not appearing in the Codex when owned."
+    },
+    {
+      "name": "The Sacrifice: Update 23.2.0",
+      "date": "2018-08-02T15:02:26Z",
+      "url": "https://forums.warframe.com/topic/991847-the-sacrifice-update-2320/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/0101f9fd2313734f1f72031130a1d0cd.jpg",
+      "additions": "",
+      "changes": "Primed Quickdraw is now Tradeable. ",
+      "fixes": ""
+    }
+  ],
+  "8b8f0b1c20c51c64979995f8f21911dc": [
+    {
+      "name": "Fortuna: Hotfix 24.2.10",
+      "date": "2019-01-23T20:08:15Z",
+      "url": "https://forums.warframe.com/topic/1056534-fortuna-hotfix-24210/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed inability to equip Ruinous Extension on the Ocucor. "
+    },
+    {
+      "name": "Plains of Eidolon: Hotfix 22.3.5",
+      "date": "2017-11-20T23:06:42Z",
+      "url": "https://forums.warframe.com/topic/882798-plains-of-eidolon-hotfix-2235/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed being able to equip the Ruinous Extension Mod on the Arca Scisco. "
+    },
+    {
+      "name": "Octavia’s Anthem: Update 20.4.0",
+      "date": "2017-05-04T13:58:50Z",
+      "url": "https://forums.warframe.com/topic/793570-octavia%E2%80%99s-anthem-update-2040/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed not being able to equip Ruinous Extension on the Cycron."
+    },
+    {
+      "name": "Update 15.7.0 Nova Prime",
+      "date": "2014-12-16T18:58:55Z",
+      "url": "https://forums.warframe.com/topic/367069-update-1570-nova-prime/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Ruinous Extension Mod not being compatible with the Gammacor and Synoid Gammacor."
+    },
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Ruinous Extension: Pistol: Extend range on beam weapons.",
+      "fixes": ""
+    }
+  ],
+  "dc184ed059a39ef2b4adabcd2e7e1f6a": [
+    {
+      "name": "Plains of Eidolon: Update 22.10.0",
+      "date": "2018-01-25T23:53:14Z",
+      "url": "https://forums.warframe.com/topic/911802-plains-of-eidolon-update-22100/",
+      "imgUrl": "https://i.imgur.com/Hh3GKF6.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed misaligned textures on the Grineer Scorch helmet."
+    },
+    {
+      "name": "Octavia's Anthem: Update 20",
+      "date": "2017-03-24T19:46:02Z",
+      "url": "https://forums.warframe.com/topic/776642-octavias-anthem-update-20/",
+      "imgUrl": "http://i.imgur.com/h14igRz.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed issue where players could get hit and take fire Proc damage when outside FX range of Scorch's Ignis.\nFixed Hyekka Master and Scorch’s firing their Ignis’ too high."
+    },
+    {
+      "name": "Specters of the Rail: U2.1",
+      "date": "2016-08-10T17:57:04Z",
+      "url": "https://forums.warframe.com/topic/685418-specters-of-the-rail-u21/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Grineer Napalm and Scorch’s targeting/shooting you through walls. "
+    },
+    {
+      "name": "Hotfix 16.11.5",
+      "date": "2015-07-15T19:56:44Z",
+      "url": "https://forums.warframe.com/topic/490942-hotfix-16115/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with Chroma’s Elemental Ward causing Grineer Scorch to reflect the AoE slow + Damage aura when augmented as Ice."
+    },
+    {
+      "name": "Hotfix 15.6.2",
+      "date": "2014-12-12T17:24:57Z",
+      "url": "https://forums.warframe.com/topic/364042-hotfix-1562/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed only Nullifier Crewman and Scorching Osprey spawning after the portal is destroyed in Orokin Sabotage."
+    }
+  ],
+  "4b310b3b94762b454856c72bccffd6ba": [
+    {
+      "name": "Fortuna: Hotfix 24.1.2 + 24.1.2.1",
+      "date": "2018-11-29T19:46:27Z",
+      "url": "https://forums.warframe.com/topic/1038856-fortuna-hotfix-2412-24121/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Pax Seeker activating on Warframe Exalted Ability Weapons (i.e. Titania Razorwing, Mesa Regulators).\nFixed Pax Seeker projectiles and Phantasma’s Alt Fire ignoring Nullifier bubbles."
+    },
+    {
+      "name": "Fortuna: Hotfix 24.1.1 + 24.1.1.1",
+      "date": "2018-11-23T20:52:30Z",
+      "url": "https://forums.warframe.com/topic/1036429-fortuna-hotfix-2411-24111/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Pax Seeker projectiles not showing up for Clients."
+    },
+    {
+      "name": "Plains of Eidolon: Update 22.4.0",
+      "date": "2017-11-23T20:03:52Z",
+      "url": "https://forums.warframe.com/topic/884329-plains-of-eidolon-update-2240/",
+      "imgUrl": "https://i.imgur.com/mHKLrFt.jpg",
+      "additions": "",
+      "changes": "To fix Tusk Seeker Drones lingering indefinitely and continuously calling in Grineer Reinforcements (even after you’ve ran far away), the Alarm Drone now destroys itself when you are 100 meters away.",
+      "fixes": ""
+    },
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "Augur Seeker (Pistol)",
+      "changes": "",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
+      "date": "2016-05-27T21:20:29Z",
+      "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
+      "imgUrl": "http://i.imgur.com/1JPOZC1.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed the Seeker pistol Mod displaying the wrong value as per: https://forums.warframe.com/topic/650694-seeker-states-35-punch-through/"
+    },
+    {
+      "name": "Update 15.6.0",
+      "date": "2014-12-11T22:04:26Z",
+      "url": "https://forums.warframe.com/topic/363216-update-1560/",
+      "additions": "",
+      "changes": "Saryn’s Molt now removes Brood Mother Maggots, Nanite Swarms, Seeker Latchers and Leeches.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 15.5.8",
+      "date": "2014-12-05T23:17:49Z",
+      "url": "https://forums.warframe.com/topic/359419-hotfix-1558/",
+      "additions": "",
+      "changes": "Fixed issue with Gammacor caused by using the Barrel Diffusion, Lethal Torrent and Seeker Mods all at once.  ",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 9.3",
+      "date": "2013-07-26T21:25:16Z",
+      "url": "https://forums.warframe.com/topic/86462-hotfix-93/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Bastille not affecting Grineer Seekers and Snipers, fixed damage not registering against Crewman affected by Bastille"
+    },
+    {
+      "name": "Hotfix 9.2.0",
+      "date": "2013-07-19T21:09:23Z",
+      "url": "https://forums.warframe.com/topic/83114-hotfix-920/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Seeker and Seeking Force mods so that their puncture amount increases with each level, instead of every other level."
+    },
+    {
+      "name": "Update 7.11.0: Vauban!",
+      "date": "2013-05-17T20:49:30Z",
+      "url": "https://forums.warframe.com/topic/45777-update-7110-vauban/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Seekers now have limit to number of active Latchers they can deploy."
+    },
+    {
+      "name": "Update 7.7.3: Level Expansions And New Weapons!",
+      "date": "2013-04-12T18:30:56Z",
+      "url": "https://forums.warframe.com/topic/27448-update-773-level-expansions-and-new-weapons/",
+      "additions": "",
+      "changes": "",
+      "fixes": "New Grineer helmets for Trooper, Seeker and Commander"
+    },
+    {
+      "name": "Update 6.3 - \"make Love, Not War(Frame)\"",
+      "date": "2013-02-14T16:34:59Z",
+      "url": "https://forums.warframe.com/topic/10554-update-63-make-love-not-warframe/",
+      "additions": "New enemy types: The Grineer Seeker with a devastating new attack.",
+      "changes": "",
+      "fixes": ""
+    },
+    {
+      "name": "Update 5.4 - \"Hammer Time\" (Preview)",
+      "date": "2013-01-14T23:05:07Z",
+      "url": "https://forums.warframe.com/topic/4030-update-54-hammer-time-preview/",
+      "additions": "",
+      "changes": "",
+      "fixes": "639 French updates from ap0k41yp5, Flamby, Jupiter87a, Kolo, Ln_Fridfromedisailleur and RageSeeker."
+    }
+  ],
+  "4f3eda05c1715d75baf4b94e643fe1be": [
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Spectra: Sequence Burn: adds 5m range",
+      "fixes": ""
+    }
+  ],
+  "38f59739b40d4e25c5731f3ca45f5a33": [
+    {
+      "name": "Mask of the Revenant: Update 23.8.0 + 23.8.0.1 + 23.8.0.2",
+      "date": "2018-09-12T18:41:12Z",
+      "url": "https://forums.warframe.com/topic/1008095-mask-of-the-revenant-update-2380-23801-23802/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/b04e5e955cbe351ab0be19dddf7b7b6a.png",
+      "additions": "",
+      "changes": "Removed ability to unintentionally equip Hydraulic Crosshairs and Sharpened Bullets on Mesa’s Regulators. Although the buff appeared to trigger, it never actually applied due to the \"on aim\" criteria not being fulfilled (unless you had a very specific loadout with the Mesa Waltz Augment equipped).",
+      "fixes": ""
+    }
+  ],
+  "e07affbfc74a18eb5265c16a4265e1ba": [
+    {
+      "name": "Update 16.7",
+      "date": "2015-06-04T21:14:52Z",
+      "url": "https://forums.warframe.com/topic/469825-update-167/",
+      "additions": "",
+      "changes": "The following mods have been disabled in PvP: Magazine Warp, Slip Magazine, Burdened Magazine, Stabilizer, Steady Hands, Fast Hands, Quick Draw, Tactical Pump and Terminal Velocity. They have been replaced with PvP specific versions that have been added to the Mission Rewards of all PvP game types.",
+      "fixes": ""
+    }
+  ],
+  "22c45fa557cc6d0e0eda3b44b254cc72": [
+    {
+      "name": "Update 16.7",
+      "date": "2015-06-04T21:14:52Z",
+      "url": "https://forums.warframe.com/topic/469825-update-167/",
+      "additions": "",
+      "changes": "The following mods have been disabled in PvP: Magazine Warp, Slip Magazine, Burdened Magazine, Stabilizer, Steady Hands, Fast Hands, Quick Draw, Tactical Pump and Terminal Velocity. They have been replaced with PvP specific versions that have been added to the Mission Rewards of all PvP game types.",
+      "fixes": ""
+    }
+  ],
+  "4e3db1eac407f20d60621effbd80220f": [
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Viper: Stinging Truth: Adds 10 magazine capacity",
+      "fixes": ""
+    }
+  ],
+  "40dc98b1f66c319de71ea634e464211e": [
+    {
+      "name": "Update 21: Chains of Harrow",
+      "date": "2017-06-29T03:00:20Z",
+      "url": "https://forums.warframe.com/topic/809842-update-21-chains-of-harrow/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/harrow/PriestSpear_1080p.jpg",
+      "additions": "Stockpiled Blight",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "9bad068532acda68f59a8e63294c3315": [
+    {
+      "name": "Recurring Nightmares",
+      "date": "2016-10-27T19:03:48Z",
+      "url": "https://forums.warframe.com/topic/711418-recurring-nightmares/",
+      "imgUrl": "http://i.imgur.com/Oail8jd.jpg",
+      "additions": "",
+      "changes": "Stunning Speed",
+      "fixes": ""
+    }
+  ],
+  "3164ae735fa9be61eede61d46cb1607a": [
+    {
+      "name": "The Glast Gambit: Hotfix 19.11.2",
+      "date": "2017-02-17T20:40:41Z",
+      "url": "https://forums.warframe.com/topic/763931-the-glast-gambit-hotfix-19112/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a seam/texture issue on the Vauban Suppressor Skin. "
+    },
+    {
+      "name": "Update 18: The Second Dream",
+      "date": "2015-12-03T23:46:40Z",
+      "url": "https://forums.warframe.com/topic/568455-update-18-the-second-dream/",
+      "additions": "",
+      "changes": "Hush and Suppress mods are no longer usable in PvP.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 10.2.0",
+      "date": "2013-09-27T19:52:28Z",
+      "url": "https://forums.warframe.com/topic/113787-update-1020/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Hush and Suppress mods now lower the sound of weapons when equipped.\nFixed Suppress/Hush mod to actually reduce sound effect volume of the weapon it’s attached to."
+    }
+  ],
+  "bb3fec410a1b5974f80d4ebf72b3237a": [
+    {
+      "name": "Buried Debts: Update 24.4.0",
+      "date": "2019-03-08T02:01:23Z",
+      "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/f07ee60119e2c8efc746da7ecf4cb49e.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the 'Synth Charge' Mod being erroneously equippable on some Exalted Weapons. "
+    },
+    {
+      "name": "Fortuna: Hotfix 24.0.1",
+      "date": "2018-11-09T00:33:19Z",
+      "url": "https://forums.warframe.com/topic/1025890-fortuna-hotfix-2401/",
+      "additions": "",
+      "changes": "Synth Charge Mod no longer applies to Pistols with < 5 Ammo Magazines (Knell, etc). Mod description has been updated to reflect the ‘Requires Magazine 5 or higher’ restriction.",
+      "fixes": ""
+    }
+  ],
+  "18862d6cfb7400f0485a9b78641f2021": [
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Acrid: Toxic Sequence: adds 50% status duration.        ",
+      "fixes": ""
+    }
+  ],
+  "b6e93084a30aeab8640fdb2f4f5accdf": [
+    {
+      "name": "Chains of Harrow: Update 21.2.0 + 21.2.0.1",
+      "date": "2017-07-26T21:16:57Z",
+      "url": "https://forums.warframe.com/topic/823165-chains-of-harrow-update-2120-21201/",
+      "imgUrl": "http://n8k6e2y6.ssl.hwcdn.net/uploads/187b9471217cc3cefd8ddbcfa43a6ded.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Trick Mag applying to your Primary weapon when equipped on the Cycron."
+    },
+    {
+      "name": "Hotfix 14.0.5",
+      "date": "2014-07-21T23:42:33Z",
+      "url": "https://forums.warframe.com/topic/269089-hotfix-1405/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue where weapons that had a max ammo override would not be affected by ammo max mods, like the AkZani not being affected by Trick Mag."
+    }
+  ]
+}

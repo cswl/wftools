@@ -1,0 +1,685 @@
+{
+  "f763f50b45e8862daa0a39ba4d34512c": [
+    {
+      "name": "Hotfix 18.0.4 ",
+      "date": "2015-12-08T17:59:59Z",
+      "url": "https://forums.warframe.com/topic/573817-hotfix-1804-spoilers/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Agile Aim Conclave Mod showing 2% as its buff value instead of 20%."
+    },
+    {
+      "name": "Update 17.9.0",
+      "date": "2015-10-28T15:12:27Z",
+      "url": "https://forums.warframe.com/topic/552544-update-1790/",
+      "additions": "",
+      "changes": "Spry Sights / Agile Aim / Snap Shot (Pistol/Rifle/Shotgun) ",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.2",
+      "date": "2015-08-19T21:49:41Z",
+      "url": "https://forums.warframe.com/topic/514266-update-172/",
+      "additions": "",
+      "changes": "Agile Aim ",
+      "fixes": ""
+    }
+  ],
+  "ea10aadc45495f313d014169a9b782f2": [
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Ambush Optics (Rubico) "
+    }
+  ],
+  "5488b95e14c5c231aca6024593a5775a": [
+    {
+      "name": "Hydroid Prime: Update 21.6.1",
+      "date": "2017-08-31T19:21:56Z",
+      "url": "https://forums.warframe.com/topic/837704-hydroid-prime-update-2161/",
+      "additions": "",
+      "changes": "Fixed using the Viper with the Skull Shots Mod or a Grakata with the Brain Storm Mod, activating the headshot bonus with the final shot in your magazine resulting in the weapon to fire much faster than intended in Conclave.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Brain Storm (Grakata) "
+    }
+  ],
+  "f999491d024c12f379d550de7d7f3fca": [
+    {
+      "name": "Update 18.7.0",
+      "date": "2016-03-30T22:18:10Z",
+      "url": "https://forums.warframe.com/topic/632293-update-1870/",
+      "imgUrl": "http://i.imgur.com/gQALiAA.png",
+      "additions": "",
+      "changes": "•    The Deft Tempo Mod can no longer be used with the Opticor or Miter.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "The Deft Tempo Mod is no longer usable with Launcher weapons in Conclave."
+    },
+    {
+      "name": "Hotfix 18.0.4 ",
+      "date": "2015-12-08T17:59:59Z",
+      "url": "https://forums.warframe.com/topic/573817-hotfix-1804-spoilers/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an incorrect description in the Deft Tempo Conclave Mod."
+    },
+    {
+      "name": "Update 17.8.0",
+      "date": "2015-10-21T21:58:23Z",
+      "url": "https://forums.warframe.com/topic/549118-update-1780/",
+      "additions": "",
+      "changes": "Deft Tempo (Rifle): On headshot, +10% Bullet Jump speed for 4 seconds.",
+      "fixes": ""
+    }
+  ],
+  "f840636bc768d3d3b1878ea1d7498909": [
+    {
+      "name": "Update 17.10.0",
+      "date": "2015-11-04T23:21:00Z",
+      "url": "https://forums.warframe.com/topic/556384-update-17100/",
+      "additions": "",
+      "changes": "Directed Convergence (Supra) ",
+      "fixes": ""
+    }
+  ],
+  "7f7b08aaee4fd16373a193d413be05a0": [
+    {
+      "name": "Update: Specters of the Rail",
+      "date": "2016-07-08T14:12:48Z",
+      "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
+      "imgUrl": "http://i.imgur.com/YMVXfyw.jpg",
+      "additions": "",
+      "changes": "Changed the intended stats on the Double Tap Conclave Mod to be +20% damage for 2 seconds.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 18.4.10 & Tactial Alert: Divine Will",
+      "date": "2016-02-11T23:27:12Z",
+      "url": "https://forums.warframe.com/topic/608673-hotfix-18410-tactial-alert-divine-will/",
+      "additions": "",
+      "changes": "The Double Tap Mod can no longer be equipped with the Hydraulic Gauge Mod in Conclave.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.4.0",
+      "date": "2016-01-22T00:24:23Z",
+      "url": "https://forums.warframe.com/topic/597888-update-1840/",
+      "additions": "",
+      "changes": "The Conclave Double Tap Mod’s damage bonus has been reduced from 50% to 40%",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.10.0",
+      "date": "2015-11-04T23:21:00Z",
+      "url": "https://forums.warframe.com/topic/556384-update-17100/",
+      "additions": "",
+      "changes": "Reduced the damage bonus duration of the Double Tap Mod from .5 to .3 seconds and increased the damage bonus from 30% to 50%",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.8.0",
+      "date": "2015-10-21T21:58:23Z",
+      "url": "https://forums.warframe.com/topic/549118-update-1780/",
+      "additions": "",
+      "changes": "Double Tap (Latron): On hit, +30% damage for 0.5 seconds.",
+      "fixes": ""
+    }
+  ],
+  "4cf1a1f90074af1efe068b524f368dee": [
+    {
+      "name": "Specters of the Rail: Update 1",
+      "date": "2016-07-28T15:17:30Z",
+      "url": "https://forums.warframe.com/topic/680396-specters-of-the-rail-update-1/",
+      "imgUrl": "http://i.imgur.com/0WM4BG3.jpg",
+      "additions": "",
+      "changes": "Conclave mod 'Emergent Aftermath' can no longer be used with the Vectis sniper rifle.",
+      "fixes": ""
+    }
+  ],
+  "c2ef6153d54f0dc6f46818a2a6a8624b": [
+    {
+      "name": "Update 17.10.0",
+      "date": "2015-11-04T23:21:00Z",
+      "url": "https://forums.warframe.com/topic/556384-update-17100/",
+      "additions": "",
+      "changes": "Final Tap (Hind) ",
+      "fixes": ""
+    }
+  ],
+  "cb90dde36e9c7795a3cc3ceed4987cc8": [
+    {
+      "name": "Update 17.10.0",
+      "date": "2015-11-04T23:21:00Z",
+      "url": "https://forums.warframe.com/topic/556384-update-17100/",
+      "additions": "",
+      "changes": "Focused Acceleration (Tetra) ",
+      "fixes": ""
+    }
+  ],
+  "42a159c45e277e1b8ce93c291be4b834": [
+    {
+      "name": "Update 17.8.0",
+      "date": "2015-10-21T21:58:23Z",
+      "url": "https://forums.warframe.com/topic/549118-update-1780/",
+      "additions": "",
+      "changes": "Gorgon Frenzy (Gorgon): On kill, 30% increase in fire rate for 3 seconds.",
+      "fixes": ""
+    }
+  ],
+  "9e2d2e2ac34340e03190d5204decdd55": [
+    {
+      "name": "Update 18.4.0",
+      "date": "2016-01-22T00:24:23Z",
+      "url": "https://forums.warframe.com/topic/597888-update-1840/",
+      "additions": "",
+      "changes": "The Grinloked Conclave Mod has been changed to 60% Accuracy when Aiming.",
+      "fixes": ""
+    }
+  ],
+  "f9ddceea647dbf4f63c887cfaa24bd20": [
+    {
+      "name": "Update 17.9.0",
+      "date": "2015-10-28T15:12:27Z",
+      "url": "https://forums.warframe.com/topic/552544-update-1790/",
+      "additions": "",
+      "changes": "Gun Glide / Double-Barrel Drift / Strafing Slide (Pistol/Rifle/Shotgun) ",
+      "fixes": ""
+    }
+  ],
+  "e2dd9fb208e31174cbb544e6065205df": [
+    {
+      "name": "Hotfix 18.4.10 & Tactial Alert: Divine Will",
+      "date": "2016-02-11T23:27:12Z",
+      "url": "https://forums.warframe.com/topic/608673-hotfix-18410-tactial-alert-divine-will/",
+      "additions": "",
+      "changes": "The Double Tap Mod can no longer be equipped with the Hydraulic Gauge Mod in Conclave.",
+      "fixes": ""
+    }
+  ],
+  "d57cc2ac3a78ec77f7c29691ca667b10": [
+    {
+      "name": "Update 17.2",
+      "date": "2015-08-19T21:49:41Z",
+      "url": "https://forums.warframe.com/topic/514266-update-172/",
+      "additions": "",
+      "changes": "Lie In Wait ",
+      "fixes": ""
+    }
+  ],
+  "0f6bac97d1994b7a2e4d574780578d64": [
+    {
+      "name": "Update: Specters of the Rail",
+      "date": "2016-07-08T14:12:48Z",
+      "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
+      "imgUrl": "http://i.imgur.com/YMVXfyw.jpg",
+      "additions": "",
+      "changes": "Conclave mod ‘Lucky Shot’ can no longer be used with the Miter.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.3",
+      "date": "2016-01-13T22:55:58Z",
+      "url": "https://forums.warframe.com/topic/594267-update-183/",
+      "additions": "",
+      "changes": "Fixed the Conclave Mods Blind Shot and Lucky Shot being able to be slotted into weapons that do not fire projectiles.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.1.0 - 17.1.4",
+      "date": "2015-08-12T21:08:45Z",
+      "url": "https://forums.warframe.com/topic/509640-update-1710-1714/",
+      "additions": "",
+      "changes": "• Decreased the accuracy penalty of the Lucky Shot Mod.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 16.8.0",
+      "date": "2015-06-10T22:03:09Z",
+      "url": "https://forums.warframe.com/topic/473028-update-1680/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Lucky Shot/Blind Shot Conclave Mod adding accuracy instead of decreasing it."
+    },
+    {
+      "name": "Hotfix 16.7.2",
+      "date": "2015-06-05T19:12:58Z",
+      "url": "https://forums.warframe.com/topic/470391-hotfix-1672/",
+      "additions": "",
+      "changes": "The Lucky Shot PvP Mod is now compatible with Bows.",
+      "fixes": ""
+    }
+  ],
+  "14857648857a4bc744d675d53c11d8b9": [
+    {
+      "name": "Hotfix 17.0.3",
+      "date": "2015-08-04T22:21:45Z",
+      "url": "https://forums.warframe.com/topic/503583-hotfix-1703/",
+      "additions": "",
+      "changes": "Loaded/Full/Maximum Capacity mod Reload speed penalty reduced to -15%.",
+      "fixes": ""
+    }
+  ],
+  "39e247ee3db291fe7777c59caa7f4049": [
+    {
+      "name": "Update 17.10.0",
+      "date": "2015-11-04T23:21:00Z",
+      "url": "https://forums.warframe.com/topic/556384-update-17100/",
+      "additions": "",
+      "changes": "Measured Burst (Tiberon) ",
+      "fixes": ""
+    }
+  ],
+  "4b2376631070879b89bd7d1732cee1f8": [
+    {
+      "name": "Update 17.9.0",
+      "date": "2015-10-28T15:12:27Z",
+      "url": "https://forums.warframe.com/topic/552544-update-1790/",
+      "additions": "",
+      "changes": "Air Recon / Overview / Broad Eye (Pistol/Rifle/Shotgun) ",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.4.0",
+      "date": "2015-09-09T23:18:22Z",
+      "url": "https://forums.warframe.com/topic/525957-update-1740/",
+      "additions": "",
+      "changes": "Overview (Rifle Mod) ",
+      "fixes": ""
+    }
+  ],
+  "63fb9fd33b1ef81e13a54e08fa34809f": [
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "",
+      "changes": "Plan B can no longer be used with the Lenz or Zhuge. ",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.4.0",
+      "date": "2016-01-22T00:24:23Z",
+      "url": "https://forums.warframe.com/topic/597888-update-1840/",
+      "additions": "",
+      "changes": "Conclave Mod 'Plan B' will no longer activate when killing Loki's Decoy.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.8.0",
+      "date": "2015-10-21T21:58:23Z",
+      "url": "https://forums.warframe.com/topic/549118-update-1780/",
+      "additions": "",
+      "changes": "Plan B (Bow): On hit, +20% Secondary Weapon Fire Rate for 4 seconds.",
+      "fixes": ""
+    }
+  ],
+  "1dbe6699f42d6b0c82e2f84eae3dd8a2": [
+    {
+      "name": "Fortuna: The Profit-Taker - Update 24.2",
+      "date": "2018-12-18T13:59:14Z",
+      "url": "https://forums.warframe.com/topic/1044890-fortuna-the-profit-taker-update-242/",
+      "additions": "",
+      "changes": "Removed ‘-50% Magazine Capacity’ from the Precision Munitions Mod in Conclave.",
+      "fixes": ""
+    },
+    {
+      "name": "The War Within: Hotfix 19.3.1",
+      "date": "2016-12-07T23:58:24Z",
+      "url": "https://forums.warframe.com/topic/731292-the-war-within-hotfix-1931/",
+      "additions": "Added proper localization to Stand United, Precision Munition, Thundermiter, Draining Gloom and Heartseeker Mods.",
+      "changes": "",
+      "fixes": ""
+    },
+    {
+      "name": "The Index Preview",
+      "date": "2016-10-20T23:28:18Z",
+      "url": "https://forums.warframe.com/topic/709665-the-index-preview/",
+      "imgUrl": "http://i.imgur.com/49dlyEz.jpg",
+      "additions": "Precision Munition (Tonkor) ",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "d55461d32f6040a0deac1ec13571b966": [
+    {
+      "name": "Buried Debts: Update 24.4.0",
+      "date": "2019-03-08T02:01:23Z",
+      "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/f07ee60119e2c8efc746da7ecf4cb49e.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with Vallis Cache Recovery Bounties immediately failing when transitioning to the next phase. "
+    },
+    {
+      "name": "Fortuna: The Profit-Taker - Update 24.2",
+      "date": "2018-12-18T13:59:14Z",
+      "url": "https://forums.warframe.com/topic/1044890-fortuna-the-profit-taker-update-242/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an inescapable possessed K-Drive when activating it while ‘checking the bodies’ during an Orb Vallis Bounty ‘Recovery’ phase."
+    },
+    {
+      "name": "Fortuna: Hotfix 24.1.2 + 24.1.2.1",
+      "date": "2018-11-29T19:46:27Z",
+      "url": "https://forums.warframe.com/topic/1038856-fortuna-hotfix-2412-24121/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Orb Vallis Recovery Bounty objective timer not resetting if multiple Recovery Bounties are completed in one session."
+    },
+    {
+      "name": "Chimera: Update 23.10",
+      "date": "2018-10-12T13:56:43Z",
+      "url": "https://forums.warframe.com/topic/1016610-chimera-update-2310/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/1a5052e0e614dd7d7858b2a38fca9bf8.jpg",
+      "additions": "",
+      "changes": "Shortened default Stasis Recovery time from 3 hours to 30 minutes. ",
+      "fixes": ""
+    },
+    {
+      "name": "Plains of Eidolon: Update 22.6.0 + Hotfix 22.6.0.1",
+      "date": "2017-12-07T22:05:21Z",
+      "url": "https://forums.warframe.com/topic/891096-plains-of-eidolon-update-2260-hotfix-22601/",
+      "imgUrl": "https://content.invisioncic.com/Mwarframe/monthly_2017_12/Warframe0044.thumb.jpg.301d3829b792af173307be6fda35cbb8.jpg",
+      "additions": "",
+      "changes": "The following Incursions can now occur in Caves scattered around the Plains: Exterminate, Assassinate, and Cache Recovery. The objectives in these Incursions are the same as they are in the Plains, but there is now a chance for these to randomly take place in caves!",
+      "fixes": ""
+    },
+    {
+      "name": "Octavia's Anthem: Update 20",
+      "date": "2017-03-24T19:46:02Z",
+      "url": "https://forums.warframe.com/topic/776642-octavias-anthem-update-20/",
+      "imgUrl": "http://i.imgur.com/h14igRz.jpg",
+      "additions": "Recover, Vanquished Prey, Calculated Victory, Recuperate, Momentary Pause and Prize Kill Mods are now available to be purchased from Teshin again!",
+      "changes": "",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.10.0: Operation Rathuum!",
+      "date": "2016-04-29T17:04:18Z",
+      "url": "https://forums.warframe.com/topic/642897-update-18100-operation-rathuum/",
+      "imgUrl": "http://i.imgur.com/YiMbs9B.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "·         Fixed missing objective markers in the Recovery mission."
+    },
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Ward Recovery \nArmored Acrobatics, Armored Evade and Armored Recovery Conclave Mods lowered from Rare to Uncommon."
+    },
+    {
+      "name": "Update 18.2.0",
+      "date": "2016-01-05T18:24:20Z",
+      "url": "https://forums.warframe.com/topic/590253-update-1820/",
+      "additions": "",
+      "changes": "The Conclave Mod Enguard has been combined with the Anticipation Mod and renamed Armored Recovery.\nArmored Recovery: 50% Damage Resistance while knocked down, -20% slide.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 14.0.11",
+      "date": "2014-07-29T22:08:19Z",
+      "url": "https://forums.warframe.com/topic/278042-hotfix-14011/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with Stasis Recovery not properly ending which should cause certain imprints to not initialize correctly."
+    },
+    {
+      "name": "Hotfix 14.0.2",
+      "date": "2014-07-19T22:39:23Z",
+      "url": "https://forums.warframe.com/topic/266200-hotfix-1402/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed players being stuck in Vor's Prize quest after completing the Comms Recovery tutorial mission, the navigation context action will never activate."
+    },
+    {
+      "name": "Hotfix 14.0.1",
+      "date": "2014-07-18T22:51:17Z",
+      "url": "https://forums.warframe.com/topic/264446-hotfix-1401/",
+      "additions": "",
+      "changes": "",
+      "fixes": "After completing the Comms Recovery tutorial mission players will be stuck in the ship after installing the market module, the navigation context action will never activate. Restarting the game will fix the progression."
+    },
+    {
+      "name": "Hotfix 13.0.2",
+      "date": "2014-04-10T17:28:52Z",
+      "url": "https://forums.warframe.com/topic/210258-hotfix-1302/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed crash when launching Recovery mission after if player was captured Zanuka without a primary/secondary weapon equipped."
+    }
+  ],
+  "7a9edf8955df85483d9a0eecdda3d918": [
+    {
+      "name": "Hotfix 18.6.2",
+      "date": "2016-03-22T17:37:40Z",
+      "url": "https://forums.warframe.com/topic/628628-hotfix-1862/",
+      "imgUrl": "http://i.imgur.com/ZtBrjRp.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "The Soaring Strike Conclave Mod can no longer be used with the Zhuge."
+    },
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "The Soaring Strike Mod is no longer usable with the Attica or Daikyu in Conclave."
+    },
+    {
+      "name": "Update 18: The Second Dream",
+      "date": "2015-12-03T23:46:40Z",
+      "url": "https://forums.warframe.com/topic/568455-update-18-the-second-dream/",
+      "additions": "",
+      "changes": "Soaring Strike (bows) ",
+      "fixes": ""
+    }
+  ],
+  "95a6249d3556845d9fc962a5caeac1f5": [
+    {
+      "name": "Chains of Harrow: Update 21.4.0",
+      "date": "2017-08-10T17:26:21Z",
+      "url": "https://forums.warframe.com/topic/829596-chains-of-harrow-update-2140/",
+      "imgUrl": "http://i.imgur.com/insXTUT.jpg",
+      "additions": "Added Spring-Loaded Broadhead to the Conculyst drop table and buffed Mod drop rate to counteract the dilution (the rares are still the same chance but the uncommons are now slightly easier to get).",
+      "changes": "",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.3",
+      "date": "2016-01-13T22:55:58Z",
+      "url": "https://forums.warframe.com/topic/594267-update-183/",
+      "additions": "",
+      "changes": "Daikyu damage has been adjusted to one hit kill against the highest base EHP without +EHP mods in Conclave. (Requires Spring-Loaded Broadhead mod)",
+      "fixes": ""
+    }
+  ],
+  "9388b3880d2f4f9ea09f27b1b7d1fa1b": [
+    {
+      "name": "Update 18.7.0",
+      "date": "2016-03-30T22:18:10Z",
+      "url": "https://forums.warframe.com/topic/632293-update-1870/",
+      "imgUrl": "http://i.imgur.com/gQALiAA.png",
+      "additions": "",
+      "changes": "•    Fixed an error in the Sudden Justice Conclave Mod’s localization.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.10.0",
+      "date": "2015-11-04T23:21:00Z",
+      "url": "https://forums.warframe.com/topic/556384-update-17100/",
+      "additions": "",
+      "changes": "Sudden Justice (Sybaris) ",
+      "fixes": ""
+    }
+  ],
+  "d76bde81bed3bb3db7e63ef3436a7346": [
+    {
+      "name": "Plains of Eidolon: Hotfix 22.8.3",
+      "date": "2018-01-11T14:32:42Z",
+      "url": "https://forums.warframe.com/topic/906556-plains-of-eidolon-hotfix-2283/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Tactical Reload Mod not working on the Quartakk as a Client."
+    },
+    {
+      "name": "Octavia's Anthem: Update 20",
+      "date": "2017-03-24T19:46:02Z",
+      "url": "https://forums.warframe.com/topic/776642-octavias-anthem-update-20/",
+      "imgUrl": "http://i.imgur.com/h14igRz.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Tactical Reload and Eject Magazine mods not automatically reloading on a holstered weapon after Clients use Transference from Operator to Warframe."
+    },
+    {
+      "name": "Update 17.9.0",
+      "date": "2015-10-28T15:12:27Z",
+      "url": "https://forums.warframe.com/topic/552544-update-1790/",
+      "additions": "",
+      "changes": "Eject Magazine / Tactical Reload / Lock and Load (Pistol/Rifle/Shotgun) ",
+      "fixes": ""
+    },
+    {
+      "name": "Update 16.3: The New Protocols",
+      "date": "2015-04-08T21:51:23Z",
+      "url": "https://forums.warframe.com/topic/437166-update-163-the-new-protocols/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Tactical Reload Conclave Mod being equipable by Bows."
+    }
+  ],
+  "0b65c03dabf26b0f478d0748e6d422db": [
+    {
+      "name": "Octavia's Anthem: Update 20.1.0",
+      "date": "2017-04-05T21:08:26Z",
+      "url": "https://forums.warframe.com/topic/783215-octavias-anthem-update-2010/",
+      "imgUrl": "http://i.imgur.com/lBSCU4r.jpg",
+      "additions": "",
+      "changes": "Reduced AOE range of Miter with the Thundermiter Mod from 2.5 to 2m in Conclave.",
+      "fixes": ""
+    },
+    {
+      "name": "The War Within: Hotfix 19.3.1",
+      "date": "2016-12-07T23:58:24Z",
+      "url": "https://forums.warframe.com/topic/731292-the-war-within-hotfix-1931/",
+      "additions": "Added proper localization to Stand United, Precision Munition, Thundermiter, Draining Gloom and Heartseeker Mods.",
+      "changes": "",
+      "fixes": ""
+    },
+    {
+      "name": "The Silver Grove",
+      "date": "2016-08-19T17:32:55Z",
+      "url": "https://forums.warframe.com/topic/688644-the-silver-grove/",
+      "additions": "",
+      "changes": "Increased damage of Thundermiter mod",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.9.0",
+      "date": "2016-04-20T21:39:18Z",
+      "url": "https://forums.warframe.com/topic/639851-update-1890/",
+      "imgUrl": "http://i.imgur.com/mY2Txwh.png",
+      "additions": "",
+      "changes": "•    Reduced the explosive damage by half of the Thundermiter mod in Conclave.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Thundermiter (Miter) "
+    }
+  ],
+  "0da8383fbb34ed9573611b9f59cb4455": [
+    {
+      "name": "Update 18.4.0",
+      "date": "2016-01-22T00:24:23Z",
+      "url": "https://forums.warframe.com/topic/597888-update-1840/",
+      "additions": "",
+      "changes": "The Conclave Triple Tap Mod’s condition has been changed from 3 hits to 2 hits and the damage bonus increased to 40%",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.9.0",
+      "date": "2015-10-28T15:12:27Z",
+      "url": "https://forums.warframe.com/topic/552544-update-1790/",
+      "additions": "",
+      "changes": "The following Mod has been added the Conclave:Triple Tap (Burston) ",
+      "fixes": ""
+    }
+  ],
+  "d2c5942c39c0068d9989b5b0e0645bdf": [
+    {
+      "name": "Fortuna: Hotfix 24.2.8",
+      "date": "2019-01-15T14:46:54Z",
+      "url": "https://forums.warframe.com/topic/1054314-fortuna-hotfix-2428/",
+      "additions": "",
+      "changes": "Read Twitch Drop Inbox messages will now be auto-removed after 30 days.",
+      "fixes": ""
+    },
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "",
+      "changes": "For 2 weeks following the Plains of Eidolon, our first ever Twitch Drops Campaign is live!https://www.warframe.com/news/the-great-eidolon-hunt",
+      "fixes": ""
+    },
+    {
+      "name": "Chains of Harrow: Hotfix 21.0.5",
+      "date": "2017-07-06T20:47:36Z",
+      "url": "https://forums.warframe.com/topic/813821-chains-of-harrow-hotfix-2105/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed occasional Network Not Responding messages for people who have linked their account to Twitch."
+    },
+    {
+      "name": "Update 17.9.0",
+      "date": "2015-10-28T15:12:27Z",
+      "url": "https://forums.warframe.com/topic/552544-update-1790/",
+      "additions": "",
+      "changes": "Reflex Draw / Twitch / Soft Hands (Pistol/Rifle/Shotgun) ",
+      "fixes": ""
+    }
+  ],
+  "9ac8a517a947621362fbcc836b0cd7cb": [
+    {
+      "name": "Octavia's Anthem: Update 20",
+      "date": "2017-03-24T19:46:02Z",
+      "url": "https://forums.warframe.com/topic/776642-octavias-anthem-update-20/",
+      "imgUrl": "http://i.imgur.com/h14igRz.jpg",
+      "additions": "Recover, Vanquished Prey, Calculated Victory, Recuperate, Momentary Pause and Prize Kill Mods are now available to be purchased from Teshin again!",
+      "changes": "",
+      "fixes": ""
+    }
+  ]
+}

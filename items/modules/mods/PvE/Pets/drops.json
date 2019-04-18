@@ -1,0 +1,226 @@
+{
+  "39a8da6547c4c558df9018d16400bfdf": [
+    {
+      "location": "Hyekka",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00834
+    }
+  ],
+  "56fe14b478c86316e04b7070a8f9d326": [
+    {
+      "location": "Kubrow",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    },
+    {
+      "location": "Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    },
+    {
+      "location": "Kuva Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    }
+  ],
+  "69696e8c270c0f87723314b64998186e": [
+    {
+      "location": "Kubrow",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    },
+    {
+      "location": "Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    },
+    {
+      "location": "Kuva Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    }
+  ],
+  "eae7df4f2af48a02faed4345fbbbdc8f": [
+    {
+      "location": "Kubrow",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    },
+    {
+      "location": "Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    },
+    {
+      "location": "Kuva Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    }
+  ],
+  "da12085a855f6270c3fc8608f8dc589f": [
+    {
+      "location": "Kavat",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00834
+    }
+  ],
+  "2dd3034b57c27b5f3876b569e37aa89b": [
+    {
+      "location": "Kavat",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.06112
+    }
+  ],
+  "2314d07f8cb2dd848f2b08d2732969b6": [
+    {
+      "location": "Kubrow",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    },
+    {
+      "location": "Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    },
+    {
+      "location": "Kuva Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    }
+  ],
+  "bc42e46a98572ff13189d2dbd6f7b8bf": [
+    {
+      "location": "Hyekka",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00834
+    }
+  ],
+  "99c351b5a0e28cbf94536a62664bc8cb": [
+    {
+      "location": "Kubrow",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Kuva Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    }
+  ],
+  "bece87b82d8ac873c5fcb497427af2b0": [
+    {
+      "location": "Kavat",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.06112
+    }
+  ],
+  "8caa59e68e4564aee213e2710f27866f": [
+    {
+      "location": "Hyekka",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.09166
+    }
+  ],
+  "f1e198d78d62256fe321b4d07a014d65": [
+    {
+      "location": "Kubrow",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0011070000000000001
+    },
+    {
+      "location": "Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0011070000000000001
+    },
+    {
+      "location": "Kuva Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0011070000000000001
+    }
+  ],
+  "f582abab481ebbbd69374a6ece1653c5": [
+    {
+      "location": "Kubrow",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    },
+    {
+      "location": "Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    },
+    {
+      "location": "Kuva Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    }
+  ],
+  "1db201b02033005cc555acb97e265980": [
+    {
+      "location": "Hyekka",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.09166
+    }
+  ],
+  "0b0fce5d7b5a70bca825995389f417bf": [
+    {
+      "location": "Kavat",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.06112
+    }
+  ],
+  "9eba9028abc8b47f085b4ffc88ec3a19": [
+    {
+      "location": "Kubrow",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    },
+    {
+      "location": "Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    },
+    {
+      "location": "Kuva Drahk",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.000066
+    }
+  ]
+}

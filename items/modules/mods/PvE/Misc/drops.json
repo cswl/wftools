@@ -1,0 +1,50 @@
+{
+  "41eb66f9d31c92180e2b1e0988f19ffe": [
+    {
+      "location": "Kitgun Riven Mod Rare",
+      "type": "Sortie Rewards",
+      "rarity": "Rare",
+      "chance": 0.02
+    }
+  ],
+  "2260701f69f2b1641518d34980f2b620": [
+    {
+      "location": "Melee Riven Mod Rare",
+      "type": "Sortie Rewards",
+      "rarity": "Rare",
+      "chance": 0.08140000000000001
+    }
+  ],
+  "e8a2d6ba94708ef8224e720b9ba97316": [
+    {
+      "location": "Pistol Riven Mod Rare",
+      "type": "Sortie Rewards",
+      "rarity": "Rare",
+      "chance": 0.0761
+    }
+  ],
+  "4185376a82d5a8df97f2e606d81b250d": [
+    {
+      "location": "Rifle Riven Mod Rare",
+      "type": "Sortie Rewards",
+      "rarity": "Rare",
+      "chance": 0.0679
+    }
+  ],
+  "98283f8f3cd89a8ee9b35d5dcca2e5b8": [
+    {
+      "location": "Shotgun Riven Mod Rare",
+      "type": "Sortie Rewards",
+      "rarity": "Rare",
+      "chance": 0.013600000000000001
+    }
+  ],
+  "08ff174ac23dae7f40a34d9b7c25951b": [
+    {
+      "location": "Zaw Riven Mod Rare",
+      "type": "Sortie Rewards",
+      "rarity": "Rare",
+      "chance": 0.02
+    }
+  ]
+}

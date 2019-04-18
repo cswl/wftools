@@ -1,0 +1,13 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/TransmuteCores/TacticTransmuteCore",
+  "name": "Naramon Transmute Core",
+  "polarity": "Naramon",
+  "rarity": "Rare",
+  "baseDrain": 0,
+  "fusionLimit": 0,
+  "description": "Ensures transmuted mod is of Naramon polarity and eliminates credit cost.",
+  "type": "---",
+  "imageName": "naramon-transmute-core.jpeg",
+  "tradable": true,
+  "hash": "8aa0e0d3bec21e0f1ba23882e46e3894"
+}

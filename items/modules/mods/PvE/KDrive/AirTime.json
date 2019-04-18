@@ -1,0 +1,13 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBAirGravMod",
+  "name": "Air Time",
+  "polarity": "Naramon",
+  "rarity": "Common",
+  "baseDrain": 2,
+  "fusionLimit": 3,
+  "description": "-5% Gravity while Falling Down",
+  "type": "---",
+  "imageName": "air-time.jpeg",
+  "tradable": true,
+  "hash": "b19c918991e9ceb21cad4b1641733c65"
+}

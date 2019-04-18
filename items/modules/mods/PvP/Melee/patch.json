@@ -1,0 +1,239 @@
+{
+  "e41adf8f5755726f112d03c234b7f1dd": [
+    {
+      "name": "Hotfix 16.4.3 + Credit Reimbursement #2",
+      "date": "2015-04-24T21:32:10Z",
+      "url": "https://forums.warframe.com/topic/446817-hotfix-1643-credit-reimbursement-2/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Explosive Demise Mod harming the player that has it equipped."
+    }
+  ],
+  "3d38148b2aab7b65dce7cdc9a9d45308": [
+    {
+      "name": "Plains of Eidolon: Update 22.3.0",
+      "date": "2017-11-15T16:50:55Z",
+      "url": "https://forums.warframe.com/topic/879496-plains-of-eidolon-update-2230/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/uploads/OperationPlagueStar_Keyart.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Heartseeker Mod not working for Dagger Zaws in Conclave."
+    },
+    {
+      "name": "The War Within: Hotfix 19.3.1",
+      "date": "2016-12-07T23:58:24Z",
+      "url": "https://forums.warframe.com/topic/731292-the-war-within-hotfix-1931/",
+      "additions": "Added proper localization to Stand United, Precision Munition, Thundermiter, Draining Gloom and Heartseeker Mods.",
+      "changes": "",
+      "fixes": ""
+    },
+    {
+      "name": "The Index Preview: Hotfix #4",
+      "date": "2016-10-25T21:51:26Z",
+      "url": "https://forums.warframe.com/topic/710966-the-index-preview-hotfix-4/",
+      "imgUrl": "http://i.imgur.com/dYLoinT.jpg",
+      "additions": "",
+      "changes": "Fixed a bug with the Conclave Mod Heartseeker not having its -50% Damage Block drawback.",
+      "fixes": ""
+    },
+    {
+      "name": "The Index Preview",
+      "date": "2016-10-20T23:28:18Z",
+      "url": "https://forums.warframe.com/topic/709665-the-index-preview/",
+      "imgUrl": "http://i.imgur.com/49dlyEz.jpg",
+      "additions": "",
+      "changes": "Fixed a bug where melee magnetism of the Heartseeker Conclave mod was not being activated correctly.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.4.0",
+      "date": "2015-09-09T23:18:22Z",
+      "url": "https://forums.warframe.com/topic/525957-update-1740/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Heartseeker Mod not properly interacting with the Martial Magnetism Mod.\nFixed the Heartseeker Mod not functioning properly with ‘offhand’ attacks."
+    },
+    {
+      "name": "Update 17.3.0",
+      "date": "2015-09-02T20:56:46Z",
+      "url": "https://forums.warframe.com/topic/521781-update-1730/",
+      "additions": "",
+      "changes": "Heartseeker Conclave Mod is now available from TeshinHeartseeker (Daggers only): Lock onto targets at close range with a melee weapon, but reduces blocking effectiveness.",
+      "fixes": ""
+    }
+  ],
+  "64a2ae4d55e17aa18bf1d45952a7f83b": [
+    {
+      "name": "Hotfix 18.4.7",
+      "date": "2016-02-04T22:43:36Z",
+      "url": "https://forums.warframe.com/topic/605204-hotfix-1847/",
+      "additions": "",
+      "changes": "The Impenetrable Offense Conclave Mod has had its damage block reduced from 50% to 40%.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.3",
+      "date": "2016-01-13T22:55:58Z",
+      "url": "https://forums.warframe.com/topic/594267-update-183/",
+      "additions": "",
+      "changes": "The Impenetrable Offense Conclave Mod has been changed to: At Max Energy, +50% Damage Block.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.2.4",
+      "date": "2015-08-26T19:41:39Z",
+      "url": "https://forums.warframe.com/topic/518275-update-1724/",
+      "additions": "",
+      "changes": "Reduced the amount of additional block percentage on Impenetrable Offense mod.",
+      "fixes": ""
+    }
+  ],
+  "eae124a78516e0ef9830dfce14598913": [
+    {
+      "name": "The War Within: Hotfix 19.2.1",
+      "date": "2016-12-02T23:03:52Z",
+      "url": "https://forums.warframe.com/topic/728978-the-war-within-hotfix-1921/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a bug with Martial Fury that made Power Rate a negative value"
+    },
+    {
+      "name": "The War Within: Update 19.2.0",
+      "date": "2016-12-01T21:22:08Z",
+      "url": "https://forums.warframe.com/topic/728401-the-war-within-update-1920/",
+      "imgUrl": "http://i.imgur.com/1f5rmjA.jpg",
+      "additions": "",
+      "changes": "Changed the Martial Fury Conclave Mod from 0.5 Power Rate to -50% Power Rate.",
+      "fixes": ""
+    },
+    {
+      "name": "The Index Preview",
+      "date": "2016-10-20T23:28:18Z",
+      "url": "https://forums.warframe.com/topic/709665-the-index-preview/",
+      "imgUrl": "http://i.imgur.com/49dlyEz.jpg",
+      "additions": "",
+      "changes": "On Hit condition and -100% Channeling Efficiency removed from Conclave Mod Martial Fury and replaced with .5 Power Rate.",
+      "fixes": ""
+    },
+    {
+      "name": "The Silver Grove: Hotfix 4",
+      "date": "2016-08-25T20:05:06Z",
+      "url": "https://forums.warframe.com/topic/692289-the-silver-grove-hotfix-4/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Decreased channeling efficiency trade off added to Martial Fury."
+    },
+    {
+      "name": "Update 18: The Second Dream",
+      "date": "2015-12-03T23:46:40Z",
+      "url": "https://forums.warframe.com/topic/568455-update-18-the-second-dream/",
+      "additions": "",
+      "changes": "With melee equipped and On Kill, +20% attack speed for 10 seconds (can stack with Martial Fury).",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.10.0",
+      "date": "2015-11-04T23:21:00Z",
+      "url": "https://forums.warframe.com/topic/556384-update-17100/",
+      "additions": "",
+      "changes": "Martial Fury Mod attack speed boost duration boosted from 4 to 20 seconds.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.8.0",
+      "date": "2015-10-21T21:58:23Z",
+      "url": "https://forums.warframe.com/topic/549118-update-1780/",
+      "additions": "",
+      "changes": "The Martial Magnetism Mod is now called Martial Fury, and its effects now read: With a melee equipped attack speed increases 20% on hit for 3 seconds.",
+      "fixes": ""
+    }
+  ],
+  "1770d9cf1b35dc87a7c7d168e09f4030": [
+    {
+      "name": "The Index Preview: Hotfix #4",
+      "date": "2016-10-25T21:51:26Z",
+      "url": "https://forums.warframe.com/topic/710966-the-index-preview-hotfix-4/",
+      "imgUrl": "http://i.imgur.com/dYLoinT.jpg",
+      "additions": "",
+      "changes": "Updated Mortal Conduct Conclave Mod description to accurately represent new Low Health value.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.3",
+      "date": "2016-01-13T22:55:58Z",
+      "url": "https://forums.warframe.com/topic/594267-update-183/",
+      "additions": "",
+      "changes": "The Mortal Conduct Conclave Mod has been changed to: At Low Health, +60% Channeled Damage Reflection for 8 seconds.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 18.0.2",
+      "date": "2015-12-05T01:52:31Z",
+      "url": "https://forums.warframe.com/topic/570056-hotfix-1802/",
+      "additions": "",
+      "changes": "Fixed the Mortal Conduct Mod decreasing Channeling Efficiency at low health, instead of Increasing it.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18: The Second Dream",
+      "date": "2015-12-03T23:46:40Z",
+      "url": "https://forums.warframe.com/topic/568455-update-18-the-second-dream/",
+      "additions": "",
+      "changes": "Mortal Conduct (melee) ",
+      "fixes": ""
+    }
+  ],
+  "7a06214782524faf850a19fc14013e17": [
+    {
+      "name": "The Silver Grove",
+      "date": "2016-08-19T17:32:55Z",
+      "url": "https://forums.warframe.com/topic/688644-the-silver-grove/",
+      "additions": "",
+      "changes": "Relentless Assault mod now increases Power Rate instead of Attack Speed on Kill",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18: The Second Dream",
+      "date": "2015-12-03T23:46:40Z",
+      "url": "https://forums.warframe.com/topic/568455-update-18-the-second-dream/",
+      "additions": "",
+      "changes": "Relentless Assault ",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.8.0",
+      "date": "2015-10-21T21:58:23Z",
+      "url": "https://forums.warframe.com/topic/549118-update-1780/",
+      "additions": "",
+      "changes": "The Relentless Assault Mod has been removed from Conclave.",
+      "fixes": ""
+    }
+  ],
+  "b7d512c1f73fb66f59715965906d7bfb": [
+    {
+      "name": "Buried Debts: Hotfix 24.4.2",
+      "date": "2019-03-08T23:25:35Z",
+      "url": "https://forums.warframe.com/topic/1068218-buried-debts-hotfix-2442/",
+      "additions": "",
+      "changes": "Tenno, thank you kindly for your feedback, videos, and reactions so far on last night's Melee changes! We've been live for less than 24 hour with Phase 1 and we're going to start experimenting a little bit with some feedback. Our first experiment has to do with players who are truly committed to 'The Sword Alone'.",
+      "fixes": ""
+    },
+    {
+      "name": "The Glast Gambit: Update 19.8.0",
+      "date": "2017-01-25T19:24:45Z",
+      "url": "https://forums.warframe.com/topic/754548-the-glast-gambit-update-1980/",
+      "imgUrl": "http://i.imgur.com/W9ze8eZ.jpg",
+      "additions": "",
+      "changes": "In-mission challenges that require killing with a weapon will no longer appear if you can't actually complete them (Sword Alone mode, etc).",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18: The Second Dream",
+      "date": "2015-12-03T23:46:40Z",
+      "url": "https://forums.warframe.com/topic/568455-update-18-the-second-dream/",
+      "additions": "",
+      "changes": "Sword Alone ",
+      "fixes": ""
+    }
+  ]
+}

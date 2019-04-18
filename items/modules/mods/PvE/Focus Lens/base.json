@@ -1,0 +1,15 @@
+{
+  "FocusEnergy": {
+    "uniqueName": "/Lotus/Upgrades/Mods/Melee/DualStat/FocusEnergyMod",
+    "name": "Focus Energy",
+    "polarity": "Madurai",
+    "rarity": "Rare",
+    "baseDrain": 6,
+    "fusionLimit": 3,
+    "description": "+10% Channeling Efficiency,+15% <DT_ELECTRICITY>Electricity",
+    "type": "Focus Lens",
+    "imageName": "focus-energy.jpeg",
+    "tradable": true,
+    "hash": "965d463d4fbd368baf3038a03cc655c7"
+  }
+}

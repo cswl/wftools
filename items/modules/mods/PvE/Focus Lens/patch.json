@@ -1,0 +1,21 @@
+{
+  "965d463d4fbd368baf3038a03cc655c7": [
+    {
+      "name": "Recurring Nightmares",
+      "date": "2016-10-27T19:03:48Z",
+      "url": "https://forums.warframe.com/topic/711418-recurring-nightmares/",
+      "imgUrl": "http://i.imgur.com/Oail8jd.jpg",
+      "additions": "",
+      "changes": "Focus Energy",
+      "fixes": ""
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Charge attacks have been removed and replaced with Combos.    All Charge Attack based mods have been repurposed to suit the new system. Affected mods:    Reflex Coil    Focus Energy    Killing Blow    Corrupt Charge    Second Wind",
+      "changes": "",
+      "fixes": ""
+    }
+  ]
+}

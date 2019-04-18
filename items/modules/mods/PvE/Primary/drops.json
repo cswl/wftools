@@ -1,0 +1,188 @@
+{
+  "fb6a4d9316ce87616e6a110538768315": [
+    {
+      "location": "Level 15 - 25 Ghoul Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.11900000000000001
+    },
+    {
+      "location": "Ghoul Rictus Alpha",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.11055
+    },
+    {
+      "location": "Hemocyte",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.10529999999999999
+    },
+    {
+      "location": "Level 15 - 25 Ghoul Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.09390000000000001
+    },
+    {
+      "location": "Level 15 - 25 Ghoul Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.08230000000000001
+    }
+  ],
+  "7f0e7020534cfad550025e32f46e0255": [
+    {
+      "location": "Level 15 - 25 Ghoul Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.11900000000000001
+    },
+    {
+      "location": "Hemocyte",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.10529999999999999
+    },
+    {
+      "location": "Level 15 - 25 Ghoul Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.08230000000000001
+    },
+    {
+      "location": "Ghoul Rictus Alpha",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00505
+    }
+  ],
+  "7a544da955db96f2a537290322b63b13": [
+    {
+      "location": "Plains Commander",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.37939999999999996
+    },
+    {
+      "location": "Level 20 - 40 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Common",
+      "chance": 0.3519
+    },
+    {
+      "location": "Level 20 - 40 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.2043
+    },
+    {
+      "location": "Level 20 - 40 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.2
+    }
+  ],
+  "feb2e89cac4892fdb410dcb8458bd659": [
+    {
+      "location": "Level 20 - 40 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1905
+    },
+    {
+      "location": "Plains Commander",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.1106
+    },
+    {
+      "location": "Level 20 - 40 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.0851
+    },
+    {
+      "location": "Level 20 - 40 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.0833
+    }
+  ],
+  "9175e0ea55b284239676e42d45a1bcb3": [
+    {
+      "location": "Level 30 - 50 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.047599999999999996
+    },
+    {
+      "location": "Level 30 - 50 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.020800000000000003
+    },
+    {
+      "location": "Tusk Thumper",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.01875
+    },
+    {
+      "location": "Tusk Thumper Bull",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.01875
+    },
+    {
+      "location": "Tusk Thumper Doma",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.01875
+    },
+    {
+      "location": "Plains Commander",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.005
+    }
+  ],
+  "ff36052c58cd14acb9f50d27ddd72d75": [
+    {
+      "location": "Level 20 - 40 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.0513
+    },
+    {
+      "location": "Level 20 - 40 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.0206
+    },
+    {
+      "location": "Tusk Thumper",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.01875
+    },
+    {
+      "location": "Tusk Thumper Bull",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.01875
+    },
+    {
+      "location": "Tusk Thumper Doma",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.01875
+    },
+    {
+      "location": "Plains Commander",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.005
+    }
+  ]
+}

@@ -1,0 +1,2261 @@
+{
+  "d66e1d572fa6fca9bd005b1ffbad708e": [
+    {
+      "name": "Update 15.13",
+      "date": "2015-02-05T21:08:01Z",
+      "url": "https://forums.warframe.com/topic/396379-update-1513/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Astral Twilight Stance Mod not appearing in the Codex."
+    },
+    {
+      "name": "Hotfix 15.5.2",
+      "date": "2014-11-27T23:47:52Z",
+      "url": "https://forums.warframe.com/topic/353312-hotfix-1552/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Removed unreleased/unfinished mods from the Codex (Vermillion Storm/Astral Twilight)."
+    }
+  ],
+  "a2fdd094895412a9491c012193c251ca": [
+    {
+      "name": "Update 17.4.0",
+      "date": "2015-09-09T23:18:22Z",
+      "url": "https://forums.warframe.com/topic/525957-update-1740/",
+      "additions": "",
+      "changes": "Atlantis Vulcan (Nunchaku): Rapid strikes, deceptive movements.",
+      "fixes": ""
+    }
+  ],
+  "f82e2531ea9ed4b546924a5ff2eaa78a": [
+    {
+      "name": "Update 21: Chains of Harrow",
+      "date": "2017-06-29T03:00:20Z",
+      "url": "https://forums.warframe.com/topic/809842-update-21-chains-of-harrow/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/harrow/PriestSpear_1080p.jpg",
+      "additions": "Avenging Truth",
+      "changes": "Buffed Avenging Truth’s stored damage to 20/30/40/50% from 10/15/20/25%.",
+      "fixes": "Fixed Avenging Truth absorbing damage when RMB was held but no actual damage was blocked."
+    },
+    {
+      "name": "Octavia’s Anthem: Update 20.5.0",
+      "date": "2017-05-17T19:16:26Z",
+      "url": "https://forums.warframe.com/topic/797978-octavia%E2%80%99s-anthem-update-2050/",
+      "imgUrl": "http://i.imgur.com/ADvsdMP.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Avenging Truth Mod absorbing damage from ally players."
+    }
+  ],
+  "b28c2941cce43fbf2167eaf4ae34b639": [
+    {
+      "name": "Chains of Harrow: Hotfix 21.0.4",
+      "date": "2017-07-05T17:02:16Z",
+      "url": "https://forums.warframe.com/topic/813247-chains-of-harrow-hotfix-2104/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Berserker Mod not applying to Excalibur’s Exalted Blade and its waves."
+    },
+    {
+      "name": "The Silver Grove",
+      "date": "2016-08-19T17:32:55Z",
+      "url": "https://forums.warframe.com/topic/688644-the-silver-grove/",
+      "additions": "",
+      "changes": "Added melee magnetism to Valkyr’s Berserker and Wukong’s Primal Fury in Conclave",
+      "fixes": ""
+    },
+    {
+      "name": "Update 15.13",
+      "date": "2015-02-05T21:08:01Z",
+      "url": "https://forums.warframe.com/topic/396379-update-1513/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a HUD issue showing the Berserker Mod as 1% less than it should be."
+    },
+    {
+      "name": "Update 11: Valkyr Unleashed",
+      "date": "2013-11-21T00:23:32Z",
+      "url": "https://forums.warframe.com/topic/132825-update-11-valkyr-unleashed/",
+      "additions": "New Warframe: “Valkyr” Female Berserker Class, Cosmetic Bastet Helmet & Cosmetic Restraints!https://www.youtube.com/watch?v=K-jH6mP37_k",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "2d9e9d298974b428f70637655d28bc6c": [
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "7bd7850ba7f45aa3966f30df7ee48b2a": [
+    {
+      "name": "Update 18.2.0",
+      "date": "2016-01-05T18:24:20Z",
+      "url": "https://forums.warframe.com/topic/590253-update-1820/",
+      "additions": "",
+      "changes": "The knockdown effect has been removed from Blind Justice’s Guiding Light combo in Conclave.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 14.10.0",
+      "date": "2014-10-08T22:00:00Z",
+      "url": "https://forums.warframe.com/topic/321746-update-14100/",
+      "additions": "Blind Justice: a new Nikana Stance has arrived!",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "ff799f03dde898e16803fb1d9b22f013": [
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Body Count Mod adding excessive time to Wukong’s melee combo counter due to his passive."
+    }
+  ],
+  "c6f5500630535e4b71e81dbe285dcb29": [
+    {
+      "name": "Hotfix 15.5.1",
+      "date": "2014-11-27T20:40:47Z",
+      "url": "https://forums.warframe.com/topic/353150-hotfix-1551/",
+      "additions": "",
+      "changes": "The Bright Purity Augment Mod can now be used on Skana Prime.",
+      "fixes": ""
+    },
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Skana: Bright Purity: adds 25% damage",
+      "fixes": ""
+    }
+  ],
+  "b1104a034b6b15190f5b8ba8d4958cd0": [
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "0224ee78d45e4800dbeaccc1a868d0b0": [
+    {
+      "name": "Plains of Eidolon: Update 22.6.0 + Hotfix 22.6.0.1",
+      "date": "2017-12-07T22:05:21Z",
+      "url": "https://forums.warframe.com/topic/891096-plains-of-eidolon-update-2260-hotfix-22601/",
+      "imgUrl": "https://content.invisioncic.com/Mwarframe/monthly_2017_12/Warframe0044.thumb.jpg.301d3829b792af173307be6fda35cbb8.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Bullet Dance Stance Lead Tango combo not playing properly with the Redeemer causing it to loop gunfire repeatedly. "
+    },
+    {
+      "name": "Update 21: Chains of Harrow",
+      "date": "2017-06-29T03:00:20Z",
+      "url": "https://forums.warframe.com/topic/809842-update-21-chains-of-harrow/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/harrow/PriestSpear_1080p.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed issues with successfully chaining the Samba Slash Combo when using the Sarpa with Bullet Dance."
+    },
+    {
+      "name": "Octavia’s Anthem: Update 20.4.0",
+      "date": "2017-05-04T13:58:50Z",
+      "url": "https://forums.warframe.com/topic/793570-octavia%E2%80%99s-anthem-update-2040/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Sarpa not firing in bursts with the Bullet Dance Stance equipped."
+    },
+    {
+      "name": "The War Within: Update 19.2.0",
+      "date": "2016-12-01T21:22:08Z",
+      "url": "https://forums.warframe.com/topic/728401-the-war-within-update-1920/",
+      "imgUrl": "http://i.imgur.com/1f5rmjA.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Hydroid’s passive activating off of the Telos Boltace spin attack and from an equipped Bullet Dance."
+    },
+    {
+      "name": "The Index Preview",
+      "date": "2016-10-20T23:28:18Z",
+      "url": "https://forums.warframe.com/topic/709665-the-index-preview/",
+      "imgUrl": "http://i.imgur.com/49dlyEz.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Sarpa not firing when equipped with the Bullet Dance stance Mod. "
+    },
+    {
+      "name": "The Silver Grove: U4+4.1",
+      "date": "2016-09-29T19:31:28Z",
+      "url": "https://forums.warframe.com/topic/703921-the-silver-grove-u441/",
+      "imgUrl": "http://i.imgur.com/hCEvZkm.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Sarpa sometimes firing \"blanks\" with Bullet Dance or blank stance."
+    },
+    {
+      "name": "The Silver Grove: Update 1",
+      "date": "2016-08-31T18:28:02Z",
+      "url": "https://forums.warframe.com/topic/694786-the-silver-grove-update-1/",
+      "imgUrl": "http://i.imgur.com/UzYdCX0.jpg",
+      "additions": "",
+      "changes": "Improved the combo fluidity for the Bullet Dance Mod and fixed issues with executing combos. ",
+      "fixes": ""
+    }
+  ],
+  "41cdf8c3a04233ec70201ae9a68091ce": [
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "f8519f47269f0fd2d19e6f00242ff31e": [
+    {
+      "name": "Update 14.7.0: Operation Gate Crash!",
+      "date": "2014-09-18T03:51:15Z",
+      "url": "https://forums.warframe.com/topic/311669-update-1470-operation-gate-crash/",
+      "additions": "",
+      "changes": "",
+      "fixes": "10 Exposure points: Set of 4 Mods – Buzz Kill, Fanged Fusillade, Sweeping Serration and Maim"
+    }
+  ],
+  "7d728cfff5ff26080ad345e8b4448b74": [
+    {
+      "name": "Plains of Eidolon: Hotfix 22.0.7",
+      "date": "2017-10-19T20:48:18Z",
+      "url": "https://forums.warframe.com/topic/862704-plains-of-eidolon-hotfix-2207/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Added Swooping Falcon, Carving Mantis, Twirling Spire and Stinging Thorn to the Codex."
+    }
+  ],
+  "f35482bfc2b1f66d560c76547279c55b": [
+    {
+      "name": "Hotfix 17.0.4",
+      "date": "2015-08-06T14:48:33Z",
+      "url": "https://forums.warframe.com/topic/504855-hotfix-1704/",
+      "additions": "",
+      "changes": "Reduced the damage of the first and last hit on the Clashing Forest / Skyward Limb combo attack.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "575890cb084630123fe90795d6c6a238": [
+    {
+      "name": "Update 13.5.0: Edo Armor & Nami Solo",
+      "date": "2014-05-28T23:05:58Z",
+      "url": "https://forums.warframe.com/topic/238069-update-1350-edo-armor-nami-solo/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Cleaving Whirlwind: Sundered Tusk and Drifting Stampede!"
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "e2a21e5995d37698bf68be7c68c853a8": [
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "7c56f3bd3b10dd5dce81308bdfeaf867": [
+    {
+      "name": "Fortuna: Hotfix 24.1.5",
+      "date": "2018-12-13T16:57:31Z",
+      "url": "https://forums.warframe.com/topic/1043389-fortuna-hotfix-2415/",
+      "additions": "",
+      "changes": "Updated Life Strike, Focused Defense, and Corrupt Charge Mod descriptions to read better.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Charge attacks have been removed and replaced with Combos.    All Charge Attack based mods have been repurposed to suit the new system. Affected mods:    Reflex Coil    Focus Energy    Killing Blow    Corrupt Charge    Second Wind",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "3422ecb1b7354d7c88606eae397d493c": [
+    {
+      "name": "Beasts of the Sanctuary: Update 22.19.0",
+      "date": "2018-05-02T18:30:06Z",
+      "url": "https://forums.warframe.com/topic/952702-beasts-of-the-sanctuary-update-22190/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/8c27eabbd9bc9b5af2ba5944cd490302.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Exodia Contagion's interaction with Covert Lethality, resulting in the +100 damage being applied to the projectile damage multiplier instead of the base projectile damage."
+    },
+    {
+      "name": "Plains of Eidolon: Hotfix 22.3.5",
+      "date": "2017-11-20T23:06:42Z",
+      "url": "https://forums.warframe.com/topic/882798-plains-of-eidolon-hotfix-2235/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Zaws with Covert Lethality and Exodia Epidemic unintentionally insta killing enemies. Covert Lethality does not carry over to projectiles or other effects created by weapons, and only applies on Melee finishers."
+    },
+    {
+      "name": "Octavia's Anthem: Update 20",
+      "date": "2017-03-24T19:46:02Z",
+      "url": "https://forums.warframe.com/topic/776642-octavias-anthem-update-20/",
+      "imgUrl": "http://i.imgur.com/h14igRz.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Covert Lethality being able to slay immortal enemies (i.e., John Prodman)."
+    },
+    {
+      "name": "Hotfix 17.1.5",
+      "date": "2015-08-14T21:14:23Z",
+      "url": "https://forums.warframe.com/topic/511107-hotfix-1715/",
+      "additions": "",
+      "changes": "Changed the Covert Lethality Mod to provide lethal damage on finishers instead of undetected enemies as per: https://forums.warframe.com/index.php?/topic/511036-pc-psa-covert-lethality-exalted-blade-changes/.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 17.0.4",
+      "date": "2015-08-06T14:48:33Z",
+      "url": "https://forums.warframe.com/topic/504855-hotfix-1704/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an incorrect description on the Covert Lethality Mod to properly describe damage bonus."
+    }
+  ],
+  "0a0673dd6b79ef7fa3a3d1198e89d484": [
+    {
+      "name": "Banshee Prime: Hotfix 19.11.5 + 19.11.6",
+      "date": "2017-02-28T22:44:49Z",
+      "url": "https://forums.warframe.com/topic/767736-banshee-prime-hotfix-19115-19116/",
+      "additions": "",
+      "changes": "Removed Crimson Dervish & Sure Footed from Kuva heavy Gunner drop tables (still available in many other places)",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 18.4.13",
+      "date": "2016-02-22T22:44:37Z",
+      "url": "https://forums.warframe.com/topic/612235-hotfix-18413/",
+      "imgUrl": "http://i.imgur.com/ZtBrjRp.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "The final attack of Crimson Dervish’s Coiling Impale combo has been changed to deliver a Stun proc."
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "96d67f69c67f7b081caa7278243fa184": [
+    {
+      "name": "Update 19: The War Within",
+      "date": "2016-11-12T04:02:28Z",
+      "url": "https://forums.warframe.com/topic/715768-update-19-the-war-within/",
+      "imgUrl": "http://i.imgur.com/gCfJMUs.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed incorrect sheathing of the Dark Split-Sword when equipped with a Dual Sword Stance Mod (Crossing Snakes, Swirling Tiger, Dividing Blades). "
+    },
+    {
+      "name": "13.4.0: Serro + Psa!",
+      "date": "2014-05-21T22:18:51Z",
+      "url": "https://forums.warframe.com/topic/234889-1340-serro-psa/",
+      "additions": "",
+      "changes": "",
+      "fixes": "New Melee Combos have been added to Crossing Snakes, Seismic Palm, and Decisive Judgement Fracturing Wind, Seismic Palm, Homing Fang, Swirling Tiger, Grim Fury, Flailing Branch, and the Decisive Judgement Stance Mods! (rest maybe coming soon!)."
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "afed4d27aa9d97707dfd9a64d5c4e416": [
+    {
+      "name": "Update 15.7.2 + 15.7.2.1",
+      "date": "2014-12-19T18:09:43Z",
+      "url": "https://forums.warframe.com/topic/369418-update-1572-15721/",
+      "additions": "Added a new melee combo to Shattering storm and Crushing Ruin Stances.",
+      "changes": "",
+      "fixes": ""
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "2bb45663a081d359ed8851901e807edc": [
+    {
+      "name": "Chains of Harrow: Hotfix 21.0.4",
+      "date": "2017-07-05T17:02:16Z",
+      "url": "https://forums.warframe.com/topic/813247-chains-of-harrow-hotfix-2104/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed caches on Kuva Fortress/Dakata giving rewards from the incorrect table (thereby not dropping Cyclone Kraken as intended)."
+    }
+  ],
+  "22c8f08b7a84d21fcb4639abc07894a0": [
+    {
+      "name": "Update 14.6.0",
+      "date": "2014-09-10T21:36:26Z",
+      "url": "https://forums.warframe.com/topic/307792-update-1460/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Moved “Decisive Judgement” Stance Mods from Specters to Grineer Wardens, found in Rescue 2.0!  World on Fire was removed from Grineer Wardens for this change."
+    },
+    {
+      "name": "Update 14: The Mad Cephalon",
+      "date": "2014-07-18T09:44:52Z",
+      "url": "https://forums.warframe.com/topic/263213-update-14-the-mad-cephalon/",
+      "additions": "",
+      "changes": "Changes to mod art: Decisive Judgement and Tranquil Cleave used the same image, now they don’t!",
+      "fixes": ""
+    },
+    {
+      "name": "13.4.0: Serro + Psa!",
+      "date": "2014-05-21T22:18:51Z",
+      "url": "https://forums.warframe.com/topic/234889-1340-serro-psa/",
+      "additions": "",
+      "changes": "",
+      "fixes": "New Melee Combos have been added to Crossing Snakes, Seismic Palm, and Decisive Judgement Fracturing Wind, Seismic Palm, Homing Fang, Swirling Tiger, Grim Fury, Flailing Branch, and the Decisive Judgement Stance Mods! (rest maybe coming soon!)."
+    }
+  ],
+  "19334351e16562a5b3582316bb33df5d": [
+    {
+      "name": "Update 17.11.0 + 17.11.0.1",
+      "date": "2015-11-12T22:55:35Z",
+      "url": "https://forums.warframe.com/topic/560104-update-17110-171101/",
+      "additions": "New Stance: Defiled Snapdragon",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "35fb496175763e14b531676a347f0c80": [
+    {
+      "name": "Buried Debts: Update 24.5.0",
+      "date": "2019-03-14T21:06:12Z",
+      "url": "https://forums.warframe.com/topic/1070992-buried-debts-update-2450/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/5576015e88951a00ab3824307aea467a.jpg",
+      "additions": "",
+      "changes": "Dispatch Overdrive now applies to Garuda’s Talons when equipped.",
+      "fixes": ""
+    },
+    {
+      "name": "Buried Debts: Update 24.4.0",
+      "date": "2019-03-08T02:01:23Z",
+      "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/f07ee60119e2c8efc746da7ecf4cb49e.png",
+      "additions": "",
+      "changes": "Dispatch Overdrive now applies to Garuda’s Talons when equipped.",
+      "fixes": ""
+    },
+    {
+      "name": "The Sacrifice: Hotfix 23.0.2 + 23.0.2.1",
+      "date": "2018-06-15T20:55:38Z",
+      "url": "https://forums.warframe.com/topic/968321-the-sacrifice-hotfix-2302-23021/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Channeled finishers with Zaws not activating Dispatch Overdrive or Exodia Brave. "
+    },
+    {
+      "name": "Update 19.13.0",
+      "date": "2017-03-09T20:40:48Z",
+      "url": "https://forums.warframe.com/topic/771036-update-19130/",
+      "imgUrl": "http://i.imgur.com/PDgOqJ8.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed being able to stack speed buffs exponentially with Dispatch Overdrive and a toggled 4th Warframe ability (Excalibur, Valkyr, etc) . "
+    }
+  ],
+  "53c5dae820339df1ce1bec5699f2716f": [
+    {
+      "name": "Fortuna: Hotfix 24.1.2 + 24.1.2.1",
+      "date": "2018-11-29T19:46:27Z",
+      "url": "https://forums.warframe.com/topic/1038856-fortuna-hotfix-2412-24121/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Chilling Reload, Streamlined Form, and Drifting Contact missing from Alerts. "
+    },
+    {
+      "name": "Recurring Nightmares",
+      "date": "2016-10-27T19:03:48Z",
+      "url": "https://forums.warframe.com/topic/711418-recurring-nightmares/",
+      "imgUrl": "http://i.imgur.com/Oail8jd.jpg",
+      "additions": "",
+      "changes": "Drifting Contact (Melee): Increases Combo Duration and Status Chance!\nDrifting Contact (new!)",
+      "fixes": ""
+    }
+  ],
+  "b934d44fc41444990157a1cb358df46a": [
+    {
+      "name": "The Silver Grove",
+      "date": "2016-08-19T17:32:55Z",
+      "url": "https://forums.warframe.com/topic/688644-the-silver-grove/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Electromagnetic Shielding Mod staying active when not actively blocking. "
+    },
+    {
+      "name": "Hotfix 18.10.4 Operation Rathuum.",
+      "date": "2016-05-02T21:29:22Z",
+      "url": "https://forums.warframe.com/topic/644355-hotfix-18104-operation-rathuum/",
+      "additions": "Added a Range description to the Ack & Brunt Electromagnetic Shielding Mod.",
+      "changes": "",
+      "fixes": "Fixed the Electromagnetic Shielding Mod’s damage transfer not scaling with Fusion level.\nFixed taking 100% of the Electromagnetic Shielding Mod damage transfer."
+    }
+  ],
+  "47d8f3c18ff7265bd3259aeebd2f4a74": [
+    {
+      "name": "Hotfix 14.0.1",
+      "date": "2014-07-18T22:51:17Z",
+      "url": "https://forums.warframe.com/topic/264446-hotfix-1401/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed incorrect polarity on Silva and Aegis Stance Mod, “Eleventh Storm”."
+    },
+    {
+      "name": "Update 14: The Mad Cephalon",
+      "date": "2014-07-18T09:44:52Z",
+      "url": "https://forums.warframe.com/topic/263213-update-14-the-mad-cephalon/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Silva & Aegis: This fiery sword and shield combination perfects the balance of Tenno offense and defense prowess. In the hands of a Master, even a defensive tool like a shield can be used as a deadly weapon. This new weapon uses a brand new Stance, 'Eleventh Storm'! Created from the concept of our Melee Design Contest winner: SilverBones."
+    }
+  ],
+  "090172897db80c2011ced23a0f97ac40": [
+    {
+      "name": "Chains of Harrow: Hotfix 21.0.4",
+      "date": "2017-07-05T17:02:16Z",
+      "url": "https://forums.warframe.com/topic/813247-chains-of-harrow-hotfix-2104/",
+      "additions": "",
+      "changes": "Sped up Energy Channeling by 50%\nEnergy Channeling speed is now affected by Natural Talent",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 13.0.6+13.0.7+13.0.7.1",
+      "date": "2014-04-17T17:11:44Z",
+      "url": "https://forums.warframe.com/topic/217108-hotfix-1306130713071/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Reduced the volume of the Energy Channel activation sound.\nFixed Energy Channel not properly increasing melee damage after Melee Channeling has been used."
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "",
+      "changes": "Melee Channel mod has had its name changed to Energy Channel.",
+      "fixes": ""
+    }
+  ],
+  "462d3f0e496db10908c3acea7597d461": [
+    {
+      "name": "Update 21: Chains of Harrow",
+      "date": "2017-06-29T03:00:20Z",
+      "url": "https://forums.warframe.com/topic/809842-update-21-chains-of-harrow/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/harrow/PriestSpear_1080p.jpg",
+      "additions": "Entropy Detonation",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "c9805791d82322af1f14f18a111c56fd": [
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Kestrel: Entropy Flight: adds 35% flight speed",
+      "fixes": ""
+    }
+  ],
+  "7a997f565f7e88c8e683ff3441cee914": [
+    {
+      "name": "Hotfix 17.8.1",
+      "date": "2015-10-22T19:48:48Z",
+      "url": "https://forums.warframe.com/topic/549685-hotfix-1781/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Silva and Aegis not being able to do a slide attack with the Final Harbinger Stance equipped."
+    },
+    {
+      "name": "Update 17.8.0",
+      "date": "2015-10-21T21:58:23Z",
+      "url": "https://forums.warframe.com/topic/549118-update-1780/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Silvia and Aegis clipping when used with the Final Harbinger Stance Mod."
+    },
+    {
+      "name": "Hotfix 17.0.1",
+      "date": "2015-07-31T19:12:09Z",
+      "url": "https://forums.warframe.com/topic/499137-hotfix-1701/",
+      "additions": "",
+      "changes": "Final Harbinger now drops from the Grineer Manics that appear during Tyl Regor’s boss fight.",
+      "fixes": ""
+    }
+  ],
+  "55eedf56961e455bcbed7e94c8a32c11": [
+    {
+      "name": "13.4.0: Serro + Psa!",
+      "date": "2014-05-21T22:18:51Z",
+      "url": "https://forums.warframe.com/topic/234889-1340-serro-psa/",
+      "additions": "",
+      "changes": "",
+      "fixes": "New Melee Combos have been added to Crossing Snakes, Seismic Palm, and Decisive Judgement Fracturing Wind, Seismic Palm, Homing Fang, Swirling Tiger, Grim Fury, Flailing Branch, and the Decisive Judgement Stance Mods! (rest maybe coming soon!)."
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "edb04bd204ec62fac4efa9827ad89616": [
+    {
+      "name": "Fortuna: Hotfix 24.1.5",
+      "date": "2018-12-13T16:57:31Z",
+      "url": "https://forums.warframe.com/topic/1043389-fortuna-hotfix-2415/",
+      "additions": "",
+      "changes": "Updated Life Strike, Focused Defense, and Corrupt Charge Mod descriptions to read better.",
+      "fixes": ""
+    }
+  ],
+  "d2074e5b3b165e02ca63ca9c3b692662": [
+    {
+      "name": "The Pacifism Defect: Hotfix 19.12.2",
+      "date": "2017-03-06T22:01:18Z",
+      "url": "https://forums.warframe.com/topic/770075-the-pacifism-defect-hotfix-19122/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Manics not having the proper drops (i.e Four Riders) in The Pacifism Defect."
+    },
+    {
+      "name": "Update 16.5: Tubemen Of Regor",
+      "date": "2015-05-12T17:09:40Z",
+      "url": "https://forums.warframe.com/topic/455995-update-165-tubemen-of-regor/",
+      "additions": "",
+      "changes": "Malicious Raptor and Four Riders stances enabled in PvP.",
+      "fixes": ""
+    },
+    {
+      "name": "Warframe: Sanctuary",
+      "date": "2015-03-20T02:21:54Z",
+      "url": "https://forums.warframe.com/topic/420448-warframe-sanctuary/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Four Riders "
+    }
+  ],
+  "08cf37afcf339760df268ec817fb7d94": [
+    {
+      "name": "Update 13.5.0: Edo Armor & Nami Solo",
+      "date": "2014-05-28T23:05:58Z",
+      "url": "https://forums.warframe.com/topic/238069-update-1350-edo-armor-nami-solo/",
+      "additions": "",
+      "changes": "Fixed Seismic Palm and Fracturing Wind being erroneously labeled as \"Sparring\" which led to confusion on which weapons could use them. They are now labeled as “Fist” Stances.",
+      "fixes": ""
+    },
+    {
+      "name": "13.4.0: Serro + Psa!",
+      "date": "2014-05-21T22:18:51Z",
+      "url": "https://forums.warframe.com/topic/234889-1340-serro-psa/",
+      "additions": "",
+      "changes": "",
+      "fixes": "New Melee Combos have been added to Crossing Snakes, Seismic Palm, and Decisive Judgement Fracturing Wind, Seismic Palm, Homing Fang, Swirling Tiger, Grim Fury, Flailing Branch, and the Decisive Judgement Stance Mods! (rest maybe coming soon!)."
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "aa66a9d6bace680036e90eaf4147c69a": [
+    {
+      "name": "Buried Debts: Update 24.4.0",
+      "date": "2019-03-08T02:01:23Z",
+      "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/f07ee60119e2c8efc746da7ecf4cb49e.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a localization issue with Arcane Fury and Arcane Awakening."
+    },
+    {
+      "name": "The Sacrifice: Hotfix 23.0.3 - Limbo Prime",
+      "date": "2018-06-19T17:58:18Z",
+      "url": "https://forums.warframe.com/topic/971211-the-sacrifice-hotfix-2303-limbo-prime/",
+      "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/16bafe11f0a19c9619e96e3a890728ec.jpg",
+      "additions": "",
+      "changes": "Removed Umbra triggering unintended Operator Virtuous Fury. Virtuous Fury only grants a chance at increased damage after inflicting a Status Effect with an Operator Amp, and should not apply to Umbra.",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Update 22.20.0",
+      "date": "2018-05-17T14:55:31Z",
+      "url": "https://forums.warframe.com/topic/957066-beasts-of-the-sanctuary-update-22200/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/09cdfacb9f01a572c3205b5ccb861822.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed being unable to cast Wukong's Primal Fury after giving your Secondary weapon to a Rescue Target in a 'Secondary Only' Sortie."
+    },
+    {
+      "name": "Beasts of the Sanctuary: Update 22.19.0",
+      "date": "2018-05-02T18:30:06Z",
+      "url": "https://forums.warframe.com/topic/952702-beasts-of-the-sanctuary-update-22190/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/8c27eabbd9bc9b5af2ba5944cd490302.jpg",
+      "additions": "",
+      "changes": "Chroma Thyrus Skin by StenchFury \nMushussu Syandana by StenchFury ",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.18.7",
+      "date": "2018-04-25T21:12:12Z",
+      "url": "https://forums.warframe.com/topic/950089-beasts-of-the-sanctuary-hotfix-22187/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Wukong’s Primal Fury adding increased Range to all Melee weapons instead of just his Iron Staff."
+    },
+    {
+      "name": "Plains of Eidolon: Update 22.10.0",
+      "date": "2018-01-25T23:53:14Z",
+      "url": "https://forums.warframe.com/topic/911802-plains-of-eidolon-update-22100/",
+      "imgUrl": "https://i.imgur.com/Hh3GKF6.jpg",
+      "additions": "",
+      "changes": "Warframe Specters are now much smarter! If you don't recall, Specters are craftable gear you can equip to summon an AI companion in battle. We've done a general intelligence pass on their proficiency with Weapons, and we've also updated their power-casting logic. Virtually every power is now castable with only a few exceptions! Specters CANNOT cast the following Abilities: Vauban's Minelayer, Ivara's Zipline, Titania's Razorwing, Nekros’ Desecrate and Shadows of the Dead, Excalibur’s Exalted Blade, Valkyr’s Hysteria, Wukong’s Primal Fury, Cloud Walker, and Defy, Atlas’ Petrify and Tectonics, Limbo's entire kit (save for the damage aspect of Banish), and finally Zephyr’s Dive Bomb. ",
+      "fixes": ""
+    },
+    {
+      "name": "Plains of Eidolon: Hotfix 22.8.1",
+      "date": "2017-12-22T18:19:45Z",
+      "url": "https://forums.warframe.com/topic/898703-plains-of-eidolon-hotfix-2281/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Blade and Gun Stencil & updated Grineer Fury for Personal Quarters."
+    },
+    {
+      "name": "Plains of Eidolon: Update 22.1.0",
+      "date": "2017-10-25T20:57:43Z",
+      "url": "https://forums.warframe.com/topic/867056-plains-of-eidolon-update-2210/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed issues with the description text of Virtuos Fury. "
+    },
+    {
+      "name": "Chains of Harrow: Hotfix 21.0.8 + 21.0.8.1",
+      "date": "2017-07-13T20:50:40Z",
+      "url": "https://forums.warframe.com/topic/817221-chains-of-harrow-hotfix-2108-21081/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue where Clients downed while using Excalibur’s Exalted Blade, Wukong’s Primal Fury, or Valkyr’s Hysteria would be unable to switch weapons when revived."
+    },
+    {
+      "name": "Chains of Harrow: Hotfix 21.0.7",
+      "date": "2017-07-13T16:02:08Z",
+      "url": "https://forums.warframe.com/topic/817066-chains-of-harrow-hotfix-2107/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed casting and deactivating Excalibur’s Exalted Blade, Wukong’s Primal Fury, or Valkyr’s Hysteria while in Dual-Wield mode resulting in the UI stating the name of your Pistol and ability used."
+    },
+    {
+      "name": "Octavia’s Anthem: Hotfix 20.2.3",
+      "date": "2017-04-19T22:08:42Z",
+      "url": "https://forums.warframe.com/topic/788574-octavia%E2%80%99s-anthem-hotfix-2023/",
+      "additions": "",
+      "changes": "Solving Vex Armor actually takes as back to Chroma's beginning. On original power creation, we used some less-than-ideal calculation methods to create Scorn and Fury's effects. If you are an avid Chroma user, you probably know the power maximizing this ability brings. At some point in Chroma's future we will need to revisit and use ideal methods for his Abilities; we will inform you well in advance when Chroma is under review. As you may or may not know, Oberon is currently under review at this time!",
+      "fixes": ""
+    },
+    {
+      "name": "The Glast Gambit: Hotfix 19.9.2 (Phase One: DB Upgrades)",
+      "date": "2017-02-07T13:58:54Z",
+      "url": "https://forums.warframe.com/topic/759911-the-glast-gambit-hotfix-1992-phase-one-db-upgrades/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Potential fix for Clients with Hysteria/Exalted Blade/Primal Fury/Artemis Bow active and running into a Nullifier briefly causing complete ability/melee/weapon switch lockout on next cast."
+    },
+    {
+      "name": "The Glast Gambit: Hotfix 19.9.1",
+      "date": "2017-02-02T22:32:29Z",
+      "url": "https://forums.warframe.com/topic/757913-the-glast-gambit-hotfix-1991/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed script errors with Exalted Blade/Hysteria/Primal Fury."
+    },
+    {
+      "name": "The Glast Gambit: Update 19.9.0",
+      "date": "2017-02-01T21:04:20Z",
+      "url": "https://forums.warframe.com/topic/757465-the-glast-gambit-update-1990/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed using Valkyr's Hysteria/Excalibur's Exalted Blade/Wukong's Primal Fury during a ‘Weapon Only’ Sortie resulting in \"Power In Use\" when casting any ability for the remainder of the mission."
+    },
+    {
+      "name": "The War Within: Hotfix 19.2.1",
+      "date": "2016-12-02T23:03:52Z",
+      "url": "https://forums.warframe.com/topic/728978-the-war-within-hotfix-1921/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a bug with Martial Fury that made Power Rate a negative value"
+    },
+    {
+      "name": "The War Within: Update 19.2.0",
+      "date": "2016-12-01T21:22:08Z",
+      "url": "https://forums.warframe.com/topic/728401-the-war-within-update-1920/",
+      "imgUrl": "http://i.imgur.com/1f5rmjA.jpg",
+      "additions": "",
+      "changes": "Changed the Martial Fury Conclave Mod from 0.5 Power Rate to -50% Power Rate.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 19.0.3",
+      "date": "2016-11-14T23:41:18Z",
+      "url": "https://forums.warframe.com/topic/718965-hotfix-1903/",
+      "additions": "",
+      "changes": "Fixed Primed Fury missing from the Codex. ",
+      "fixes": ""
+    },
+    {
+      "name": "Recurring Nightmares",
+      "date": "2016-10-27T19:03:48Z",
+      "url": "https://forums.warframe.com/topic/711418-recurring-nightmares/",
+      "imgUrl": "http://i.imgur.com/Oail8jd.jpg",
+      "additions": "",
+      "changes": "Seeking Fury",
+      "fixes": ""
+    },
+    {
+      "name": "The Index Preview",
+      "date": "2016-10-20T23:28:18Z",
+      "url": "https://forums.warframe.com/topic/709665-the-index-preview/",
+      "imgUrl": "http://i.imgur.com/49dlyEz.jpg",
+      "additions": "",
+      "changes": "On Hit condition and -100% Channeling Efficiency removed from Conclave Mod Martial Fury and replaced with .5 Power Rate.",
+      "fixes": ""
+    },
+    {
+      "name": "The Silver Grove: Hotfix 4",
+      "date": "2016-08-25T20:05:06Z",
+      "url": "https://forums.warframe.com/topic/692289-the-silver-grove-hotfix-4/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Decreased channeling efficiency trade off added to Martial Fury."
+    },
+    {
+      "name": "The Silver Grove",
+      "date": "2016-08-19T17:32:55Z",
+      "url": "https://forums.warframe.com/topic/688644-the-silver-grove/",
+      "additions": "",
+      "changes": "Added melee magnetism to Valkyr’s Berserker and Wukong’s Primal Fury in Conclave",
+      "fixes": ""
+    },
+    {
+      "name": "Update: Specters of the Rail",
+      "date": "2016-07-08T14:12:48Z",
+      "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
+      "imgUrl": "http://i.imgur.com/YMVXfyw.jpg",
+      "additions": "",
+      "changes": "Primal Fury \nDecreased channeling cost of Wukong’s Primal Fury in Conclave.\nPiercing Fury (Dagger)",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix: Lunaro 4",
+      "date": "2016-06-20T21:44:17Z",
+      "url": "https://forums.warframe.com/topic/662589-hotfix-lunaro-4/",
+      "additions": "",
+      "changes": "Login Reward Mods like Primed Fury are no longer tradeable. This is due to the nature of how the reward is obtained, and how as a result people may feel enticed to create multiple accounts. ",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.1.0   ",
+      "date": "2015-12-16T21:59:04Z",
+      "url": "https://forums.warframe.com/topic/579670-update-1810-spoilers/",
+      "additions": "",
+      "changes": "Defy and Primal Fury",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18: The Second Dream",
+      "date": "2015-12-03T23:46:40Z",
+      "url": "https://forums.warframe.com/topic/568455-update-18-the-second-dream/",
+      "additions": "",
+      "changes": "With melee equipped and On Kill, +20% attack speed for 10 seconds (can stack with Martial Fury).",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.10.0",
+      "date": "2015-11-04T23:21:00Z",
+      "url": "https://forums.warframe.com/topic/556384-update-17100/",
+      "additions": "",
+      "changes": "Martial Fury Mod attack speed boost duration boosted from 4 to 20 seconds.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.8.0",
+      "date": "2015-10-21T21:58:23Z",
+      "url": "https://forums.warframe.com/topic/549118-update-1780/",
+      "additions": "",
+      "changes": "The Martial Magnetism Mod is now called Martial Fury, and its effects now read: With a melee equipped attack speed increases 20% on hit for 3 seconds.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 17.0.3",
+      "date": "2015-08-04T22:21:45Z",
+      "url": "https://forums.warframe.com/topic/503583-hotfix-1703/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Glaive and Redeemer charge attacks not working if you had a Fury mod equipped as per: https://forums.warframe.com/index.php?/topic/501714-redeemer-first-swing-register-mistake/?p=5626134#entry5626134"
+    },
+    {
+      "name": "13.4.0: Serro + Psa!",
+      "date": "2014-05-21T22:18:51Z",
+      "url": "https://forums.warframe.com/topic/234889-1340-serro-psa/",
+      "additions": "",
+      "changes": "",
+      "fixes": "New Melee Combos have been added to Crossing Snakes, Seismic Palm, and Decisive Judgement Fracturing Wind, Seismic Palm, Homing Fang, Swirling Tiger, Grim Fury, Flailing Branch, and the Decisive Judgement Stance Mods! (rest maybe coming soon!)."
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "e1da4a799939b1bf925eab525e6eacc5": [
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "Gladiator Might (Melee) ",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "df57577126c71491e9fdf3ebc6459001": [
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "Gladiator Rush (Melee)",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "1b28f60d199589cd41e0d04039ccc694": [
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "Gladiator Vice (Melee) ",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "a53b51da30136a7da498fddc1972b0a9": [
+    {
+      "name": "Recurring Nightmares",
+      "date": "2016-10-27T19:03:48Z",
+      "url": "https://forums.warframe.com/topic/711418-recurring-nightmares/",
+      "imgUrl": "http://i.imgur.com/Oail8jd.jpg",
+      "additions": "",
+      "changes": "Gleaming Blight can now be equipped on the Rakta Dark Dagger. ",
+      "fixes": ""
+    },
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Dark Dagger: Gleaming Blight: adds 25% status chance",
+      "fixes": ""
+    }
+  ],
+  "9d6ddd25a6b0b877853128991ebf97a0": [
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "9f37685ddf867a315ba5a9ebf1d7ea8d": [
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "8c0ad216e1063e5e260b6cd2eef89f49": [
+    {
+      "name": "13.4.0: Serro + Psa!",
+      "date": "2014-05-21T22:18:51Z",
+      "url": "https://forums.warframe.com/topic/234889-1340-serro-psa/",
+      "additions": "",
+      "changes": "",
+      "fixes": "New Melee Combos have been added to Crossing Snakes, Seismic Palm, and Decisive Judgement Fracturing Wind, Seismic Palm, Homing Fang, Swirling Tiger, Grim Fury, Flailing Branch, and the Decisive Judgement Stance Mods! (rest maybe coming soon!)."
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "d2abe4a1720d9218f9b5ef7010d52a8c": [
+    {
+      "name": "Shrine of the Eidolon: Hotfix 22.14.1",
+      "date": "2018-03-01T21:50:39Z",
+      "url": "https://forums.warframe.com/topic/928419-shrine-of-the-eidolon-hotfix-22141/",
+      "additions": "",
+      "changes": "Updated Healing Return Mod to read: \"Healed by X for each status type affecting the target hit\".",
+      "fixes": ""
+    }
+  ],
+  "19744d69d05e50a8544b413bdca7d1e7": [
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an error allowing High Noon’s Final Showdown combo to loop indefinitely."
+    },
+    {
+      "name": "Hotfix 18.4.6",
+      "date": "2016-02-01T18:17:25Z",
+      "url": "https://forums.warframe.com/topic/603669-hotfix-1846/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with High Noon’s combos not properly completing."
+    },
+    {
+      "name": "Update 17.5: The Jordas Precept. + Hotfix 17.5.1",
+      "date": "2015-10-02T02:05:33Z",
+      "url": "https://forums.warframe.com/topic/536207-update-175-the-jordas-precept-hotfix-1751/",
+      "additions": "",
+      "changes": "High Noon ",
+      "fixes": ""
+    }
+  ],
+  "f0d1207e3e5ce30b100c564bd154e86b": [
+    {
+      "name": "13.4.0: Serro + Psa!",
+      "date": "2014-05-21T22:18:51Z",
+      "url": "https://forums.warframe.com/topic/234889-1340-serro-psa/",
+      "additions": "",
+      "changes": "",
+      "fixes": "New Melee Combos have been added to Crossing Snakes, Seismic Palm, and Decisive Judgement Fracturing Wind, Seismic Palm, Homing Fang, Swirling Tiger, Grim Fury, Flailing Branch, and the Decisive Judgement Stance Mods! (rest maybe coming soon!)."
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "ba95f767c89e7c5228d29c00eae089eb": [
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "814f0ab0b647f16982e08242cbb7dc92": [
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Dual Cleavers: Justice Blades: adds 25% melee damage",
+      "fixes": ""
+    }
+  ],
+  "667d60e058d057280f064869cb89db54": [
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Charge attacks have been removed and replaced with Combos.    All Charge Attack based mods have been repurposed to suit the new system. Affected mods:    Reflex Coil    Focus Energy    Killing Blow    Corrupt Charge    Second Wind",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "a4a9f1d75df7eef9044f7901483d6327": [
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Lasting Sting: Melee: Weapon Proc Time.",
+      "fixes": ""
+    }
+  ],
+  "22a31cb053116a48ec665469c8903c7d": [
+    {
+      "name": "Fortuna: Hotfix 24.1.5",
+      "date": "2018-12-13T16:57:31Z",
+      "url": "https://forums.warframe.com/topic/1043389-fortuna-hotfix-2415/",
+      "additions": "",
+      "changes": "Updated Life Strike, Focused Defense, and Corrupt Charge Mod descriptions to read better.",
+      "fixes": ""
+    },
+    {
+      "name": "The Index Preview: Hotfix #4",
+      "date": "2016-10-25T21:51:26Z",
+      "url": "https://forums.warframe.com/topic/710966-the-index-preview-hotfix-4/",
+      "imgUrl": "http://i.imgur.com/dYLoinT.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed (for real this time) attaining free health by channeling as enemies pass through the Caustacyst goo with Life Strike equipped. Also fixes similar issue with the Zenistar’s charge disc. "
+    },
+    {
+      "name": "The Index Preview: Hotfix #1",
+      "date": "2016-10-21T02:17:25Z",
+      "url": "https://forums.warframe.com/topic/709730-the-index-preview-hotfix-1/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed attaining free health by channeling as enemies pass through the Caustacyst goo with Life Strike equipped. Also fixes similar issue with the Zenistar. "
+    },
+    {
+      "name": "Hotfix 16.9.3",
+      "date": "2015-06-20T00:17:59Z",
+      "url": "https://forums.warframe.com/topic/477906-hotfix-1693/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Exalted Blade’s energy waves not getting a damage buff from Channeling or applying unique Mod effects (such as Life Strike)."
+    },
+    {
+      "name": "Hotfix 15.12.2",
+      "date": "2015-01-30T19:12:24Z",
+      "url": "https://forums.warframe.com/topic/393586-hotfix-15122/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed clients not receiving the proper amount of health from Life Strike as per:  https://forums.warframe.com/index.php?/topic/382775-lifestrike-not-working-properly-in-non-host-situations/"
+    }
+  ],
+  "fb14d3527d47621f160c9d3b360124f2": [
+    {
+      "name": "Update: Lunaro",
+      "date": "2016-06-15T23:58:19Z",
+      "url": "https://forums.warframe.com/topic/660347-update-lunaro/",
+      "imgUrl": "http://i.imgur.com/8pv5NTb.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed the Maiming Strike Mod not applying Critical Damage if your slide was cancelled right before you attacked the enemy. "
+    }
+  ],
+  "4c4fb7076a0e456865c488179015b4c6": [
+    {
+      "name": "Update 16.5: Tubemen Of Regor",
+      "date": "2015-05-12T17:09:40Z",
+      "url": "https://forums.warframe.com/topic/455995-update-165-tubemen-of-regor/",
+      "additions": "",
+      "changes": "Malicious Raptor and Four Riders stances enabled in PvP.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 13.9.1.1",
+      "date": "2014-07-03T22:45:36Z",
+      "url": "https://forums.warframe.com/topic/256615-hotfix-13911/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Malicious Raptor not being tradeable."
+    }
+  ],
+  "0e25263b5e7d837e5f6382829308e554": [
+    {
+      "name": "Update 15.13",
+      "date": "2015-02-05T21:08:01Z",
+      "url": "https://forums.warframe.com/topic/396379-update-1513/",
+      "additions": "",
+      "changes": "Updated the North Wind and Shocking Touch Mods to give up to 90% damage to match other elemental Mods.",
+      "fixes": ""
+    }
+  ],
+  "96837d1ed725d78893d74d709d126dda": [
+    {
+      "name": "Buried Debts: Update 24.5.0",
+      "date": "2019-03-14T21:06:12Z",
+      "url": "https://forums.warframe.com/topic/1070992-buried-debts-update-2450/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/5576015e88951a00ab3824307aea467a.jpg",
+      "additions": "",
+      "changes": "Fixed the Melee-only Parry becoming a toggle that you can't release until you attack for Clients.",
+      "fixes": ""
+    },
+    {
+      "name": "Buried Debts: Update 24.4.0",
+      "date": "2019-03-08T02:01:23Z",
+      "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/f07ee60119e2c8efc746da7ecf4cb49e.png",
+      "additions": "",
+      "changes": "Reflex Guard Mod has changed from 55% Auto Parry Chance to +100% Parry Angle.",
+      "fixes": "Fixed missing Nikana swipes not playing during a Parry Finisher."
+    },
+    {
+      "name": "Update 21: Chains of Harrow",
+      "date": "2017-06-29T03:00:20Z",
+      "url": "https://forums.warframe.com/topic/809842-update-21-chains-of-harrow/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/harrow/PriestSpear_1080p.jpg",
+      "additions": "",
+      "changes": "Smoothed out Stealth and Parry finisher animations. Enemies will no longer pop in front of you and instead will properly align your Warframe with the enemy during the animation.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 16.9.3",
+      "date": "2015-06-20T00:17:59Z",
+      "url": "https://forums.warframe.com/topic/477906-hotfix-1693/",
+      "additions": "",
+      "changes": "Reduced Stamina drain on Auto-Parry when using Exalted Blade.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 16.5.2",
+      "date": "2015-05-13T16:10:12Z",
+      "url": "https://forums.warframe.com/topic/456875-hotfix-1652/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Polearm weapons not being extended in the Codex or when in the Parry pose in the Arsenal."
+    },
+    {
+      "name": "Hotfix 14.10.3",
+      "date": "2014-10-15T22:05:49Z",
+      "url": "https://forums.warframe.com/topic/324763-hotfix-14103/",
+      "additions": "",
+      "changes": "Parry procs can now be triggered during Valkyr’s Hysteria.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 13.3.0: Pack Hunters",
+      "date": "2014-05-14T23:33:51Z",
+      "url": "https://forums.warframe.com/topic/231590-update-1330-pack-hunters/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Parry Finisher context actions appearing as 'Stealth Attack'."
+    },
+    {
+      "name": "Update 7.11.0: Vauban!",
+      "date": "2013-05-17T20:49:30Z",
+      "url": "https://forums.warframe.com/topic/45777-update-7110-vauban/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed ability to parry when glaive is in flight. Parrying only works when glaive is in melee mode."
+    },
+    {
+      "name": "Update 7.1 Hot-Fixes",
+      "date": "2013-03-19T20:36:49Z",
+      "url": "https://forums.warframe.com/topic/16058-update-71-hot-fixes/",
+      "additions": "",
+      "changes": "",
+      "fixes": "-Gamepad: Jump moved back to A (need Wallrun Toggle controls for this to work) / Crouch moved back to R3 (may move back to B later) / Parry moved to LB so you can hold it while keeping full move & look controls / Use moved to X & reload moved to B (until I can move it on X, shared with Use)\n-Fixe Power Use back to LB / Parry moved to Dpad Up (until I get a free face button) / Weapon Swap moved back to Y"
+    }
+  ],
+  "c0d0325f7618b836aff0df549b141db7": [
+    {
+      "name": "Hotfix 14.10.3",
+      "date": "2014-10-15T22:05:49Z",
+      "url": "https://forums.warframe.com/topic/324763-hotfix-14103/",
+      "additions": "",
+      "changes": "Increased default speed of Dagger attacks using the Pointed Wind stance.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "88001258d3f1de784cb566ed81bebfef": [
+    {
+      "name": "Beasts of the Sanctuary: Update 22.19.0",
+      "date": "2018-05-02T18:30:06Z",
+      "url": "https://forums.warframe.com/topic/952702-beasts-of-the-sanctuary-update-22190/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/8c27eabbd9bc9b5af2ba5944cd490302.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Thrown weapons equipped with Power Throw scaling with the range from Wukong’s Iron Vault Augment. "
+    },
+    {
+      "name": "Plains of Eidolon: Update 22.8.0 + Hotfix 22.8.0.1",
+      "date": "2017-12-21T18:48:35Z",
+      "url": "https://forums.warframe.com/topic/897989-plains-of-eidolon-update-2280-hotfix-22801/",
+      "imgUrl": "https://i.imgur.com/lSyLCJY.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed mods like Quick Return and Power Throw not applying when dual wielding a throwing melee weapon."
+    },
+    {
+      "name": "Update 18.9.0",
+      "date": "2016-04-20T21:39:18Z",
+      "url": "https://forums.warframe.com/topic/639851-update-1890/",
+      "imgUrl": "http://i.imgur.com/mY2Txwh.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed the Power Throw mod sound effect cancelling prematurely upon return."
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "The Power Throw Mod now gives additional speed to the projectile for each enemy hit.",
+      "fixes": ""
+    }
+  ],
+  "e4f90c2c83b376d3ae8408ee6961a6dd": [
+    {
+      "name": "Beasts of the Sanctuary: Update 22.20.0",
+      "date": "2018-05-17T14:55:31Z",
+      "url": "https://forums.warframe.com/topic/957066-beasts-of-the-sanctuary-update-22200/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/09cdfacb9f01a572c3205b5ccb861822.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed elemental Status Effects applying to Exodia Force. Only base Damage Mods (Pressure Point) are meant to apply."
+    },
+    {
+      "name": "Update 9: Vor's Revenge",
+      "date": "2013-07-13T01:52:41Z",
+      "url": "https://forums.warframe.com/topic/77575-update-9-vors-revenge/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Pressure Point mod buff (20% base)."
+    }
+  ],
+  "93c7dee53a8b4330880cb17a8af26960": [
+    {
+      "name": "Beasts of the Sanctuary: Update 22.20.0",
+      "date": "2018-05-17T14:55:31Z",
+      "url": "https://forums.warframe.com/topic/957066-beasts-of-the-sanctuary-update-22200/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/09cdfacb9f01a572c3205b5ccb861822.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed elemental Status Effects applying to Exodia Force. Only base Damage Mods (Pressure Point) are meant to apply."
+    },
+    {
+      "name": "Update 9: Vor's Revenge",
+      "date": "2013-07-13T01:52:41Z",
+      "url": "https://forums.warframe.com/topic/77575-update-9-vors-revenge/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Pressure Point mod buff (20% base)."
+    }
+  ],
+  "566552b18af7af7e84490fa74813b53f": [
+    {
+      "name": "Hotfix 19.0.3",
+      "date": "2016-11-14T23:41:18Z",
+      "url": "https://forums.warframe.com/topic/718965-hotfix-1903/",
+      "additions": "",
+      "changes": "Fixed Primed Fury missing from the Codex. ",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix: Lunaro 4",
+      "date": "2016-06-20T21:44:17Z",
+      "url": "https://forums.warframe.com/topic/662589-hotfix-lunaro-4/",
+      "additions": "",
+      "changes": "Login Reward Mods like Primed Fury are no longer tradeable. This is due to the nature of how the reward is obtained, and how as a result people may feel enticed to create multiple accounts. ",
+      "fixes": ""
+    }
+  ],
+  "375a5402ff72ffb5d642339de9d2f127": [
+    {
+      "name": "The Vacuum Within: Hotfix #3",
+      "date": "2016-10-13T18:16:13Z",
+      "url": "https://forums.warframe.com/topic/708168-the-vacuum-within-hotfix-3/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Zenistars charge disc range FX not increasing in size when equipping melee range Mods (i.e. Primed Reach)."
+    }
+  ],
+  "fdb76d9c886a751106c229ec7fc14919": [
+    {
+      "name": "Plains of Eidolon: Update 22.8.0 + Hotfix 22.8.0.1",
+      "date": "2017-12-21T18:48:35Z",
+      "url": "https://forums.warframe.com/topic/897989-plains-of-eidolon-update-2280-hotfix-22801/",
+      "imgUrl": "https://i.imgur.com/lSyLCJY.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed mods like Quick Return and Power Throw not applying when dual wielding a throwing melee weapon."
+    },
+    {
+      "name": "Update 10.3.0: Hump Day!",
+      "date": "2013-10-09T22:12:04Z",
+      "url": "https://forums.warframe.com/topic/117806-update-1030-hump-day/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed (switched) Glaive mod names of Quick Return and Rebound to match the function."
+    },
+    {
+      "name": "Hotfix 10.0.5 + Hotfix 10.0.6",
+      "date": "2013-09-18T21:17:09Z",
+      "url": "https://forums.warframe.com/topic/109386-hotfix-1005-hotfix-1006/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed names for Rebound and Quick Return mods being switched"
+    }
+  ],
+  "3f6d48233019b732e42c9bb1ea74fd79": [
+    {
+      "name": "Fortuna: Update 24.0",
+      "date": "2018-11-08T20:46:20Z",
+      "url": "https://forums.warframe.com/topic/1025679-fortuna-update-240/",
+      "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/images/promo/fortuna/info/hubheader.jpg",
+      "additions": "",
+      "changes": "Reach Venus!? Our veteran Tenno have had Venus unlocked for years ",
+      "fixes": ""
+    },
+    {
+      "name": "Mask of the Revenant: Update 23.8.0 + 23.8.0.1 + 23.8.0.2",
+      "date": "2018-09-12T18:41:12Z",
+      "url": "https://forums.warframe.com/topic/1008095-mask-of-the-revenant-update-2380-23801-23802/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/b04e5e955cbe351ab0be19dddf7b7b6a.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed inability to equip Sinister Reach on the Phantasma."
+    },
+    {
+      "name": "Mask of the Revenant: Update 23.7.0",
+      "date": "2018-09-06T17:30:18Z",
+      "url": "https://forums.warframe.com/topic/1006276-mask-of-the-revenant-update-2370/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/ef7f519d44905c4821dcdd186acbf339.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a soft lock when manually skipping the ‘Riven Capacity Reached’ message."
+    },
+    {
+      "name": "The Sacrifice: Update 23",
+      "date": "2018-06-15T00:51:48Z",
+      "url": "https://forums.warframe.com/topic/967249-the-sacrifice-update-23/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/53a0647e239997f245a6d957c7347b3e.png",
+      "additions": "",
+      "changes": "Removed the “Max Enemy Count Reached” message from Simulacrum enemy selector when first opening it and selecting enemies. It will now only appear when you attempt to spawn enemies and there isn't enough space. It will also no longer clear your previous selection when it happens to be over the limit when you first open it.",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Update 22.20.0",
+      "date": "2018-05-17T14:55:31Z",
+      "url": "https://forums.warframe.com/topic/957066-beasts-of-the-sanctuary-update-22200/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/09cdfacb9f01a572c3205b5ccb861822.jpg",
+      "additions": "",
+      "changes": "Changed the “Dead End” message that appears when viewing a Dojo expansion doorway upon hitting the room limit to say “Maximum Room Count Reached”.",
+      "fixes": ""
+    },
+    {
+      "name": "Shrine of the Eidolon: Update 22.14.0",
+      "date": "2018-03-01T18:20:15Z",
+      "url": "https://forums.warframe.com/topic/928296-shrine-of-the-eidolon-update-22140/",
+      "imgUrl": "http://n8k6e2y6.ssl.hwcdn.net/uploads/a2967118fd2ae8684ae1f8f6210e4529.jpg",
+      "additions": "",
+      "changes": "Weapon Range Mods (like Sinister Reach) no longer affect the distance of chains for chainable Beam weapons (like the Amprex). Main Beam distance is still affected by them.",
+      "fixes": ""
+    },
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "Augur Reach (Warframe) ",
+      "changes": "",
+      "fixes": ""
+    },
+    {
+      "name": "Banshee Prime: Hotfix 19.11.5 + 19.11.6",
+      "date": "2017-02-28T22:44:49Z",
+      "url": "https://forums.warframe.com/topic/767736-banshee-prime-hotfix-19115-19116/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Mag's Sapping Reach Augment in Conclave removing Energy from teammates (should only remove from enemies)."
+    },
+    {
+      "name": "The Vacuum Within: Hotfix #3",
+      "date": "2016-10-13T18:16:13Z",
+      "url": "https://forums.warframe.com/topic/708168-the-vacuum-within-hotfix-3/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Zenistars charge disc range FX not increasing in size when equipping melee range Mods (i.e. Primed Reach)."
+    },
+    {
+      "name": "Update: Specters of the Rail",
+      "date": "2016-07-08T14:12:48Z",
+      "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
+      "imgUrl": "http://i.imgur.com/YMVXfyw.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Reach hostile supply ships and destroy them before they escape. The more ships you destroy within the given time, the greater the reward."
+    },
+    {
+      "name": "Update 15.13",
+      "date": "2015-02-05T21:08:01Z",
+      "url": "https://forums.warframe.com/topic/396379-update-1513/",
+      "additions": "",
+      "changes": "Sinister Reach will now extend the Amprex’s chain lightning effect.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 15.9",
+      "date": "2015-01-08T21:39:10Z",
+      "url": "https://forums.warframe.com/topic/381637-update-159/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Sinister Reach Mod incorrectly saying it can be used on ‘any’ weapon, not just ‘primary’ weapons as per: https://forums.warframe.com/index.php?/topic/353996-sinister-reach-and-synoid-gammacor/"
+    },
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Sinister Reach: Rifle: Extend range on beam weapons.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 14.8.0: Nyx Prime",
+      "date": "2014-09-23T19:32:53Z",
+      "url": "https://forums.warframe.com/topic/314372-update-1480-nyx-prime/",
+      "additions": "",
+      "changes": "Reach into enemy consciousness and dominate with Nyx Prime, the newest addition to the ranks of elite Prime Warframes.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 7.8.0",
+      "date": "2013-04-19T21:13:26Z",
+      "url": "https://forums.warframe.com/topic/31722-update-780/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fix cases where Reach, Focus, and Continuity Mods were not affecting many Warframe abilities"
+    }
+  ],
+  "48f461f242450fc69a3fed0cf36a0134": [
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "3fe2094fb3d6db305d413aa2f4f57934": [
+    {
+      "name": "Update 10.3.0: Hump Day!",
+      "date": "2013-10-09T22:12:04Z",
+      "url": "https://forums.warframe.com/topic/117806-update-1030-hump-day/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed (switched) Glaive mod names of Quick Return and Rebound to match the function.\nFixed Glaive Rebound mod to have improved rebounding (must travel specified distance before auto-recall)"
+    },
+    {
+      "name": "Hotfix 10.0.5 + Hotfix 10.0.6",
+      "date": "2013-09-18T21:17:09Z",
+      "url": "https://forums.warframe.com/topic/109386-hotfix-1005-hotfix-1006/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed names for Rebound and Quick Return mods being switched"
+    }
+  ],
+  "579c6573cd90e63640698e5a8599586d": [
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Charge attacks have been removed and replaced with Combos.    All Charge Attack based mods have been repurposed to suit the new system. Affected mods:    Reflex Coil    Focus Energy    Killing Blow    Corrupt Charge    Second Wind",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "498e9ffeefacf3e608161bac23e027d4": [
+    {
+      "name": "The Silver Grove",
+      "date": "2016-08-19T17:32:55Z",
+      "url": "https://forums.warframe.com/topic/688644-the-silver-grove/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Rending Crane stance Mod having a text path for its default combo."
+    },
+    {
+      "name": "Update 13.5.0: Edo Armor & Nami Solo",
+      "date": "2014-05-28T23:05:58Z",
+      "url": "https://forums.warframe.com/topic/238069-update-1350-edo-armor-nami-solo/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Rending Crane: Rampaging Boar!"
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "f4377bfa57f75b7244e88d0d506c3f86": [
+    {
+      "name": "Recurring Nightmares",
+      "date": "2016-10-27T19:03:48Z",
+      "url": "https://forums.warframe.com/topic/711418-recurring-nightmares/",
+      "imgUrl": "http://i.imgur.com/Oail8jd.jpg",
+      "additions": "",
+      "changes": "Rending Strike",
+      "fixes": ""
+    }
+  ],
+  "2f26c343f2022a343f2089d2d83f5747": [
+    {
+      "name": "Update 18.11.0 & 18.11.1",
+      "date": "2016-05-11T20:30:34Z",
+      "url": "https://forums.warframe.com/topic/647209-update-18110-18111/",
+      "additions": "•    Added a minor burst FX to the Rift Strike mod.",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "26156f0b25e458875d5e6994e0c722c4": [
+    {
+      "name": "Update 13.5.0: Edo Armor & Nami Solo",
+      "date": "2014-05-28T23:05:58Z",
+      "url": "https://forums.warframe.com/topic/238069-update-1350-edo-armor-nami-solo/",
+      "additions": "",
+      "changes": "Fixed Seismic Palm and Fracturing Wind being erroneously labeled as \"Sparring\" which led to confusion on which weapons could use them. They are now labeled as “Fist” Stances.",
+      "fixes": ""
+    },
+    {
+      "name": "13.4.0: Serro + Psa!",
+      "date": "2014-05-21T22:18:51Z",
+      "url": "https://forums.warframe.com/topic/234889-1340-serro-psa/",
+      "additions": "",
+      "changes": "",
+      "fixes": "New Melee Combos have been added to Crossing Snakes, Seismic Palm, and Decisive Judgement Fracturing Wind, Seismic Palm, Homing Fang, Swirling Tiger, Grim Fury, Flailing Branch, and the Decisive Judgement Stance Mods! (rest maybe coming soon!)."
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "869ab2635d501aceaa97698e7a08b3ea": [
+    {
+      "name": "Fortuna: Hotfix 24.2.6",
+      "date": "2018-12-20T22:05:56Z",
+      "url": "https://forums.warframe.com/topic/1046637-fortuna-hotfix-2426/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Shattering Impact Mod breaking the Profit-Taker. Profit-Taker is now immune to Armor Reduction."
+    },
+    {
+      "name": "Hotfix 17.2.1",
+      "date": "2015-08-20T18:51:40Z",
+      "url": "https://forums.warframe.com/topic/514816-hotfix-1721/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Shattering Impact giving armor to enemies that have no base armor."
+    },
+    {
+      "name": "Hotfix 17.0.5",
+      "date": "2015-08-07T20:42:35Z",
+      "url": "https://forums.warframe.com/topic/505953-hotfix-1705/",
+      "additions": "",
+      "changes": "Altered the text of the Shattering Impact Mod to be in line with the other parkour Mods.",
+      "fixes": ""
+    }
+  ],
+  "fef0816a86e01c19aec4e6ab2023680e": [
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "cbd53860abf1020a4295e0d0adca36d6": [
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "e46390829a3c9780b87870b1625c3178": [
+    {
+      "name": "Update 15.13",
+      "date": "2015-02-05T21:08:01Z",
+      "url": "https://forums.warframe.com/topic/396379-update-1513/",
+      "additions": "",
+      "changes": "Updated the North Wind and Shocking Touch Mods to give up to 90% damage to match other elemental Mods.",
+      "fixes": ""
+    }
+  ],
+  "597114d528d64b950755cc9299c0075c": [
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "ee4971fe7819f0ab02b459a56071b989": [
+    {
+      "name": "Plains of Eidolon: Update 22.8.0 + Hotfix 22.8.0.1",
+      "date": "2017-12-21T18:48:35Z",
+      "url": "https://forums.warframe.com/topic/897989-plains-of-eidolon-update-2280-hotfix-22801/",
+      "imgUrl": "https://i.imgur.com/lSyLCJY.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fans: Slicing Feathers! Twirling acrobatic slashes with a refined touch!"
+    }
+  ],
+  "2f238f1cd6318def1af7d7dcc899938b": [
+    {
+      "name": "Update 11.3.0",
+      "date": "2013-12-12T03:08:07Z",
+      "url": "https://forums.warframe.com/topic/146580-update-1130/",
+      "additions": "",
+      "changes": "Conclave values added for Bane of Corpus, Bane of Grineer, Band of Infested, Expel Corpus, Expel Grineer, Expel Infested, Smite Corpus, Smite Grineer, Smite Infested",
+      "fixes": ""
+    }
+  ],
+  "1d882285081f3212d97a45b66654fee7": [
+    {
+      "name": "Update 11.3.0",
+      "date": "2013-12-12T03:08:07Z",
+      "url": "https://forums.warframe.com/topic/146580-update-1130/",
+      "additions": "",
+      "changes": "Conclave values added for Bane of Corpus, Bane of Grineer, Band of Infested, Expel Corpus, Expel Grineer, Expel Infested, Smite Corpus, Smite Grineer, Smite Infested",
+      "fixes": ""
+    }
+  ],
+  "2598a0deac5c3e46f783216dac0cc4e4": [
+    {
+      "name": "Update 11.3.0",
+      "date": "2013-12-12T03:08:07Z",
+      "url": "https://forums.warframe.com/topic/146580-update-1130/",
+      "additions": "",
+      "changes": "Conclave values added for Bane of Corpus, Bane of Grineer, Band of Infested, Expel Corpus, Expel Grineer, Expel Infested, Smite Corpus, Smite Grineer, Smite Infested",
+      "fixes": ""
+    }
+  ],
+  "d4e9e68dd0a94f142de00cad3150040b": [
+    {
+      "name": "The Glast Gambit: Hotfix 19.9.1",
+      "date": "2017-02-02T22:32:29Z",
+      "url": "https://forums.warframe.com/topic/757913-the-glast-gambit-hotfix-1991/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed first swing animation not playing for the Sovereign Outcast Tonfa (not Gunblade, lol) Stance Mod. "
+    },
+    {
+      "name": "The Glast Gambit: Update 19.9.0",
+      "date": "2017-02-01T21:04:20Z",
+      "url": "https://forums.warframe.com/topic/757465-the-glast-gambit-update-1990/",
+      "additions": "",
+      "changes": "Increased the first swing animation speed for the Sovereign Outcast Tonfa Stance Mod.",
+      "fixes": ""
+    }
+  ],
+  "3cc79d21473549e36a34c2ed10e34bdb": [
+    {
+      "name": "The Silver Grove",
+      "date": "2016-08-19T17:32:55Z",
+      "url": "https://forums.warframe.com/topic/688644-the-silver-grove/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed overlapping localization text on the Spinning Needle combo screen."
+    },
+    {
+      "name": "Specters of the Rail: Hotfix 1",
+      "date": "2016-07-08T21:33:56Z",
+      "url": "https://forums.warframe.com/topic/668573-specters-of-the-rail-hotfix-1/",
+      "additions": "",
+      "changes": "Okina now match polarity of Spinning Needle stance.",
+      "fixes": ""
+    },
+    {
+      "name": "Update: Specters of the Rail",
+      "date": "2016-07-08T14:12:48Z",
+      "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
+      "imgUrl": "http://i.imgur.com/YMVXfyw.jpg",
+      "additions": "",
+      "changes": "New Dual Dagger Stance: Spinning Needle",
+      "fixes": ""
+    }
+  ],
+  "204a0f3b39e5e605690a6ed597979775": [
+    {
+      "name": "Plains of Eidolon: Hotfix 22.1.2",
+      "date": "2017-10-30T21:36:20Z",
+      "url": "https://forums.warframe.com/topic/870250-plains-of-eidolon-hotfix-2212/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed chat-linking not working for the Kinetic Diversion, Target Acquired and Spring-Loaded Blade mods. "
+    }
+  ],
+  "f9c4e751f1d188ae25f0654f8c8521eb": [
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "32bb429b084ebb09f8fddfc471a084f4": [
+    {
+      "name": "The Glast Gambit: Hotfix 19.5.4",
+      "date": "2017-01-03T18:58:02Z",
+      "url": "https://forums.warframe.com/topic/744765-the-glast-gambit-hotfix-1954/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed very fast Volts not building up Static Discharge."
+    },
+    {
+      "name": "Update 19: The War Within",
+      "date": "2016-11-12T04:02:28Z",
+      "url": "https://forums.warframe.com/topic/715768-update-19-the-war-within/",
+      "imgUrl": "http://i.imgur.com/gCfJMUs.jpg",
+      "additions": "",
+      "changes": "Reduced the damage of the Static Discharge Mod due to the Prova dealing (at least) 5 ticks of damage during the charge attack.",
+      "fixes": ""
+    },
+    {
+      "name": "The Index Preview",
+      "date": "2016-10-20T23:28:18Z",
+      "url": "https://forums.warframe.com/topic/709665-the-index-preview/",
+      "imgUrl": "http://i.imgur.com/49dlyEz.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Static Discharge (Prova)"
+    },
+    {
+      "name": "Update: Specters of the Rail",
+      "date": "2016-07-08T14:12:48Z",
+      "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
+      "imgUrl": "http://i.imgur.com/YMVXfyw.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with Volt’s Passive, Static Discharge, not contributing additional Electricity damage to his Electric Shields."
+    }
+  ],
+  "f31d6f1f0eeba8dabeb8e0cd28ed5403": [
+    {
+      "name": "Plains of Eidolon: Hotfix 22.0.7",
+      "date": "2017-10-19T20:48:18Z",
+      "url": "https://forums.warframe.com/topic/862704-plains-of-eidolon-hotfix-2207/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Added Swooping Falcon, Carving Mantis, Twirling Spire and Stinging Thorn to the Codex."
+    }
+  ],
+  "622e43e38fa2d28f1bf310d839bce89b": [
+    {
+      "name": "Update 13.5.0: Edo Armor & Nami Solo",
+      "date": "2014-05-28T23:05:58Z",
+      "url": "https://forums.warframe.com/topic/238069-update-1350-edo-armor-nami-solo/",
+      "additions": "",
+      "changes": "",
+      "fixes": "New Combo for the Machete Weapons Sundering Weave Stance: Flash Flood!"
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "d88acf8219fb3a0a7717b44181fdc728": [
+    {
+      "name": "Update 19: The War Within",
+      "date": "2016-11-12T04:02:28Z",
+      "url": "https://forums.warframe.com/topic/715768-update-19-the-war-within/",
+      "imgUrl": "http://i.imgur.com/gCfJMUs.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed incorrect sheathing of the Dark Split-Sword when equipped with a Dual Sword Stance Mod (Crossing Snakes, Swirling Tiger, Dividing Blades). "
+    },
+    {
+      "name": "13.4.0: Serro + Psa!",
+      "date": "2014-05-21T22:18:51Z",
+      "url": "https://forums.warframe.com/topic/234889-1340-serro-psa/",
+      "additions": "",
+      "changes": "",
+      "fixes": "New Melee Combos have been added to Crossing Snakes, Seismic Palm, and Decisive Judgement Fracturing Wind, Seismic Palm, Homing Fang, Swirling Tiger, Grim Fury, Flailing Branch, and the Decisive Judgement Stance Mods! (rest maybe coming soon!)."
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "b865260205e3c3752e855c05315f6542": [
+    {
+      "name": "Plains of Eidolon: Hotfix 22.0.7",
+      "date": "2017-10-19T20:48:18Z",
+      "url": "https://forums.warframe.com/topic/862704-plains-of-eidolon-hotfix-2207/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Added Swooping Falcon, Carving Mantis, Twirling Spire and Stinging Thorn to the Codex."
+    }
+  ],
+  "5dba233cb996b251c3b364fc6164a4e5": [
+    {
+      "name": "Fortuna: Hotfix 24.0.10",
+      "date": "2018-11-21T21:38:12Z",
+      "url": "https://forums.warframe.com/topic/1035481-fortuna-hotfix-24010/",
+      "additions": "",
+      "changes": "Revised the Tek Gravity Mod description to read ‘Slam Attacks in the Marked Zone pull all enemies within X|m’ to better match the Mods functionality.",
+      "fixes": ""
+    }
+  ],
+  "207bdab9c1f331ab4c5aeaf4a554679a": [
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Tempo Royale stance re-enabled and all other available stances have had their damage/status effects adjusted in PvP.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 16.8.3",
+      "date": "2015-06-12T19:25:15Z",
+      "url": "https://forums.warframe.com/topic/474057-hotfix-1683/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed two Tempo Royale Mod entries appearing in the Codex."
+    },
+    {
+      "name": "Update 16.5: Tubemen Of Regor",
+      "date": "2015-05-12T17:09:40Z",
+      "url": "https://forums.warframe.com/topic/455995-update-165-tubemen-of-regor/",
+      "additions": "",
+      "changes": "Tempo Royale stance has been temporarily removed from PvP.",
+      "fixes": ""
+    }
+  ],
+  "c7a00953cee5dd9e95ee292ac91c76c2": [
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Mire: Toxic Blight: adds 25% extra poison damage",
+      "fixes": ""
+    }
+  ],
+  "d8939944a50ac830edb1e509bc56183a": [
+    {
+      "name": "Update 17.4.5",
+      "date": "2015-09-23T22:02:55Z",
+      "url": "https://forums.warframe.com/topic/532623-update-1745/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Tranquil Cleave not properly having a stun/stagger component in the Breathless Lunge combo branch."
+    },
+    {
+      "name": "Update 14: The Mad Cephalon",
+      "date": "2014-07-18T09:44:52Z",
+      "url": "https://forums.warframe.com/topic/263213-update-14-the-mad-cephalon/",
+      "additions": "",
+      "changes": "Changes to mod art: Decisive Judgement and Tranquil Cleave used the same image, now they don’t!",
+      "fixes": ""
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "6ee663ee22aedcd21ef74b9d9934c44a": [
+    {
+      "name": "Mask of the Revenant: Hotfix 23.9.1",
+      "date": "2018-09-27T17:23:26Z",
+      "url": "https://forums.warframe.com/topic/1012649-mask-of-the-revenant-hotfix-2391/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the True Punishment Mod missing its description."
+    }
+  ],
+  "599d5673c6ce47c183aecee9153aa789": [
+    {
+      "name": "Update 9: Vor's Revenge",
+      "date": "2013-07-13T01:52:41Z",
+      "url": "https://forums.warframe.com/topic/77575-update-9-vors-revenge/",
+      "additions": "",
+      "changes": "",
+      "fixes": "True Steel mod buff (doubled)."
+    }
+  ],
+  "169d342edf5bc56290523b6350c157e2": [
+    {
+      "name": "Plains of Eidolon: Update 22.1.0",
+      "date": "2017-10-25T20:57:43Z",
+      "url": "https://forums.warframe.com/topic/867056-plains-of-eidolon-update-2210/",
+      "additions": "",
+      "changes": "Increased the damage of Spiraling Pinnacle, Summit Plunge and Vaulting Apex combos from the Twirling Spire Polearm Stance.",
+      "fixes": ""
+    },
+    {
+      "name": "Plains of Eidolon: Hotfix 22.0.7",
+      "date": "2017-10-19T20:48:18Z",
+      "url": "https://forums.warframe.com/topic/862704-plains-of-eidolon-hotfix-2207/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Added Swooping Falcon, Carving Mantis, Twirling Spire and Stinging Thorn to the Codex."
+    }
+  ],
+  "68fe0d77667633084a73e3d376fa4e62": [
+    {
+      "name": "Update 18: The Second Dream",
+      "date": "2015-12-03T23:46:40Z",
+      "url": "https://forums.warframe.com/topic/568455-update-18-the-second-dream/",
+      "additions": "",
+      "changes": "",
+      "fixes": "New Single-Sword Stance: Vengeful Revenant! Hate... Dread... Despair…!"
+    }
+  ],
+  "511ec06a45bb450c64887cd99e1a45c1": [
+    {
+      "name": "Update: Specters of the Rail",
+      "date": "2016-07-08T14:12:48Z",
+      "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
+      "imgUrl": "http://i.imgur.com/YMVXfyw.jpg",
+      "additions": "",
+      "changes": "Increased the drop rate of Vermillion Storm.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 15.5.2",
+      "date": "2014-11-27T23:47:52Z",
+      "url": "https://forums.warframe.com/topic/353312-hotfix-1552/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Removed unreleased/unfinished mods from the Codex (Vermillion Storm/Astral Twilight)."
+    }
+  ],
+  "a3dff75a80d765e88a28cbda8752bea4": [
+    {
+      "name": "The Sacrifice: Update 23.2.0",
+      "date": "2018-08-02T15:02:26Z",
+      "url": "https://forums.warframe.com/topic/991847-the-sacrifice-update-2320/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/0101f9fd2313734f1f72031130a1d0cd.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed equipping Vicious Frost on the Orvius reducing the Cold Damage instead of increasing. "
+    },
+    {
+      "name": "Hotfix 14.5.2",
+      "date": "2014-09-03T22:31:56Z",
+      "url": "https://forums.warframe.com/topic/303889-hotfix-1452/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Renamed the \"Cold Touch\" mod to \"Vicious Frost\"."
+    }
+  ],
+  "a1033c0d0dda4de076400d5096ad9387": [
+    {
+      "name": "Hotfix 17.5.5",
+      "date": "2015-10-05T22:15:15Z",
+      "url": "https://forums.warframe.com/topic/539640-hotfix-1755/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Virulent Scourge Mod dropping fully-ranked and in packs of 10 from Project Undermine Missions."
+    }
+  ],
+  "0f6a50ec62091c0584389a43a512f554": [
+    {
+      "name": "Hotfix 19.0.3",
+      "date": "2016-11-14T23:41:18Z",
+      "url": "https://forums.warframe.com/topic/718965-hotfix-1903/",
+      "additions": "",
+      "changes": "Fixed missing link to Tethra's Doom mods in the codex (was preventing Jolt and Voltaic Strike from showing up in the codex).",
+      "fixes": ""
+    }
+  ],
+  "27504874fc1ca4255303afc01e64b6c0": [
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.7",
+      "date": "2018-05-30T19:03:25Z",
+      "url": "https://forums.warframe.com/topic/961879-beasts-of-the-sanctuary-hotfix-22207/",
+      "additions": "GPU particles has been added to unique weapon Mod death FX like Acid Shells, Thermagnetic Shells, Vulcan Blitz, etc.",
+      "changes": "",
+      "fixes": ""
+    },
+    {
+      "name": "The War Within: Hotfix 19.3.2 + 19.3.2.1",
+      "date": "2016-12-13T19:17:37Z",
+      "url": "https://forums.warframe.com/topic/734004-the-war-within-hotfix-1932-19321/",
+      "additions": "",
+      "changes": "Explosions on enemy death caused by Vulcan Blitz and Acid Shells mods will now properly alert enemies.",
+      "fixes": ""
+    }
+  ],
+  "f41131dfc0af810fb8f99ac5cdf2f498": [
+    {
+      "name": "Chains of Harrow: Hotfix 21.0.1",
+      "date": "2017-06-29T07:16:32Z",
+      "url": "https://forums.warframe.com/topic/809985-chains-of-harrow-hotfix-2101/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Vulpine Mask being invisible in your Inventory and Codex (you still had it but the UI wouldn't show it to you)."
+    },
+    {
+      "name": "Hotfix 18.3.1 + 18.3.1.1",
+      "date": "2016-01-14T22:50:51Z",
+      "url": "https://forums.warframe.com/topic/594795-hotfix-1831-18311/",
+      "additions": "",
+      "changes": "Corpus Comba and Scrambus enemies can now drop the Vulpine Mask Stance Mod.",
+      "fixes": "Fixed Vulpine Mask incorrectly dropping from Jackal."
+    },
+    {
+      "name": "Update 18.3",
+      "date": "2016-01-13T22:55:58Z",
+      "url": "https://forums.warframe.com/topic/594267-update-183/",
+      "additions": "",
+      "changes": "Vulpine Mask: Swift cuts, lancing strikes.",
+      "fixes": ""
+    }
+  ],
+  "4ec8031bda3b98965ba3f9951b7e2d14": [
+    {
+      "name": "Hotfix 18.4.13",
+      "date": "2016-02-22T22:44:37Z",
+      "url": "https://forums.warframe.com/topic/612235-hotfix-18413/",
+      "imgUrl": "http://i.imgur.com/ZtBrjRp.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Weeping Wounds Mod not properly increasing based on the player’s melee combo multiplier."
+    }
+  ],
+  "130e05635de966596fef6d6278ae830a": [
+    {
+      "name": "Oberon Prime: Hotfix 20.6.2",
+      "date": "2017-05-30T18:11:50Z",
+      "url": "https://forums.warframe.com/topic/801884-oberon-prime-hotfix-2062/",
+      "imgUrl": "http://i.imgur.com/Nf6tprV.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Banshee’s Silent stopping the Conculyst Whirlwind attack, rendering the Sentient invincible. "
+    },
+    {
+      "name": "The Silver Grove: Hotfix 2",
+      "date": "2016-08-22T22:32:21Z",
+      "url": "https://forums.warframe.com/topic/690677-the-silver-grove-hotfix-2/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Whirlwind not appearing as an option for thrown weapons."
+    },
+    {
+      "name": "Update 18.2.0",
+      "date": "2016-01-05T18:24:20Z",
+      "url": "https://forums.warframe.com/topic/590253-update-1820/",
+      "additions": "",
+      "changes": "The following Mods have been added to Teshin’s offerings for purchase at the Whirlwind Rank:",
+      "fixes": ""
+    },
+    {
+      "name": "Update 13.5.0: Edo Armor & Nami Solo",
+      "date": "2014-05-28T23:05:58Z",
+      "url": "https://forums.warframe.com/topic/238069-update-1350-edo-armor-nami-solo/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Cleaving Whirlwind: Sundered Tusk and Drifting Stampede!"
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "Katana 1:    Tranquil CleaveSword 1:    Iron PhoenixSword 2:    Crimson DervishDual Sword 1:    Crossing SnakesDual Sword 2:    Swirling TigerScythe 1:    Reaping SpiralScythe 2:    Stalking FanFist 1:    Seismic PalmFist 2:    Fracturing WindHands&Feet 1:    Grim FuryHands&Feet 2:   Brutal TideStaff 1:    Clashing ForestStaff 2:    Flailing BranchGlaive 1:    Gleaming TalonPolearm 1:    Shimmering BlightPolearm 2:    Bleeding WillowWhip 1:    Burning WaspWhip 2:    Coiling ViperDagger 1:    Homing FangDagger 2:    Pointed WindDual Dagger 1:    Gnashing PayaraDual Dagger 2:    Sinking TalonAxe/Heavy Sword 1:    Cleaving WhirlwindAxe/Heavy Sword 2:    Rending CraneHammer 1:    Shattering StormHammer 2:    Crushing RuinMachete 1:    Sundering Weave",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "7ecab64f21f1dc822e39deea966218af": [
+    {
+      "name": "Buried Debts: Update 24.5.0",
+      "date": "2019-03-14T21:06:12Z",
+      "url": "https://forums.warframe.com/topic/1070992-buried-debts-update-2450/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/5576015e88951a00ab3824307aea467a.jpg",
+      "additions": "",
+      "changes": "Fixes towards the Wise Razor Stance giving unintended extreme velocity. Comical yes, but clearly an oversight of gravity!",
+      "fixes": ""
+    }
+  ]
+}

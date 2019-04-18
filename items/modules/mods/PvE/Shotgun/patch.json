@@ -1,0 +1,391 @@
+{
+  "c7e8f6bdf2a6e537c5aa9e0c3248c6b6": [
+    {
+      "name": "Recurring Nightmares",
+      "date": "2016-10-27T19:03:48Z",
+      "url": "https://forums.warframe.com/topic/711418-recurring-nightmares/",
+      "imgUrl": "http://i.imgur.com/Oail8jd.jpg",
+      "additions": "",
+      "changes": "Accelerated Blast",
+      "fixes": ""
+    }
+  ],
+  "ce59f8e0d020c46f245950547a7de116": [
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.7",
+      "date": "2018-05-30T19:03:25Z",
+      "url": "https://forums.warframe.com/topic/961879-beasts-of-the-sanctuary-hotfix-22207/",
+      "additions": "GPU particles has been added to unique weapon Mod death FX like Acid Shells, Thermagnetic Shells, Vulcan Blitz, etc.",
+      "changes": "",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Update 22.20.0",
+      "date": "2018-05-17T14:55:31Z",
+      "url": "https://forums.warframe.com/topic/957066-beasts-of-the-sanctuary-update-22200/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/09cdfacb9f01a572c3205b5ccb861822.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Acid Shells Mod causing Grineer Dropships to disappear. "
+    },
+    {
+      "name": "Chains of Harrow: Update 21.4.0",
+      "date": "2017-08-10T17:26:21Z",
+      "url": "https://forums.warframe.com/topic/829596-chains-of-harrow-update-2140/",
+      "imgUrl": "http://i.imgur.com/insXTUT.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed PhysX effects from Acid Shells not working on certain enemies. "
+    },
+    {
+      "name": "Octavia’s Anthem: Hotfix 20.2.3",
+      "date": "2017-04-19T22:08:42Z",
+      "url": "https://forums.warframe.com/topic/788574-octavia%E2%80%99s-anthem-hotfix-2023/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Infested Runners/Crawlers missing the Acid Shells FX when killed"
+    },
+    {
+      "name": "The Glast Gambit: Hotfix 19.9.2 (Phase One: DB Upgrades)",
+      "date": "2017-02-07T13:58:54Z",
+      "url": "https://forums.warframe.com/topic/759911-the-glast-gambit-hotfix-1992-phase-one-db-upgrades/",
+      "additions": "",
+      "changes": "",
+      "fixes": "-Fixed missing enemy death FX when using Sobex with Acid Shells as per:"
+    },
+    {
+      "name": "The War Within: Hotfix 19.3.2 + 19.3.2.1",
+      "date": "2016-12-13T19:17:37Z",
+      "url": "https://forums.warframe.com/topic/734004-the-war-within-hotfix-1932-19321/",
+      "additions": "",
+      "changes": "Explosions on enemy death caused by Vulcan Blitz and Acid Shells mods will now properly alert enemies.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 18.10.6",
+      "date": "2016-05-06T21:23:23Z",
+      "url": "https://forums.warframe.com/topic/645736-hotfix-18106/",
+      "additions": "",
+      "changes": "•    Changed the Acid Shells and Fomorian Accelerant mod to a Madurai polarity. ",
+      "fixes": ""
+    }
+  ],
+  "8953267ae5af8d71782740af58ff2d14": [
+    {
+      "name": "Fortuna: Hotfix 24.2.15",
+      "date": "2019-02-15T15:25:12Z",
+      "url": "https://forums.warframe.com/topic/1061972-fortuna-hotfix-24215/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Trail Blazer K-Drive Mod not functioning."
+    },
+    {
+      "name": "Fortuna: Hotfix 24.0.9",
+      "date": "2018-11-21T14:01:56Z",
+      "url": "https://forums.warframe.com/topic/1035270-fortuna-hotfix-2409/",
+      "additions": "",
+      "changes": "Changed the Trail Blazer and Air Time K-Drive Mod images to address https://www.reddit.com/r/Warframe/comments/9ydj6l/de_fix_this_please_other_frames_will_envy_ivara/",
+      "fixes": ""
+    },
+    {
+      "name": "Recurring Nightmares",
+      "date": "2016-10-27T19:03:48Z",
+      "url": "https://forums.warframe.com/topic/711418-recurring-nightmares/",
+      "imgUrl": "http://i.imgur.com/Oail8jd.jpg",
+      "additions": "",
+      "changes": "Blaze",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 14.7.4",
+      "date": "2014-09-19T21:06:34Z",
+      "url": "https://forums.warframe.com/topic/312574-hotfix-1474/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed buffs not being applied correctly to weapons with damage falloff (i.e. Shotguns). Fixes amount of damage dealt at the extent of the weapon's range. Before, damage dealt at maximum falloff range was not considering Mods like Blaze and Point Blank. After, it will now consider these mod buffs in the damage value at maximum falloff range. "
+    }
+  ],
+  "c8ae4fb53fe10b24e3c48117b578569f": [
+    {
+      "name": "Update 15.8.0",
+      "date": "2014-12-19T23:27:57Z",
+      "url": "https://forums.warframe.com/topic/369665-update-1580/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Breach Loader Mod showing an incorrect description in the Arsenal."
+    }
+  ],
+  "59682a5cbc7adb760144c8ef01143b58": [
+    {
+      "name": "Update 16.7",
+      "date": "2015-06-04T21:14:52Z",
+      "url": "https://forums.warframe.com/topic/469825-update-167/",
+      "additions": "",
+      "changes": "The following mods have been disabled in PvP: Magazine Warp, Slip Magazine, Burdened Magazine, Stabilizer, Steady Hands, Fast Hands, Quick Draw, Tactical Pump and Terminal Velocity. They have been replaced with PvP specific versions that have been added to the Mission Rewards of all PvP game types.",
+      "fixes": ""
+    }
+  ],
+  "8b84489f7be3036d317fd9a49b717dd1": [
+    {
+      "name": "Fortuna: Hotfix 24.1.2 + 24.1.2.1",
+      "date": "2018-11-29T19:46:27Z",
+      "url": "https://forums.warframe.com/topic/1038856-fortuna-hotfix-2412-24121/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Chilling Reload, Streamlined Form, and Drifting Contact missing from Alerts. "
+    },
+    {
+      "name": "Recurring Nightmares",
+      "date": "2016-10-27T19:03:48Z",
+      "url": "https://forums.warframe.com/topic/711418-recurring-nightmares/",
+      "imgUrl": "http://i.imgur.com/Oail8jd.jpg",
+      "additions": "",
+      "changes": "Chilling Reload (Shotgun):  Increases Cold Damage and Reload Speed!\nChilling Reload (new!)",
+      "fixes": ""
+    }
+  ],
+  "a7231e7339a03264a605f5dfe3b2b7ec": [
+    {
+      "name": "Update 15.7.2 + 15.7.2.1",
+      "date": "2014-12-19T18:09:43Z",
+      "url": "https://forums.warframe.com/topic/369418-update-1572-15721/",
+      "additions": "",
+      "changes": "Reduced negative penalty on Tainted Shell and Critical Deceleration’s fire rate adjustment to avoid purely negative fire rates on shotgun weapons.",
+      "fixes": ""
+    },
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Critical Deceleration: Shotgun: Increased crit chance, but decreased fire rate.",
+      "fixes": ""
+    }
+  ],
+  "2c9cd04f83ef6293443a85e046cd0203": [
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.1",
+      "date": "2018-05-17T16:36:59Z",
+      "url": "https://forums.warframe.com/topic/957126-beasts-of-the-sanctuary-hotfix-22201/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed crashing when attempting to play the Fomorian mission and a squad member is missing the required Fomorian Disruptor in their Gear."
+    },
+    {
+      "name": "The Vacuum Within: Hotfix #3",
+      "date": "2016-10-13T18:16:13Z",
+      "url": "https://forums.warframe.com/topic/708168-the-vacuum-within-hotfix-3/",
+      "additions": "Added the Disruptor Drone to the Codex.",
+      "changes": "",
+      "fixes": ""
+    },
+    {
+      "name": "Update: Specters of the Rail",
+      "date": "2016-07-08T14:12:48Z",
+      "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
+      "imgUrl": "http://i.imgur.com/YMVXfyw.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Disruptor Drones in the Law of Retribution not blocking damage in a consistent manner.\nFixed destroying multiple Disruptor Drone bubbles in the Law of Retribution being difficult due to stacking on top of each other.\nFixed an issue with Disruptor Drones in the Law of Retribution not properly registering hitscan weapon fire."
+    },
+    {
+      "name": "Update 18.3",
+      "date": "2016-01-13T22:55:58Z",
+      "url": "https://forums.warframe.com/topic/594267-update-183/",
+      "additions": "",
+      "changes": "Fixed projectile weapons being unable to kill Disruptor Drones when inside Nullifier bubbles.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 15.8.0",
+      "date": "2014-12-19T23:27:57Z",
+      "url": "https://forums.warframe.com/topic/369665-update-1580/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Intelligence reports state that the Balor Fomorian’s power core emits a thick energy field composed of deadly omega radiation. In order to break through the field you will need to craft this Fomorian Disruptor. It will allow you to safely approach the core and when activated it will temporarily disrupt the core allowing you to inflict damage.\nTake note Tenno, the Disruptor is forged using recently discovered Omega Isotopes. These are a by-product of a Fomorian’s core and will only appear in and around planets with a Fomorian present.\nFomorian Vessels will intermittently appear in the Solar System as event nodes. These event nodes will be locked until you have the Fomorian Disruptor in your Consumable Inventory.\nYou will receive a Blueprint from the Lotus for the Fomorian Disruptor. It will require Nano Spores, Cryotic, and Omega Isotopes to craft.\nBuild your Disruptor in the Foundry and equip it in your Gear Menu to start the Fomorian Sabotage Mission.\nThe Fomorian’s internal Shield Generators are protected by a magnetic field. Use your Fomorian Disruptor from the Gear menu to disrupt the magnetic field, and temporarily expose the Shield Generators, allowing you to destroy them.\nYour Fomorian Disruptor will be consumed after completing the Fomorian Sabotage mission.\nLeaderboards are available for players that want to compete for the best score during Fomorian Sabotage Missions. Your individual score is determined by the amount of damage dealt to the Fomorian Power Core during a single run. The highest scores can only be achieved by squads with coordinated deployment of Fomorian Disruptors, and efficient attacks on the Power Cores."
+    },
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Changed Ancient Disruptors from having a forced magnetic proc on hit to only be a 10% chance.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 14: The Mad Cephalon",
+      "date": "2014-07-18T09:44:52Z",
+      "url": "https://forums.warframe.com/topic/263213-update-14-the-mad-cephalon/",
+      "additions": "",
+      "changes": "Disruptor Ancients ",
+      "fixes": ""
+    },
+    {
+      "name": "Update 5.3 - \"Blazing Embers\"",
+      "date": "2013-01-10T20:15:06Z",
+      "url": "https://forums.warframe.com/topic/2803-update-53-blazing-embers/",
+      "additions": "",
+      "changes": "Infested Disruptor color effects toned down.",
+      "fixes": ""
+    }
+  ],
+  "da88a9d7548ae33991aa31cfa5f72ef8": [
+    {
+      "name": "Oberon Prime: Update 20.7.0",
+      "date": "2017-06-07T19:08:59Z",
+      "url": "https://forums.warframe.com/topic/804548-oberon-prime-update-2070/",
+      "imgUrl": "http://i.imgur.com/nXgSS3H.jpg",
+      "additions": "",
+      "changes": "Changed Fatal Acceleration to allow fitting on all Shotguns since trace-hit shotguns have their falloff altered by projectile speed Mods (this was already happening from Riven drawbacks).",
+      "fixes": ""
+    },
+    {
+      "name": "Update: Specters of the Rail",
+      "date": "2016-07-08T14:12:48Z",
+      "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
+      "imgUrl": "http://i.imgur.com/YMVXfyw.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Fatal Acceleration Mod being usable on Kohm since it was changed to Hitscan a while ago, the Mod had no affect."
+    },
+    {
+      "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
+      "date": "2016-05-27T21:20:29Z",
+      "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
+      "imgUrl": "http://i.imgur.com/1JPOZC1.png",
+      "additions": "",
+      "changes": "•    Changed the Fatal Acceleration Mod to display a Drakgoon instead of a Tigris.",
+      "fixes": ""
+    },
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Fatal Acceleration: Shotgun: Weapon Projectile Speed.",
+      "fixes": ""
+    }
+  ],
+  "50d9b9b6d6b6313ac4e67214fd9242f2": [
+    {
+      "name": "Hotfix 18.10.6",
+      "date": "2016-05-06T21:23:23Z",
+      "url": "https://forums.warframe.com/topic/645736-hotfix-18106/",
+      "additions": "",
+      "changes": "•    Changed the Acid Shells and Fomorian Accelerant mod to a Madurai polarity. ",
+      "fixes": ""
+    }
+  ],
+  "8afe1064084e179fdeb1f68e69f88b36": [
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Frail Momentum: Shotgun: Increased fire rate, but decreased damage.",
+      "fixes": ""
+    }
+  ],
+  "795fcb3da4317e8b96059d58803f20a3": [
+    {
+      "name": "Warframe: Archwing",
+      "date": "2014-10-24T12:52:08Z",
+      "url": "https://forums.warframe.com/topic/328727-warframe-archwing/",
+      "additions": "",
+      "changes": "Lingering Torment: Shotgun: Weapon Proc Time.",
+      "fixes": ""
+    }
+  ],
+  "52bebdbed36cab4237029bdff8de1ed9": [
+    {
+      "name": "Hotfix 14.7.4",
+      "date": "2014-09-19T21:06:34Z",
+      "url": "https://forums.warframe.com/topic/312574-hotfix-1474/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed buffs not being applied correctly to weapons with damage falloff (i.e. Shotguns). Fixes amount of damage dealt at the extent of the weapon's range. Before, damage dealt at maximum falloff range was not considering Mods like Blaze and Point Blank. After, it will now consider these mod buffs in the damage value at maximum falloff range. "
+    }
+  ],
+  "dbefb607a8e7c9403ffbc6ae619ae693": [
+    {
+      "name": "Update 17.8.0",
+      "date": "2015-10-21T21:58:23Z",
+      "url": "https://forums.warframe.com/topic/549118-update-1780/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Primed Ravage not working properly for Clients "
+    }
+  ],
+  "108868c8e536b805bf5c7475d95b6ed0": [
+    {
+      "name": "Update 17.8.0",
+      "date": "2015-10-21T21:58:23Z",
+      "url": "https://forums.warframe.com/topic/549118-update-1780/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Primed Ravage not working properly for Clients "
+    }
+  ],
+  "c9eef0efb6034a4b5e02cf8d00598fff": [
+    {
+      "name": "The Glast Gambit: Hotfix 19.8.1",
+      "date": "2017-01-27T17:06:00Z",
+      "url": "https://forums.warframe.com/topic/755337-the-glast-gambit-hotfix-1981/",
+      "imgUrl": "http://i.imgur.com/h4dCI6y.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Argon Scope, Hydraulic Crosshairs and Repeater Clip not using proper HUD buff icon."
+    }
+  ],
+  "3c6bb8208fb409e29b439518f9698b19": [
+    {
+      "name": "Hotfix 9.2.0",
+      "date": "2013-07-19T21:09:23Z",
+      "url": "https://forums.warframe.com/topic/83114-hotfix-920/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Seeker and Seeking Force mods so that their puncture amount increases with each level, instead of every other level."
+    }
+  ],
+  "5448c10f74a6ea31e4f25f7c3982c1b7": [
+    {
+      "name": "Recurring Nightmares",
+      "date": "2016-10-27T19:03:48Z",
+      "url": "https://forums.warframe.com/topic/711418-recurring-nightmares/",
+      "imgUrl": "http://i.imgur.com/Oail8jd.jpg",
+      "additions": "",
+      "changes": "Seeking Fury",
+      "fixes": ""
+    }
+  ],
+  "890bba3c09229c61ea23ae7300ada8c9": [
+    {
+      "name": "Update 14.7.0: Operation Gate Crash!",
+      "date": "2014-09-18T03:51:15Z",
+      "url": "https://forums.warframe.com/topic/311669-update-1470-operation-gate-crash/",
+      "additions": "",
+      "changes": "",
+      "fixes": "10 Exposure points: Set of 4 Mods – Buzz Kill, Fanged Fusillade, Sweeping Serration and Maim"
+    }
+  ],
+  "e902dcc3da0f5352dd7106138865f2ad": [
+    {
+      "name": "Update 16.7",
+      "date": "2015-06-04T21:14:52Z",
+      "url": "https://forums.warframe.com/topic/469825-update-167/",
+      "additions": "",
+      "changes": "The following mods have been disabled in PvP: Magazine Warp, Slip Magazine, Burdened Magazine, Stabilizer, Steady Hands, Fast Hands, Quick Draw, Tactical Pump and Terminal Velocity. They have been replaced with PvP specific versions that have been added to the Mission Rewards of all PvP game types.",
+      "fixes": ""
+    }
+  ],
+  "71bff9920eda7d8ae9a04693dbfe032d": [
+    {
+      "name": "Update 15.7.2 + 15.7.2.1",
+      "date": "2014-12-19T18:09:43Z",
+      "url": "https://forums.warframe.com/topic/369418-update-1572-15721/",
+      "additions": "",
+      "changes": "Reduced negative penalty on Tainted Shell and Critical Deceleration’s fire rate adjustment to avoid purely negative fire rates on shotgun weapons.",
+      "fixes": ""
+    }
+  ]
+}

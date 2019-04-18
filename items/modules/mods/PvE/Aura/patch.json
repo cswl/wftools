@@ -1,0 +1,515 @@
+{
+  "74e23d48e7a922ee0c2bd29467335c6d": [
+    {
+      "name": "Buried Debts: Update 24.4.0",
+      "date": "2019-03-08T02:01:23Z",
+      "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/f07ee60119e2c8efc746da7ecf4cb49e.png",
+      "additions": "",
+      "changes": "All Orbs in the Orb Vallis are now immune to the effects of Corrosive Projection.",
+      "fixes": ""
+    },
+    {
+      "name": "Mask of the Revenant: Hotfix 23.7.1",
+      "date": "2018-09-06T20:46:57Z",
+      "url": "https://forums.warframe.com/topic/1006342-mask-of-the-revenant-hotfix-2371/",
+      "additions": "",
+      "changes": "Improved squad info dropdown to better fit long Warframe names (Trinity Prime, etc) and long Aura names (Corrosive Projection, etc). ",
+      "fixes": ""
+    },
+    {
+      "name": "Mask of the Revenant: Update 23.7.0",
+      "date": "2018-09-06T17:30:18Z",
+      "url": "https://forums.warframe.com/topic/1006276-mask-of-the-revenant-update-2370/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/ef7f519d44905c4821dcdd186acbf339.jpg",
+      "additions": "",
+      "changes": "We’re aware and working on improved line breaking for longer text Auras like Corrosive Projection, etc.",
+      "fixes": ""
+    },
+    {
+      "name": "Octavia's Anthem: Hotfix 20.5.2",
+      "date": "2017-05-18T21:01:22Z",
+      "url": "https://forums.warframe.com/topic/798353-octavias-anthem-hotfix-2052/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Sharpened Claws Kavat Mod giving Armor removed by 4 Corrosive Projections back to enemies. Bad kitty!"
+    },
+    {
+      "name": "Octavia's Anthem: Update 20",
+      "date": "2017-03-24T19:46:02Z",
+      "url": "https://forums.warframe.com/topic/776642-octavias-anthem-update-20/",
+      "imgUrl": "http://i.imgur.com/h14igRz.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Hyena Pack being immune to the Corrosive Projection Aura."
+    },
+    {
+      "name": "Hotfix 15.5.5",
+      "date": "2014-12-01T23:09:22Z",
+      "url": "https://forums.warframe.com/topic/356440-hotfix-1555/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Infested Swarm Armor buff overriding player’s Corrosive Projection Aura."
+    }
+  ],
+  "8a6bddb71611ef4c285cce8b0daf8c6e": [
+    {
+      "name": "Octavia’s Anthem: Update 20.4.0",
+      "date": "2017-05-04T13:58:50Z",
+      "url": "https://forums.warframe.com/topic/793570-octavia%E2%80%99s-anthem-update-2040/",
+      "additions": "",
+      "changes": "Dead Eye has gone from 35% to 52.5% at Max Rank.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 14.9.0",
+      "date": "2014-10-01T21:39:21Z",
+      "url": "https://forums.warframe.com/topic/318500-update-1490/",
+      "additions": "",
+      "changes": "Changed the Dead Eye Aura mod. Dead Eye is restricted to snipers and now offers a maximum of 35% damage increase.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 13.5.0: Edo Armor & Nami Solo",
+      "date": "2014-05-28T23:05:58Z",
+      "url": "https://forums.warframe.com/topic/238069-update-1350-edo-armor-nami-solo/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Added a Codex entry for Dead Eye."
+    }
+  ],
+  "df96eb13a76367242d6e6c3b307d2f05": [
+    {
+      "name": "The War Within: Hotfix 19.3.2 + 19.3.2.1",
+      "date": "2016-12-13T19:17:37Z",
+      "url": "https://forums.warframe.com/topic/734004-the-war-within-hotfix-1932-19321/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Growing Power and Empowered Blades no longer working after using a Focus ability. Should also fix it not working in the Simulacrum if you have it equipped and then open the Arsenal."
+    }
+  ],
+  "706e908fd0036c7c636296bb44b2b7a3": [
+    {
+      "name": "Fortuna: Hotfix 24.2.8",
+      "date": "2019-01-15T14:46:54Z",
+      "url": "https://forums.warframe.com/topic/1054314-fortuna-hotfix-2428/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Enemy Radar Mod not showing Pobbers, Bolarolas, and Sawgaws on the minimap."
+    },
+    {
+      "name": "The War Within: Hotfix 19.3.2 + 19.3.2.1",
+      "date": "2016-12-13T19:17:37Z",
+      "url": "https://forums.warframe.com/topic/734004-the-war-within-hotfix-1932-19321/",
+      "additions": "",
+      "changes": "Hid Rathuum Broadcasters from Enemy Radar to avoid confusion.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.5: The Jordas Precept. + Hotfix 17.5.1",
+      "date": "2015-10-02T02:05:33Z",
+      "url": "https://forums.warframe.com/topic/536207-update-175-the-jordas-precept-hotfix-1751/",
+      "additions": "",
+      "changes": "Tumor nodes will now display on your minimap with the Enemy Radar Mod equipped.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 15.13",
+      "date": "2015-02-05T21:08:01Z",
+      "url": "https://forums.warframe.com/topic/396379-update-1513/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed some enemy types not appearing on the minimap for clients, or showing up as enemies of the player that has the Enemy Radar Aura equipped."
+    },
+    {
+      "name": "Update 14.5: Operation Cryotic Front!",
+      "date": "2014-08-28T13:39:34Z",
+      "url": "https://forums.warframe.com/topic/298960-update-145-operation-cryotic-front/",
+      "additions": "",
+      "changes": "• Banshee's Sonar, and the Enemy Radar/Sense mods ignore security cameras and turrets.",
+      "fixes": ""
+    }
+  ],
+  "43dbb2166d80dc3b8723f759ba10eff1": [
+    {
+      "name": "Update 5.3 - \"Blazing Embers\"",
+      "date": "2013-01-10T20:15:06Z",
+      "url": "https://forums.warframe.com/topic/2803-update-53-blazing-embers/",
+      "additions": "",
+      "changes": "Balancing changed for Energy Siphon cards, Mods with shield, energy, and health bonuses will be additive for more sane stacking.",
+      "fixes": ""
+    }
+  ],
+  "05c8e3dd062f3dd28e0f2ee8b997a538": [
+    {
+      "name": "The Sacrifice: Hotfix 23.0.4",
+      "date": "2018-06-20T20:44:05Z",
+      "url": "https://forums.warframe.com/topic/971991-the-sacrifice-hotfix-2304/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/c5dd4ebc5b1faa20f190bc9a65787557.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Artax not functioning with Growing Power."
+    },
+    {
+      "name": "Beasts of the Sanctuary: Update 22.19.0",
+      "date": "2018-05-02T18:30:06Z",
+      "url": "https://forums.warframe.com/topic/952702-beasts-of-the-sanctuary-update-22190/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/8c27eabbd9bc9b5af2ba5944cd490302.jpg",
+      "additions": "",
+      "changes": "A buff icon for Toxic Lash is now displayed so you can see the bonus (ie: after Growing Power, Energy Conversion, and other temporary power-strength buffs are applied).",
+      "fixes": ""
+    },
+    {
+      "name": "Hydroid Prime: Update 21.6.0",
+      "date": "2017-08-29T17:55:46Z",
+      "url": "https://forums.warframe.com/topic/836927-hydroid-prime-update-2160/",
+      "imgUrl": "http://n8k6e2y6.ssl.hwcdn.net/uploads/098afb7883e26718f1dfbc26fe1de1c3.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Growing Power scaling indefinitely for Clients as per: https://forums.warframe.com/topic/833798-growing-power-scales-infinitely/"
+    },
+    {
+      "name": "The War Within: Hotfix 19.3.2 + 19.3.2.1",
+      "date": "2016-12-13T19:17:37Z",
+      "url": "https://forums.warframe.com/topic/734004-the-war-within-hotfix-1932-19321/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Growing Power and Empowered Blades no longer working after using a Focus ability. Should also fix it not working in the Simulacrum if you have it equipped and then open the Arsenal."
+    },
+    {
+      "name": "Hotfix 19.0.5",
+      "date": "2016-11-18T16:09:29Z",
+      "url": "https://forums.warframe.com/topic/721283-hotfix-1905/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Growing Power Aura not applying for Clients."
+    }
+  ],
+  "db829ae8c716a7dae5ca26c621da88f4": [
+    {
+      "name": "Update 13.8.0: Breeding Grounds",
+      "date": "2014-06-19T21:24:56Z",
+      "url": "https://forums.warframe.com/topic/249133-update-1380-breeding-grounds/",
+      "additions": "",
+      "changes": "Infested Impedance Aura mod has been changed to be a radial affect around the player instead of the whole map indiscriminately.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 11.5.6",
+      "date": "2014-01-02T20:58:19Z",
+      "url": "https://forums.warframe.com/topic/158190-hotfix-1156/",
+      "additions": "",
+      "changes": "Changed Infested Impedance Aura to reduce speed by only 3%/level to prevent squads of four from stopping all Infested completely (now a maximized team should reduce infested speed by 72%).",
+      "fixes": ""
+    }
+  ],
+  "a66c1d6e95d1aefe1fbda757b161b581": [
+    {
+      "name": "Update 19: The War Within",
+      "date": "2016-11-12T04:02:28Z",
+      "url": "https://forums.warframe.com/topic/715768-update-19-the-war-within/",
+      "imgUrl": "http://i.imgur.com/gCfJMUs.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a low glow effect on the Loot Detector Mod."
+    },
+    {
+      "name": "The Silver Grove: Hotfix 2",
+      "date": "2016-08-22T22:32:21Z",
+      "url": "https://forums.warframe.com/topic/690677-the-silver-grove-hotfix-2/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Loot Detector’s glow effect being too dim for Mods."
+    }
+  ],
+  "33074e2bda5b655ca17fae7437bd5680": [
+    {
+      "name": "Fortuna: Hotfix 24.2.10",
+      "date": "2019-01-23T20:08:15Z",
+      "url": "https://forums.warframe.com/topic/1056534-fortuna-hotfix-24210/",
+      "additions": "",
+      "changes": "Increased the Physique Aura Mod from providing +18% Health to +90% Health (at max rank).",
+      "fixes": ""
+    },
+    {
+      "name": "Update 19.13.0",
+      "date": "2017-03-09T20:40:48Z",
+      "url": "https://forums.warframe.com/topic/771036-update-19130/",
+      "imgUrl": "http://i.imgur.com/PDgOqJ8.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Physique Aura applying inconsistent Health values to each squadmate. "
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed weapon attachments in the Arsenal not displaying ‘Physique’ under Appearance when viewing Bows."
+    },
+    {
+      "name": "Warframe: Sanctuary",
+      "date": "2015-03-20T02:21:54Z",
+      "url": "https://forums.warframe.com/topic/420448-warframe-sanctuary/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Attachments options in the Arsenal / Appearance overlapping the Physique menu."
+    },
+    {
+      "name": "Hotfix 14.0.9",
+      "date": "2014-07-26T01:03:34Z",
+      "url": "https://forums.warframe.com/topic/273702-hotfix-1409/",
+      "additions": "",
+      "changes": "Fixed the appearance submenu in Arsenal having an extra top \"Physique\" title and bottom line in the middle of its elements when selecting certain melee weapons that have both a skin slot and an attachments submenu.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 12: Zephyr Rises",
+      "date": "2014-02-06T03:19:59Z",
+      "url": "https://forums.warframe.com/topic/172913-update-12-zephyr-rises/",
+      "additions": "",
+      "changes": "Physique Aura rebalanced (+3% Health per level)",
+      "fixes": ""
+    },
+    {
+      "name": "Update 7.4 Hot-Fixes",
+      "date": "2013-03-27T14:34:25Z",
+      "url": "https://forums.warframe.com/topic/18910-update-74-hot-fixes/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Physique Artifact Card not bestowing increased max health on Host"
+    }
+  ],
+  "fa5b0fd72cee750a94beae7df2dedd07": [
+    {
+      "name": "The Silver Grove: U2.1 + U2.2",
+      "date": "2016-09-16T18:18:07Z",
+      "url": "https://forums.warframe.com/topic/699953-the-silver-grove-u21-u22/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Pistol Amp Aura Mod not amping Mesa’s Peacemaker."
+    },
+    {
+      "name": "The Silver Grove: U2",
+      "date": "2016-09-15T21:31:02Z",
+      "url": "https://forums.warframe.com/topic/699623-the-silver-grove-u2/",
+      "imgUrl": "http://i.imgur.com/VXWS19k.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Pistol Amp Aura Mod not increasing pistol weapon damage."
+    }
+  ],
+  "af24002c1a8c07aa160dd33eaa591eae": [
+    {
+      "name": "Chimera: Hotfix 23.10.6",
+      "date": "2018-10-18T20:38:32Z",
+      "url": "https://forums.warframe.com/topic/1019814-chimera-hotfix-23106/",
+      "additions": "",
+      "changes": "Updated terminology for the Power Donation Mod to read \"Ability Strength\" instead of \"Power Strength.\"",
+      "fixes": ""
+    },
+    {
+      "name": "Chimera: Hotfix 23.10.3",
+      "date": "2018-10-15T21:13:13Z",
+      "url": "https://forums.warframe.com/topic/1018682-chimera-hotfix-23103/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue where Power Donation could allow for true <0% Power Strength scenarios. "
+    }
+  ],
+  "bc09d2983b694ad5f4876174289f1876": [
+    {
+      "name": "Hotfix 13.1.2",
+      "date": "2014-04-25T23:07:07Z",
+      "url": "https://forums.warframe.com/topic/222026-hotfix-1312/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with the Rejuvenation Aura mod not healing Sentinel health.   "
+    },
+    {
+      "name": "Update 12: Zephyr Rises",
+      "date": "2014-02-06T03:19:59Z",
+      "url": "https://forums.warframe.com/topic/172913-update-12-zephyr-rises/",
+      "additions": "",
+      "changes": "Rejuvenation Aura rebalanced (+.5% Heal Rate per level).",
+      "fixes": ""
+    }
+  ],
+  "9fa0577a6762febe774c3d88672206e9": [
+    {
+      "name": "Update 19.13.0",
+      "date": "2017-03-09T20:40:48Z",
+      "url": "https://forums.warframe.com/topic/771036-update-19130/",
+      "imgUrl": "http://i.imgur.com/PDgOqJ8.jpg",
+      "additions": "",
+      "changes": "Rifle Amp and Shotgun Amp Auras now apply to Titania’s Dex Pixia weapons.",
+      "fixes": ""
+    },
+    {
+      "name": "The Silver Grove: Hotfix 3 (Nekros Prime!)",
+      "date": "2016-08-23T17:55:58Z",
+      "url": "https://forums.warframe.com/topic/691098-the-silver-grove-hotfix-3-nekros-prime%C2%A0/",
+      "imgUrl": "http://i.imgur.com/9J9iZM1.jpg",
+      "additions": "",
+      "changes": "Buffed the Shotgun Amp Aura Mod to feel more comparable to Rifle Amp. It is now 18% at Max Rank.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 9.1.1",
+      "date": "2013-07-15T22:29:07Z",
+      "url": "https://forums.warframe.com/topic/80292-hotfix-911/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fix for Rifle Amp Aura stacking. A word from the designer: Rifle Amp, 45% damage buff stacking was too much, reduced to 27& (4.5% base).This was a typo on my part."
+    }
+  ],
+  "4128f881632239e8af5c77e831f59fae": [
+    {
+      "name": "Fortuna: Hotfix 24.2.9 + 24.2.9.1",
+      "date": "2019-01-18T14:16:39Z",
+      "url": "https://forums.warframe.com/topic/1055092-fortuna-hotfix-2429-24291/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Oberon's Hallowed Ground one shotting enemies whose Shields have been removed via the Shield Disruption Aura in the Index. "
+    },
+    {
+      "name": "Fortuna: Hotfix 24.2.5",
+      "date": "2018-12-20T00:45:07Z",
+      "url": "https://forums.warframe.com/topic/1046112-fortuna-hotfix-2425/",
+      "additions": "",
+      "changes": "Profit-Taker is no longer affected by the Shield Disruption Aura.",
+      "fixes": ""
+    }
+  ],
+  "55e3a71f254b38098ba40674e7da6e54": [
+    {
+      "name": "Update 19.13.0",
+      "date": "2017-03-09T20:40:48Z",
+      "url": "https://forums.warframe.com/topic/771036-update-19130/",
+      "imgUrl": "http://i.imgur.com/PDgOqJ8.jpg",
+      "additions": "",
+      "changes": "Rifle Amp and Shotgun Amp Auras now apply to Titania’s Dex Pixia weapons.",
+      "fixes": ""
+    },
+    {
+      "name": "The Silver Grove: Hotfix 3 (Nekros Prime!)",
+      "date": "2016-08-23T17:55:58Z",
+      "url": "https://forums.warframe.com/topic/691098-the-silver-grove-hotfix-3-nekros-prime%C2%A0/",
+      "imgUrl": "http://i.imgur.com/9J9iZM1.jpg",
+      "additions": "",
+      "changes": "Buffed the Shotgun Amp Aura Mod to feel more comparable to Rifle Amp. It is now 18% at Max Rank.",
+      "fixes": ""
+    }
+  ],
+  "fe701f05571a01becf8968060cc4238f": [
+    {
+      "name": "Hotfix 13.6.1",
+      "date": "2014-06-06T19:33:18Z",
+      "url": "https://forums.warframe.com/topic/242306-hotfix-1361/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with the Shotgun Scavenger mod providing ammo bonuses for non-shell type ammunitions."
+    }
+  ],
+  "a0f6934ad565600986331e96502cc60d": [
+    {
+      "name": "Octavia’s Anthem: Update 20.4.0",
+      "date": "2017-05-04T13:58:50Z",
+      "url": "https://forums.warframe.com/topic/793570-octavia%E2%80%99s-anthem-update-2040/",
+      "additions": "",
+      "changes": "Speed Holster has gone from 80% to 120% at Max Rank.",
+      "fixes": ""
+    }
+  ],
+  "540d717e6ec358eeb672e368ecc766a6": [
+    {
+      "name": "Plains of Eidolon: Update 22.2.0",
+      "date": "2017-11-01T20:54:33Z",
+      "url": "https://forums.warframe.com/topic/871334-plains-of-eidolon-update-2220/",
+      "imgUrl": "http://n8k6e2y6.ssl.hwcdn.net/uploads/870fc6132845341787e8278ae6ae7156.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Sprint Boost Mod description not displaying % Sprint Speed."
+    },
+    {
+      "name": "Octavia’s Anthem: Update 20.4.0",
+      "date": "2017-05-04T13:58:50Z",
+      "url": "https://forums.warframe.com/topic/793570-octavia%E2%80%99s-anthem-update-2040/",
+      "additions": "",
+      "changes": "Sprint Boost Aura has gone from 10% to 15% at Max Rank. ",
+      "fixes": ""
+    },
+    {
+      "name": "Update 12: Zephyr Rises",
+      "date": "2014-02-06T03:19:59Z",
+      "url": "https://forums.warframe.com/topic/172913-update-12-zephyr-rises/",
+      "additions": "",
+      "changes": "Sprint Boost Aura Rebalanced and re-released into Alert System.  (+2.5% per level, 10% overall).",
+      "fixes": ""
+    }
+  ],
+  "5db48777c1d9ae627557055fb57f855d": [
+    {
+      "name": "The War Within: Hotfix 19.3.1",
+      "date": "2016-12-07T23:58:24Z",
+      "url": "https://forums.warframe.com/topic/731292-the-war-within-hotfix-1931/",
+      "additions": "Added proper localization to Stand United, Precision Munition, Thundermiter, Draining Gloom and Heartseeker Mods.",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "28e4a4ba39dc05ef50ecb69812f3e66d": [
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue where the Steel Charge Aura had a duplicate stat in the description."
+    },
+    {
+      "name": "Hotfix 16.11.5",
+      "date": "2015-07-15T19:56:44Z",
+      "url": "https://forums.warframe.com/topic/490942-hotfix-16115/",
+      "additions": "",
+      "changes": "Ash’s Blade Storm is now affected by the Steel Charge Aura Mod.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 12.2.0: Castanas!",
+      "date": "2014-02-19T22:24:33Z",
+      "url": "https://forums.warframe.com/topic/182229-update-1220-castanas/",
+      "additions": "",
+      "changes": "Steel Charge Aura changed from 10 rank Aura mod to 5 rank Auramod, see further information here: https://forums.warframe.com/index.php?/topic/182094-steel-charge-update/",
+      "fixes": ""
+    },
+    {
+      "name": "Update 12: Zephyr Rises",
+      "date": "2014-02-06T03:19:59Z",
+      "url": "https://forums.warframe.com/topic/172913-update-12-zephyr-rises/",
+      "additions": "",
+      "changes": "Steel Charge Aura rebalanced (+5% Damage per level).",
+      "fixes": ""
+    }
+  ],
+  "2a0395e82020f97a8b86f8940545e3f8": [
+    {
+      "name": "Chains of Harrow: Update 21.3.0",
+      "date": "2017-08-02T21:28:54Z",
+      "url": "https://forums.warframe.com/topic/826127-chains-of-harrow-update-2130/",
+      "imgUrl": "http://i.imgur.com/ge1PMGU.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Toxin Resistance Mod not being tradable. "
+    },
+    {
+      "name": "Chains of Harrow: Hotfix 21.0.6",
+      "date": "2017-07-07T20:46:48Z",
+      "url": "https://forums.warframe.com/topic/814223-chains-of-harrow-hotfix-2106/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Toxin Resistance's description (added % for clarity)."
+    }
+  ]
+}

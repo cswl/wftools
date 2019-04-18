@@ -1,0 +1,13 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBSprintSpeedMod",
+  "name": "Nitro Boost",
+  "polarity": "Naramon",
+  "rarity": "Rare",
+  "baseDrain": 4,
+  "fusionLimit": 5,
+  "description": "+5% K-Drive Boost Speed",
+  "type": "---",
+  "imageName": "nitro-boost.jpeg",
+  "tradable": true,
+  "hash": "66ddb04749f56c156f008629f5561d9f"
+}

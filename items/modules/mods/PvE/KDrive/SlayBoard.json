@@ -1,0 +1,13 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBSlayBoardMod",
+  "name": "Slay Board",
+  "polarity": "Madurai",
+  "rarity": "Uncommon",
+  "baseDrain": 4,
+  "fusionLimit": 3,
+  "description": "On Directional Dismount:,Board is launched, dealing 50 Damage while slicing enemies.",
+  "type": "---",
+  "imageName": "slay-board.jpeg",
+  "tradable": true,
+  "hash": "8368f0d7ee44f5bf752e6b21e815ca47"
+}

@@ -1,0 +1,272 @@
+{
+  "eaa9ae7571527d86142ed7e5b947d297": [
+    {
+      "location": "Battalyst",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0764
+    },
+    {
+      "location": "Decaying Battalyst",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0764
+    }
+  ],
+  "f9cfbbcf23df6389ed6c2d251a7668ef": [
+    {
+      "location": "Conculyst",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.004169999999999999
+    },
+    {
+      "location": "Decaying Conculyst",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.004169999999999999
+    }
+  ],
+  "bad921907badb0197598994e1dc124f4": [
+    {
+      "location": "Saturn - Lunaro",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Team",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Team",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Annihilation",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "A"
+    },
+    {
+      "location": "Saturn - Annihilation",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Lunaro",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Capture"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Capture"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Annihilation"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Neptune - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    }
+  ],
+  "475fd9912160a690e1a2ab268297831f": [
+    {
+      "location": "Saturn - Lunaro",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Team",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Team",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Annihilation",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "A"
+    },
+    {
+      "location": "Saturn - Annihilation",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Lunaro",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Capture"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Capture"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Annihilation"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Neptune - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    }
+  ],
+  "c6b48f38d0cab061ce6bf9e893444c0f": [
+    {
+      "location": "Battalyst",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.004175
+    },
+    {
+      "location": "Decaying Battalyst",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.004175
+    }
+  ],
+  "dca5e6585ccf13a7e36d055af2083a7e": [
+    {
+      "location": "Conculyst",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.02292
+    },
+    {
+      "location": "Decaying Conculyst",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.02292
+    }
+  ],
+  "a18628ddbcb6136ff410716e5a15939a": [
+    {
+      "location": "Conculyst",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.02292
+    },
+    {
+      "location": "Decaying Conculyst",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.02292
+    }
+  ]
+}

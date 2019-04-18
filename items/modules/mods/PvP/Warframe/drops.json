@@ -1,0 +1,602 @@
+{
+  "f8f03be7f7b59f272a30807fdf65ee00": [
+    {
+      "location": "Saturn - Lunaro",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Team",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Team",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Annihilation",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "A"
+    },
+    {
+      "location": "Saturn - Annihilation",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Lunaro",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Capture"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Capture"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Annihilation"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Neptune - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    }
+  ],
+  "1831ea05f59ff76758eaa02befb8ea8c": [
+    {
+      "location": "Saturn - Lunaro",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Team",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Team",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Annihilation",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "A"
+    },
+    {
+      "location": "Saturn - Annihilation",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Lunaro",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Capture"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Capture"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Annihilation"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Neptune - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    }
+  ],
+  "be65560d2b24ef5907705cee127b98ba": [
+    {
+      "location": "Saturn - Lunaro",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Team",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Team",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Annihilation",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "A"
+    },
+    {
+      "location": "Saturn - Annihilation",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Lunaro",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Capture"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Capture"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Annihilation"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Neptune - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    }
+  ],
+  "cd894c9b84dbe43d334900fadded1535": [
+    {
+      "location": "Saturn - Lunaro",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Team",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Team",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Annihilation",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "A"
+    },
+    {
+      "location": "Saturn - Annihilation",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Lunaro",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Capture"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Capture"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Annihilation"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Neptune - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    }
+  ],
+  "86740c0b270076e824c90567c085208e": [
+    {
+      "location": "Saturn - Lunaro",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Team",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Team",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Annihilation",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "A"
+    },
+    {
+      "location": "Saturn - Annihilation",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Lunaro",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Capture"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Capture"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Annihilation"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Neptune - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    }
+  ],
+  "8232f7c749c38b2da8352d02bb6da15e": [
+    {
+      "location": "Saturn - Lunaro",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Team",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Team",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Annihilation",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "A"
+    },
+    {
+      "location": "Saturn - Annihilation",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Lunaro",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Capture"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Capture"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "Annihilation"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    },
+    {
+      "location": "Saturn - Variant",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "(Extra)"
+    },
+    {
+      "location": "Neptune - Cephalon",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0248,
+      "rotation": "rewards"
+    }
+  ]
+}

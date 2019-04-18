@@ -1,0 +1,13 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBGrindSpeedMod",
+  "name": "Rail Guards",
+  "polarity": "Naramon",
+  "rarity": "Common",
+  "baseDrain": 4,
+  "fusionLimit": 5,
+  "description": "+5% K-Drive Grind Speed",
+  "type": "---",
+  "imageName": "rail-guards.jpeg",
+  "tradable": true,
+  "hash": "4249c74401224f83944d49ba0acdda91"
+}

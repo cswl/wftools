@@ -1,0 +1,13 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBGrindStaticMod",
+  "name": "Kinetic Friction",
+  "polarity": "Madurai",
+  "rarity": "Uncommon",
+  "baseDrain": 4,
+  "fusionLimit": 3,
+  "description": "Grinding builds up a charge that is released when landing the trick, dealing 50 <DT_ELECTRICITY>Electricity Damage to enemies within 1m.",
+  "type": "---",
+  "imageName": "kinetic-friction.jpeg",
+  "tradable": true,
+  "hash": "1947fb91b752596e4885b4750ead2f1b"
+}

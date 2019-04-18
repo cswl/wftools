@@ -1,0 +1,13 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBPointsMultiplierMod",
+  "name": "Inertia Dampeners",
+  "polarity": "Naramon",
+  "rarity": "Uncommon",
+  "baseDrain": 6,
+  "fusionLimit": 3,
+  "description": "+1 Point Multiplier to Trick Score",
+  "type": "---",
+  "imageName": "inertia-dampeners.jpeg",
+  "tradable": true,
+  "hash": "b596061471816da9d051e2fc7d1a205b"
+}

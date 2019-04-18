@@ -1,0 +1,1656 @@
+{
+  "abea9ffa55135366c2222314a26b28ed": [
+    {
+      "location": "Bounty Completion",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1714
+    }
+  ],
+  "2342638c17a939309f2f8a1dbc9adb53": [
+    {
+      "location": "Bounty Completion",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.0125
+    }
+  ],
+  "c86408e511290b5012d270e38a3fc3c2": [
+    {
+      "location": "Courier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.11381999999999998
+    },
+    {
+      "location": "Uranus - Caelus",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "B"
+    },
+    {
+      "location": "Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.01897
+    },
+    {
+      "location": "Dreg",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Mutalist Toxic Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Attack Mutalist",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Mutalist Lightning Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    }
+  ],
+  "e4de4400c78ef04285cfbfebb6eb273e": [
+    {
+      "location": "Phobos - Kepler",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0752,
+      "rotation": "C"
+    },
+    {
+      "location": "Earth - Erpo",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    },
+    {
+      "location": "Jupiter - Galilea",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    },
+    {
+      "location": "Neptune - Salacia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    },
+    {
+      "location": "Europa - Gamygyn",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    }
+  ],
+  "72fe3e937470224504a779ef0fe3dd07": [
+    {
+      "location": "Mercury - Caduceus",
+      "type": "Mission Rewards",
+      "rarity": "Common",
+      "chance": 0.3872
+    },
+    {
+      "location": "Venus - Montes",
+      "type": "Mission Rewards",
+      "rarity": "Common",
+      "chance": 0.3872
+    },
+    {
+      "location": "Mars - Syrtis",
+      "type": "Mission Rewards",
+      "rarity": "Common",
+      "chance": 0.3872
+    },
+    {
+      "location": "Uranus - Caelus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.025099999999999997,
+      "rotation": "A"
+    },
+    {
+      "location": "Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001005
+    }
+  ],
+  "d393b6123972847403f0273e1b9eda76": [
+    {
+      "location": "Shield Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001692
+    }
+  ],
+  "c1f5a949331c142559e8ba3dfd8ea067": [
+    {
+      "location": "Phobos - Kepler",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Pandora",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0316
+    },
+    {
+      "location": "Shield-Hellion Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.014740000000000001
+    }
+  ],
+  "283debb6aeae2f21c65c9eeec351e324": [
+    {
+      "location": "Uranus - Caelus",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "B"
+    },
+    {
+      "location": "Shield-Hellion Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.07588
+    },
+    {
+      "location": "Turret",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007743
+    },
+    {
+      "location": "Cannon Battery",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007743
+    },
+    {
+      "location": "Tusk Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Tusk Shield Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "K-Drive",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    }
+  ],
+  "b9a246b899c763473ea3c5a082aa9091": [
+    {
+      "location": "Fomorian Sabotage",
+      "type": "Transient Rewards",
+      "rarity": "Rare",
+      "chance": 0.05
+    },
+    {
+      "location": "Profit-Taker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0256
+    }
+  ],
+  "ec46c87f11af659fbfa8ceb8206dba44": [
+    {
+      "location": "Uranus - Caelus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.025099999999999997,
+      "rotation": "A"
+    },
+    {
+      "location": "Dreg",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Mutalist Toxic Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Attack Mutalist",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    },
+    {
+      "location": "Mutalist Lightning Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003318
+    }
+  ],
+  "6b35c7839aadea0757354f7bd1e47452": [
+    {
+      "location": "Earth - Erpo",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    },
+    {
+      "location": "Jupiter - Galilea",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    },
+    {
+      "location": "Neptune - Salacia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    },
+    {
+      "location": "Europa - Gamygyn",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    }
+  ],
+  "5c55728d149331dd53fc1ff7d0b87486": [
+    {
+      "location": "Fomorian Sabotage",
+      "type": "Transient Rewards",
+      "rarity": "Rare",
+      "chance": 0.05
+    },
+    {
+      "location": "Profit-Taker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0256
+    }
+  ],
+  "d2b5918fcf01ad4166120688cf4719ef": [
+    {
+      "location": "Bounty Completion",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.0143
+    }
+  ],
+  "2f041c0325450499c96b4bee31243e74": [
+    {
+      "location": "Fomorian Sabotage",
+      "type": "Transient Rewards",
+      "rarity": "Rare",
+      "chance": 0.05
+    }
+  ],
+  "6ff181a7c366c6818894f205342145d9": [
+    {
+      "location": "Ogma Elite",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.09484999999999999
+    },
+    {
+      "location": "Ogma",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.09484999999999999
+    },
+    {
+      "location": "Phobos - Kepler",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Pandora",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0316
+    },
+    {
+      "location": "Frigate",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Penta Ranger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Ranger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Dreg",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Mutalist Toxic Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Attack Mutalist",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Mutalist Lightning Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Quanta Ranger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    }
+  ],
+  "146676f5a68671d265a9c561dedd0d34": [
+    {
+      "location": "Bounty Completion",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.0125
+    }
+  ],
+  "35d05fad4917e0cb46ed012cb315aee5": [
+    {
+      "location": "Uranus - Caelus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.025099999999999997,
+      "rotation": "A"
+    },
+    {
+      "location": "Courier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00603
+    },
+    {
+      "location": "Shield-Hellion Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00402
+    },
+    {
+      "location": "Ogma",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002525
+    },
+    {
+      "location": "Ogma Elite",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002525
+    }
+  ],
+  "1830921648355c1d7df308d258b5c48e": [
+    {
+      "location": "Phobos - Kepler",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Pandora",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0316
+    },
+    {
+      "location": "Tusk Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.000603
+    },
+    {
+      "location": "Tusk Shield Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.000603
+    },
+    {
+      "location": "K-Drive",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.000603
+    },
+    {
+      "location": "Attack Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.000603
+    },
+    {
+      "location": "Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.000603
+    }
+  ],
+  "c88606ab915f8199989636e16de7b76b": [
+    {
+      "location": "Uranus - Caelus",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "B"
+    },
+    {
+      "location": "Cannon Battery",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Lancer Dreg",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001659
+    }
+  ],
+  "a484464ca2a4be5a3190a6739178127d": [
+    {
+      "location": "Shield-Hellion Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.014740000000000001
+    },
+    {
+      "location": "Lancer Dreg",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001659
+    }
+  ],
+  "1b689210ef8ab01a83c354879a4836ff": [
+    {
+      "location": "Level 10 - 30 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.25
+    },
+    {
+      "location": "Level 10 - 30 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.15080000000000002
+    },
+    {
+      "location": "Level 10 - 30 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.145
+    },
+    {
+      "location": "Uranus - Caelus",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "B"
+    },
+    {
+      "location": "Shield Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011616
+    },
+    {
+      "location": "Turret",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007743
+    },
+    {
+      "location": "Cannon Battery",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007743
+    }
+  ],
+  "01de1ed75cf882c4344f0bef02f3e2ca": [
+    {
+      "location": "Level 10 - 30 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.2182
+    },
+    {
+      "location": "Level 10 - 30 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.09519999999999999
+    },
+    {
+      "location": "Level 10 - 30 Cetus Bounty",
+      "type": "Cetus Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.0916
+    },
+    {
+      "location": "Zeplen",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002256
+    },
+    {
+      "location": "Corvette",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001692
+    },
+    {
+      "location": "Gox",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001692
+    }
+  ],
+  "7f90fc80d5d9771f40dfe6579b225edd": [
+    {
+      "location": "Mercury - Caduceus",
+      "type": "Mission Rewards",
+      "rarity": "Common",
+      "chance": 0.3872
+    },
+    {
+      "location": "Mars - Syrtis",
+      "type": "Mission Rewards",
+      "rarity": "Common",
+      "chance": 0.3872
+    },
+    {
+      "location": "Venus - Montes",
+      "type": "Mission Rewards",
+      "rarity": "Common",
+      "chance": 0.3872
+    },
+    {
+      "location": "Phobos - Kepler",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "B"
+    },
+    {
+      "location": "Tusk Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0316125
+    },
+    {
+      "location": "Tusk Command Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0316125
+    },
+    {
+      "location": "Hellion Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0316125
+    },
+    {
+      "location": "Tusk Shield Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0316125
+    },
+    {
+      "location": "Kuva Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0316125
+    },
+    {
+      "location": "Saturn - Pandora",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0316
+    },
+    {
+      "location": "Temporal Dreg",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.025290000000000003
+    },
+    {
+      "location": "Lancer Dreg",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.011381999999999998
+    },
+    {
+      "location": "Attack Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    }
+  ],
+  "e40078283b7cd2556756ce41a47844c8": [
+    {
+      "location": "Phobos - Kepler",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1429,
+      "rotation": "A"
+    },
+    {
+      "location": "Uranus - Caelus",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Pandora",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.047400000000000005
+    },
+    {
+      "location": "Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0036850000000000003
+    },
+    {
+      "location": "Cannon Battery",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Shield Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001692
+    },
+    {
+      "location": "Corvette",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001692
+    },
+    {
+      "location": "Gox",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001692
+    }
+  ],
+  "c00ea32841e82ba9ca5979dfe91395e1": [
+    {
+      "location": "Jupiter - Galilea",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.2581
+    },
+    {
+      "location": "Phobos - Kepler",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1429,
+      "rotation": "A"
+    },
+    {
+      "location": "Saturn - Pandora",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.047400000000000005
+    },
+    {
+      "location": "Shield Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001692
+    }
+  ],
+  "f0e883876aa9695bb21533b85c797777": [
+    {
+      "location": "Jupiter - Galilea",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.2581
+    },
+    {
+      "location": "Phobos - Kepler",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1429,
+      "rotation": "A"
+    },
+    {
+      "location": "Uranus - Caelus",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Pandora",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.047400000000000005
+    },
+    {
+      "location": "Tusk Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Tusk Shield Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "K-Drive",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    }
+  ],
+  "784fd8f28c067f15752b894de2417a7f": [
+    {
+      "location": "Uranus - Caelus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.025099999999999997,
+      "rotation": "A"
+    },
+    {
+      "location": "Ranger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.000603
+    },
+    {
+      "location": "Frigate",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.000603
+    },
+    {
+      "location": "Penta Ranger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.000603
+    },
+    {
+      "location": "Quanta Ranger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.000603
+    },
+    {
+      "location": "Cannon Battery",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.000303
+    }
+  ],
+  "2748729ee1197457868d477252f86aaa": [
+    {
+      "location": "Locust Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00402
+    },
+    {
+      "location": "Cannon Battery",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.000303
+    }
+  ],
+  "95ae0e2b67ed3ec75dccc044c934ee32": [
+    {
+      "location": "Fomorian Sabotage",
+      "type": "Transient Rewards",
+      "rarity": "Rare",
+      "chance": 0.05
+    },
+    {
+      "location": "Profit-Taker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0256
+    }
+  ],
+  "194ae110da6811e6a18ab189f1f648c1": [
+    {
+      "location": "Fomorian Sabotage",
+      "type": "Transient Rewards",
+      "rarity": "Rare",
+      "chance": 0.05
+    }
+  ],
+  "a59317e72aeadea5a01f672fafd3483f": [
+    {
+      "location": "Fomorian Sabotage",
+      "type": "Transient Rewards",
+      "rarity": "Rare",
+      "chance": 0.05
+    }
+  ],
+  "0092a3e26c5a376e19d5f0896fa058d1": [
+    {
+      "location": "Aerial Commander",
+      "type": "Enemy Mod Tables",
+      "rarity": "Legendary",
+      "chance": 0.005
+    }
+  ],
+  "67dcdf9198c8cce3ec71083ef6b543e5": [
+    {
+      "location": "Uranus - Caelus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.025099999999999997,
+      "rotation": "A"
+    },
+    {
+      "location": "Zeplen",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007743
+    },
+    {
+      "location": "Tusk Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Tusk Shield Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "K-Drive",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Attack Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    },
+    {
+      "location": "Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007587
+    }
+  ],
+  "4a02e0bffb7e0194ecfef3ac92ff046e": [
+    {
+      "location": "Profit-Taker",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0256
+    },
+    {
+      "location": "Razorback",
+      "type": "Transient Rewards",
+      "rarity": "Rare",
+      "chance": 0.0101
+    }
+  ],
+  "44597eae23430a90a792aabf9c99925e": [
+    {
+      "location": "Subsequent Completions",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.15
+    }
+  ],
+  "e73645ca2819d467c20bddd1e9597c6e": [
+    {
+      "location": "Phobos - Kepler",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0752,
+      "rotation": "C"
+    },
+    {
+      "location": "Earth - Erpo",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    },
+    {
+      "location": "Jupiter - Galilea",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    },
+    {
+      "location": "Neptune - Salacia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    },
+    {
+      "location": "Europa - Gamygyn",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    }
+  ],
+  "b9da6c1efb9cb76b68d9df7addae746f": [
+    {
+      "location": "Uranus - Caelus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.025099999999999997,
+      "rotation": "A"
+    },
+    {
+      "location": "Turret",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003384
+    },
+    {
+      "location": "Cannon Battery",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.003384
+    },
+    {
+      "location": "Zeplen",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002256
+    },
+    {
+      "location": "Tusk Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Tusk Shield Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "K-Drive",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    },
+    {
+      "location": "Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002211
+    }
+  ],
+  "6bf264519b612263e160b9c07168f75e": [
+    {
+      "location": "Mercury - Caduceus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0564
+    },
+    {
+      "location": "Venus - Montes",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0564
+    },
+    {
+      "location": "Mars - Syrtis",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0564
+    },
+    {
+      "location": "Temporal Dreg",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.00201
+    },
+    {
+      "location": "Dreg",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.000603
+    },
+    {
+      "location": "Lancer Dreg",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.000603
+    },
+    {
+      "location": "Mutalist Toxic Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.000603
+    },
+    {
+      "location": "Attack Mutalist",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.000603
+    },
+    {
+      "location": "Mutalist Lightning Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.000603
+    }
+  ],
+  "06460572b3d0d61410a8da714a3531dc": [
+    {
+      "location": "Phobos - Kepler",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0752,
+      "rotation": "C"
+    },
+    {
+      "location": "Earth - Erpo",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    },
+    {
+      "location": "Jupiter - Galilea",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    },
+    {
+      "location": "Neptune - Salacia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    },
+    {
+      "location": "Europa - Gamygyn",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    }
+  ],
+  "18cbe78ac2422c023782f6936d31c5f5": [
+    {
+      "location": "Temporal Dreg",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.025290000000000003
+    },
+    {
+      "location": "Uranus - Caelus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.025099999999999997,
+      "rotation": "A"
+    },
+    {
+      "location": "Dreg",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Ranger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Frigate",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Penta Ranger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Quanta Ranger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Mutalist Toxic Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Attack Mutalist",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Mutalist Lightning Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    }
+  ],
+  "ddd443d141bb75fed3a534db9d45eb84": [
+    {
+      "location": "Phobos - Kepler",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1429,
+      "rotation": "A"
+    },
+    {
+      "location": "Saturn - Pandora",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.047400000000000005
+    },
+    {
+      "location": "Ogma",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.02765
+    },
+    {
+      "location": "Ogma Elite",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.02765
+    }
+  ],
+  "cfa8a60eb5eddd42eecd94861290e627": [
+    {
+      "location": "Earth - Erpo",
+      "type": "Mission Rewards",
+      "rarity": "Common",
+      "chance": 0.3872
+    },
+    {
+      "location": "Neptune - Salacia",
+      "type": "Mission Rewards",
+      "rarity": "Common",
+      "chance": 0.3872
+    },
+    {
+      "location": "Europa - Gamygyn",
+      "type": "Mission Rewards",
+      "rarity": "Common",
+      "chance": 0.3872
+    },
+    {
+      "location": "Temporal Dreg",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.01106
+    }
+  ],
+  "d82353d64be1d0521017d037bf922a0b": [
+    {
+      "location": "Earth - Erpo",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    },
+    {
+      "location": "Jupiter - Galilea",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    },
+    {
+      "location": "Neptune - Salacia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    },
+    {
+      "location": "Europa - Gamygyn",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    }
+  ],
+  "8dcb5796c9f9adfc5b37150d19406e42": [
+    {
+      "location": "Bounty Completion",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.15
+    }
+  ],
+  "cbde36740c66f7032c1521ed5ab7b4f5": [
+    {
+      "location": "Bounty Completion",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.15
+    }
+  ],
+  "3b3a0f03de0f108e4111d1f806dbac94": [
+    {
+      "location": "Uranus - Caelus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.025099999999999997,
+      "rotation": "A"
+    },
+    {
+      "location": "Locust Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.02212
+    },
+    {
+      "location": "Tusk Command Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.013825
+    },
+    {
+      "location": "Tusk Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.013825
+    },
+    {
+      "location": "Tusk Shield Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.013825
+    },
+    {
+      "location": "Kuva Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.013825
+    },
+    {
+      "location": "Hellion Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.013825
+    }
+  ],
+  "a40e47f5b012c378bacdae818dd69baf": [
+    {
+      "location": "Subsequent Completions",
+      "type": "Solaris Bounty Rewards",
+      "rarity": "Rare",
+      "chance": 0.0125
+    }
+  ],
+  "31d9355c89da958339e2bfd5f96a9ee9": [
+    {
+      "location": "Razorback",
+      "type": "Transient Rewards",
+      "rarity": "Rare",
+      "chance": 0.0101
+    }
+  ],
+  "f5cbd4d6fce35e71e62f749336e0dca9": [
+    {
+      "location": "Mercury - Caduceus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0564
+    },
+    {
+      "location": "Mercury - Caduceus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0564
+    },
+    {
+      "location": "Venus - Montes",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0564
+    },
+    {
+      "location": "Venus - Montes",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0564
+    },
+    {
+      "location": "Mars - Syrtis",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0564
+    },
+    {
+      "location": "Mars - Syrtis",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0564
+    }
+  ],
+  "ec4c37e868d7daad003fc61e0e65617d": [
+    {
+      "location": "Phobos - Kepler",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1429,
+      "rotation": "A"
+    },
+    {
+      "location": "Locust Drone",
+      "type": "Enemy Mod Tables",
+      "rarity": "Common",
+      "chance": 0.07588
+    },
+    {
+      "location": "Saturn - Pandora",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.047400000000000005
+    },
+    {
+      "location": "Tusk Command Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0316125
+    },
+    {
+      "location": "Tusk Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0316125
+    },
+    {
+      "location": "Tusk Shield Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0316125
+    },
+    {
+      "location": "Kuva Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0316125
+    },
+    {
+      "location": "Hellion Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.0316125
+    },
+    {
+      "location": "Zeplen",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.007743
+    }
+  ],
+  "63ac85d9d87c2deeac2dbb874e57ff0f": [
+    {
+      "location": "Earth - Erpo",
+      "type": "Mission Rewards",
+      "rarity": "Common",
+      "chance": 0.3872
+    },
+    {
+      "location": "Neptune - Salacia",
+      "type": "Mission Rewards",
+      "rarity": "Common",
+      "chance": 0.3872
+    },
+    {
+      "location": "Europa - Gamygyn",
+      "type": "Mission Rewards",
+      "rarity": "Common",
+      "chance": 0.3872
+    },
+    {
+      "location": "Uranus - Caelus",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "B"
+    },
+    {
+      "location": "Uranus - Caelus",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1,
+      "rotation": "B"
+    },
+    {
+      "location": "Phobos - Kepler",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Pandora",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0316
+    },
+    {
+      "location": "Corvette",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001692
+    },
+    {
+      "location": "Gox",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001692
+    }
+  ],
+  "4b1ab35f91b2efd3f41cf80bd9e2dcd7": [
+    {
+      "location": "Phobos - Kepler",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376,
+      "rotation": "B"
+    },
+    {
+      "location": "Saturn - Pandora",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0316
+    },
+    {
+      "location": "Ogma",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002525
+    },
+    {
+      "location": "Ogma Elite",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.002525
+    },
+    {
+      "location": "Tusk Command Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0025125
+    },
+    {
+      "location": "Tusk Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0025125
+    },
+    {
+      "location": "Tusk Shield Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0025125
+    },
+    {
+      "location": "Kuva Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0025125
+    },
+    {
+      "location": "Hellion Dargyn",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0025125
+    }
+  ],
+  "d29ae1a6c1e107535a6662697abfd0ec": [
+    {
+      "location": "Jupiter - Galilea",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.2581
+    },
+    {
+      "location": "Phobos - Kepler",
+      "type": "Mission Rewards",
+      "rarity": "Uncommon",
+      "chance": 0.1429,
+      "rotation": "A"
+    },
+    {
+      "location": "Saturn - Pandora",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.047400000000000005
+    },
+    {
+      "location": "Ranger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Frigate",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Penta Ranger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    },
+    {
+      "location": "Quanta Ranger",
+      "type": "Enemy Mod Tables",
+      "rarity": "Uncommon",
+      "chance": 0.005690999999999999
+    }
+  ],
+  "9f3882fd480313c179edf4698d6c2cdb": [
+    {
+      "location": "Uranus - Caelus",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.025099999999999997,
+      "rotation": "A"
+    },
+    {
+      "location": "Carrier",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.0036850000000000003
+    },
+    {
+      "location": "Lancer Dreg",
+      "type": "Enemy Mod Tables",
+      "rarity": "Rare",
+      "chance": 0.001659
+    }
+  ],
+  "2d394b3e54e33cc95ff73732dbb76496": [
+    {
+      "location": "Earth - Erpo",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    },
+    {
+      "location": "Jupiter - Galilea",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    },
+    {
+      "location": "Neptune - Salacia",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    },
+    {
+      "location": "Europa - Gamygyn",
+      "type": "Mission Rewards",
+      "rarity": "Rare",
+      "chance": 0.0376
+    }
+  ]
+}

@@ -1,0 +1,2295 @@
+{
+  "c33a4449f0c0a1ea25ac1da7cf7bb924": [
+    {
+      "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
+      "date": "2016-05-27T21:20:29Z",
+      "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
+      "imgUrl": "http://i.imgur.com/1JPOZC1.png",
+      "additions": "",
+      "changes": "•    The ‘Fast Deflection’ Sentinel Mod has been renamed to ‘Accelerated Deflection’",
+      "fixes": ""
+    }
+  ],
+  "25a62ec7de5a161ce50328a982b2aafd": [
+    {
+      "name": "Fortuna: Update 24.3.0 - Nightwave",
+      "date": "2019-02-27T18:58:21Z",
+      "url": "https://forums.warframe.com/topic/1064591-fortuna-update-2430-nightwave/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a case of the Courier Ambush Bounty insta-failing in Orb Vallis."
+    },
+    {
+      "name": "Fortuna: The Profit-Taker - Update 24.2",
+      "date": "2018-12-18T13:59:14Z",
+      "url": "https://forums.warframe.com/topic/1044890-fortuna-the-profit-taker-update-242/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Clients unable to see laser captivity wall in the ‘Rescue the Hostages’ phase of the ‘Courier Ambush’ Orb Vallis Bounty. "
+    },
+    {
+      "name": "Fortuna: Hotfix 24.1.2 + 24.1.2.1",
+      "date": "2018-11-29T19:46:27Z",
+      "url": "https://forums.warframe.com/topic/1038856-fortuna-hotfix-2412-24121/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Ambush Coildrive being  invincible if the player previously abandoned a Coildrive Defense without hacking it."
+    },
+    {
+      "name": "Fortuna: Hotfix 24.0.7",
+      "date": "2018-11-15T20:08:27Z",
+      "url": "https://forums.warframe.com/topic/1032058-fortuna-hotfix-2407/",
+      "additions": "",
+      "changes": "Made a small optimization to Orb Vallis Ambush Bounties. ",
+      "fixes": ""
+    },
+    {
+      "name": "Fortuna: Hotfix 24.0.6",
+      "date": "2018-11-13T18:58:18Z",
+      "url": "https://forums.warframe.com/topic/1030837-fortuna-hotfix-2406/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/3648457c68f985825a948530fad6e515.jpg",
+      "additions": "",
+      "changes": "Added an activation ‘hack success’ sound to the Orb Vallis Coildrive Ambush encounter missions. ",
+      "fixes": ""
+    },
+    {
+      "name": "Fortuna: Hotfix 24.0.2",
+      "date": "2018-11-09T22:23:12Z",
+      "url": "https://forums.warframe.com/topic/1027194-fortuna-hotfix-2402/",
+      "additions": "",
+      "changes": "The Ambush Coildrive is now invincible from the start to prevent griefing or accidental kills. If damaged, it’s Shield will reduce but the Bounty will not fail.",
+      "fixes": "Fixed the Ambush Coildrive attacking itself after a Host migration occurs. "
+    },
+    {
+      "name": "Chimera: Hotfix 23.10.7",
+      "date": "2018-10-24T14:34:07Z",
+      "url": "https://forums.warframe.com/topic/1021711-chimera-hotfix-23107/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Ambush Mod having an inaccurate description. Now it mentions that the extra damage is granted specifically to weapons."
+    },
+    {
+      "name": "Update 18.5: Sands of Inaros",
+      "date": "2016-03-04T18:20:53Z",
+      "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
+      "imgUrl": "http://i.imgur.com/6IEKyKC.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Ambush Optics (Rubico) "
+    }
+  ],
+  "5b24b351a5f2f0897d07cf5151054090": [
+    {
+      "name": "Chimera: Hotfix 23.10.5",
+      "date": "2018-10-18T14:52:11Z",
+      "url": "https://forums.warframe.com/topic/1019687-chimera-hotfix-23105/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Ammo Case Mod not functioning for Clients after going in and out and then back in to the Plains from Cetus."
+    },
+    {
+      "name": "Plains of Eidolon: Update 22.6.0 + Hotfix 22.6.0.1",
+      "date": "2017-12-07T22:05:21Z",
+      "url": "https://forums.warframe.com/topic/891096-plains-of-eidolon-update-2260-hotfix-22601/",
+      "imgUrl": "https://content.invisioncic.com/Mwarframe/monthly_2017_12/Warframe0044.thumb.jpg.301d3829b792af173307be6fda35cbb8.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Ammo Case and Ammo Mutation mods not working after going in and out of the Plains twice.\nFixed missing polarity on Ammo Case as per: https://forums.warframe.com/topic/891123-ammo-case-no-longer-has-a-polarity-fix-pending/"
+    },
+    {
+      "name": "The Glast Gambit: Update 19.8.0",
+      "date": "2017-01-25T19:24:45Z",
+      "url": "https://forums.warframe.com/topic/754548-the-glast-gambit-update-1980/",
+      "imgUrl": "http://i.imgur.com/W9ze8eZ.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Sentinel Ammo Case Mod and Regen not working together (Ammo Case was lost after Regen was used).\nFixed an issue with Carrier's Ammo Case Mod being exploitable. "
+    },
+    {
+      "name": "The Glast Gambit: Hotfix 19.6.3",
+      "date": "2017-01-17T19:30:07Z",
+      "url": "https://forums.warframe.com/topic/751177-the-glast-gambit-hotfix-1963/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Ammo Case Mod upgrades remaining after death."
+    },
+    {
+      "name": "The Vacuum Within: Hotfix #2",
+      "date": "2016-10-06T20:50:11Z",
+      "url": "https://forums.warframe.com/topic/705955-the-vacuum-within-hotfix-2/",
+      "additions": "",
+      "changes": "Changed the Mod image for Ammo Case to better reflect its role. ",
+      "fixes": "Fixed Ammo Case still applying its buffs after Carrier has died.\nFixed Ammo Case refilling ammo on respawn.\nFixed Ammo Case refilling ammo on Host Migration. "
+    },
+    {
+      "name": "The Vacuum Within: Hotfix 1",
+      "date": "2016-10-06T00:25:31Z",
+      "url": "https://forums.warframe.com/topic/705626-the-vacuum-within-hotfix-1/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a crash that would occur when Ammo Case would trigger on a weapon with no ammo (Exalted Blade, etc)."
+    },
+    {
+      "name": "The Vacuum Within",
+      "date": "2016-10-05T21:17:28Z",
+      "url": "https://forums.warframe.com/topic/705566-the-vacuum-within%C2%A0/",
+      "imgUrl": "http://i.giphy.com/l0HlutHBjgD1tSY9y.gif",
+      "additions": "",
+      "changes": "Carrier’s precept has been automatically changed to Ammo Case ",
+      "fixes": ""
+    }
+  ],
+  "487a6fb3b2fc2031d73b91bf627e3fef": [
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.18.8",
+      "date": "2018-04-27T23:14:52Z",
+      "url": "https://forums.warframe.com/topic/950912-beasts-of-the-sanctuary-hotfix-22188/",
+      "additions": "",
+      "changes": "Companion mods like Animal Instinct have been fixed so they will work properly on Venari.",
+      "fixes": ""
+    },
+    {
+      "name": "Recurring Nightmares",
+      "date": "2016-10-27T19:03:48Z",
+      "url": "https://forums.warframe.com/topic/711418-recurring-nightmares/",
+      "imgUrl": "http://i.imgur.com/Oail8jd.jpg",
+      "additions": "",
+      "changes": "Animal Instinct",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Changed the Animal Instinct Mod to properly say ‘Companion’ instead of just ‘Sentinel’.",
+      "fixes": ""
+    }
+  ],
+  "d20fc09b5032ac77a5461a3e5fda6d37": [
+    {
+      "name": "Update 17.3.0",
+      "date": "2015-09-02T20:56:46Z",
+      "url": "https://forums.warframe.com/topic/521781-update-1730/",
+      "additions": "",
+      "changes": "",
+      "fixes": "The Diriga shocks nearby enemies, and picks off distant threats, utilizing the Vulklok sniper rifle and the ‘Calculated Shot’, ‘Arc Coil’ and ‘Electro Pulse’ precepts."
+    }
+  ],
+  "c2ac97dc8de6ab63b107a9d9e018a7c7": [
+    {
+      "name": "Fortuna: Update 24.0",
+      "date": "2018-11-08T20:46:20Z",
+      "url": "https://forums.warframe.com/topic/1025679-fortuna-update-240/",
+      "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/images/promo/fortuna/info/hubheader.jpg",
+      "additions": "",
+      "changes": "In an effort to reduce the inventory duplication clutter that came with the individual Sentinel attack Precept Mods, Wyrm, Wyrm Prime, Carrier, Carrier Prime, Dethcube, Taxon, and the newest Oxylus now come with the “Assault Mode” Mod: “Sentinel will attack first visible enemy within an area” (*final stats available in game).\nIf you already own the original attack Mods they will remain in your inventory but cannot be equipped with Assault Mode. \nAssault Mode has replaced the original attack Mods on enemy drop tables. \nWe increased damage falloff range on the Sweeper Mod by 5m to allow it to work effectively with the Assault Mode Mod.",
+      "fixes": ""
+    }
+  ],
+  "bc5579674d1c472958ff75f6f671914f": [
+    {
+      "name": "Fortuna: Hotfix 24.0.2",
+      "date": "2018-11-09T22:23:12Z",
+      "url": "https://forums.warframe.com/topic/1027194-fortuna-hotfix-2402/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed inability to equip Bite, Pack Leader, and Medi-Pet Kit on the Helminth Charger."
+    },
+    {
+      "name": "Specters of the Rail: Hotfix 13",
+      "date": "2016-07-26T18:38:42Z",
+      "url": "https://forums.warframe.com/topic/679601-specters-of-the-rail-hotfix-13/",
+      "additions": "",
+      "changes": "Increased Kubrow's base damage 150% and base Critical Damage multiplier from 1.6x to 3x so that for a Kubrow fitted with Rank 10 Maul Mod and Rank 10 Bite Mod the average damage would be almost exactly the same as before.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 14.0.7 + 14.0.7.1",
+      "date": "2014-07-23T00:49:37Z",
+      "url": "https://forums.warframe.com/topic/270543-hotfix-1407-14071/",
+      "additions": "",
+      "changes": "",
+      "fixes": "The Kubrow Bite mod has been added to feral Kubrow drop tables, it was not intended to only be available through transmutation, it’s meant to be a drop."
+    }
+  ],
+  "4896c269e117d30b66300dced166d724": [
+    {
+      "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
+      "date": "2016-05-27T21:20:29Z",
+      "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
+      "imgUrl": "http://i.imgur.com/1JPOZC1.png",
+      "additions": "",
+      "changes": "•    The ‘Redirection’ Sentinel Mod has been renamed to ‘Calculated Redirection’",
+      "fixes": ""
+    }
+  ],
+  "71a18a5cb6a946bfe406bc6a2f008d67": [
+    {
+      "name": "Update 17.10.0",
+      "date": "2015-11-04T23:21:00Z",
+      "url": "https://forums.warframe.com/topic/556384-update-17100/",
+      "additions": "",
+      "changes": "Diriga’s Calculated Shot Precept is now able to target Sensor Bars and Arc Traps.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.9.0",
+      "date": "2015-10-28T15:12:27Z",
+      "url": "https://forums.warframe.com/topic/552544-update-1790/",
+      "additions": "",
+      "changes": "The Diraga’s Calculated Shot Precept can now target cameras and turrets.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.3.0",
+      "date": "2015-09-02T20:56:46Z",
+      "url": "https://forums.warframe.com/topic/521781-update-1730/",
+      "additions": "",
+      "changes": "",
+      "fixes": "The Diriga shocks nearby enemies, and picks off distant threats, utilizing the Vulklok sniper rifle and the ‘Calculated Shot’, ‘Arc Coil’ and ‘Electro Pulse’ precepts."
+    }
+  ],
+  "ecc0bf9cb873158ef595901ea4913730": [
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "",
+      "changes": "Optimized Coolant Leak Mod slightly. ",
+      "fixes": ""
+    },
+    {
+      "name": "Update 19: The War Within",
+      "date": "2016-11-12T04:02:28Z",
+      "url": "https://forums.warframe.com/topic/715768-update-19-the-war-within/",
+      "imgUrl": "http://i.imgur.com/gCfJMUs.jpg",
+      "additions": "",
+      "changes": "Enemies affected by Coolant Leak will notice that they've been frozen/slowed",
+      "fixes": ""
+    },
+    {
+      "name": "Update 15.7.2 + 15.7.2.1",
+      "date": "2014-12-19T18:09:43Z",
+      "url": "https://forums.warframe.com/topic/369418-update-1572-15721/",
+      "additions": "",
+      "changes": "Toned down visual effect from the Coolant Leak Mod.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 15.0.7",
+      "date": "2014-10-28T23:04:04Z",
+      "url": "https://forums.warframe.com/topic/334873-hotfix-1507/",
+      "additions": "",
+      "changes": "",
+      "fixes": "• Fixed an issue with Coolant Leak removing Snow Globe slow on enemies."
+    },
+    {
+      "name": "Update 14.6.0",
+      "date": "2014-09-10T21:36:26Z",
+      "url": "https://forums.warframe.com/topic/307792-update-1460/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with the Coolant Leak visual effect appearing for allies and the player after a Radiation proc/PvP duel."
+    },
+    {
+      "name": "Hotfix 14.5.2",
+      "date": "2014-09-03T22:31:56Z",
+      "url": "https://forums.warframe.com/topic/303889-hotfix-1452/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the rank not being displayed correctly on the Coolant Leak mod."
+    },
+    {
+      "name": "Hotfix 11.6.1",
+      "date": "2014-01-10T18:30:30Z",
+      "url": "https://forums.warframe.com/topic/161944-hotfix-1161/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed mods such as Coolant Leak not being transmutable and also triggering the safety net that prevents from fusing away your last one."
+    },
+    {
+      "name": "Update 10.8.0",
+      "date": "2013-11-13T18:48:01Z",
+      "url": "https://forums.warframe.com/topic/130600-update-1080/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed numerous issues with Coolant Leak; it no longer prevents other precepts from working and should now work properly for clients."
+    }
+  ],
+  "e6ba37f3fc8b697b9007dafd45d78717": [
+    {
+      "name": "The Glast Gambit: Hotfix 19.6.2",
+      "date": "2017-01-13T21:09:22Z",
+      "url": "https://forums.warframe.com/topic/749509-the-glast-gambit-hotfix-1962/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Crowd Dispersion Mod showing unformatted values in its description."
+    },
+    {
+      "name": "Update 18.10.0: Operation Rathuum!",
+      "date": "2016-04-29T17:04:18Z",
+      "url": "https://forums.warframe.com/topic/642897-update-18100-operation-rathuum/",
+      "imgUrl": "http://i.imgur.com/YiMbs9B.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "·         Improved Wyrm’s Crowd Dispersion missing enemies that were very close to you.\n·         Wyrm’s Crowd Dispersion range has been re-scaled as you upgrade it. Previously the range maxed out at 10m at rank 3, now it scales from 6, 6.8, 7.6, 8.4, 9.2,10 meters\n·         Tweaked Wyrm’s Crowd Dispersion physics to make the knock-back more realistic."
+    },
+    {
+      "name": "Hotfix 17.10.4",
+      "date": "2015-11-10T17:36:26Z",
+      "url": "https://forums.warframe.com/topic/559239-hotfix-17104/",
+      "additions": "",
+      "changes": "The Crowd Dispersion Mod has had its Range and Damage adjusted to more appropriately scale up with each rank.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 10.6.1 + 10.6.1.1",
+      "date": "2013-11-01T23:19:18Z",
+      "url": "https://forums.warframe.com/topic/127121-hotfix-1061-10611/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Sentinel Crowd Dispersion knocking AI out of Bastille causing them to pop."
+    }
+  ],
+  "1441e34c08d7e49245205cdf2a572ef3": [
+    {
+      "name": "The Sacrifice: Hotfix 23.0.8",
+      "date": "2018-07-09T20:05:25Z",
+      "url": "https://forums.warframe.com/topic/980491-the-sacrifice-hotfix-2308/",
+      "additions": "",
+      "changes": "Optimized Helios's Detect Vulnerability Precept.",
+      "fixes": ""
+    },
+    {
+      "name": "Shrine of the Eidolon: Update 22.15.0",
+      "date": "2018-03-07T21:04:32Z",
+      "url": "https://forums.warframe.com/topic/930667-shrine-of-the-eidolon-update-22150/",
+      "imgUrl": "http://n8k6e2y6.ssl.hwcdn.net/uploads/d14f21e519b6111ca20d4d13c1610d1c.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Helios' Detect Vulnerability precept not applying the Damage multiplier on enemies seated in mounted guns or Jesters riding Kuva Guardians."
+    },
+    {
+      "name": "Octavia’s Anthem: Hotfix 20.4.6",
+      "date": "2017-05-11T19:05:55Z",
+      "url": "https://forums.warframe.com/topic/795965-octavia%E2%80%99s-anthem-hotfix-2046/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a crash from Helios’ Detect Vulnerability Precept."
+    },
+    {
+      "name": "Update 18.2.0",
+      "date": "2016-01-05T18:24:20Z",
+      "url": "https://forums.warframe.com/topic/590253-update-1820/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Detect Vulnerability Sentinel Precept targeting invulnerable enemies."
+    }
+  ],
+  "f3deb47e07164f4e818611e2e9d6c2f0": [
+    {
+      "name": "Update 17.9.0",
+      "date": "2015-10-28T15:12:27Z",
+      "url": "https://forums.warframe.com/topic/552544-update-1790/",
+      "additions": "",
+      "changes": "The cooldown on the Electro Pulse Mod will now decrease with increased Mod Rank.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.3.0",
+      "date": "2015-09-02T20:56:46Z",
+      "url": "https://forums.warframe.com/topic/521781-update-1730/",
+      "additions": "",
+      "changes": "",
+      "fixes": "The Diriga shocks nearby enemies, and picks off distant threats, utilizing the Vulklok sniper rifle and the ‘Calculated Shot’, ‘Arc Coil’ and ‘Electro Pulse’ precepts."
+    }
+  ],
+  "e5b39a15b67ee758feb329b5cf3dd5e3": [
+    {
+      "name": "Chimera: Hotfix 23.10.5",
+      "date": "2018-10-18T14:52:11Z",
+      "url": "https://forums.warframe.com/topic/1019687-chimera-hotfix-23105/",
+      "additions": "Added an FX to the Energy Orb dropped by Deth Cube with Energy Generator equipped.",
+      "changes": "",
+      "fixes": ""
+    }
+  ],
+  "445ee1855555b69f842c6548d03175b9": [
+    {
+      "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
+      "date": "2016-05-27T21:20:29Z",
+      "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
+      "imgUrl": "http://i.imgur.com/1JPOZC1.png",
+      "additions": "",
+      "changes": "•    The ‘Vitality’ Sentinel Mod has been renamed to ‘Enhanced Vitality’",
+      "fixes": ""
+    }
+  ],
+  "3893857e6f061dd8c93959968ecb0020": [
+    {
+      "name": "The Sacrifice: Hotfix 23.0.8",
+      "date": "2018-07-09T20:05:25Z",
+      "url": "https://forums.warframe.com/topic/980491-the-sacrifice-hotfix-2308/",
+      "additions": "",
+      "changes": "Made optimizations to Djinn's Fatal Attraction precept.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.8.0",
+      "date": "2016-04-06T20:31:30Z",
+      "url": "https://forums.warframe.com/topic/635136-update-1880/",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed Djinn’s Fatal Attraction activating on unalerted enemies."
+    },
+    {
+      "name": "Hotfix 18.7.1",
+      "date": "2016-03-31T21:32:28Z",
+      "url": "https://forums.warframe.com/topic/632776-hotfix-1871/",
+      "imgUrl": "http://i.imgur.com/LdxUao4.jpg",
+      "additions": "",
+      "changes": "•    Djinn’s Fatal Attraction will no longer affect enemies that have a resistance to being mind controlled. This should prevent issues in completing the Lephantis boss fight with a Djinn equipped. ",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 18.4.8",
+      "date": "2016-02-05T23:22:31Z",
+      "url": "https://forums.warframe.com/topic/605807-hotfix-1848/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Fatal Attraction issue that could allow mesmerized enemies to fire at you"
+    },
+    {
+      "name": "Hotfix 18.4.3",
+      "date": "2016-01-27T20:30:47Z",
+      "url": "https://forums.warframe.com/topic/601147-hotfix-1843/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Djinn's Fatal Attraction leaving enemies mesmerized permanently if the sentinel was killed while luring."
+    },
+    {
+      "name": "Update 18.4.0",
+      "date": "2016-01-22T00:24:23Z",
+      "url": "https://forums.warframe.com/topic/597888-update-1840/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Djinn's Fatal Attraction mesmerising targets that cannot target the player."
+    },
+    {
+      "name": "Update 18.2.0",
+      "date": "2016-01-05T18:24:20Z",
+      "url": "https://forums.warframe.com/topic/590253-update-1820/",
+      "additions": "",
+      "changes": "Djinn’s Fatal Attraction will now ignore security cameras.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 17.0.1",
+      "date": "2015-07-31T19:12:09Z",
+      "url": "https://forums.warframe.com/topic/499137-hotfix-1701/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Djinn’s Fatal Attraction ability not functioning on ragdolled enemies."
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "The Djinn’s Fatal Attraction ability now makes all enemies approach the Djinn.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 13.8.0: Breeding Grounds",
+      "date": "2014-06-19T21:24:56Z",
+      "url": "https://forums.warframe.com/topic/249133-update-1380-breeding-grounds/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an instance of Fatal Attraction not working correctly for Clients."
+    },
+    {
+      "name": "Update 13.5.0: Edo Armor & Nami Solo",
+      "date": "2014-05-28T23:05:58Z",
+      "url": "https://forums.warframe.com/topic/238069-update-1350-edo-armor-nami-solo/",
+      "additions": "",
+      "changes": "Increased Fatal Attraction's range and damage at Rank 4 and 5.\nThe Fatal Attraction precept will now wait until enemies are within range before the pull ability is initialized.\nFixed issues with many Sentinel precepts having their priority subverted by other slotted precepts. Example, if you ever noticed your Djinn would never seem to cast Fatal Attraction, it is likely because it was slotted in the 2nd/3rd/4th Precept Slot and was not properly prioritized.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 10.3.0: Hump Day!",
+      "date": "2013-10-09T22:12:04Z",
+      "url": "https://forums.warframe.com/topic/117806-update-1030-hump-day/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Fatal Attraction precept error on clients, resulting in missing FX."
+    }
+  ],
+  "8ee2f4a517f1f2b96a022e99252b20dd": [
+    {
+      "name": "Fortuna: Hotfix 24.0.7",
+      "date": "2018-11-15T20:08:27Z",
+      "url": "https://forums.warframe.com/topic/1032058-fortuna-hotfix-2407/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Fetch Mod not functioning for a Client Venari. "
+    },
+    {
+      "name": "Fortuna: Hotfix 24.0.5",
+      "date": "2018-11-12T23:54:52Z",
+      "url": "https://forums.warframe.com/topic/1030252-fortuna-hotfix-2405/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Fetch mod causing other Companion Mods to not function (specific to Kavats and Kubrows)."
+    },
+    {
+      "name": "Fortuna: Hotfix 24.0.2",
+      "date": "2018-11-09T22:23:12Z",
+      "url": "https://forums.warframe.com/topic/1027194-fortuna-hotfix-2402/",
+      "additions": "",
+      "changes": "Both Vacuum and Fetch Mods now pull the items directly to the Warframe as opposed to the Sentinel/Pet. Pets in Warframe don’t mimic the same ‘follow’ logic like Sentinels, so they would end up running around with items instead of giving them to you. So basically very bad at fetching....",
+      "fixes": ""
+    },
+    {
+      "name": "Update 14: The Mad Cephalon",
+      "date": "2014-07-18T09:44:52Z",
+      "url": "https://forums.warframe.com/topic/263213-update-14-the-mad-cephalon/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fetch the Kubrow Quest by slaying the mechanical four-legged pest!"
+    }
+  ],
+  "0a70ad4280cdf1c3ad367a00dcab753f": [
+    {
+      "name": "Fortuna: Update 24.1.0 - TennoGen Round 14",
+      "date": "2018-11-22T21:50:53Z",
+      "url": "https://forums.warframe.com/topic/1035982-fortuna-update-2410-tennogen-round-14/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Kubrow Dual Stat Mods (Flame Gland, Shock Collar, Frost Jaw and Venom Teeth) not appearing in the Codex nor Chat linkable. "
+    }
+  ],
+  "efaead94d75b475e1fb1f3f1d47902ba": [
+    {
+      "name": "Fortuna: Update 24.1.0 - TennoGen Round 14",
+      "date": "2018-11-22T21:50:53Z",
+      "url": "https://forums.warframe.com/topic/1035982-fortuna-update-2410-tennogen-round-14/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Kubrow Dual Stat Mods (Flame Gland, Shock Collar, Frost Jaw and Venom Teeth) not appearing in the Codex nor Chat linkable. "
+    }
+  ],
+  "a7797b64779de17262b2b2aba7682700": [
+    {
+      "name": "Plains of Eidolon: Hotfix 22.8.1",
+      "date": "2017-12-22T18:19:45Z",
+      "url": "https://forums.warframe.com/topic/898703-plains-of-eidolon-hotfix-2281/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Ballistica Prime not creating proper ‘Ghost’ on Charged Attack kill. "
+    },
+    {
+      "name": "Plains of Eidolon: Hotfix 22.0.7",
+      "date": "2017-10-19T20:48:18Z",
+      "url": "https://forums.warframe.com/topic/862704-plains-of-eidolon-hotfix-2207/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Virtuos Ghost and Virtuos Shadow not having percentage values."
+    },
+    {
+      "name": "Warframe Update 22: Plains of Eidolon",
+      "date": "2017-10-12T22:00:20Z",
+      "url": "https://forums.warframe.com/topic/854253-warframe-update-22-plains-of-eidolon/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/plainsOfEidolon/keyArtV3.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with Shade's Ghost removing cosmetics from your invisible silhouette. "
+    },
+    {
+      "name": "Hydroid Prime: Update 21.6.0",
+      "date": "2017-08-29T17:55:46Z",
+      "url": "https://forums.warframe.com/topic/836927-hydroid-prime-update-2160/",
+      "imgUrl": "http://n8k6e2y6.ssl.hwcdn.net/uploads/098afb7883e26718f1dfbc26fe1de1c3.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed being able to see 'Health' of Kuva Ghosts even though they don't die or have Health. "
+    },
+    {
+      "name": "Octavia's Anthem: Update 20",
+      "date": "2017-03-24T19:46:02Z",
+      "url": "https://forums.warframe.com/topic/776642-octavias-anthem-update-20/",
+      "imgUrl": "http://i.imgur.com/h14igRz.jpg",
+      "additions": "",
+      "changes": "Ghost: 1",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 16.5.1",
+      "date": "2015-05-12T20:51:22Z",
+      "url": "https://forums.warframe.com/topic/456211-hotfix-1651/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Shade Sentinel’s Ghost and the Hura's Stalk Ability not properly functioning."
+    },
+    {
+      "name": "Update 15.8.0",
+      "date": "2014-12-19T23:27:57Z",
+      "url": "https://forums.warframe.com/topic/369665-update-1580/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Your score will be based on the most damage dealt to the Fomorian Power Core in a given mission. Clan score is sum of personal best but divided by max clan size for that tier (ie: 10 for Ghost Clan, 1000 for Moon)."
+    },
+    {
+      "name": "Update 7.7.3: Level Expansions And New Weapons!",
+      "date": "2013-04-12T18:30:56Z",
+      "url": "https://forums.warframe.com/topic/27448-update-773-level-expansions-and-new-weapons/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Shade sentinel will now cloak as well when casting Ghost"
+    }
+  ],
+  "b71757183bbdcbbf438a4cd24b4588f1": [
+    {
+      "name": "Buried Debts: Hotfix 24.5.1",
+      "date": "2019-03-15T21:08:17Z",
+      "url": "https://forums.warframe.com/topic/1071547-buried-debts-hotfix-2451/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a progression stopper in the Sands of Inaros quest from an inability to defeat the Tomb Guardians. "
+    },
+    {
+      "name": "Buried Debts: Update 24.5.0",
+      "date": "2019-03-14T21:06:12Z",
+      "url": "https://forums.warframe.com/topic/1070992-buried-debts-update-2450/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/5576015e88951a00ab3824307aea467a.jpg",
+      "additions": "",
+      "changes": "Fixed the Operator's Vazarin Guardian Shell not manifesting the charged Void Blast shield.",
+      "fixes": ""
+    },
+    {
+      "name": "Mask of the Revenant: Hotfix 23.8.2",
+      "date": "2018-09-19T14:29:43Z",
+      "url": "https://forums.warframe.com/topic/1010324-mask-of-the-revenant-hotfix-2382/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Operators inability to use Void Blast or Guardian Shell while sprinting when Guardian Shell is active."
+    },
+    {
+      "name": "Shrine of the Eidolon: Hotfix 22.17.4",
+      "date": "2018-04-13T20:03:57Z",
+      "url": "https://forums.warframe.com/topic/944966-shrine-of-the-eidolon-hotfix-22174/",
+      "additions": "",
+      "changes": "Kuva Guardians will now play their disarming animation properly, instead of having their Twin Rogga’s magically pop into their hands.",
+      "fixes": ""
+    },
+    {
+      "name": "Shrine of the Eidolon: Update 22.17.0 + 22.17.0.1",
+      "date": "2018-03-28T18:49:46Z",
+      "url": "https://forums.warframe.com/topic/939097-shrine-of-the-eidolon-update-22170-221701/",
+      "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/f987a0c10e87a41fe6c95a4283231bb5.png",
+      "additions": "",
+      "changes": "Guardian Health type is now in line with the rest of Grineer.\nAdded a pulsing red glow around Kuva Guardians for a few seconds to depict when they are vulnerable (similar to the Teralyst).",
+      "fixes": ""
+    },
+    {
+      "name": "Shrine of the Eidolon: Update 22.15.0",
+      "date": "2018-03-07T21:04:32Z",
+      "url": "https://forums.warframe.com/topic/930667-shrine-of-the-eidolon-update-22150/",
+      "imgUrl": "http://n8k6e2y6.ssl.hwcdn.net/uploads/d14f21e519b6111ca20d4d13c1610d1c.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Helios' Detect Vulnerability precept not applying the Damage multiplier on enemies seated in mounted guns or Jesters riding Kuva Guardians."
+    },
+    {
+      "name": "Plains of Eidolon: Update 22.6.0 + Hotfix 22.6.0.1",
+      "date": "2017-12-07T22:05:21Z",
+      "url": "https://forums.warframe.com/topic/891096-plains-of-eidolon-update-2260-hotfix-22601/",
+      "imgUrl": "https://content.invisioncic.com/Mwarframe/monthly_2017_12/Warframe0044.thumb.jpg.301d3829b792af173307be6fda35cbb8.jpg",
+      "additions": "",
+      "changes": "Guardian Blast now grants 160 shields at max, up from 100.",
+      "fixes": ""
+    },
+    {
+      "name": "Plains of Eidolon: Hotfix 22.0.7",
+      "date": "2017-10-19T20:48:18Z",
+      "url": "https://forums.warframe.com/topic/862704-plains-of-eidolon-hotfix-2207/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Vazarin’s Guardian Shell not having unique values for the last 2 upgrade levels."
+    },
+    {
+      "name": "Plains of Eidolon: Hotfix 22.0.3",
+      "date": "2017-10-16T21:47:16Z",
+      "url": "https://forums.warframe.com/topic/859709-plains-of-eidolon-hotfix-2203/",
+      "additions": "",
+      "changes": "Polished the animations for Vazarin’s Guardian Shell to reduce head swaying when jogging.  ",
+      "fixes": ""
+    },
+    {
+      "name": "Chains of Harrow: Hotfix 21.0.8 + 21.0.8.1",
+      "date": "2017-07-13T20:50:40Z",
+      "url": "https://forums.warframe.com/topic/817221-chains-of-harrow-hotfix-2108-21081/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Kuva Braids randomly summoning Guardian Eximis. "
+    },
+    {
+      "name": "Update 21: Chains of Harrow",
+      "date": "2017-06-29T03:00:20Z",
+      "url": "https://forums.warframe.com/topic/809842-update-21-chains-of-harrow/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/images/promo/harrow/PriestSpear_1080p.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Tomb Guardians multiplying on death when force-killed in Simulacrum/Captura."
+    },
+    {
+      "name": "Octavia's Anthem: Update 20.1.0",
+      "date": "2017-04-05T21:08:26Z",
+      "url": "https://forums.warframe.com/topic/783215-octavias-anthem-update-2010/",
+      "imgUrl": "http://i.imgur.com/lBSCU4r.jpg",
+      "additions": "",
+      "changes": "Kuva Jesters now take normal ability damage (not CC damage) when attached to either the Kuva Guardian or you.",
+      "fixes": "Fixed Kuva Guardians sometimes appearing invisible in-mission."
+    },
+    {
+      "name": "Banshee Prime: Hotfix 19.11.5 + 19.11.6",
+      "date": "2017-02-28T22:44:49Z",
+      "url": "https://forums.warframe.com/topic/767736-banshee-prime-hotfix-19115-19116/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Kuva Guardians Knockdown animation not playing for Clients."
+    },
+    {
+      "name": "The Glast Gambit: Hotfix 19.9.1",
+      "date": "2017-02-02T22:32:29Z",
+      "url": "https://forums.warframe.com/topic/757913-the-glast-gambit-hotfix-1991/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Kuva Jesters standing on Kuva Guardian’s shoulders when shot with Ivara’s Sleep Arrow."
+    },
+    {
+      "name": "The Glast Gambit: Hotfix 19.6.1",
+      "date": "2017-01-13T16:41:08Z",
+      "url": "https://forums.warframe.com/topic/749385-the-glast-gambit-hotfix-1961/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Kuva Guardian impact sounds not playing for the Host."
+    }
+  ],
+  "d2aa13bd885dcaa7ac2ec57824a4f4c5": [
+    {
+      "name": "Fortuna: Hotfix 24.0.2",
+      "date": "2018-11-09T22:23:12Z",
+      "url": "https://forums.warframe.com/topic/1027194-fortuna-hotfix-2402/",
+      "additions": "",
+      "changes": "The Hastened Deflection Mod is now a ‘BEAST’ Mod, meaning it’s also compatible with Kavats and Helminth Charger. ",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
+      "date": "2016-05-27T21:20:29Z",
+      "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
+      "imgUrl": "http://i.imgur.com/1JPOZC1.png",
+      "additions": "",
+      "changes": "•    The ‘Fast Deflection’ Kubrow Mod has been renamed to ‘Hastened Deflection’",
+      "fixes": ""
+    }
+  ],
+  "9f7ff02a354819a8349e2f79b375e022": [
+    {
+      "name": "Fortuna: Hotfix 24.2.7 + 24.2.7.1",
+      "date": "2019-01-09T18:37:18Z",
+      "url": "https://forums.warframe.com/topic/1052727-fortuna-hotfix-2427-24271/",
+      "additions": "",
+      "changes": "Made some micro-optimizations to the Hunter Command Beast Precept Mod.",
+      "fixes": "Fixed the Hunter Command Beast Precept Mod generating 100 Kavat Affinity every 6 seconds (this could also trigger a UI-issue where it would appear to generate increasing amounts of Affinity)."
+    },
+    {
+      "name": "Plains of Eidolon: Hotfix 22.8.2",
+      "date": "2018-01-04T20:43:45Z",
+      "url": "https://forums.warframe.com/topic/904138-plains-of-eidolon-hotfix-2282/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Hunter Command Mod not allowing pets to use other scripted abilities they have equipped (such as Smeeta Charm)."
+    },
+    {
+      "name": "Plains of Eidolon: Update 22.6.0 + Hotfix 22.6.0.1",
+      "date": "2017-12-07T22:05:21Z",
+      "url": "https://forums.warframe.com/topic/891096-plains-of-eidolon-update-2260-hotfix-22601/",
+      "imgUrl": "https://content.invisioncic.com/Mwarframe/monthly_2017_12/Warframe0044.thumb.jpg.301d3829b792af173307be6fda35cbb8.jpg",
+      "additions": "",
+      "changes": "Hunter Command Mod change: your Companion will now focus on an enemy for a set duration when they are first slash proc’d by you. While focused on a target, they will ignore any other newly proc’d enemies and will go back to their default behavior after the duration expires.",
+      "fixes": ""
+    },
+    {
+      "name": "Plains of Eidolon: Update 22.3.0",
+      "date": "2017-11-15T16:50:55Z",
+      "url": "https://forums.warframe.com/topic/879496-plains-of-eidolon-update-2230/",
+      "imgUrl": "https://n8k6e2y6.ssl.hwcdn.net/uploads/OperationPlagueStar_Keyart.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Hunter Command Mod having an unrelated Fusion Core (wow, remember those things??) description. "
+    }
+  ],
+  "0a0e86b255cc3180a708fcb804127ada": [
+    {
+      "name": "Plains of Eidolon: Hotfix 22.3.5",
+      "date": "2017-11-20T23:06:42Z",
+      "url": "https://forums.warframe.com/topic/882798-plains-of-eidolon-hotfix-2235/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Hunter Synergy Mod’s +30 Crit-Link stat not displaying anywhere on the Arsenal UI."
+    }
+  ],
+  "8ea2913f77c439d48f15c72758b561cc": [
+    {
+      "name": "Shrine of the Eidolon: Hotfix 22.17.4",
+      "date": "2018-04-13T20:03:57Z",
+      "url": "https://forums.warframe.com/topic/944966-shrine-of-the-eidolon-hotfix-22174/",
+      "additions": "",
+      "changes": "Optimized Helios' Investigator Precept: it should now find targets more than 10x faster and no longer causes periodic spikes in frame-time as high as 7ms. ",
+      "fixes": ""
+    },
+    {
+      "name": "Shrine of the Eidolon: Update 22.15.0",
+      "date": "2018-03-07T21:04:32Z",
+      "url": "https://forums.warframe.com/topic/930667-shrine-of-the-eidolon-update-22150/",
+      "imgUrl": "http://n8k6e2y6.ssl.hwcdn.net/uploads/d14f21e519b6111ca20d4d13c1610d1c.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed cases where Helios began vibrating when equipped with the Investigator precept. "
+    },
+    {
+      "name": "The Glast Gambit: Hotfix 19.6.3",
+      "date": "2017-01-17T19:30:07Z",
+      "url": "https://forums.warframe.com/topic/751177-the-glast-gambit-hotfix-1963/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Investigator Mod description showing unrounded duration values."
+    },
+    {
+      "name": "Update 13.3.0: Pack Hunters",
+      "date": "2014-05-14T23:33:51Z",
+      "url": "https://forums.warframe.com/topic/231590-update-1330-pack-hunters/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Helios' Investigator Precept not properly displaying/calculating its max rank and perpetually behaving like a rank 0 mod. It will also receive a target lock so it doesn’t Get distracted during scans so easily."
+    }
+  ],
+  "fb62fd6029ec042a8eb48319aac00f04": [
+    {
+      "name": "Specters of the Rail: Hotfix 12",
+      "date": "2016-07-20T20:28:28Z",
+      "url": "https://forums.warframe.com/topic/677187-specters-of-the-rail-hotfix-12/",
+      "additions": "",
+      "changes": "Replaced the unreleased Rank-5 version of Link Health for Kavats with the proper Rank 10 version that is shared with Kubrows. This mod was only obtainable through Transmutation.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 14.0.9",
+      "date": "2014-07-26T01:03:34Z",
+      "url": "https://forums.warframe.com/topic/273702-hotfix-1409/",
+      "additions": "",
+      "changes": "Fixed an awkward floating animation that would occur when a bleeding out Kubrow was affected by 'Link Health'.",
+      "fixes": ""
+    }
+  ],
+  "c395ccfd909ee559ed874c864bbe80ff": [
+    {
+      "name": "The Sacrifice: Hotfix 23.0.8",
+      "date": "2018-07-09T20:05:25Z",
+      "url": "https://forums.warframe.com/topic/980491-the-sacrifice-hotfix-2308/",
+      "additions": "",
+      "changes": "Made minor optimizations to Carrier's Looter precept. ",
+      "fixes": ""
+    },
+    {
+      "name": "Plains of Eidolon: Hotfix 22.3.5",
+      "date": "2017-11-20T23:06:42Z",
+      "url": "https://forums.warframe.com/topic/882798-plains-of-eidolon-hotfix-2235/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Carrier's Looter precept not working for some Plains resources like Grokdrul containers."
+    },
+    {
+      "name": "Update 18.6",
+      "date": "2016-03-16T20:07:20Z",
+      "url": "https://forums.warframe.com/topic/625930-update-186/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Players can now trade the Carrier Sentinel’s Looter Mod."
+    }
+  ],
+  "3adc7e07637cd0c6d6fd941e5d2a4752": [
+    {
+      "name": "Hotfix 14.0.6",
+      "date": "2014-07-22T18:09:24Z",
+      "url": "https://forums.warframe.com/topic/270031-hotfix-1406/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Increased the Bleedout duration of Kubrow's without the Loyal Companion mod to 3 seconds, please note you will now observe the bleed-out system working as intended as of this hotfix."
+    }
+  ],
+  "dc99ce586112a3b09b23f9e595a04c06": [
+    {
+      "name": "Specters of the Rail: Hotfix 13",
+      "date": "2016-07-26T18:38:42Z",
+      "url": "https://forums.warframe.com/topic/679601-specters-of-the-rail-hotfix-13/",
+      "additions": "",
+      "changes": "Increased Kubrow's base damage 150% and base Critical Damage multiplier from 1.6x to 3x so that for a Kubrow fitted with Rank 10 Maul Mod and Rank 10 Bite Mod the average damage would be almost exactly the same as before.",
+      "fixes": ""
+    }
+  ],
+  "02cb750c14f9ca696624fa1c416207c6": [
+    {
+      "name": "Fortuna: Hotfix 24.0.2",
+      "date": "2018-11-09T22:23:12Z",
+      "url": "https://forums.warframe.com/topic/1027194-fortuna-hotfix-2402/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed inability to equip Bite, Pack Leader, and Medi-Pet Kit on the Helminth Charger."
+    },
+    {
+      "name": "The Index Preview: Hotfix #3",
+      "date": "2016-10-21T21:33:05Z",
+      "url": "https://forums.warframe.com/topic/709998-the-index-preview-hotfix-3/",
+      "additions": "Added the Medi-Pet Kit Mod to the Codex.",
+      "changes": "",
+      "fixes": ""
+    },
+    {
+      "name": "The Index Preview",
+      "date": "2016-10-20T23:28:18Z",
+      "url": "https://forums.warframe.com/topic/709665-the-index-preview/",
+      "imgUrl": "http://i.imgur.com/49dlyEz.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Medi-Pet Kit (Companion)"
+    }
+  ],
+  "1e87fae0de453f74201884fb699ecb87": [
+    {
+      "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
+      "date": "2018-07-18T17:30:11Z",
+      "url": "https://forums.warframe.com/topic/984990-the-sacrifice-update-2310-tennogen-round-13/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/87c65a156a389ba969cc1c45050d52d7.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Sentinel 'Medi-Ray' Mod not working with Umbra."
+    },
+    {
+      "name": "Specters of the Rail: Hotfix 13",
+      "date": "2016-07-26T18:38:42Z",
+      "url": "https://forums.warframe.com/topic/679601-specters-of-the-rail-hotfix-13/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Medi-Ray Sentinel precept description missing when hovering over the icon."
+    }
+  ],
+  "0b97bfc84c67d17698a297d9b61b341a": [
+    {
+      "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
+      "date": "2016-05-27T21:20:29Z",
+      "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
+      "imgUrl": "http://i.imgur.com/1JPOZC1.png",
+      "additions": "",
+      "changes": "•    The ‘Steel Fiber’ Sentinel Mod had been renamed to ‘Metal Fiber’",
+      "fixes": ""
+    }
+  ],
+  "e5126cf90b77200e2fa1511519a4370c": [
+    {
+      "name": "The Glast Gambit: Hotfix 19.10.1+19.10.1.1",
+      "date": "2017-02-14T14:20:17Z",
+      "url": "https://forums.warframe.com/topic/762596-the-glast-gambit-hotfix-19101191011/",
+      "additions": "",
+      "changes": "Tweaked Taxon’s Molecular Conversion’s damage conversion value (per rank) to 50, 75, 100, 125, 150, 200 (previously 50, 100, 150, 200, 200, 200).",
+      "fixes": ""
+    }
+  ],
+  "0731bd664e4ddf6afc5bb0fbdd9c88d7": [
+    {
+      "name": "Fortuna: Hotfix 24.0.2",
+      "date": "2018-11-09T22:23:12Z",
+      "url": "https://forums.warframe.com/topic/1027194-fortuna-hotfix-2402/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed inability to equip Bite, Pack Leader, and Medi-Pet Kit on the Helminth Charger."
+    }
+  ],
+  "9406504045c77c0535410b1c801ba595": [
+    {
+      "name": "Octavia’s Anthem: Hotfix 20.4.2",
+      "date": "2017-05-05T03:26:41Z",
+      "url": "https://forums.warframe.com/topic/793795-octavia%E2%80%99s-anthem-hotfix-2042/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Self Destruct, Regen/Primed Regen, and Sacrifice Sentinel Mods not synergizing. Self Destruct will now proc everytime Regen does (i.e. when the Sentinel would have died). "
+    },
+    {
+      "name": "The Glast Gambit: Hotfix 19.6.2",
+      "date": "2017-01-13T21:09:22Z",
+      "url": "https://forums.warframe.com/topic/749509-the-glast-gambit-hotfix-1962/",
+      "additions": "",
+      "changes": "The Regen Mod (both Primed and regular) now grants temporary invulnerability to Sentinels on revive for a duration of one second + one second per rank of the mod. This means that with a maxed Primed Regen, you could see 11 seconds of invulnerability after the Regen occurs.",
+      "fixes": "Fixed Primed Regen and the Ki’Teer Sugatra missing localized text."
+    },
+    {
+      "name": "The Glast Gambit: Hotfix 19.6.1",
+      "date": "2017-01-13T16:41:08Z",
+      "url": "https://forums.warframe.com/topic/749385-the-glast-gambit-hotfix-1961/",
+      "additions": "",
+      "changes": "",
+      "fixes": "The Regen Mod (both Primed and regular) now grants temporary invulnerability to Sentinels on revive for a duration of one second + one second per rank of the mod. This means that with a maxed Primed Regen, you could see 11 seconds of invulnerability after the Regen occurs."
+    }
+  ],
+  "a71a297ed63905288ea3e3e8f900bac2": [
+    {
+      "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
+      "date": "2018-07-18T17:30:11Z",
+      "url": "https://forums.warframe.com/topic/984990-the-sacrifice-update-2310-tennogen-round-13/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/87c65a156a389ba969cc1c45050d52d7.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue where Clients would not see Djinn's Reawaken icon. "
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.8 + 22.20.8.1",
+      "date": "2018-06-05T17:20:04Z",
+      "url": "https://forums.warframe.com/topic/963818-beasts-of-the-sanctuary-hotfix-22208-222081/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Djinn’s Reawaken Mod not Reviving your Sentinel while controlling the Operator. "
+    }
+  ],
+  "7d840532fbbc55e8a90d31d019f762bf": [
+    {
+      "name": "Shrine of the Eidolon: Update 22.17.3",
+      "date": "2018-04-11T21:25:15Z",
+      "url": "https://forums.warframe.com/topic/944270-shrine-of-the-eidolon-update-22173/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/34ebbe08b5fb062067c06e8bf96448a9.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Sentinel Regen Mod not resetting when transitioning back and forth from Cetus to the Plains."
+    },
+    {
+      "name": "Plains of Eidolon: Hotfix 22.2.5",
+      "date": "2017-11-11T02:19:26Z",
+      "url": "https://forums.warframe.com/topic/877028-plains-of-eidolon-hotfix-2225/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Operator Amp Energy Regeneration rate being much faster for Clients when using an Amp that has the Klebrik Scaffold."
+    },
+    {
+      "name": "Chains of Harrow: Hotfix 21.2.1",
+      "date": "2017-08-01T17:58:55Z",
+      "url": "https://forums.warframe.com/topic/825578-chains-of-harrow-hotfix-2121/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Sentinel Regen Mod not activating sometimes. "
+    },
+    {
+      "name": "Octavia’s Anthem: Update 20.6.0 + 20.6.0.1",
+      "date": "2017-05-24T20:42:16Z",
+      "url": "https://forums.warframe.com/topic/800141-octavia%E2%80%99s-anthem-update-2060-20601/",
+      "imgUrl": "http://i.imgur.com/ZsmkFGO.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Sentinel Regen Mod not working when controlling the Operator."
+    },
+    {
+      "name": "Octavia’s Anthem: Hotfix 20.4.2",
+      "date": "2017-05-05T03:26:41Z",
+      "url": "https://forums.warframe.com/topic/793795-octavia%E2%80%99s-anthem-hotfix-2042/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Self Destruct, Regen/Primed Regen, and Sacrifice Sentinel Mods not synergizing. Self Destruct will now proc everytime Regen does (i.e. when the Sentinel would have died). "
+    },
+    {
+      "name": "Octavia’s Anthem: Update 20.4.0",
+      "date": "2017-05-04T13:58:50Z",
+      "url": "https://forums.warframe.com/topic/793570-octavia%E2%80%99s-anthem-update-2040/",
+      "additions": "",
+      "changes": "Fixed Health Regeneration not working after triggering the Phoenix Renewal Augment.",
+      "fixes": ""
+    },
+    {
+      "name": "Octavia's Anthem: Hotfix 20.0.6",
+      "date": "2017-03-29T21:11:47Z",
+      "url": "https://forums.warframe.com/topic/780209-octavias-anthem-hotfix-2006/",
+      "imgUrl": "http://i.imgur.com/COIiN0F.png",
+      "additions": "",
+      "changes": "Limbo does not receive Energy Regen while in the Rift.",
+      "fixes": ""
+    },
+    {
+      "name": "The Glast Gambit: Update 19.9.0",
+      "date": "2017-02-01T21:04:20Z",
+      "url": "https://forums.warframe.com/topic/757465-the-glast-gambit-update-1990/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Phoenix Renewal (Regeneration Augment Mod) Impact message showing loc tag."
+    },
+    {
+      "name": "The Glast Gambit: Update 19.8.0",
+      "date": "2017-01-25T19:24:45Z",
+      "url": "https://forums.warframe.com/topic/754548-the-glast-gambit-update-1980/",
+      "imgUrl": "http://i.imgur.com/W9ze8eZ.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Sentinel Ammo Case Mod and Regen not working together (Ammo Case was lost after Regen was used)."
+    },
+    {
+      "name": "The Glast Gambit: Hotfix 19.6.3",
+      "date": "2017-01-17T19:30:07Z",
+      "url": "https://forums.warframe.com/topic/751177-the-glast-gambit-hotfix-1963/",
+      "additions": "",
+      "changes": "Tweaked the Sentinel Regen Mod description to include new invulnerability mechanic. ",
+      "fixes": ""
+    },
+    {
+      "name": "The Glast Gambit: Hotfix 19.6.2",
+      "date": "2017-01-13T21:09:22Z",
+      "url": "https://forums.warframe.com/topic/749509-the-glast-gambit-hotfix-1962/",
+      "additions": "",
+      "changes": "The Regen Mod (both Primed and regular) now grants temporary invulnerability to Sentinels on revive for a duration of one second + one second per rank of the mod. This means that with a maxed Primed Regen, you could see 11 seconds of invulnerability after the Regen occurs.",
+      "fixes": "Fixed Regen invulnerability lasting forever in some cases.\nFixed Primed Regen and the Ki’Teer Sugatra missing localized text."
+    },
+    {
+      "name": "The Glast Gambit: Hotfix 19.6.1",
+      "date": "2017-01-13T16:41:08Z",
+      "url": "https://forums.warframe.com/topic/749385-the-glast-gambit-hotfix-1961/",
+      "additions": "",
+      "changes": "",
+      "fixes": "The Regen Mod (both Primed and regular) now grants temporary invulnerability to Sentinels on revive for a duration of one second + one second per rank of the mod. This means that with a maxed Primed Regen, you could see 11 seconds of invulnerability after the Regen occurs."
+    },
+    {
+      "name": "The Glast Gambit: Update 19.6.0 + 19.6.0.1",
+      "date": "2017-01-11T23:47:27Z",
+      "url": "https://forums.warframe.com/topic/748631-the-glast-gambit-update-1960-19601/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a script error when your Companion used Regeneration."
+    },
+    {
+      "name": "Update 18.3",
+      "date": "2016-01-13T22:55:58Z",
+      "url": "https://forums.warframe.com/topic/594267-update-183/",
+      "additions": "",
+      "changes": "The Secondary Wind Conclave Mod has been changed to: On Kill, +5 Health Regen for 10 Seconds.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 17.2",
+      "date": "2015-08-19T21:49:41Z",
+      "url": "https://forums.warframe.com/topic/514266-update-172/",
+      "additions": "",
+      "changes": "Gain Health Regen, but increased Shield Recharge Delay ",
+      "fixes": ""
+    },
+    {
+      "name": "Update 15.12.0",
+      "date": "2015-01-29T22:14:29Z",
+      "url": "https://forums.warframe.com/topic/393115-update-15120/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed spelling error on Saryn’s Regenerative Molt Augment."
+    },
+    {
+      "name": "Hotfix 14.1.4",
+      "date": "2014-08-06T22:13:47Z",
+      "url": "https://forums.warframe.com/topic/284750-hotfix-1414/",
+      "additions": "",
+      "changes": "Regeneration stations have been removed from a number of starting Dark Sector tiles.",
+      "fixes": "Fixed an issue with Clients being able to kill Sentinels equipped with Regen abilities in Dark Sector missions."
+    },
+    {
+      "name": "Update 12: Zephyr Rises",
+      "date": "2014-02-06T03:19:59Z",
+      "url": "https://forums.warframe.com/topic/172913-update-12-zephyr-rises/",
+      "additions": "",
+      "changes": "Oberon's Regeneration projectile speed increase.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 7.8.0",
+      "date": "2013-04-19T21:13:26Z",
+      "url": "https://forums.warframe.com/topic/31722-update-780/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Sentinels not activating Regen if they took damage from multiple sources in the same frame"
+    }
+  ],
+  "21c9eef4e99c6bc0ab630a3829565c5b": [
+    {
+      "name": "Update: Lunaro",
+      "date": "2016-06-15T23:58:19Z",
+      "url": "https://forums.warframe.com/topic/660347-update-lunaro/",
+      "imgUrl": "http://i.imgur.com/8pv5NTb.png",
+      "additions": "",
+      "changes": "•    Bursas will no longer drop Common Mods (Revenge, Ammo Drum).",
+      "fixes": ""
+    },
+    {
+      "name": "8.0.5: It's Getting Hot(Fix) In Here",
+      "date": "2013-05-28T22:09:57Z",
+      "url": "https://forums.warframe.com/topic/53908-805-its-getting-hotfix-in-here/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Sentinel buffs: improved firing accuracy, plus extended attack range for Warrior and Revenge to 15m"
+    }
+  ],
+  "582f54aefe9c63cf79d71d98f1f45f5d": [
+    {
+      "name": "Fortuna: Hotfix 24.3.2 - Nightwave",
+      "date": "2019-02-28T20:14:37Z",
+      "url": "https://forums.warframe.com/topic/1065095-fortuna-hotfix-2432-nightwave/",
+      "additions": "",
+      "changes": "We’re working on a script to give back Sacrificed items that were lost. This thread will be updated when the script is complete.\nAs it turns out, a script is not required! If you Sacrificed items to the Syndicate void, attempting to Rank up again with the same Syndicate will instantly grant success without taking any requirements (aka free Rank up since you already paid).",
+      "fixes": ""
+    },
+    {
+      "name": "Fortuna: Hotfix 24.2.11",
+      "date": "2019-01-29T19:01:28Z",
+      "url": "https://forums.warframe.com/topic/1057949-fortuna-hotfix-24211/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed AI that are meant to follow you becoming distracted. This was predominantly seen during the The War Within and The Sacrifice quests during certain moments."
+    },
+    {
+      "name": "Chimera: Hotfix 23.10.1",
+      "date": "2018-10-12T16:40:36Z",
+      "url": "https://forums.warframe.com/topic/1016718-chimera-hotfix-23101/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed flickering FX during certain moments in The Sacrifice quest."
+    },
+    {
+      "name": "Chimera: Update 23.10",
+      "date": "2018-10-12T13:56:43Z",
+      "url": "https://forums.warframe.com/topic/1016610-chimera-update-2310/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/1a5052e0e614dd7d7858b2a38fca9bf8.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "The launch of The Sacrifice back in June 2018 was the last Mainline update to go out, and it was no doubt a hefty one. There was much for the entire DE team to comb through and we find this to be the case with all Mainlines. As we say with all Mainlines, we can’t catch everything that may fall through the cracks, meaning you may see some WIP or unintentional things that are not meant to be live.\nFixed Sentinel \"Sacrifice\" mod sometimes failing to activate if a teammate tries to revive you and then fails at the last second.\nFixed crash that would occur on the first mission on Earth during The Sacrifice Quest. \nFixed script error that could make it impossible to use Transference with Umbra during the Chase Umbra mission in The Sacrifice Quest. \nFixed death cam appearing out of the level when killed by Umbra during the “Confront Umbra” mission in The Sacrifice Quest. \nFixed Umbra running around in circles lost looking for player if the player is standing on a specific ledge during the “Confront Umbra” mission in The Sacrifice Quest. \nFixed a crash in the Sacrifice that occurred if an Operator hadn’t been upgraded.\nFixed issue where Umbra would stand still if the Operator jumped onto a certain platform during The Sacrifice Quest."
+    },
+    {
+      "name": "Mask of the Revenant: Hotfix 23.6.2",
+      "date": "2018-08-31T20:29:23Z",
+      "url": "https://forums.warframe.com/topic/1004345-mask-of-the-revenant-hotfix-2362/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed issue with Operator appearing invisible in The Sacrifice’s final cinematic if you have not yet visited The Quills."
+    },
+    {
+      "name": "The Sacrifice: Hotfix 23.4.2",
+      "date": "2018-08-17T20:08:27Z",
+      "url": "https://forums.warframe.com/topic/998594-the-sacrifice-hotfix-2342/",
+      "additions": "",
+      "changes": "The Sacrifice: Hotfix 23.4.2:\nExcalibur Umbra no longer requires a Fragment Scan to unlock for Frame Fighter. He will be available upon completing The Sacrifice quest.",
+      "fixes": ""
+    },
+    {
+      "name": "The Sacrifice: Hotfix 23.4.1",
+      "date": "2018-08-16T23:40:47Z",
+      "url": "https://forums.warframe.com/topic/998190-the-sacrifice-hotfix-2341/",
+      "additions": "",
+      "changes": "The Sacrifice: Hotfix 23.4.1:",
+      "fixes": ""
+    },
+    {
+      "name": "The Sacrifice: Update 23.4.0",
+      "date": "2018-08-16T21:06:52Z",
+      "url": "https://forums.warframe.com/topic/998116-the-sacrifice-update-2340/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/78536b4c8453692aebda092e06824558.jpg",
+      "additions": "",
+      "changes": "The Sacrifice: Update 23.4.0:",
+      "fixes": ""
+    },
+    {
+      "name": "The Sacrifice: Hotfix 23.3.2",
+      "date": "2018-08-13T15:10:29Z",
+      "url": "https://forums.warframe.com/topic/996876-the-sacrifice-hotfix-2332/",
+      "additions": "",
+      "changes": "The Sacrifice: Hotfix 23.3.2:",
+      "fixes": "Fixed seeing double Operators in the final cinematic of The Sacrifice.\nFixed a blocky volumetric light during a cinematic in The Sacrifice quest."
+    },
+    {
+      "name": "The Sacrifice: Hotfix 23.3.1",
+      "date": "2018-08-09T20:52:48Z",
+      "url": "https://forums.warframe.com/topic/995277-the-sacrifice-hotfix-2331/",
+      "additions": "",
+      "changes": "The Sacrifice: Hotfix 23.3.1:",
+      "fixes": ""
+    },
+    {
+      "name": "The Sacrifice: Update 23.3.0 + 23.3.0.1",
+      "date": "2018-08-09T15:46:06Z",
+      "url": "https://forums.warframe.com/topic/995084-the-sacrifice-update-2330-23301/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/a5997e71355d1daebf5f0086006610d2.jpg",
+      "additions": "",
+      "changes": "The Sacrifice: Update 23.3.0:",
+      "fixes": "Fixed inability to open the pause menu after viewing certain cinematic scenes during The Sacrifice quest.\nFixed \"Falcon\" Operator voice missing dialog during first mission in The Sacrifice quest"
+    },
+    {
+      "name": "The Sacrifice: Hotfix 23.2.1",
+      "date": "2018-08-03T15:18:14Z",
+      "url": "https://forums.warframe.com/topic/992319-the-sacrifice-hotfix-2321/",
+      "additions": "",
+      "changes": "The Sacrifice: Hotfix 23.2.1:",
+      "fixes": ""
+    },
+    {
+      "name": "The Sacrifice: Update 23.2.0",
+      "date": "2018-08-02T15:02:26Z",
+      "url": "https://forums.warframe.com/topic/991847-the-sacrifice-update-2320/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/0101f9fd2313734f1f72031130a1d0cd.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed inability to place Komi stones in The Sacrifice quest if Jump and Move Up/Afterburner are bound to a different button when using a controller.\nFixed sometimes spawning in a mystical grey box room that you totally weren't meant to see during some certain missions in The Sacrifice quest."
+    },
+    {
+      "name": "The Sacrifice: Hotfix 23.1.3",
+      "date": "2018-07-26T21:04:04Z",
+      "url": "https://forums.warframe.com/topic/988847-the-sacrifice-hotfix-2313/",
+      "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/28543b6a47c689a70b19d449aa593d1a.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "The Sacrifice: Hotfix 23.1.3"
+    },
+    {
+      "name": "The Sacrifice: Prime Vault Hotfix 23.1.2!",
+      "date": "2018-07-24T17:56:42Z",
+      "url": "https://forums.warframe.com/topic/987805-the-sacrifice-prime-vault-hotfix-2312/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed The Sacrifice Somachord fragment unlocks being in random order, which could result in fragments not spawning, or spawning when they shouldn't."
+    },
+    {
+      "name": "The Sacrifice: Hotfix 23.1.1",
+      "date": "2018-07-19T20:31:38Z",
+      "url": "https://forums.warframe.com/topic/985581-the-sacrifice-hotfix-2311/",
+      "additions": "",
+      "changes": "The Sacrifice: Hotfix 23.1.1:\nItems/resources dropped by Sentient in The Sacrifice quest have been removed. This follows precedent with other Sentient spawning related quests.\nRemoved the lore/Somachord Fragments spawning in the last mission of The Sacrifice quest. As you probably know, the pacing of that last mission doesn’t really warrant a Fragment search!",
+      "fixes": ""
+    },
+    {
+      "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
+      "date": "2018-07-18T17:30:11Z",
+      "url": "https://forums.warframe.com/topic/984990-the-sacrifice-update-2310-tennogen-round-13/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/87c65a156a389ba969cc1c45050d52d7.jpg",
+      "additions": "The Sacrifice is now replayable!  2 new original quest songs have been added to the Somachord from the Sacrifice soundtrack. You can find and scan the Fragments by re-playing the quest! ",
+      "changes": "The Sacrifice: Update 23.1.0: Tennogen Round 13!:",
+      "fixes": ""
+    },
+    {
+      "name": "The Sacrifice: Hotfix 23.0.8",
+      "date": "2018-07-09T20:05:25Z",
+      "url": "https://forums.warframe.com/topic/980491-the-sacrifice-hotfix-2308/",
+      "additions": "",
+      "changes": "The Sacrifice: Hotfix 23.0.8:\nOptimized the Sacrifice precept.",
+      "fixes": ""
+    },
+    {
+      "name": "The Sacrifice: Hotfix 23.0.6",
+      "date": "2018-06-27T17:23:10Z",
+      "url": "https://forums.warframe.com/topic/975040-the-sacrifice-hotfix-2306/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/f2ec5d1fd25b735160d38c0b50924d20.jpg",
+      "additions": "",
+      "changes": "The Sacrifice: Hotfix 23.0.6:",
+      "fixes": "Fixed The Sacrifice quest progression stopper if you didn’t have a melee weapon equipped in the ‘Pursuing Umbra’ phase.\nFixed Octavia’s Mallet causing a progression stopping issue in The Sacrifice as reported here:"
+    },
+    {
+      "name": "The Sacrifice: Hotfix 23.0.5",
+      "date": "2018-06-22T19:07:35Z",
+      "url": "https://forums.warframe.com/topic/972941-the-sacrifice-hotfix-2305/",
+      "additions": "",
+      "changes": "",
+      "fixes": "The Sacrifice: Hotfix 23.0.5ui Improvements & Fixes:"
+    },
+    {
+      "name": "The Sacrifice: Hotfix 23.0.4",
+      "date": "2018-06-20T20:44:05Z",
+      "url": "https://forums.warframe.com/topic/971991-the-sacrifice-hotfix-2304/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/c5dd4ebc5b1faa20f190bc9a65787557.jpg",
+      "additions": "",
+      "changes": "The Sacrifice: Hotfix 23.0.4:",
+      "fixes": ""
+    },
+    {
+      "name": "The Sacrifice: Hotfix 23.0.3 - Limbo Prime",
+      "date": "2018-06-19T17:58:18Z",
+      "url": "https://forums.warframe.com/topic/971211-the-sacrifice-hotfix-2303-limbo-prime/",
+      "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/16bafe11f0a19c9619e96e3a890728ec.jpg",
+      "additions": "",
+      "changes": "The Sacrifice: Hotfix 23.0.3:",
+      "fixes": ""
+    },
+    {
+      "name": "The Sacrifice: Hotfix 23.0.2 + 23.0.2.1",
+      "date": "2018-06-15T20:55:38Z",
+      "url": "https://forums.warframe.com/topic/968321-the-sacrifice-hotfix-2302-23021/",
+      "additions": "",
+      "changes": "The Sacrifice: Hotfix 23.0.2:\nPolished audio in The Sacrifice memory phases.\nImproved some subtitle timing in The Sacrifice.",
+      "fixes": "Fixed the Skiajata not taking on Custom colors in the final cut scene in the Sacrifice. \nFixed being unable to re-equip Umbra after The Sacrifice quest if you unequipped him.\nFixed the Courtyard Scene’s teleport volumes in The Sacrifice not resetting the player."
+    },
+    {
+      "name": "The Sacrifice: Hotfix 23.0.1",
+      "date": "2018-06-15T05:28:21Z",
+      "url": "https://forums.warframe.com/topic/967531-the-sacrifice-hotfix-2301/",
+      "additions": "",
+      "changes": "The Sacrifice: Hotfix 23.0.1:",
+      "fixes": ""
+    },
+    {
+      "name": "The Sacrifice: Update 23",
+      "date": "2018-06-15T00:51:48Z",
+      "url": "https://forums.warframe.com/topic/967249-the-sacrifice-update-23/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/53a0647e239997f245a6d957c7347b3e.png",
+      "additions": "",
+      "changes": "The Sacrifice: Update 23:",
+      "fixes": "[SPOILERS] [PC] Update 23: The Sacrifice Quest Bug Report Megathread"
+    },
+    {
+      "name": "Plains of Eidolon: Hotfix 22.3.4",
+      "date": "2017-11-16T23:30:13Z",
+      "url": "https://forums.warframe.com/topic/880465-plains-of-eidolon-hotfix-2234/",
+      "additions": "",
+      "changes": "We are also running a script to refund the component portion of Operational Supply Sacrifices  and updating the Sacrifice requirements (Note: Credit costs will not be refunded). If you are automatically ranked up due to the Standing changes, you will not have to pay these new Sacrifice requirements:",
+      "fixes": ""
+    },
+    {
+      "name": "Chains of Harrow: Update 21.4.0",
+      "date": "2017-08-10T17:26:21Z",
+      "url": "https://forums.warframe.com/topic/829596-chains-of-harrow-update-2140/",
+      "imgUrl": "http://i.imgur.com/insXTUT.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed players not being able to revive when their Sentinel uses Sacrifice."
+    },
+    {
+      "name": "Chains of Harrow: Hotfix 21.3.1",
+      "date": "2017-08-04T20:10:26Z",
+      "url": "https://forums.warframe.com/topic/827047-chains-of-harrow-hotfix-2131/",
+      "imgUrl": "http://i.imgur.com/mOCuLqc.jpg",
+      "additions": "",
+      "changes": "The quick revive option is also available to you in Solo missions if you have a Sentinel equipped with the “Sacrifice” mod!",
+      "fixes": ""
+    },
+    {
+      "name": "Octavia’s Anthem: Update 20.5.0",
+      "date": "2017-05-17T19:16:26Z",
+      "url": "https://forums.warframe.com/topic/797978-octavia%E2%80%99s-anthem-update-2050/",
+      "imgUrl": "http://i.imgur.com/ADvsdMP.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Sacrifice Sentinel Mod putting you into a Bleedout state instead of reviving you in Archwing."
+    },
+    {
+      "name": "Octavia’s Anthem: Hotfix 20.4.2",
+      "date": "2017-05-05T03:26:41Z",
+      "url": "https://forums.warframe.com/topic/793795-octavia%E2%80%99s-anthem-hotfix-2042/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Self Destruct, Regen/Primed Regen, and Sacrifice Sentinel Mods not synergizing. Self Destruct will now proc everytime Regen does (i.e. when the Sentinel would have died). "
+    },
+    {
+      "name": "Hotfix 18.4.12: Saryn Prime",
+      "date": "2016-02-16T21:10:22Z",
+      "url": "https://forums.warframe.com/topic/611132-hotfix-18412-saryn-prime/",
+      "additions": "",
+      "changes": "Infested Sorties will no longer generate Hijack Sortie Missions because their tiny baby claws are too small to reach the core.Convergence will always spawn moving towards an objective to help reduce unnecessary backtracking.Gravity has been disabled for Convergence pickups, keeping their appearance predictable..Steel Meridian’s General Sacrifice has been changed from Rhino Prime Helmet to Trinity Prime Helmet.The Rift and its interaction with hacking terminals has now been consistently applied to be not-hackable. You may have noticed the inconsistency in Rifted targets ability to interact with hacking panels. While his Rift-based skillset does offer some unique opportunities for players one major issue discussed within the community has been determining what are the 'rules' Limbo's Riftwalking follows. Keeping this in mind players can expect future updates to contain adjustments to Limbo, enemies, and interactable elements of the environment, to help make playing Limbo a more consistent experience.  We will continue to monitor Limbo's unique interactive mechanic and its effect on gameplay, and will let you know should any other changes be necessary. Stay tuned for a Dev Workshop!",
+      "fixes": ""
+    },
+    {
+      "name": "Update 15.1.0+15.1.01",
+      "date": "2014-11-05T22:46:16Z",
+      "url": "https://forums.warframe.com/topic/340143-update-151015101/",
+      "additions": "",
+      "changes": "Changed the Sacrifice item for the fourth title in the Arbiters of Hexis Syndicate.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 15.0.8",
+      "date": "2014-10-29T23:32:35Z",
+      "url": "https://forums.warframe.com/topic/335717-hotfix-1508/",
+      "additions": "",
+      "changes": "Altered numerous Perrin Sequence Sacrifice Credit costs to be in line with the rest of the Syndicates:",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 15.0.1",
+      "date": "2014-10-24T20:59:41Z",
+      "url": "https://forums.warframe.com/topic/329586-hotfix-1501/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with Syndicate Sacrifice being deducted more than one time in the same Rank."
+    },
+    {
+      "name": "Hotfix 14.5.1+14.5.1.1",
+      "date": "2014-08-30T01:45:08Z",
+      "url": "https://forums.warframe.com/topic/300491-hotfix-145114511/",
+      "additions": "",
+      "changes": "",
+      "fixes": "• Fixed Sacrifice precept (sentinel was not always dieing after reviving the player)."
+    }
+  ],
+  "44cdd9a732e46ca0530e697a4eafd387": [
+    {
+      "name": "Buried Debts: Hotfix 24.5.5",
+      "date": "2019-03-25T21:21:51Z",
+      "url": "https://forums.warframe.com/topic/1076040-buried-debts-hotfix-2455/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a Client script error that could occur when joining-in-progress during the initial Sanctuary Onslaught Conduit transition that would prevent the player from casting Abilities until the next Zone was activated."
+    },
+    {
+      "name": "Buried Debts: Update 24.4.0",
+      "date": "2019-03-08T02:01:23Z",
+      "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/f07ee60119e2c8efc746da7ecf4cb49e.png",
+      "additions": "",
+      "changes": "Blazing Step Ephemera (obtained from Elite Sanctuary Onslaught)",
+      "fixes": ""
+    },
+    {
+      "name": "Fortuna: Hotfix 24.2.8",
+      "date": "2019-01-15T14:46:54Z",
+      "url": "https://forums.warframe.com/topic/1054314-fortuna-hotfix-2428/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a memory leak when leaving the Orb Vallis and returning to Solaris or traversing certain Conduits in Sanctuary Onslaught."
+    },
+    {
+      "name": "Fortuna: Mesa Prime - Hotfix 24.2.2",
+      "date": "2018-12-18T18:58:36Z",
+      "url": "https://forums.warframe.com/topic/1045159-fortuna-mesa-prime-hotfix-2422/",
+      "additions": "",
+      "changes": "Sanctuary Onslaught\nElite Sanctuary Onslaught (Radiant)",
+      "fixes": ""
+    },
+    {
+      "name": "Fortuna: The Profit-Taker - Update 24.2",
+      "date": "2018-12-18T13:59:14Z",
+      "url": "https://forums.warframe.com/topic/1044890-fortuna-the-profit-taker-update-242/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Sanctuary Onslaught intro music looping."
+    },
+    {
+      "name": "Chimera: Hotfix 23.10.5",
+      "date": "2018-10-18T14:52:11Z",
+      "url": "https://forums.warframe.com/topic/1019687-chimera-hotfix-23105/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Improved AI navigation in Sanctuary Onslaught and Plains of Eidolon Bounties."
+    },
+    {
+      "name": "Chimera: Hotfix 23.10.4",
+      "date": "2018-10-16T21:02:30Z",
+      "url": "https://forums.warframe.com/topic/1019115-chimera-hotfix-23104/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Volt’s Discharge not hitting any enemies after reaching Zone 2 in an Sanctuary Onslaught mission. "
+    },
+    {
+      "name": "Mask of the Revenant: Chroma Prime 23.9.0 + 23.9.0.1",
+      "date": "2018-09-25T17:57:10Z",
+      "url": "https://forums.warframe.com/topic/1011982-mask-of-the-revenant-chroma-prime-2390-23901/",
+      "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/2cf190206c4590728d39582b26d3fbec.jpg",
+      "additions": "",
+      "changes": "Sanctuary Onslaught\nElite Sanctuary Onslaught (Radiant)",
+      "fixes": ""
+    },
+    {
+      "name": "The Sacrifice: Update 23.2.0",
+      "date": "2018-08-02T15:02:26Z",
+      "url": "https://forums.warframe.com/topic/991847-the-sacrifice-update-2320/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/0101f9fd2313734f1f72031130a1d0cd.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed abilities being permanently blocked (until death) in Sanctuary Onslaught if you enter a portal as Operator but Transfer back to Warframe right before the fade/teleport starts."
+    },
+    {
+      "name": "The Sacrifice: Hotfix 23.0.3 - Limbo Prime",
+      "date": "2018-06-19T17:58:18Z",
+      "url": "https://forums.warframe.com/topic/971211-the-sacrifice-hotfix-2303-limbo-prime/",
+      "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/16bafe11f0a19c9619e96e3a890728ec.jpg",
+      "additions": "",
+      "changes": "Sanctuary Onslaught\nElite Sanctuary Onslaught (Radiant)",
+      "fixes": ""
+    },
+    {
+      "name": "The Sacrifice: Update 23",
+      "date": "2018-06-15T00:51:48Z",
+      "url": "https://forums.warframe.com/topic/967249-the-sacrifice-update-23/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/53a0647e239997f245a6d957c7347b3e.png",
+      "additions": "",
+      "changes": "General audio polish for Sanctuary Onslaught.",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.9 + 22.20.9.1 + 22.20.9.2",
+      "date": "2018-06-07T17:36:27Z",
+      "url": "https://forums.warframe.com/topic/964770-beasts-of-the-sanctuary-hotfix-22209-222091-222092/",
+      "additions": "",
+      "changes": "Beasts Of The Sanctuary: Hotfix 22.20.9:",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.8 + 22.20.8.1",
+      "date": "2018-06-05T17:20:04Z",
+      "url": "https://forums.warframe.com/topic/963818-beasts-of-the-sanctuary-hotfix-22208-222081/",
+      "additions": "",
+      "changes": "Beasts Of The Sanctuary: Hotfix 22.20.8:",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.7",
+      "date": "2018-05-30T19:03:25Z",
+      "url": "https://forums.warframe.com/topic/961879-beasts-of-the-sanctuary-hotfix-22207/",
+      "additions": "",
+      "changes": "Beasts Of The Sanctuary: Hotfix 22.20.7:",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.6",
+      "date": "2018-05-24T22:00:50Z",
+      "url": "https://forums.warframe.com/topic/960140-beasts-of-the-sanctuary-hotfix-22206/",
+      "additions": "",
+      "changes": "Beasts Of The Sanctuary: Hotfix 22.20.6:\nFixed a variety of bugs caused by using Transference while going through Sanctuary Onslaught Conduit (namely not being able to do anything or use Transference while controlling Operator).",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.5",
+      "date": "2018-05-24T19:33:19Z",
+      "url": "https://forums.warframe.com/topic/960082-beasts-of-the-sanctuary-hotfix-22205/",
+      "additions": "",
+      "changes": "Beasts Of The Sanctuary: Hotfix 22.20.5:",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.4",
+      "date": "2018-05-22T20:13:20Z",
+      "url": "https://forums.warframe.com/topic/959378-beasts-of-the-sanctuary-hotfix-22204/",
+      "additions": "",
+      "changes": "Beasts Of The Sanctuary: Hotfix 22.20.4:",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.3",
+      "date": "2018-05-18T19:59:00Z",
+      "url": "https://forums.warframe.com/topic/957844-beasts-of-the-sanctuary-hotfix-22203/",
+      "additions": "",
+      "changes": "Beasts Of The Sanctuary: Hotfix 22.20.3:",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.2",
+      "date": "2018-05-17T21:02:11Z",
+      "url": "https://forums.warframe.com/topic/957339-beasts-of-the-sanctuary-hotfix-22202/",
+      "additions": "",
+      "changes": "Beasts Of The Sanctuary: Hotfix 22.20.2:",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.1",
+      "date": "2018-05-17T16:36:59Z",
+      "url": "https://forums.warframe.com/topic/957126-beasts-of-the-sanctuary-hotfix-22201/",
+      "additions": "",
+      "changes": "Beasts Of The Sanctuary: Hotfix 22.20.1:",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Update 22.20.0",
+      "date": "2018-05-17T14:55:31Z",
+      "url": "https://forums.warframe.com/topic/957066-beasts-of-the-sanctuary-update-22200/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/09cdfacb9f01a572c3205b5ccb861822.jpg",
+      "additions": "",
+      "changes": "Beasts Of The Sanctuary: Update 22.20.0:",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.19.1",
+      "date": "2018-05-03T17:52:02Z",
+      "url": "https://forums.warframe.com/topic/953077-beasts-of-the-sanctuary-hotfix-22191/",
+      "additions": "",
+      "changes": "Beasts Of The Sanctuary: Hotfix 22.19.1:",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Update 22.19.0",
+      "date": "2018-05-02T18:30:06Z",
+      "url": "https://forums.warframe.com/topic/952702-beasts-of-the-sanctuary-update-22190/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/8c27eabbd9bc9b5af2ba5944cd490302.jpg",
+      "additions": "",
+      "changes": "Beasts Of The Sanctuary: Update 22.19.0:\nRemoved Kuria’s from Onslaught tiles since Simaris does not allow the use of gear in the Sanctuary. ",
+      "fixes": "Fixed a pickup prompt appearing in Simaris’ Relay Sanctuary."
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.18.8",
+      "date": "2018-04-27T23:14:52Z",
+      "url": "https://forums.warframe.com/topic/950912-beasts-of-the-sanctuary-hotfix-22188/",
+      "additions": "",
+      "changes": "Beasts Of The Sanctuary: Hotfix 22.18.8:\nRemoved the increased Efficiency drain when you hit Zone 20 in Sanctuary Onslaught and from Elite Sanctuary Onslaught when you hit Zone 14. Efficiency drain will hit its max rate in Zone 16 of Sanctuary Onslaught and Zone 15 of Elite Sanctuary Onslaught.\nAdded more tiers of increasingly higher level enemies in both Sanctuary Onslaught and Elite Sanctuary Onslaught:",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.18.7",
+      "date": "2018-04-25T21:12:12Z",
+      "url": "https://forums.warframe.com/topic/950089-beasts-of-the-sanctuary-hotfix-22187/",
+      "additions": "",
+      "changes": "Beasts Of The Sanctuary: Hotfix 22.18.7:\nRemoved the Rank 30 Warframe requirement from Sanctuary Onslaught \nA prompt will appear that indicates you need to have a Rank 30 Warframe (Elite) and have completed The New Strange quest when selecting Sanctuary Onslaught if you do not meet those requirements.",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.18.6",
+      "date": "2018-04-24T18:41:48Z",
+      "url": "https://forums.warframe.com/topic/949603-beasts-of-the-sanctuary-hotfix-22186/",
+      "additions": "",
+      "changes": "Beasts Of The Sanctuary: Hotfix 22.18.6:",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.18.5",
+      "date": "2018-04-24T16:55:44Z",
+      "url": "https://forums.warframe.com/topic/949543-beasts-of-the-sanctuary-hotfix-22185/",
+      "additions": "",
+      "changes": "Beasts Of The Sanctuary: Hotfix 22.18.5:",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.18.4",
+      "date": "2018-04-23T19:06:23Z",
+      "url": "https://forums.warframe.com/topic/949165-beasts-of-the-sanctuary-hotfix-22184/",
+      "additions": "",
+      "changes": "Beasts Of The Sanctuary: Hotfix 22.18.4:\nFixed many common crashes with Sanctuary Onslaught ",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.18.3",
+      "date": "2018-04-21T13:56:13Z",
+      "url": "https://forums.warframe.com/topic/947977-beasts-of-the-sanctuary-hotfix-22183/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Sanctuary Onslaught Changes & Fixes:\nFixed more cases of crashes caused by joining Sanctuary Onslaught missions in progress."
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.18.2",
+      "date": "2018-04-20T23:19:06Z",
+      "url": "https://forums.warframe.com/topic/947643-beasts-of-the-sanctuary-hotfix-22182/",
+      "additions": "",
+      "changes": "Beasts Of The Sanctuary: Hotfix 22.18.2:\nRemoved an Infested Corpus tile and Orokin Tower tile that contained unremovable spoils in Sanctuary Onslaught. \nRemoved a white bar in the End of Mission screen for Sanctuary Onslaught summary under the \"TOTAL\" panel.\nFixed Sanctuary Onslaught total wave score showing incorrect value after the first two zones.\nFixed Sanctuary Onslaught music not playing for Clients.",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.18.1",
+      "date": "2018-04-20T18:49:33Z",
+      "url": "https://forums.warframe.com/topic/947482-beasts-of-the-sanctuary-hotfix-22181/",
+      "additions": "",
+      "changes": "Beasts Of The Sanctuary: Hotfix 22.18.1:\nRemoved a Grineer Sealab tileset from Onslaught. The Submersible water volumes do not function in the Sanctuary.\nRemoved Crates that were dropping spoils in Sanctuary Onslaught; replaced with 100% grass fed simulation friendly standard crate spawns now.\nEnd of Mission screen now displays ‘Elite Onslaught Summary’ when playing Elite Sanctuary Onslaught. ",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Update 22.18.0",
+      "date": "2018-04-20T14:27:12Z",
+      "url": "https://forums.warframe.com/topic/947321-beasts-of-the-sanctuary-update-22180/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/277cb62ca66b1693f3f6982e5e757869.png",
+      "additions": "available as Sanctuary Onslaught rewards.",
+      "changes": "Beasts Of The Sanctuary: Update 22.18.0:\nIt’s the postponed Christmas gift that keeps on giving! Revealed back on November 3rd 2017, Khora has finally clawed her way to your screens. From an originally proposed damage deviator to the now metallic Kavat wielding queen of the Strangledome, her time is now. But, she won’t come easily. For Khora and Venari have been detected in Simaris’ Sanctuary, and it’s his rules that are law there.\nIn the simulated universe of the Sanctuary, my data-immortals have fought each other countless times. Through this violence, I have studied and documented their true character. But my study cannot be complete without the power of the Tenno, the most powerful specimen in the system  — you. Your duty in this experiment is to kill as many specimens as efficiently as possible. In this chaos, the true nature of these creatures will be revealed... as will yours.”\nTalk to Cephalon Simaris at his Sanctuary in any Relay OR select Sanctuary Onslaught in the Syndicate World State Window tab.\nEnter the Conduit to the Sanctuary and maintain Efficiency against increasingly difficult Specimens for 2.5 minutes.\nWhen a zone is complete, Simaris will open a Data-Conduit to a new and harder zone within his Sanctuary.\nNo Gear! The Gear wheel, Specters, and Emotes are disabled in Sanctuary Onslaught and Elite. Strictly no Dancing in Simaris' world. \nSimaris demands only Rank 30 Warframes can compete in the Sanctuary.\nThe amount of Efficiency Stimulus that spawn decreases the deeper you go into the Sanctuary. Simaris is (somewhat) kind and will always spawn at least 1.\nIncrease your pace! The deeper you go into the Sanctuary the faster your Efficiency drops. \nSpecimens do not drop real-world things like Mods/Resources in Simaris’ Sanctuary. Rewards certainly do exist, though. Focus Boons and Reward Tables (below) aplenty! We are also going to introduce a series of rewards once this launch is out \nLeaderboards are available based on overall score for both Sanctuary Onslaught and Elite Sanctuary Onslaught that Simaris will reset weekly.",
+      "fixes": ""
+    },
+    {
+      "name": "Octavia's Anthem: Update 20",
+      "date": "2017-03-24T19:46:02Z",
+      "url": "https://forums.warframe.com/topic/776642-octavias-anthem-update-20/",
+      "imgUrl": "http://i.imgur.com/h14igRz.jpg",
+      "additions": "Numbers have been added to the Sanctuary's Practice Mastery Rank Tests so you know which test you're entering for practice of Qualification.",
+      "changes": "",
+      "fixes": "Fixed failing a Mastery Test in Simaris’ Sanctuary placing you in front of your current rank up test, rather than the one you just attempted."
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed quotation marks appearing as asterisks in Sanctuary lore entries localized for other regions."
+    },
+    {
+      "name": "Update 16.10.0",
+      "date": "2015-06-25T21:50:17Z",
+      "url": "https://forums.warframe.com/topic/480637-update-16100/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Add the Simulor to your Arsenal by visiting the Market or obtain the blueprint from Cephalon Simaris’ Sanctuary today!"
+    },
+    {
+      "name": "Hotfix 16.3.2",
+      "date": "2015-04-13T20:15:53Z",
+      "url": "https://forums.warframe.com/topic/440564-hotfix-1632/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Simaris’ dialogue appearing twice when making a purchase in his Sanctuary."
+    },
+    {
+      "name": "Update 16.3: The New Protocols",
+      "date": "2015-04-08T21:51:23Z",
+      "url": "https://forums.warframe.com/topic/437166-update-163-the-new-protocols/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Research displayed in Simaris’ Sanctuary will now show the top 5 contributors.\nFixed an issue where players using their 4th Warframe Ability during a Mastery Rank Test in Sanctuary would stop spawning enemies, making it impossible to complete the Mission."
+    },
+    {
+      "name": "Update 16.2",
+      "date": "2015-04-01T22:22:39Z",
+      "url": "https://forums.warframe.com/topic/432384-update-162/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Sanctuary Rare Spawn targets spawning in Mastery tests.\nFixed Simaris’ text dialogue appearing twice and overlapping whenever a purchase is made in Sanctuary."
+    },
+    {
+      "name": "Hotfix 16.0.4",
+      "date": "2015-03-23T22:18:24Z",
+      "url": "https://forums.warframe.com/topic/424657-hotfix-1604/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Ambulas has been removed from the Sanctuary Simulacrum.\nFixed Sanctuary’s Mastery Test practice simulations giving Credit rewards.\nFixed item drops appearing from enemies in Sanctuary Simulacrum."
+    },
+    {
+      "name": "Warframe: Sanctuary",
+      "date": "2015-03-20T02:21:54Z",
+      "url": "https://forums.warframe.com/topic/420448-warframe-sanctuary/",
+      "additions": "",
+      "changes": "",
+      "fixes": "In order to obtain this new Quest, players above Mastery Rank 5 must first visit Cephalon Simaris in his Sanctuary after completing the Stolen Dreams Quest.  From there players can acquire The New Strange and accept it from the Codex once they return to the Liset.\nCephalon Capture is our latest PvP game mode available on the Conclave Console in the Liset, and with its arrival come a slew of new changes to our existing PvP system.  The following are a list of general changes to PvP immediately available in Update: Sanctuary:\nThe following Mods can be purchased through Cephalon Simaris in the Relay Sanctuary with Standing."
+    },
+    {
+      "name": "Update 15.7.0 Nova Prime",
+      "date": "2014-12-16T18:58:55Z",
+      "url": "https://forums.warframe.com/topic/367069-update-1570-nova-prime/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed friendly fire damaging Sentinel’s Sanctuary shield."
+    },
+    {
+      "name": "Update 14.10.0",
+      "date": "2014-10-08T22:00:00Z",
+      "url": "https://forums.warframe.com/topic/321746-update-14100/",
+      "additions": "",
+      "changes": "Changed the Sentinel “Sanctuary” mod: it now goes up to Rank 10 (600 total shield) and is now amplified by your Sentinel's Redirection mod.",
+      "fixes": ""
+    }
+  ],
+  "562bc2e7afc962fdc741bd1b97c38c44": [
+    {
+      "name": "Buried Debts: Update 24.4.0",
+      "date": "2019-03-08T02:01:23Z",
+      "url": "https://forums.warframe.com/topic/1067397-buried-debts-update-2440/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/f07ee60119e2c8efc746da7ecf4cb49e.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed MOA Companions with the Security Override Mod no longer hacking terminals in Spy missions."
+    },
+    {
+      "name": "Fortuna: Hotfix 24.2.7 + 24.2.7.1",
+      "date": "2019-01-09T18:37:18Z",
+      "url": "https://forums.warframe.com/topic/1052727-fortuna-hotfix-2427-24271/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed MOA Companions equipped with the Security Override Mod ability to hack quest-critical objects which result in skipping gameplay stages."
+    },
+    {
+      "name": "Fortuna: Mesa Prime - Hotfix 24.2.3",
+      "date": "2018-12-19T15:53:01Z",
+      "url": "https://forums.warframe.com/topic/1045817-fortuna-mesa-prime-hotfix-2423/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed MOA Companions Security Override Precept not turning off radio towers on the Plains of Eidolon."
+    },
+    {
+      "name": "Fortuna: Hotfix 24.0.7",
+      "date": "2018-11-15T20:08:27Z",
+      "url": "https://forums.warframe.com/topic/1032058-fortuna-hotfix-2407/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed MOA Companions sometimes not responding after using the Security Override Mod.\nFixed the MOA Companion Security Override Precept (Oloro Model) not functioning sometimes."
+    }
+  ],
+  "19ae493c3aa5f6fec1f35fd65b183f34": [
+    {
+      "name": "Octavia’s Anthem: Hotfix 20.4.2",
+      "date": "2017-05-05T03:26:41Z",
+      "url": "https://forums.warframe.com/topic/793795-octavia%E2%80%99s-anthem-hotfix-2042/",
+      "additions": "",
+      "changes": "The Self Destruct Sentinel Mod now has a forced knockdown proc upon explosion. The Mod description has been updated to reflect this!",
+      "fixes": "Fixed Self Destruct, Regen/Primed Regen, and Sacrifice Sentinel Mods not synergizing. Self Destruct will now proc everytime Regen does (i.e. when the Sentinel would have died). "
+    }
+  ],
+  "48d88fec2c391306d065eba74d2f37c3": [
+    {
+      "name": "Beasts of the Sanctuary: Update 22.20.0",
+      "date": "2018-05-17T14:55:31Z",
+      "url": "https://forums.warframe.com/topic/957066-beasts-of-the-sanctuary-update-22200/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/09cdfacb9f01a572c3205b5ccb861822.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Sentinels with the Shield Charger Mod playing “charge” effect on Operators. "
+    },
+    {
+      "name": "The Index Preview: Hotfix #4",
+      "date": "2016-10-25T21:51:26Z",
+      "url": "https://forums.warframe.com/topic/710966-the-index-preview-hotfix-4/",
+      "imgUrl": "http://i.imgur.com/dYLoinT.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the last 2 ranks of the Shield Charger Mod having the same strength value. "
+    },
+    {
+      "name": "The Index Preview: Hotfix #3",
+      "date": "2016-10-21T21:33:05Z",
+      "url": "https://forums.warframe.com/topic/709998-the-index-preview-hotfix-3/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Shield Charger Aura giving +120% max shield and +120% shield regen when it was supposed to be +60%/+60%.\nFixed any Overshields being wiped out when the Shield Charger Mod was equipped."
+    },
+    {
+      "name": "The Index Preview: Hotfix #2",
+      "date": "2016-10-21T15:49:40Z",
+      "url": "https://forums.warframe.com/topic/709888-the-index-preview-hotfix-2/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Shield Charger Mod not having its correct image."
+    },
+    {
+      "name": "The Index Preview: Hotfix #1",
+      "date": "2016-10-21T02:17:25Z",
+      "url": "https://forums.warframe.com/topic/709730-the-index-preview-hotfix-1/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Shield Charger Mod applying its unranked bonus shield amount even when ranked up."
+    },
+    {
+      "name": "The Index Preview",
+      "date": "2016-10-20T23:28:18Z",
+      "url": "https://forums.warframe.com/topic/709665-the-index-preview/",
+      "imgUrl": "http://i.imgur.com/49dlyEz.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Shield Charger (Sentinel)"
+    }
+  ],
+  "5ecfb32ddde9a7e1b64e7a55d043ddf9": [
+    {
+      "name": "Fortuna: Update 24.1.0 - TennoGen Round 14",
+      "date": "2018-11-22T21:50:53Z",
+      "url": "https://forums.warframe.com/topic/1035982-fortuna-update-2410-tennogen-round-14/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Kubrow Dual Stat Mods (Flame Gland, Shock Collar, Frost Jaw and Venom Teeth) not appearing in the Codex nor Chat linkable. "
+    }
+  ],
+  "6a46038501a24fc2c895d86cb89f9a2e": [
+    {
+      "name": "Fortuna: Hotfix 24.2.9 + 24.2.9.1",
+      "date": "2019-01-18T14:16:39Z",
+      "url": "https://forums.warframe.com/topic/1055092-fortuna-hotfix-2429-24291/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Spare Parts Mod triggering from self-inflicted death (Lenz, etc), which allowed it’s chance function of dropping a Rare Item to trigger repeatedly at your leisure."
+    },
+    {
+      "name": "The Sacrifice: Update 23.1.0: TennoGen Round 13",
+      "date": "2018-07-18T17:30:11Z",
+      "url": "https://forums.warframe.com/topic/984990-the-sacrifice-update-2310-tennogen-round-13/",
+      "imgUrl": "http://n9e5v4d8.ssl.hwcdn.net/uploads/87c65a156a389ba969cc1c45050d52d7.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an issue with the Sentinel 'Spare Parts' Mod not working."
+    },
+    {
+      "name": "Update: Specters of the Rail",
+      "date": "2016-07-08T14:12:48Z",
+      "url": "https://forums.warframe.com/topic/668132-update-specters-of-the-rail/",
+      "imgUrl": "http://i.imgur.com/YMVXfyw.jpg",
+      "additions": "",
+      "changes": "Item linking is a popular pastime in many MMOs, and now you’ll be able to link items in Warframe’s chat by typing “[“ plus the name of the item you wish to link! Clicking the link will open a description of that item. We hope this will also help the [Flow] when trading your [Spare Parts]!",
+      "fixes": ""
+    },
+    {
+      "name": "Update 13.1.0: Amprex",
+      "date": "2014-04-23T21:22:13Z",
+      "url": "https://forums.warframe.com/topic/220848-update-1310-amprex/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Updated the Spare Parts description to better describe the mod's functionality (Now says: \"(%) Rare Item Drop Chance On Sentinel Death\")"
+    }
+  ],
+  "153e5df252dcc949061c64f38577938c": [
+    {
+      "name": "Update 12.6.0: Dex Furis (Limited Time Gift!)",
+      "date": "2014-03-26T21:11:31Z",
+      "url": "https://forums.warframe.com/topic/201473-update-1260-dex-furis-limited-time-gift/",
+      "additions": "",
+      "changes": "The targeting range for the attack precepts at max-rank are as follows:Carrier: 10mDethCube: 30mDjinn: 60mWyrm: 30mShade: 30m(Unranked attack precepts will have half the range listed above).Helios is special at does not increase with rank (it is always 10m) however ranking up the Targeting Receptor precept increase the number of active glaives it can manage.",
+      "fixes": ""
+    }
+  ],
+  "1adc29e6eb6c1e00e0fef37fb83202ad": [
+    {
+      "name": "Update 17.2",
+      "date": "2015-08-19T21:49:41Z",
+      "url": "https://forums.warframe.com/topic/514266-update-172/",
+      "additions": "",
+      "changes": "The Elytron`s Thumper will now combine with previous Thumpers if it detonates within its radius. This will refresh the duration on the previous Thumper and allow damage to stack up to 4 times.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 16.8.1 + 16.8.2",
+      "date": "2015-06-11T01:08:27Z",
+      "url": "https://forums.warframe.com/topic/473134-hotfix-1681-1682/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Rolled back a fix for Elytron's Thumper causing self damage "
+    },
+    {
+      "name": "Update 16.8.0",
+      "date": "2015-06-10T22:03:09Z",
+      "url": "https://forums.warframe.com/topic/473028-update-1680/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed incorrect color on the Elytron’s Thumper ability."
+    },
+    {
+      "name": "Hotfix 14.5.1+14.5.1.1",
+      "date": "2014-08-30T01:45:08Z",
+      "url": "https://forums.warframe.com/topic/300491-hotfix-145114511/",
+      "additions": "",
+      "changes": "• Optimized Swift Deth, Striker, and Thumper precepts to improve performance and reduce network traffic.",
+      "fixes": ""
+    }
+  ],
+  "ac4c31676999a628307f7d977307fc03": [
+    {
+      "name": "Fortuna: Hotfix 24.0.7",
+      "date": "2018-11-15T20:08:27Z",
+      "url": "https://forums.warframe.com/topic/1032058-fortuna-hotfix-2407/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the MOA Companion Tractor Beam Precept (Oloro Model) not alarming enemies."
+    }
+  ],
+  "8a1a99d9a11e64e172a9c91faa36b368": [
+    {
+      "name": "Fortuna: The Profit-Taker - Update 24.2",
+      "date": "2018-12-18T13:59:14Z",
+      "url": "https://forums.warframe.com/topic/1044890-fortuna-the-profit-taker-update-242/",
+      "additions": "",
+      "changes": "Razorwing has a 'Vacuum' built in!",
+      "fixes": ""
+    },
+    {
+      "name": "Fortuna: Hotfix 24.1.2 + 24.1.2.1",
+      "date": "2018-11-29T19:46:27Z",
+      "url": "https://forums.warframe.com/topic/1038856-fortuna-hotfix-2412-24121/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a crash caused by Vacuum pickups. "
+    },
+    {
+      "name": "Fortuna: Hotfix 24.0.2",
+      "date": "2018-11-09T22:23:12Z",
+      "url": "https://forums.warframe.com/topic/1027194-fortuna-hotfix-2402/",
+      "additions": "",
+      "changes": "Both Vacuum and Fetch Mods now pull the items directly to the Warframe as opposed to the Sentinel/Pet. Pets in Warframe don’t mimic the same ‘follow’ logic like Sentinels, so they would end up running around with items instead of giving them to you. So basically very bad at fetching....",
+      "fixes": ""
+    },
+    {
+      "name": "Beasts of the Sanctuary: Hotfix 22.20.3",
+      "date": "2018-05-18T19:59:00Z",
+      "url": "https://forums.warframe.com/topic/957844-beasts-of-the-sanctuary-hotfix-22203/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed a crash that could occur if you disconnected while your Sentinel Vacuum was sucking up an item with particle effects attached to it."
+    },
+    {
+      "name": "Shrine of the Eidolon: Update 22.16.0",
+      "date": "2018-03-15T20:27:52Z",
+      "url": "https://forums.warframe.com/topic/933296-shrine-of-the-eidolon-update-22160/",
+      "imgUrl": "https://n9e5v4d8.ssl.hwcdn.net/uploads/DojoRework_NewsHeader.jpg",
+      "additions": "",
+      "changes": "Opened arbitrarily locked Void doors/walls that held Rare items. It’s been known for awhile now that the classic combination of Punch Through + Vacuum could grab these items for you, but now it’s open season for all!",
+      "fixes": ""
+    },
+    {
+      "name": "Plains of Eidolon: Hotfix 22.10.1",
+      "date": "2018-01-26T04:48:38Z",
+      "url": "https://forums.warframe.com/topic/911974-plains-of-eidolon-hotfix-22101/",
+      "additions": "",
+      "changes": "Sentinel Vacuum not Vacuuming up certain items",
+      "fixes": "Fixed Vacuum not working consistently for clients."
+    },
+    {
+      "name": "Banshee Prime: Hotfix 19.11.5 + 19.11.6",
+      "date": "2017-02-28T22:44:49Z",
+      "url": "https://forums.warframe.com/topic/767736-banshee-prime-hotfix-19115-19116/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed not receiving the Vacuum Mod upon crafting Taxon. You should receive the Vacuum Mod upon relog!"
+    },
+    {
+      "name": "The Glast Gambit: Update 19.8.0",
+      "date": "2017-01-25T19:24:45Z",
+      "url": "https://forums.warframe.com/topic/754548-the-glast-gambit-update-1980/",
+      "imgUrl": "http://i.imgur.com/W9ze8eZ.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed pick-ups sometimes falling through the ground after being moved by Vacuum or Mag’s passive or Greedy Pull ability.\nFixed Host being able to Vacuum around items on Clients' screens and having items be stuck in the air where the Host last Vacuumed them to. Also fixes Clients momentarily pulling items that they couldn't use."
+    },
+    {
+      "name": "The Vacuum Within: Hotfix #3",
+      "date": "2016-10-13T18:16:13Z",
+      "url": "https://forums.warframe.com/topic/708168-the-vacuum-within-hotfix-3/",
+      "additions": "",
+      "changes": "The Vacuum Within: Hotfix #3:",
+      "fixes": ""
+    },
+    {
+      "name": "The Vacuum Within: Hotfix #2",
+      "date": "2016-10-06T20:50:11Z",
+      "url": "https://forums.warframe.com/topic/705955-the-vacuum-within-hotfix-2/",
+      "additions": "",
+      "changes": "The Vacuum Within: Hotfix #2:",
+      "fixes": ""
+    },
+    {
+      "name": "The Vacuum Within",
+      "date": "2016-10-05T21:17:28Z",
+      "url": "https://forums.warframe.com/topic/705566-the-vacuum-within%C2%A0/",
+      "imgUrl": "http://i.giphy.com/l0HlutHBjgD1tSY9y.gif",
+      "additions": "",
+      "changes": "The Vacuum Within:\nWe've also mentioned Kubrow/Kavat are not off the table. What we want to do is measure. We know where Carrier sits in usage compared to the rest of the options. We want a calculated release of a change that will deliver on giving Sentinels the function of Vacuum, and see how it affects the usage of content in that category. The results are something we'll be sharing as it should be very interesting to everyone invested in this particular topic. The shovel in the ground on this will apply to Sentinels first, but Pets aren't off the table.",
+      "fixes": ""
+    },
+    {
+      "name": "The Silver Grove: U4+4.1",
+      "date": "2016-09-29T19:31:28Z",
+      "url": "https://forums.warframe.com/topic/703921-the-silver-grove-u441/",
+      "imgUrl": "http://i.imgur.com/hCEvZkm.jpg",
+      "additions": "",
+      "changes": "Carrier’s Vacuum and Corpus Scavenger Drones will no longer be able to pick up or affect the placement of Ayatan Stars. This was causing Stars to become unreachable or falling through the floor. ",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 18.13.1",
+      "date": "2016-05-28T02:45:03Z",
+      "url": "https://forums.warframe.com/topic/652966-hotfix-18131/",
+      "additions": "",
+      "changes": "Temporarily removed Mag's Vacuum Passive sound until we can refine.",
+      "fixes": ""
+    },
+    {
+      "name": "Update 18.13.0: TennoGen, Passives, & Reworks",
+      "date": "2016-05-27T21:20:29Z",
+      "url": "https://forums.warframe.com/topic/652752-update-18130-tennogen-passives-reworks%C2%A0/",
+      "imgUrl": "http://i.imgur.com/1JPOZC1.png",
+      "additions": "",
+      "changes": "",
+      "fixes": "•    Fixed Carrier sometimes trying to Vacuum Energy orbs when you were at max Energy capacity; because it couldn't actually pick them up it would drag them around after you making endless squishing sounds as per: https://youtu.be/9ilwT_iP_aU"
+    },
+    {
+      "name": "Update 18.10.0: Operation Rathuum!",
+      "date": "2016-04-29T17:04:18Z",
+      "url": "https://forums.warframe.com/topic/642897-update-18100-operation-rathuum/",
+      "imgUrl": "http://i.imgur.com/YiMbs9B.jpg",
+      "additions": "",
+      "changes": "",
+      "fixes": "·         Carrier's Vacuum now behaves in coorelation to the owning player's movement. It will not continuously vacuum the same spot for too long \nyour movement will trigger Vacuums."
+    },
+    {
+      "name": "Update 17: Echoes Of The Sentient",
+      "date": "2015-07-31T15:09:25Z",
+      "url": "https://forums.warframe.com/topic/498793-update-17-echoes-of-the-sentient/",
+      "additions": "",
+      "changes": "Carrier's Vacuum will no longer pick up items while the player is bleeding out.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 16.5.4",
+      "date": "2015-05-14T15:41:07Z",
+      "url": "https://forums.warframe.com/topic/457698-hotfix-1654/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Carrier’s Vacuum not picking up Pigments."
+    },
+    {
+      "name": "Update 13: Dark Sectors",
+      "date": "2014-04-10T05:28:14Z",
+      "url": "https://forums.warframe.com/topic/209324-update-13-dark-sectors/",
+      "additions": "",
+      "changes": "Improved Sentinel Vacuum functionality.",
+      "fixes": ""
+    },
+    {
+      "name": "Hotfix 11.5.2",
+      "date": "2013-12-19T23:07:42Z",
+      "url": "https://forums.warframe.com/topic/151302-hotfix-1152/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed issue where Carrier’s Vacuum would try and suck up ammo drops if you had maximum ammo and the scanner equipped."
+    },
+    {
+      "name": "Update 10.2.0",
+      "date": "2013-09-27T19:52:28Z",
+      "url": "https://forums.warframe.com/topic/113787-update-1020/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Carrier would only suck up drops with Vacuum if the host has not picked them up already. Now he sucks up drops regardless of if the host has picked them up!"
+    }
+  ],
+  "ef0c53e4cfa0997ae153716fd898d5e9": [
+    {
+      "name": "The Glast Gambit: Hotfix 19.5.1 + 19.5.2",
+      "date": "2016-12-22T20:02:10Z",
+      "url": "https://forums.warframe.com/topic/738388-the-glast-gambit-hotfix-1951-1952/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed typo in ‘Vaporizer’ "
+    },
+    {
+      "name": "Update 18.1.0   ",
+      "date": "2015-12-16T21:59:04Z",
+      "url": "https://forums.warframe.com/topic/579670-update-1810-spoilers/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed an error in the Jordas Verdict Trial causing players using a Vaporizers to lose the ability to reload when used with no Antiserum."
+    },
+    {
+      "name": "Hotfix 17.11.1",
+      "date": "2015-11-13T17:03:54Z",
+      "url": "https://forums.warframe.com/topic/560373-hotfix-17111/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed some issues preventing Esophages from properly eating Vaporizers in Stage 3 of the Jordas Verdict."
+    },
+    {
+      "name": "Hotfix 14.7.3 + 14.7.3.1",
+      "date": "2014-09-18T22:01:06Z",
+      "url": "https://forums.warframe.com/topic/312092-hotfix-1473-14731/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed Operation: Gate Crash exploit where Dethcube's Vaporize would continue to deal damage when you should be completely impotent."
+    }
+  ],
+  "19ff14b6e6bf752aabd6772c152cce51": [
+    {
+      "name": "Fortuna: Update 24.1.0 - TennoGen Round 14",
+      "date": "2018-11-22T21:50:53Z",
+      "url": "https://forums.warframe.com/topic/1035982-fortuna-update-2410-tennogen-round-14/",
+      "additions": "",
+      "changes": "",
+      "fixes": "Fixed the Kubrow Dual Stat Mods (Flame Gland, Shock Collar, Frost Jaw and Venom Teeth) not appearing in the Codex nor Chat linkable. "
+    }
+  ]
+}

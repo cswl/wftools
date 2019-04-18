@@ -1,0 +1,80 @@
+{
+  "Ferocity": {
+    "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowFinisherMod",
+    "name": "Ferocity",
+    "polarity": "Penjaga",
+    "rarity": "Rare",
+    "baseDrain": 0,
+    "fusionLimit": 5,
+    "description": "Allows the Kubrow to use Finisher attacks on an enemy.,+20% Finisher Damage",
+    "type": "Kubrow",
+    "imageName": "ferocity.jpeg",
+    "tradable": true,
+    "hash": "154385c99b763ffc30fcad9dfc9abe25"
+  },
+  "MechaOverdrive": {
+    "uniqueName": "/Lotus/Upgrades/Mods/Sets/Mecha/KubrowMechaOverdriveMod",
+    "name": "Mecha Overdrive",
+    "polarity": "Madurai",
+    "rarity": "Rare",
+    "baseDrain": 6,
+    "fusionLimit": 5,
+    "description": "+10% Status-Link,+15% Status Duration",
+    "type": "Kubrow",
+    "imageName": "mecha-overdrive.jpeg",
+    "tradable": true,
+    "hash": "64d7de937ed4eeab4d0dd3fb209eacc4"
+  },
+  "MechaRecharge": {
+    "uniqueName": "/Lotus/Upgrades/Mods/Sets/Mecha/KubrowMechaRechargeMod",
+    "name": "Mecha Recharge",
+    "polarity": "Madurai",
+    "rarity": "Rare",
+    "baseDrain": 4,
+    "fusionLimit": 5,
+    "description": "+15% Shield Recharge",
+    "type": "Kubrow",
+    "imageName": "mecha-recharge.jpeg",
+    "tradable": true,
+    "hash": "a6f5a5dd620dfc114e2675ad3a7a5249"
+  },
+  "Savagery": {
+    "uniqueName": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowClonedFinisherMod",
+    "name": "Savagery",
+    "polarity": "Penjaga",
+    "rarity": "Rare",
+    "baseDrain": 0,
+    "fusionLimit": 5,
+    "description": "Allows the Kubrow to use Finisher attacks on an enemy.,+20% Finisher Damage",
+    "type": "Kubrow",
+    "imageName": "savagery.jpeg",
+    "tradable": true,
+    "hash": "ef55f25233e8c7828117b888636ea392"
+  },
+  "StrainEruption": {
+    "uniqueName": "/Lotus/Upgrades/Mods/Sets/Strain/HelminthStrainEruptionMod",
+    "name": "Strain Eruption",
+    "polarity": "Naramon",
+    "rarity": "Rare",
+    "baseDrain": 2,
+    "fusionLimit": 3,
+    "description": "Increased Pistol Ammo recovery.,Maggots explode on death, dealing 1% of an enemy's current Health as <DT_CORROSIVE>Corrosive Damage to any enemy within 2m.",
+    "type": "Kubrow",
+    "imageName": "strain-eruption.jpeg",
+    "tradable": true,
+    "hash": "b41c0970101d85de7241943e4f85c247"
+  },
+  "StrainFever": {
+    "uniqueName": "/Lotus/Upgrades/Mods/Sets/Strain/HelminthStrainFeverMod",
+    "name": "Strain Fever",
+    "polarity": "Madurai",
+    "rarity": "Rare",
+    "baseDrain": 6,
+    "fusionLimit": 3,
+    "description": "Helminth Charger gains +7% Damage per Cyst.",
+    "type": "Kubrow",
+    "imageName": "strain-fever.jpeg",
+    "tradable": true,
+    "hash": "2ac24bb5e7d44cc9da11135714adf30c"
+  }
+}

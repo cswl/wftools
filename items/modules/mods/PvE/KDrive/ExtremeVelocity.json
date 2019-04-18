@@ -1,0 +1,13 @@
+{
+  "uniqueName": "/Lotus/Upgrades/Mods/Hoverboard/HBSpeedMod",
+  "name": "Extreme Velocity",
+  "polarity": "Vazarin",
+  "rarity": "Rare",
+  "baseDrain": 4,
+  "fusionLimit": 5,
+  "description": "+5% K-Drive Speed",
+  "type": "---",
+  "imageName": "extreme-velocity.jpeg",
+  "tradable": true,
+  "hash": "a8339ecea7c97bbb6aeceab84bca965e"
+}
