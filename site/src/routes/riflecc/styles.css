@@ -1,0 +1,77 @@
+::ng-deep .mat-figure {
+  flex-wrap: wrap;
+}
+
+::ng-deep .mat-tooltip {
+  white-space: pre-line !important;
+  font-size: 0.9rem;
+  width: 250px;
+  max-width: 300px;
+}
+
+::ng-deep .mat-select-content {
+  font-size: 0.9rem;
+}
+
+::ng-deep .mat-select {
+  font-size: 0.9rem;
+}
+
+div.form-group {
+  width: 100%;
+}
+
+div.form-group label.multi-label {
+  display: block;
+  width: 100%;
+  flex: 0 0 100%;
+  font-size: 0.9rem;
+}
+
+div.form-group label.single-label {
+  font-size: 0.9rem;
+  clear: both;
+  float: left;
+  margin-right: 15px;
+}
+
+div.form-group input {
+  font-size: 0.9rem;
+}
+div.form-group .input-small-base {
+  max-width: 2.5rem;
+}
+
+.weapon_select_card {
+  margin-bottom: 1.3rem;
+}
+
+.riven_comp_table {
+  width: 100%;
+  max-width: 950px;
+}
+
+.stats_list_lines {
+  white-space: pre-wrap;
+  padding: 0.8em;
+}
+
+.secondary_mod_select {
+  max-width: 15rem;
+}
+
+.mods_list_primary {
+  margin-bottom: 0.8rem;
+}
+
+.weapon_grid_list {
+  max-width: 740px;
+}
+
+.weapon-form-spacer {
+  margin: 1rem 0 1rem 0;
+}
+
+.custom_mods_label {
+  padding: 1rem 0 1rem 0;
+}

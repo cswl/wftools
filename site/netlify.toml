@@ -1,0 +1,21 @@
+# Global settings applied to the whole site. 
+
+[build] 
+  command = "yarn build"
+  publish = "dist/public"
+  functions = "functions"
+
+# Production context: All deploys to the main
+# repository branch will inherit these settings.
+[context.production]
+  command = "yarn build"
+
+# Deploy Preview context: All Deploy Previews
+# will inherit these settings.
+[context.deploy-preview.environment]
+  command = "yarn build"
+
+# Branch deploy context: All deploys that are not in
+# an active Deploy Preview will inherit these settings.
+[context.branch-deploy]
+  command = "yarn dev"

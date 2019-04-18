@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+#tutorial {
+  font-family: "Roboto";
+  background-image: url("http://image.ibb.co/ceKoha/image.png");
+}
+
+#reroll {
+  display: none;
+}

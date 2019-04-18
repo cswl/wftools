@@ -1,0 +1,36 @@
+/*
+--------------------
+Global CSS Styles1
+--------------------
+*/
+body {
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.mat-sidenav-container {
+  color: #ff0;
+  background-color: #303030;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.content {
+  padding: 1.6em 1.2em;
+}
+
+p.content_text {
+  line-height: 1.6;
+  font-size: 1em;
+  color: #fff;
+}
+
+input[readonly] {
+  background-color: transparent;
+  border: 0;
+  box-shadow: none;
+  color: #fff;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  font-size: 1rem;
+}

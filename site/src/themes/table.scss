@@ -1,0 +1,97 @@
+$mata-header-row-height: 56px;
+$mata-row-height: 48px;
+$mata-row-horizontal-padding: 24px;
+$mata-row-vertical-padding: 12px;
+
+/**
+ * Flex-based table structure
+ * Modified from Angular Material to support static tables
+ * The CSS Entries are `mata` to avoid conflict with Angular Material's `mat`
+ */
+.mata-table {
+  display: block;
+}
+
+.mata-header-row {
+  min-height: $mata-header-row-height;
+}
+
+.mata-row, .mata-footer-row {
+  min-height: $mata-row-height;
+}
+
+.mata-row, .mata-header-row, .mata-footer-row {
+  display: flex; 
+  // Define a border style, but then widths default to 3px. Reset them to 0px except the bottom
+  // which should be 1px;
+  border-width: 0; 
+  align-items: stretch;
+  box-sizing: border-box;
+
+  padding-top: $mata-row-vertical-padding;
+  padding-bottom: $mata-row-vertical-padding;
+
+  // Workaround for https://goo.gl/pFmjJD in IE 11. Adds a pseudo
+  // element that will stretch the row the correct height. See:
+  // https://connect.microsoft.com/IE/feedback/details/802625
+  &::after {
+    display: inline-block;
+    min-height: inherit;
+    content: '';
+  }
+}
+
+// Note: we use `first-of-type`/`last-of-type` here in order to prevent extra
+// elements like ripples or badges from throwing off the layout (see #11165).
+.mata-cell:first-of-type, .mata-header-cell:first-of-type, .mata-footer-cell:first-of-type {
+  padding-left: $mata-row-horizontal-padding;
+
+  [dir='rtl'] & {
+    padding-left: 0;
+    padding-right: $mata-row-horizontal-padding;
+  }
+}
+
+.mata-cell:last-of-type, .mata-header-cell:last-of-type, .mata-footer-cell:last-of-type {
+  padding-right: $mata-row-horizontal-padding;
+
+  [dir='rtl'] & {
+    padding-right: 0;
+    padding-left: $mata-row-horizontal-padding;
+  }
+}
+
+.mata-cell, .mata-header-cell, .mata-footer-cell {
+  
+  justify-content: center;
+  flex: 1;
+  align-items: stretch; 
+  min-height: inherit;
+}
+
+/**
+ * Native HTML table structure
+ */
+table.mata-table {
+  border-spacing: 0;
+}
+
+th.mata-header-cell {
+  text-align: left;
+}
+
+th.mata-header-cell, td.mata-cell, td.mata-footer-cell {
+  padding: 0;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+}
+
+// Note: we use `first-of-type`/`last-of-type` here in order to prevent extra
+// elements like ripples or badges from throwing off the layout (see #11165).
+th.mata-header-cell:first-of-type, td.mata-cell:first-of-type, td.mata-footer-cell:first-of-type {
+  padding-left: $mata-row-horizontal-padding;
+}
+
+th.mata-header-cell:last-of-type, td.mata-cell:last-of-type, td.mata-footer-cell:last-of-type {
+  padding-right: $mata-row-horizontal-padding;
+}

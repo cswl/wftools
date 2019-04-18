@@ -1,0 +1,19 @@
+{
+    "verbose": false,
+    "restartable": "rs",
+    "events": {
+      "restart": "echo Restarting app."
+    },
+    "ext": "js",
+    "ignore": [
+      ".git",
+      "build",
+      "public",
+      "npm-debug.log",
+      "node_modules/**/*",
+      "src/assets/**/*"
+    ],
+    "watch": [
+      "webpack"
+    ]
+  }

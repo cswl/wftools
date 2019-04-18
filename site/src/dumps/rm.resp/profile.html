@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="EN">  <head>
+    <!-- META CONTENT -->
+    <meta charset="UTF-8">
+    <meta name="description" content="Trade your Warframe Rivens the easy way! Stop wasting your time staring at the trade chat or hope that someone will post your Riven of choice, sell or buy any Riven like a Pro!">
+    <meta name="keyword" content="Riven, market, trading, trade hub, easy, fast, sell, buy, auction, offer, find, Riven Mod, Veiled Riven, Prime, Umbra, Rerolls, Hek, Soma, Scoliac, Artax, Riven.market, Ignis, Simulor, Boltor, Tigris, Atterax, Orthos, Opticor, Plains of Eidolon, Warframe, WF, Steam, PC, how to, how, Console, PS4, XB1, Playstation, XBox, X-BOX, XBOX ONE, list, all, mobile, cross-browser">
+    <meta http-equiv="Cache-control" content="public">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#b18ed1">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108263474-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-108263474-1');
+
+    var php_baseurl = "/";
+    /* globals navigator */
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/sw.js', {scope: '/'});
+    }
+    </script>
+
+  <!-- FAVICON -->
+  <link rel="icon" href="/_img/favicon.png?v1.3.4" sizes="16x16 32x32" type="image/png">
+
+  <!-- STYLES -->
+  <link rel="stylesheet" type='text/css' href="/_css/reset.css?v1.3.4">
+  <link rel="stylesheet" type='text/css' href="/_css/fonts.css?v1.3.4">
+  <link rel="stylesheet" type='text/css' href="/_css/grid.css?v1.3.4">
+  <link rel="stylesheet" type='text/css' href="/_css/main.css?v1.3.4">
+  <link rel="manifest" href="./manifest.json?v1.3.4">
+    <link rel="stylesheet" type='text/css' href="/_modules/riven/riven.css?v1.3.4" media="none" onload="if(media!='all')media='all'">
+	    <link rel="stylesheet" type='text/css' href="/_modules/riven/responsive.css?v1.3.4" media="none" onload="if(media!='all')media='all'">
+	    <link rel="stylesheet" type='text/css' href="/_modules/session/session.css?v1.3.4" media="none" onload="if(media!='all')media='all'">
+	  <!-- LOAD THEME -->
+  <link rel="stylesheet" type='text/css' id="theme" media="none" onload="if(media!='all')media='all'">
+
+  <!-- TITLE -->
+  <title>
+    Riven.market - Riven Trading Platform
+  </title>
+
+    <!-- GLOBAL CODE -->
+  <script src='https://www.google.com/recaptcha/api.js?render=6LfRBlkUAAAAABSOP7N3qDsNishU8C6bWyE3XbO9&onload=onloadCallback&render=explicit' async defer></script>
+  <script src="/_js/lib.js?v1.3.4"></script>
+  </head>
+  <!-- END OF HEAD -->
+
+    <!-- BODY -->
+<body>
+  <div id="background">
+  </div>
+  <div id="wrapper">
+<!-- NAV -->
+    <nav id="navi">
+      <div id="navwrapper">
+        <div id="navmobile"><i class="material-icons">menu</i></div>
+        <ul>
+          <li class="item"><a href="/"><i class="material-icons">public</i>Home</a></li><li class="item"><a href="/news"><i class="material-icons">whatshot</i>News</a></li><li class="item"><a href="/list"><i class="material-icons">line_weight</i>Riven List</a></li><li class="item"><a href="/auction"><i class="material-icons">gavel</i>Auction</a></li><li class="item"><a href="/sell"><i class="material-icons">unarchive</i>Sell</a></li>        </ul>
+        <ul>
+            <li class="item"><a href="/login">
+    Login<i class="material-icons">exit_to_app</i>
+  </a></li>
+  <li class="item"><a href="/login?signup">
+    Sign Up<i class="material-icons">portrait</i>
+  </a></li>
+<script src="https://www.gstatic.com/firebasejs/5.2.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/5.2.0/firebase-auth.js"></script>
+<script>
+// Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBLNCJ8EDoy1dt-7VKbIYdEhTApWZk9OH0",
+    authDomain: "riven-market.firebaseapp.com",
+    databaseURL: "https://riven-market.firebaseio.com",
+    projectId: "riven-market",
+    storageBucket: "riven-market.appspot.com",
+    messagingSenderId: "913724316014"
+  };
+  firebase.initializeApp(config);
+</script>        </ul>
+      </div>
+    </nav>
+<!-- END OF NAV -->
+
+
+<!-- HEADER -->
+    <div id="header">
+      <div id="logo"></div>
+      <!--<a href="https://forums.warframe.com/clubs/162-gilded-phoenix-alliance/" target="_blank"><div id="featured"><h3>Community Featured:</h3></div></a>-->
+      <div id="slogan">
+          <div class="header fadeSlogan visible"><h1>Current version: v1.3.4 [BETA]</h1><h2>CTRL+F5 to refresh!</h2></div>
+          <div class="header fadeSlogan hidden"><a href="https://discordapp.com/invite/WY8wTPS" target="_blank"><h1>Bugs, Suggestions, Clem?</h1><h2>Join our Discord!</h2></a></div>
+          <div class="header fadeSlogan fading"><h1>Patreon Supporter:</h1><h3>EvisceratedFetus, grindbert, Hopeofhell, Arrcee, MonseigneurMort, DisdaddE, Mixipo, Chaz, Landon, Richard R., Crusix, slai47, Altharch</h3></div>
+      </div>
+    </div>
+<!-- END OF HEADER -->
+<div id="content"><span><h1>-IPS </h1></span><hr><span><h3>PC - online right now!</h3></span>
+<div class="container">
+  <div class="row center">
+    <div class="col-6 m-6 s-12 xs-12">
+            <div class="row">
+        <div class="col account-data">
+          <p>
+            Status<br>
+                      </p>
+          <p>
+            Languages<br>
+            English          </p>
+          <p>
+            Prefered Communication<br>
+            My IGN is: -IPS | Best way to contact me is Discord: Riley#0005          </p>
+          <p>
+            Timezone<br>
+            UTC-04:00 (11:53 AM - Thursday)          </p>
+          <p>
+            Registered<br>
+            23. August 2018          </p>
+          <p>
+            History<br>
+            -IPS has traded 23 Rivens so far and has currently 16 up for sale!
+          </p>
+        </div>
+      </div>
+                  <div class="row">
+            <div class="col">
+              <button type="button" onclick="startConversation(42699)">Send -IPS a message</button>
+            </div>
+          </div>
+            </div>
+            <div class="col-6 m-12 s-12 xs-12">
+        </div>
+      </div>
+</div>
+<!-- LIST OF RIVENS -->
+<div id="profilerivens">
+</div>
+
+<script>
+
+var currentpath = "";
+// AJAX for content
+function loadList(page = 1, sort = "time", direction = "ASC")
+{
+  document.getElementById('profilerivens').innerHTML = "<center><h2>Sorting...</h2></center><br>" + document.getElementById('profilerivens').innerHTML;
+	
+  loadAJAX(document.getElementById('profilerivens'), ''+'/_modules/riven/showrivens.php?baseurl='+btoa(php_baseurl)
+  +'&platform=PC'
+  +'&limit=500'
+  +'&recency=0'
+  +'&veiled=false'
+  //+'&maxed=false'
+  +'&onlinefirst=false'
+  +'&polarity=all'
+  +'&rank=all'
+  +'&mastery=16'
+  +'&weapon=Any'
+  +'&stats=Any'
+  +'&neg=all'
+  +'&price=99999'
+  +'&rerolls=-1'
+  +'&sort='+sort
+  +'&direction='+direction
+  +'&user=42699'
+  +'&page=1');
+}
+loadList(1, "time", "ASC");
+
+
+function formatStats()
+{
+  var rivenContainer = document.getElementsByClassName("riven");
+
+  for(var i = 0; i < rivenContainer.length; i++)
+  {
+    var stats = [rivenContainer[i].dataset.stat1,rivenContainer[i].dataset.stat2,rivenContainer[i].dataset.stat3,rivenContainer[i].dataset.stat4];
+    var values = [rivenContainer[i].dataset.stat1val,rivenContainer[i].dataset.stat2val,rivenContainer[i].dataset.stat3val,rivenContainer[i].dataset.stat4val];
+
+    var posStatsContainer = rivenContainer[i].getElementsByClassName("stat pos");
+    var negStatsContainer = rivenContainer[i].getElementsByClassName("stat neg");
+
+    for(var j = 0; j < posStatsContainer.length; j++)
+    {
+      var stat = stats[j];
+      var value = values[j];
+
+      value = statsData[stat].Pre.slice(-1)+value+statsData[stat].Unit;
+      stat = statsData[stat].Name;
+
+      var html = '';
+      html += '<div class="stat value">'+value+'</div>';
+      html += '<div class="stat name">'+stat+'</div>';
+      // posStatsContainer[j].innerHTML = html;
+	  posStatsContainer[j].getElementsByClassName("value")[0].getElementsByTagName("INPUT")[0].innerHTML = value;
+	  posStatsContainer[j].getElementsByClassName("value")[0].getElementsByTagName("INPUT")[0].value = value;
+	  posStatsContainer[j].getElementsByClassName("name")[0].innerHTML = stat;
+    }
+    for(var j = 0; j < negStatsContainer.length; j++)
+    {
+      var stat = stats[3+j];
+      var value = values[3+j];
+      var pre = statsData[stat].Pre.slice(-1);
+      pre = (pre == '+') ? '-' : '+';
+
+      value = pre+value+statsData[stat].Unit;
+      stat = statsData[stat].Name;
+
+      var html = '';
+      html += '<div class="stat value">'+value+'</div>';
+      html += '<div class="stat name">'+stat+'</div>';
+      // negStatsContainer[j].innerHTML = html;
+	  negStatsContainer[j].getElementsByClassName("value")[0].getElementsByTagName("INPUT")[0].innerHTML = value;
+	  negStatsContainer[j].getElementsByClassName("value")[0].getElementsByTagName("INPUT")[0].value = value;
+	  negStatsContainer[j].getElementsByClassName("name")[0].innerHTML = stat;
+    }
+  }
+}
+formatStats();
+</script>
+<script src="https://riven.market/_modules/session/profile.js" defer></script>
+</div><footer>
+    <ul id="footer">
+      <li id="themes">Themes
+      <ul class="dropdown">
+        <li class="theme"><a href="javascript:window.location.href=window.location.href" onClick="setCookie('theme','default','30')">Default</a></li>
+        <li class="theme"><a href="javascript:window.location.href=window.location.href" onClick="setCookie('theme','dark','30')">Dark</a></li>
+		<li class="theme"><a href="javascript:window.location.href=window.location.href" onClick="setCookie('theme','halloween','30')">Halloween</a></li>
+                <!--<li class="theme"><a href="/" onClick="setCookie('theme','simple','30')">Simple</a></li>-->
+      </ul></li>
+      <!--
+      <li id="languages">Language
+      <ul class="dropdown">
+        <li class="language">English</li>
+        <li class="language">Deutsch</li>
+        <li class="language">Français</li>
+        <li class="language">Español</li>
+        <li class="language">Pоссийский</li>
+      </ul></li>
+      -->
+      <li id="socials">Social
+      <ul class="dropdown">
+        <li class="social"><a href="https://www.patreon.com/RivenMarket" target="_blank">Patreon</a></li>
+        <li class="social"><a href="https://www.reddit.com/r/RivenMarket" target="_blank">Reddit</a></li>
+        <li class="social"><a href="https://discord.gg/WY8wTPS" target="_blank">Discord</a></li>
+        <!--<li class="social">Contact</li>-->
+        <!--<li class="social">Feedback</li>-->
+        <!--<li class="social">Report Bug</li>-->
+        <!--<li class="social">Report User</li>-->
+      </ul></li>
+      <li id="abouts">About
+      <ul class="dropdown">
+        <li class="about"><a href="/legal">Legal Stuff</a></li>
+        <li class="about"><a href="/about">Riven.market</a></li>
+        <li class="about"><a href="https://warframe.com" target="_blank">Warframe (TM)</a></li>
+        <!--<li class="about">Sitemap</li>-->
+        <li class="about"><a href="/help">F.A.Q.</a></li>
+      </ul></li>
+    <li id="privacy">
+    <a href="/privacy">Privacy Policy</a>
+    </li>
+    </ul>
+  </footer>
+  <!-- END OF FOOTER -->
+
+
+  <!-- ONLINE STATUS -->
+    <!-- END ONLINE STATUS -->
+
+  <!-- CHAT -->
+    <!-- END CHAT -->
+
+  <!-- PATREON -->
+  <div id="patreon">
+  <img src="/_img/patreon.png">
+  <a href="https://www.patreon.com/bePatron?c=1309623" target="_blank"><h3>Become a patron</h3></a>
+</div>
+  <!-- END PATREON -->
+
+  <!-- PAYPAL -->
+  <div id="paypal">
+  <img src="/_img/paypal.png">
+  <a href="https://www.paypal.me/rivenmarket/10" target="_blank"><h3>Donate with PayPal</h3></a>
+</div>
+  <!-- END PAYPAL -->
+
+  <!-- AJAX MULTIPURPOSE -->
+  <div id="ajax" class="nodom"></div>
+  <!-- END AJAX -->
+
+  <!-- JAVASCRIPTS -->
+  <script src="/_modules/riven/warframeData.js?v1.3.4"></script><script src="/_modules/riven/generate.js?v1.3.4"></script><script src="/_modules/riven/riven.js?v1.3.4"></script>
+  
+  <!-- SECONDARY STYLES -->
+  <div id="disclaimer" class="container">
+    <div class="row">
+      <div class="col">
+        <div class="row">
+          <div class="col">
+            <label><h1>One moment Tenno...</h1>
+To provide you with the best service and features, we are using multiple ways to process your data, some of which are mandatory, others are yours to decide. Please take a moment to read this!</label>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-auto">
+            <input type="checkbox" disabled checked name="disclaimer_session" id="disclaimer_session" value="1">
+          </div>
+          <div class="col">
+            <label for="disclaimer_session">Preferences & Session</label>
+          </div>
+          <div class="col-auto">
+            <label for="more1">[... see more ...]</label>
+          </div>
+        </div>
+        <input type="checkbox" id="more1" name="toggle">
+        <div class="row toggle">
+          <div class="col">
+            <label>To save your preferences, session and overall site functionality, we are using first party cookies and server-side sessions, these are mandatory and cannot be disabled, to check what and why we are using your data, click here (link).</label>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-auto">
+            <input type="checkbox" checked name="disclaimer_firebase" id="disclaimer_firebase" value="1">
+          </div>
+          <div class="col">
+            <label for="disclaimer_firebase">Firebase</label>
+          </div>
+          <div class="col-auto">
+            <label for="more2">[... see more ...]</label>
+          </div>
+        </div>
+        <input type="checkbox" id="more2" name="toggle">
+        <div class="row toggle">
+          <div class="col">
+            <label>We are using Google's Firebase API to enable you a login with authentication from Google Plus, Twitter, Facebook or Github. The authentication system uses third party cookies and needs you to also agree to the firebase terms of service (link).</label>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-auto">
+            <input type="checkbox" checked name="disclaimer_analytics" id="disclaimer_analytics" value="1">
+          </div>
+          <div class="col">
+            <label for="disclaimer_analytics">Analytics</label>
+          </div>
+          <div class="col-auto">
+            <label for="more3">[... see more ...]</label>
+          </div>
+        </div>
+        <input type="checkbox" id="more3" name="toggle">
+        <div class="row toggle">
+          <div class="col">
+            <label>We are using Google Analytics to track basic user behavior to be able to identify and analyze problems across the whole website. Agreeing to this means you agree to the terms of service (link) for Google Analytics, however we do not and shall never use any data that we collect with this for anything else, meaning: we do not share, sell or publish any data that is tracked via the Analytics Tool to any third party.</label>
+          </div>
+        </div>
+        <div class="row some-margin">
+          <div class="col-auto">
+            <input type="checkbox" name="disclaimer_terms" id="disclaimer_terms" value="1">
+          </div>
+          <div class="col">
+            <label for="disclaimer_terms">I agree that I accept all selected and all mandatory terms of this site and the respective terms of the features I want to use.</label>
+          </div>
+        </div>
+        <div class="row center some-margin">
+          <div class="col-4">
+            <button class="accent">Confirm</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </body>
+  <!-- END OF BODY -->
+</html>
+<!-- END OF DOCUMENT -->

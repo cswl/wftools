@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "pretty": true,
+    "target": "esnext",
+    "module": "esnext",
+    "allowSyntheticDefaultImports": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "lib": ["es2017", "dom"],
+    "jsx": "preserve",
+    "noUnusedLocals": true,
+    "noEmit": true,
+    "skipLibCheck": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "moduleResolution": "node",
+    "baseUrl": "./src",
+    "paths": {
+      "#assets/*": ["assets/*"],
+      "#routes/*": ["routes/*"],
+      "#components/*": ["components/*"],
+      "#model": ["model/*"],
+      "#data": ["data/*"],
+      "#themes": ["themes/*"]
+    }
+  },
+  "include": ["src/**/*"]
+}

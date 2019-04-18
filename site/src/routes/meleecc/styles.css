@@ -1,0 +1,70 @@
+.wf_mod {
+    width: 133px;
+    height: 190px;
+  }
+  
+  .kavats_grid_list {
+    max-width: 640px;
+  }
+  .arcanes_grid_list {
+    max-width: 720px;
+  }
+  
+  .weapons_list {
+    max-width: 12rem;
+  }
+  
+  .glad_mod_bonus {
+    max-width: 12rem;
+  }
+  
+  .wf-mods-grid {
+    max-width: 612px;
+  }
+  
+  ::ng-deep .arcane_tile .mat-figure {
+    flex-flow: row wrap;
+  }
+  
+  .arcane_name {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .arcane_line_break {
+    width: 100%;
+    content: '';
+  }
+  
+  .arcane_description {
+    display: block;
+    white-space: pre-line;
+    font-size: 0.8rem;
+  }
+  
+  .expansion-divider {
+    margin: 1rem auto 1rem auto;
+  }
+  
+  .riven-mod-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .riven-mod-container > * {
+    width: 100%;
+  }
+  
+  /* For mobile phones: */
+  @media (min-width: 320px) and (max-width: 480px) {
+    .wf_arcane {
+      width: 120px;
+      height: 67px;
+    }
+  
+    .wf_mod {
+      width: 105px;
+      height: 150px;
+    }
+  }
+  

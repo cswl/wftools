@@ -1,0 +1,1862 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1">
+	<title>Riven Calculator - Semlar.com</title>
+	<meta name="description" content="Warframe calculator for finding stat ranges for rivens.">
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Riven Calculator" />
+	<meta property="og:site_name" content="Semlar.com" />
+	<meta property="og:image" content="/thumb.png" />
+	<meta property="og:description" content="Warframe calculator for finding stat ranges for rivens.">
+	<link rel="alternate" type="application/rss+xml" title="Latest Warframe News" href="/rss/news">
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<link rel='stylesheet' type='text/css' href='//fonts.googleapis.com/css?family=Open+Sans:400,700,700italic,300,300italic,400italic'>
+	<script src="/typeahead.js"></script>
+
+	<script type="text/javascript">
+	window.onunload = function(){}
+	if (top.location != location) { top.location.href = document.location.href ; }
+	</script>
+
+	<style type="text/css">
+		@-ms-viewport{
+			width: device-width;
+		}
+		html {
+			cursor: url('/cursor.png'), auto;
+			width: 100%;
+			height: 100%;
+			margin: 0;
+			padding: 0;
+		}
+
+		body {
+			background-color: #fff;
+			background-image: url('/engineer.png'), url('/bg_right.png');
+			background-attachment: fixed, fixed;
+			background-position: left bottom, right top;
+			background-repeat: no-repeat, repeat-y;
+			font-size: 16px;
+			font-family: 'Open Sans', sans-serif;
+			word-wrap: break-word;
+		}
+
+		small {
+			white-space: nowrap;
+		}
+
+		@media 
+		(-webkit-min-device-pixel-ratio: 1.25), 
+		(min-resolution: 120dpi) { 
+		    body {
+		    	background: #fff;
+		    }
+		}
+
+		a:hover {
+			text-decoration: none;
+		}
+
+		.feed img {
+			display: block;
+			margin: 0.5em auto;
+		}
+
+		.bg-stars {
+			z-index: -1;
+			position: fixed;
+			top: 0;
+			left: 0;
+			pointer-events: none;
+		}
+
+
+		.typeahead:focus {
+		  /*border: 2px solid #0097cf;*/
+		}
+
+		.tt-query {
+		  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+		     -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+		          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+		}
+
+		.tt-hint {
+		  color: #999
+		}
+
+		.tt-menu {
+		  width: 422px;
+		  margin: 12px 0;
+		  margin-top: 40px;
+		  padding: 8px 0;
+		  background-color: #fff;
+		  border: 1px solid #ccc;
+		  border: 1px solid rgba(0, 0, 0, 0.2);
+		  -webkit-border-radius: 8px;
+		     -moz-border-radius: 8px;
+		          border-radius: 8px;
+		  -webkit-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+		     -moz-box-shadow: 0 5px 10px rgba(0,0,0,.2);
+		          box-shadow: 0 5px 10px rgba(0,0,0,.2);
+		}
+
+		.tt-suggestion {
+		  padding: 3px 20px;
+		  font-size: 18px;
+		  line-height: 24px;
+		}
+
+		.tt-suggestion:hover {
+		  cursor: pointer;
+		  color: #fff;
+		  background-color: #0097cf;
+		}
+
+		.tt-suggestion.tt-cursor {
+		  color: #fff;
+		  background-color: #0097cf;
+
+		}
+
+		.tt-suggestion p {
+		  margin: 0;
+		}
+
+		.twitter-typeahead {
+			display: block !important;
+		}
+
+
+		/* poe timer */
+		#poe_timer {
+			position: relative;
+			width: 114px;
+			height: 50px;
+			border-left: 1px solid #ddd;
+			border-right: 1px solid #ddd;
+		}
+
+		#poe_timer a {
+			display: block;
+			width: 100%;
+			height: 100%;
+			padding: 0;
+			margin: 0;
+		}
+
+		#poe_timer_text {
+			color: #fff;
+			text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+			position: absolute;
+			bottom: 0;
+			text-align: center;
+			width: 100%;
+			padding: 0;
+			margin: 0;
+			display: block;
+			text-decoration: none;
+			-webkit-user-select: none;    
+			-moz-user-select: none;
+			-ms-user-select: none;
+			user-select: none;
+			pointer-events: none;
+		}
+		/* end poe timer */
+		@media (max-width: 600px) {
+			.collapsey {
+				display: none;
+			}
+		}
+
+		@media (max-width: 1199px) {
+			.collapsey {
+				float: left !important;
+			}
+		}
+
+		@media (min-width: 600px) {
+			.collapsey {
+				display: block;
+			}
+		}
+
+		@media (min-width: 768px) {
+			.collapsey2 {
+				max-width: 150px;
+			}
+		}
+	</style>
+</head>
+<body>
+<div id="wrap">
+<nav class="navbar navbar-light" style="background-color: #fff; border-bottom: 1px solid #ddd; border-top: 0">
+	<div class="container">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<!-- a class="navbar-brand" href="/">Newsframe</a -->
+				<div id="poe_timer"><a href="/" title="Eidolon Daily Cycle"><span id="poe_timer_text"></span></a></div>
+				<script type="text/javascript">
+				function ftime(s) {
+					if (s < 0) return '-'
+					var hours   = Math.floor(s / 3600)
+				    var minutes = Math.ceil((s - (hours * 3600)) / 60)
+				    // var seconds = Math.floor(s - (hours * 3600) - (minutes * 60))
+
+				    var result = ''
+				    if (hours > 0) result = hours.toString() + 'h'
+				    result += ' ' + minutes.toString() + 'm'
+				    return result
+				}
+
+				var clockData = false
+				var isDay = false
+				$('#poe_timer').css('background-image', 'url("/poe_night.png")')
+				function FromDuskTillDawn2() {
+					var now = Date.now();
+					var timeThing;
+					var localTime;
+					var placeholder = true;
+					var start;
+					var duration;
+					if (clockData) {
+						//now = Date.now() // 1000
+						start = clockData.start
+						duration = clockData.duration
+						placeholder = false
+
+					}
+					//  else {
+					// 	now = Date.now() / 1000 + (22 * 60 - 25)
+					// 	timeThing = 8999.999421
+					// 	localTime = ((24 * (now % timeThing) / timeThing) + 18) % 24
+					// }
+
+					if (!(start && duration)) {
+						placeholder = true
+						start = -1800000
+						duration = 8999999.421
+					}
+					//var localTime = ((now - start) % duration) / duration * 24 + 6
+					var localTime = ((now - start) % duration) // / duration
+					if (placeholder) localTime = (localTime + duration - (6 / 24 * duration)) % duration
+					var dayLength = (100 / 150) * duration
+					var timeLeft = 0
+					var isDay = false
+					if (localTime > dayLength) {
+						isDay = false
+						timeLeft = duration - localTime
+						$('#poe_timer').css('background-image', 'url("/poe_night.png")')
+					} else {
+						isDay = true
+						timeLeft = dayLength - localTime
+						$('#poe_timer').css('background-image', 'url("/poe_day.png")')
+					}
+					$('#poe_timer_text').html( ftime( timeLeft / 1000 ) )
+
+					// if (localTime < 16) {
+					// 	if (!window.isDay) {
+					// 		window.isDay = true
+					// 		$('#poe_timer').css('background-image', 'url("/poe_day.png")')
+					// 	}
+					// 	$('#poe_timer_text').html( ftime( (16 - localTime) / 24 * timeThing ) )
+					// } else {
+					// 	if (window.isDay) {
+					// 		window.isDay = false
+					// 		$('#poe_timer').css('background-image', 'url("/poe_night.png")')
+					// 	}
+					// 	$('#poe_timer_text').html( ftime( (24 - localTime) / 24 * timeThing ) )
+					// }
+				}
+				// function FromDuskTillDawn2() {
+				// 	var now;
+				// 	var timeThing;
+				// 	var localTime;
+				// 	if (clockData) {
+				// 		now = Date.now()
+				// 		localTime = ((now - clockData.start) % clockData.duration) / clockData.duration * 24 + 6
+				// 	} else {
+				// 		now = Date.now() / 1000 + (22 * 60 - 25)
+				// 		timeThing = 8999.999421
+				// 		localTime = ((24 * (now % timeThing) / timeThing) + 18) % 24
+				// 	}
+
+				// 	if (localTime < 16) {
+				// 		if (!window.isDay) {
+				// 			window.isDay = true
+				// 			$('#poe_timer').css('background-image', 'url("/poe_day.png")')
+				// 		}
+				// 		$('#poe_timer_text').html( ftime( (16 - localTime) / 24 * timeThing ) )
+				// 	} else {
+				// 		if (window.isDay) {
+				// 			window.isDay = false
+				// 			$('#poe_timer').css('background-image', 'url("/poe_night.png")')
+				// 		}
+				// 		$('#poe_timer_text').html( ftime( (24 - localTime) / 24 * timeThing ) )
+				// 	}
+				// }
+				FromDuskTillDawn2()
+				setInterval(FromDuskTillDawn2, 1000)
+				</script>
+			</div>
+
+			<form class="navbar-form navbar-left" role="search" action="/search" method="GET" id="navsearch">
+				<div class="input-group">
+				    <div class="form-group">
+				        <input type="text" name="q" class="form-control typeahead collapsey2" placeholder="Search Droptables">
+				    </div>
+					<div class="input-group-btn">
+					    <button type="submit" class="btn btn-default">
+					        <span class="glyphicon glyphicon-search"></span>
+					    </button>
+				    </div>
+			    </div>
+			</form>
+
+
+			<div class="nav navbar-nav">
+				<a href="/rivencalc" class="navbar-brand" title="Riven Calculator">Riven Calc</a>
+				<a href="/rivenprices" class="navbar-brand" title="Riven Prices">Prices</a>
+				<a href="/trade" class="navbar-brand" title="Riven Finder" style="color: #983ca7">[Trade]</a>
+				<a href="/buffs" class="navbar-brand" title="Buff Icons">Buffs</a>
+				<a href="/fish" class="navbar-brand" title="Fishing Info">Fish</a>
+				<a href="/zawcalc" class="navbar-brand" title="Zaw Builder">Zaws</a>
+				<a href="/ampcalc" class="navbar-brand" title="Amp Builder">Amps</a>
+				<a href="/deathlog" class="navbar-brand" title="Death Log Parser">Death Log</a>
+				<a href="/onslaught" class="navbar-brand" title="Sanctuary Onslaught Leaderboards">Onslaught</a>
+			</div>
+<!-- 			<div class="pull-right collapsey">
+				<a href="https://www.patreon.com/semlar" target="_blank">
+					<img src="/patreon.png">
+				</a>
+			</div> -->
+
+
+			<script type="text/javascript">
+			var substringMatcher = function(strs) {
+			  return function findMatches(q, cb) {
+			    var matches, substringRegex;
+			    matches = [];
+			    substrRegex = new RegExp(q, 'i');
+			    $.each(strs, function(i, str) {
+			      if (substrRegex.test(str)) {
+			        matches.push(str);
+			      }
+			    });
+
+			    cb(matches);
+			  };
+			};
+
+			$('#navsearch .typeahead').typeahead({
+			  hint: true,
+			  highlight: true,
+			  minLength: 1
+			},
+			{
+			  name: 'drops',
+			  source: substringMatcher([" Imperator Vandal Blueprint"," Odonata Prime Blueprint","100 Endo","1000 Credits Cache","10000 Credits Cache","15 Endo","150 Endo","1500 Credits Cache","160 Endo","2000 Credits Cache","240 Endo","250 Endo","2500 Credits Cache","3000 Credits Cache","320 Endo","400 Endo","4000 Credits Cache","4000 Endo","45 Endo","50 Endo","500 Credits Cache","5000 Credits Cache","640 Endo","75 Endo","7500 Credits Cache","80 Endo","Accelerated Blast","Accelerated Deflection","Acid Shells","Adhesive Blast","Adrenaline Boost","Affinity Booster","Agile Aim","Air Recon","Akbronco Prime Blueprint","Akbronco Prime Link","Aklex Prime Blueprint","Aklex Prime Link","Akstiletto Prime Barrel","Akstiletto Prime Blueprint","Akstiletto Prime Link","Akstiletto Prime Receiver","Alloy Plate","Ambush Optics","Ammo Case","Ammo Drum","Ammo Stock","Anemic Agility","Animal Instinct","Ankyros Prime Blade","Ankyros Prime Blueprint","Ankyros Prime Gauntlet","Antitoxin","Arcane Acceleration","Arcane Aegis","Arcane Agility","Arcane Arachne","Arcane Avenger","Arcane Awakening","Arcane Barrier","Arcane Consequence","Arcane Deflection","Arcane Energize","Arcane Eruption","Arcane Fury","Arcane Grace","Arcane Guardian","Arcane Healing","Arcane Ice","Arcane Momentum","Arcane Nullifier","Arcane Phantasm","Arcane Precision","Arcane Pulse","Arcane Rage","Arcane Resistance","Arcane Strike","Arcane Tempo","Arcane Trickery","Arcane Ultimatum","Arcane Velocity","Arcane Victory","Arcane Warmth","Argon Crystal","Argon Plating","Argon Scope","Armored Agility","Arrow Mutation","Ash Chassis Blueprint","Ash Neuroptics Blueprint","Ash Prime Blueprint","Ash Prime Chassis Blueprint","Ash Prime Neuroptics Blueprint","Ash Prime Systems Blueprint","Ash Systems Blueprint","Astral Slash","Astral Twilight","Atlantis Vulcan","Atlas Chassis Blueprint","Atlas Neuroptics Blueprint","Atlas Systems Blueprint","Auger Strike","Automatic Trigger","Auxiliary Power","Aviator","Axi B2 Relic","Axi E2 Relic","Axi N4 Relic","Axi N5 Relic","Axi O1 Relic","Axi V6 Relic","Ayatan Anasa Sculpture","Ballistica Prime Blueprint","Ballistica Prime Lower Limb","Ballistica Prime Receiver","Ballistica Prime String","Ballistica Prime Upper Limb","Bane Of Corpus","Bane Of Corrupted","Bane Of Grineer","Bane Of Infested","Banshee Prime Blueprint","Banshee Prime Chassis Blueprint","Banshee Prime Neuroptics Blueprint","Banshee Prime Systems Blueprint","Barrel Diffusion","Battering Maneuver","Berserker","Bite","Bladed Rounds","Blaze","Blazing Steel","Bleeding Edge","Bleeding Willow","Blind Justice","Blind Rage","Blind Shot","Blood Rush","Blunderbuss","Boar Blueprint","Boar Prime Barrel","Boar Prime Blueprint","Boar Prime Receiver","Boar Prime Stock","Body Count","Boltor Prime Barrel","Boltor Prime Blueprint","Boltor Prime Receiver","Boltor Prime Stock","Bore","Brain Storm","Brakk Blueprint","Braton Prime Barrel","Braton Prime Blueprint","Braton Prime Receiver","Braton Prime Stock","Breach Loader","Brief Respite","Broad Eye","Broken War Blueprint","Bronco Prime Barrel","Bronco Prime Blueprint","Bronco Prime Receiver","Brutal Tide","Bullet Dance","Burdened Magazine","Burning Wasp","Burston Prime Barrel","Burston Prime Blueprint","Burston Prime Receiver","Burston Prime Stock","Calculated Redirection","Carrier Prime Blueprint","Carrier Prime Carapace","Carrier Prime Cerebrum","Carrier Prime Systems","Cat'S Eye","Catalyzer Link","Cernos Prime Blueprint","Cernos Prime Grip","Cernos Prime Lower Limb","Cernos Prime String","Cernos Prime Upper Limb","Charged Chamber","Charged Shell","Charm","Chilling Grasp","Chilling Reload","Circuits","Clashing Forest","Cleanse Corpus","Cleanse Corrupted","Cleanse Grineer","Cleanse Infested","Cleaving Whirlwind","Clem Clone Blueprint","Coiling Viper","Combustion Beam","Combustion Rounds","Comet Blast","Concealed Explosives","Concussion Rounds","Condition Overload","Constitution","Contagious Spread","Continuity","Continuous Misery","Control Module","Convulsion","Coolant Leak","Corrupt Charge","Cosmic Specter Blueprint","Covert Lethality","Credit Booster","Creeping Bullseye","Crimson Dervish","Critical Deceleration","Critical Delay","Crossing Snakes","Crowd Dispersion","Crushing Ruin","Cryo Rounds","Cryotic","Cutting Edge","Cyclone Kraken","Dakra Prime Blade","Dakra Prime Blueprint","Dakra Prime Handle","Decisive Judgement","Deep Freeze","Defiled Snapdragon","Deft Tempo","Depleted Reload","Despair Blueprint","Detonite Ampule","Detron Blueprint","Diamond Skin","Dig","Directed Convergence","Dispatch Overdrive","Disruptor","Double Tap","Double-Barrel Drift","Draining Gloom","Dread Blueprint","Drifting Contact","Dual Kamas Prime Blade","Dual Kamas Prime Blueprint","Dual Kamas Prime Handle","Dual Rounds","Eagle Eye","Efficient Transferral","Eject Magazine","Electrified Barrel","Electromagnetic Shielding","Eleventh Storm","Embedded Catalyzer","Ember Chassis Blueprint","Ember Neuroptics Blueprint","Ember Prime Blueprint","Ember Prime Chassis Blueprint","Ember Prime Neuroptics Blueprint","Ember Prime Systems Blueprint","Ember Systems Blueprint","Emergent Aftermath","Empowered Blades","Enduring Affliction","Enduring Strike","Enemy Sense","Energy Amplifier","Energy Channel","Energy Inversion","Enhanced Durability","Enhanced Vitality","Equilibrium","Equinox Day Aspect Blueprint","Equinox Day Chassis Blueprint","Equinox Day Neuroptics Blueprint","Equinox Day Systems Blueprint","Equinox Night Aspect Blueprint","Equinox Night Chassis Blueprint","Equinox Night Neuroptics Blueprint","Equinox Night Systems Blueprint","Euphona Prime Barrel","Euphona Prime Blueprint","Euphona Prime Receiver","Excalibur Chassis Blueprint","Excalibur Neuroptics Blueprint","Excalibur Systems Blueprint","Exilus Adapter","Expel Corrupted","Expel Grineer","Expel Infested","Extend","Fang Prime Blade","Fang Prime Blueprint","Fang Prime Handle","Fast Deflection","Fast Hands","Fatal Acceleration","Fatal Attraction","Feathered Arrows","Ferocity","Ferrite","Fever Strike","Final Act","Final Harbinger","Final Tap","Finishing Touch","Fired Up","Firestorm","Firewalker","Flailing Branch","Flame Repellent","Flechette","Fleeting Expertise","Flow","Flux Overdrive","Focus Energy","Focused Acceleration","Focused Defense","Fomorian Accelerant","Force Specter Blueprint","Forma","Forma Blueprint","Fortitude","Four Riders","Fracturing Wind","Fragor Prime Blueprint","Fragor Prime Handle","Fragor Prime Head","Frail Momentum","Frigid Blast","Frost Chassis Blueprint","Frost Neuroptics Blueprint","Frost Prime Blueprint","Frost Prime Chassis Blueprint","Frost Prime Neuroptics Blueprint","Frost Prime Systems Blueprint","Frost Systems Blueprint","Frostbite","Furor","Fury","Gaia's Tragedy","Galatine Prime Blade","Galatine Prime Blueprint","Galatine Prime Handle","Gallium","Galvanized Blade","Gemini Cross","Ghost","Glacial Edge","Glaive Prime Blade","Glaive Prime Blueprint","Glaive Prime Disc","Gleaming Talon","Gnashing Payara","Gorgon Blueprint","Gorgon Frenzy","Gorgon Wraith Barrel","Gorgon Wraith Blueprint","Gorgon Wraith Receiver","Gorgon Wraith Stock","Greater Madurai Lens","Greater Naramon Lens","Greater Unairu Lens","Greater Vazarin Lens","Greater Zenurik Lens","Grim Fury","Grinloked","Growing Power","Guardian","Guardian Derision","Guided Ordnance","Gun Glide","Gunslinger","Hammer Shot","Handspring","Harkonar Scope","Harrow Chassis Blueprint","Harrow Neuroptics Blueprint","Harrow Systems Blueprint","Hastened Deflection","Hastened Steps","Hate Blueprint","Hawk Eye","Healing Return","Health Restore (Large)","Heated Charge","Heavy Caliber","Heavy Impact","Heavy Trauma","Heavy Warhead","Heightened Reflexes","Helios Prime Blueprint","Helios Prime Carapace","Helios Prime Cerebrum","Helios Prime Systems","Hell's Chamber","Hellfire","High Noon","High Voltage","Hikou Prime Blueprint","Hikou Prime Pouch","Hikou Prime Stars","Hollow Point","Hollowed Bullets","Homing Fang","Hornet Strike","Howl","Hunt","Hunter's Bonesaw","Hush","Hydraulic Barrel","Hydraulic Chamber","Hydraulic Crosshairs","Hydraulic Gauge","Hydroid Chassis Blueprint","Hydroid Neuroptics Blueprint","Hydroid Prime Blueprint","Hydroid Prime Chassis Blueprint","Hydroid Prime Neuroptics Blueprint","Hydroid Prime Systems Blueprint","Hydroid Systems Blueprint","Hyperion Thrusters","Ice Spring","Ice Storm","Imperator Vandal Barrel","Imperator Vandal Receiver","Incendiary Coat","Infected Clip","Insulation","Intensify","Intruder","Iron Phoenix","Ivara Blueprint","Ivara Chassis Blueprint","Ivara Neuroptics Blueprint","Ivara Systems Blueprint","Jagged Edge","Kavasa Prime Band","Kavasa Prime Buckle","Kavasa Prime Kubrow Collar Blueprint","Kavat Incubator Upgrade Segment Blueprint","Kill Switch","Killing Blow","Kinetic Ricochet","Kubrow Egg","Laser Sight","Lasting Sting","Latron Prime Barrel","Latron Prime Blueprint","Latron Prime Receiver","Latron Prime Stock","Legendary Core","Lethal Momentum","Lethal Torrent","Lex Prime Barrel","Lex Prime Blueprint","Lex Prime Receiver","Life Strike","Lightning Dash","Lightning Rod","Lingering Torment","Link Armor","Link Health","Link Shields","Lith A2 Relic","Lith B2 Relic","Lith H1 Relic","Lith N3 Relic","Lith T1 Relic","Lith V2 Relic","Lith V3 Relic","Lith V4 Relic","Lock And Load","Loki Chassis Blueprint","Loki Neuroptics Blueprint","Loki Systems Blueprint","Loyal Companion","Lucky Shot","Madurai Lens","Mag Chassis Blueprint","Mag Neuroptics Blueprint","Mag Prime Blueprint","Mag Prime Chassis Blueprint","Mag Prime Neuroptics Blueprint","Mag Prime Systems Blueprint","Mag Systems Blueprint","Magazine Extension","Magazine Warp","Maglev","Magma Chamber","Magnum Force","Maiming Strike","Malicious Raptor","Malignant Force","Master Thief","Maul","Measured Burst","Medi-Pet Kit","Medi-Ray","Melee Prowess","Melee Riven Mod","Mesa Chassis Blueprint","Mesa Neuroptics Blueprint","Mesa Systems Blueprint","Meso C3 Relic","Meso G1 Relic","Meso N4 Relic","Meso N5 Relic","Meso O1 Relic","Meso S2 Relic","Meso S5 Relic","Meso S6 Relic","Meso V5 Relic","Metal Auger","Metal Fiber","Meteor Crash","Mischief","Miter Barrel","Miter Blade","Miter Blueprint","Miter Chassis","Miter Handle","Mobilize","Modified Munitions","Molten Impact","Morphic Transformer","Morphics","Mortal Conduct","Mutagen Sample","Mutalist Alad V Nav Coordinate","Nami Skyla Prime Blade","Nami Skyla Prime Blueprint","Nami Skyla Prime Handle","Nano Spores","Nano-Applicator","Naramon Lens","Narrow Barrel","Narrow Minded","Natural Talent","Nebula Bore","Nekros Chassis Blueprint","Nekros Neuroptics Blueprint","Nekros Prime Blueprint","Nekros Prime Chassis Blueprint","Nekros Prime Neuroptics Blueprint","Nekros Prime Systems Blueprint","Nekros Systems Blueprint","Neo B2 Relic","Neo H1 Relic","Neo S7 Relic","Neo S8 Relic","Neo V2 Relic","Neo V5 Relic","Neural Sensors","Neurodes","Nidus Chassis Blueprint","Nidus Neuroptics Blueprint","Nidus Systems Blueprint","Nightwatch Napalm","Nikana Prime Blade","Nikana Prime Blueprint","Nikana Prime Hilt","Nitain Extract","No Return","North Wind","Nova Chassis Blueprint","Nova Neuroptics Blueprint","Nova Prime Blueprint","Nova Prime Chassis Blueprint","Nova Prime Neuroptics Blueprint","Nova Prime Systems Blueprint","Nova Systems Blueprint","Nyx Chassis Blueprint","Nyx Neuroptics Blueprint","Nyx Prime Blueprint","Nyx Prime Chassis Blueprint","Nyx Prime Neuroptics Blueprint","Nyx Prime Systems Blueprint","Nyx Systems Blueprint","Oberon Prime Blueprint","Oberon Prime Chassis Blueprint","Oberon Prime Neuroptics Blueprint","Oberon Prime Systems Blueprint","Octavia Neuroptics Blueprint","Octavia Systems Blueprint","Odonata Prime Harness Blueprint","Odonata Prime Systems Blueprint","Odonata Prime Wings Blueprint","Omni Ammo Box","Organ Shatter","Orokin Catalyst Blueprint","Orokin Cell","Orokin Reactor Blueprint","Orthos Prime Blade","Orthos Prime Blueprint","Orthos Prime Handle","Overextended","Overview","Oxium","Pack Leader","Pain Threshold","Parallax Scope","Paris Prime Blueprint","Paris Prime Grip","Paris Prime Lower Limb","Paris Prime String","Paris Prime Upper Limb","Parry","Patagium","Pathogen Rounds","Perpetual Agony","Phaedra Receiver","Phase Specter Blueprint","Pherliac Pods Blueprint","Piercing Caliber","Piercing Hit","Piercing Step","Pistol Ammo Mutation","Pistol Amp","Pistol Gambit","Pistol Pestilence","Pistol Riven Mod","Plan B","Plastids","Point Blank","Point Strike","Pointed Wind","Poisonous Sting","Polar Magazine","Polymer Bundle","Pounce","Power Throw","Precision Munition","Pressure Point","Pressurized Magazine","Profit: 135,000","Profit: 200,000","Profit: 75,000","Protect","Provoked","Quasar Drill","Quick Return","Quick Thinking","Quickdraw","Quickening","Rage","Rapid Resilience","Ravage","Razor Shot","Reach","Reaper Prime Blade","Reaper Prime Blueprint","Reaper Prime Handle","Reaping Spiral","Rebound","Redirection","Reflect","Reflection","Reflex Coil","Reflex Draw","Reflex Guard","Regen","Relentless Combination","Rending Crane","Rending Strike","Rending Turn","Repeater Clip","Resource Drop Chance Booster","Retribution","Revenge","Rhino Chassis Blueprint","Rhino Neuroptics Blueprint","Rhino Prime Blueprint","Rhino Prime Chassis Blueprint","Rhino Prime Neuroptics Blueprint","Rhino Prime Systems Blueprint","Rhino Systems Blueprint","Rifle Ammo Mutation","Rifle Aptitude","Rifle Riven Mod","Rift Strike","Rime Rounds","Rubedo","Rubedo-Lined Barrel","Ruinous Extension","Rupture","Rush","Salvage","Sanctuary","Saryn Chassis Blueprint","Saryn Neuroptics Blueprint","Saryn Prime Blueprint","Saryn Prime Chassis Blueprint","Saryn Prime Neuroptics Blueprint","Saryn Prime Systems Blueprint","Saryn Systems Blueprint","Savagery","Sawtooth Clip","Scattering Inferno","Scavenge","Scimitar Avionics Blueprint","Scimitar Engines Blueprint","Scimitar Fuselage Blueprint","Scindo Prime Blade","Scindo Prime Blueprint","Scindo Prime Handle","Scorch","Searing Steel","Secondary Wind","Seeker","Seeking Force","Seeking Fury","Seer Barrel","Seer Blueprint","Seer Receiver","Seismic Palm","Self Destruct","Sense Danger","Serration","Sharpened Bullets","Sharpened Claws","Shattering Impact","Shattering Storm","Shell Compression","Shell Rush","Shell Shock","Shelter","Shield Charger","Shimmering Blight","Shock Absorbers","Shocking Touch","Shotgun Ammo Mutation","Shotgun Amp","Shotgun Riven Mod","Shotgun Savvy","Shotgun Spazz","Shrapnel Rounds","Shrapnel Shot","Shred","Shredder","Sicarus Prime Barrel","Sicarus Prime Blueprint","Sicarus Prime Receiver","Silent Battery","Silva & Aegis Prime Blade","Silva & Aegis Prime Blueprint","Silva & Aegis Prime Guard","Silva & Aegis Prime Hilt","Sinister Reach","Sinking Talon","Skull Shots","Slip Magazine","Smite Corpus","Smite Corrupted","Smite Grineer","Smite Infested","Snap Shot","Sniper Ammo Mutation","Soaring Strike","Soft Hands","Soma Prime Barrel","Soma Prime Blueprint","Soma Prime Receiver","Soma Prime Stock","Sovereign Outcast","Spare Parts","Speed Trigger","Spinning Needle","Spira Prime Blade","Spira Prime Blueprint","Spira Prime Pouch","Split Chamber","Spoiled Strike","Spring-Loaded Broadhead","Spring-Loaded Chamber","Spry Sights","Stabilizer","Stalk","Stalking Fan","Stand United","Static Alacrity","Static Discharge","Steady Hands","Steel Fiber","Stormbringer","Strafing Slide","Streamline","Streamlined Form","Stretch","Striker","Stunning Speed","Sudden Impact","Sudden Justice","Sundering Strike","Sundering Weave","Superior Defenses","Suppress","Sure Footed","Sure Shot","Swift Deth","Swipe","Swirling Tiger","Sybaris Prime Barrel","Sybaris Prime Blueprint","Sybaris Prime Receiver","Sybaris Prime Stock","Synthula","System Reroute","Tactical Pump","Tactical Reload","Tactical Retreat","Tainted Clip","Tainted Mag","Tainted Shell","Target Cracker","Targeting Subsystem","Tellurium","Tempered Blade","Tempo Royale","Terminal Velocity","Territorial Aggression","Tether Grenades","Thermagnetic Shells","Thermite Rounds","Thief's Wit","Thumper","Thunderbolt","Thundermiter","Tigris Prime Barrel","Tigris Prime Blueprint","Tigris Prime Receiver","Tigris Prime Stock","Toxic Barrage","Toxic Flight","Toxin Resistance","Tranquil Cleave","Transient Fortitude","Trick Mag","Trinity Chassis Blueprint","Trinity Neuroptics Blueprint","Trinity Prime Blueprint","Trinity Prime Chassis Blueprint","Trinity Prime Neuroptics Blueprint","Trinity Prime Systems Blueprint","Trinity Systems Blueprint","Triple Tap","True Punishment","True Steel","Twin Gremlins Blueprint","Twin Kohmak Blueprint","Twitch","Unairu Lens","Undying Will","Unleashed","Valkyr Chassis Blueprint","Valkyr Neuroptics Blueprint","Valkyr Prime Blueprint","Valkyr Prime Chassis Blueprint","Valkyr Prime Neuroptics Blueprint","Valkyr Prime Systems Blueprint","Valkyr Systems Blueprint","Vapor Specter Blueprint","Vaporize","Vasto Prime Barrel","Vasto Prime Blueprint","Vasto Prime Receiver","Vauban Prime Blueprint","Vauban Prime Chassis Blueprint","Vauban Prime Neuroptics Blueprint","Vauban Prime Systems Blueprint","Vazarin Lens","Vectis Prime Barrel","Vectis Prime Blueprint","Vectis Prime Receiver","Vectis Prime Stock","Vengeful Revenant","Venka Prime Blades","Venka Prime Blueprint","Venka Prime Gauntlet","Venomous Clip","Vermillion Storm","Vicious Frost","Vicious Spread","Vigor","Vile Acceleration","Vile Precision","Virulent Scourge","Vital Sense","Vital Systems Bypass","Vitality","Volcanic Edge","Volt Prime Blueprint","Volt Prime Chassis Blueprint","Volt Prime Neuroptics Blueprint","Volt Prime Systems Blueprint","Vulcan Blitz","Vulpine Mask","War Blueprint","Warm Coat","Warrior","Weeping Wounds","Whirlwind","Wildfire","Xiphos Avionics Blueprint","Xiphos Engines Blueprint","Xiphos Fuselage Blueprint","Zenurik Lens","Zodiac Shred"])
+			});
+
+			</script>
+		</div>
+	</div>
+</nav>
+
+
+
+
+<!-- start alerts -->
+<style type="text/css">
+#alert-list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	position: fixed;
+	left: 0px;
+	top: 100px;
+	/*opacity: 0.75;*/
+	z-index: 1001;
+}
+
+#invasion-list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	position: fixed;
+	right: -16px;
+	top: 100px;
+	z-index: 1001;
+}
+
+@media screen and (max-width: 480px) {
+	.mobile-unfriendly {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 840px) and (min-width: 480px) { /*and (min-width: 480px) {*/
+	.container {
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+}
+
+#alert-list li {
+	display: block;
+	margin: 0;
+	padding: 0;
+	margin-left: -16px;
+	position: relative;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	box-shadow: 0 1px 1px rgba(0,0,0,0.05);
+	width: 64px;
+	height: 64px;
+	background-color: #fff;
+	margin-bottom: 5px;
+	overflow: hidden;
+
+
+	-webkit-transition-duration: 0.3s;
+	-moz-transition-duration: 0.3s;
+	-o-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+}
+
+#invasion-list li {
+	display: block;
+	margin: 0;
+	padding: 0;
+	/*margin-right: -16px;*/
+	position: relative;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	box-shadow: 0 1px 1px rgba(0,0,0,0.05);
+	width: 64px;
+	height: 64px;
+	background-color: #fff;
+	margin-bottom: 5px;
+	overflow: hidden;
+
+	-webkit-transition-duration: 0.3s;
+	-moz-transition-duration: 0.3s;
+	-o-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+}
+
+#alert-list li:hover {
+	margin-left: -1px;
+	/*opacity: 1;*/
+}
+
+#invasion-list li:hover {
+	margin-left: -16px;
+}
+
+#alert-list .counter, #invasion-list .counter {
+	color: #fff;
+	text-shadow:
+	-1px -1px 0 #000,
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+	1px 1px 0 #000;
+	pointer-events: none;
+	position: absolute;
+	bottom: 0;
+	text-align: center;
+	width: 100%;
+}
+
+#alert-list::before {
+	content: "ALERTS";
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+	font-size: 12px;
+	color: #959595;
+	position: absolute;
+	left: 0px;
+	top: -15px;
+}
+
+#invasion-list::before {
+	content: "INVAS";
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 700;
+	font-size: 12px;
+	color: #959595;
+	position: absolute;
+	right: 16px;
+	top: -15px;
+}
+</style>
+
+<div class="mobile-unfriendly">
+	<ul id="alert-list"></ul>
+	<ul id="invasion-list"></ul>
+</div>
+
+<script type="text/javascript">
+function FormatTime(ms) {
+	if (ms < 0) return '-'
+	var s = ms / 1000
+	var hours   = Math.floor(s / 3600)
+    var minutes = Math.floor((s - (hours * 3600)) / 60)
+    var seconds = Math.floor(s - (hours * 3600) - (minutes * 60))
+
+    if (hours > 0) return hours + 'h'
+    if (minutes > 0) return minutes + 'm'
+    return seconds + 's'
+}
+function GetAlerts() {
+	$.ajax({
+		async: true,
+		url: '/worldstate.js',
+		dataType: 'json',
+		ifModified: true,
+		success: function (data, status) {
+			if (status == 'success') { // notmodified
+				if ('cetus' in data) {
+					clockData = data['cetus']
+				}
+
+				$('#alert-list').empty()
+				var now = Date.now()
+				if ('alerts' in data) {
+					$.each(data['alerts'], function(k, alert) {
+						var timeleft = alert.end - now
+						if (timeleft >= 0) {
+							$.each(alert.rewards, function(_, reward) {
+								var name = reward.item
+								if (reward.count > 1) name = reward.count + ' ' + name
+								var img = $('<img>').attr('src', '/textures/' + reward.icon).attr('style', 'width: 128px; height: 86px; position: absolute; left: -32px; top: -11px').attr('title', name.replace(/_/g, ' '))
+								//var a = $('<a href="http://warframe.wikia.com/wiki/' + reward.item + '"></a>')
+								var a = $('<a></a>')
+								a.append(img)
+								var li = $('<li></li>')
+								var span = $('<span class="counter"></span>').attr('style', '').html(FormatTime(timeleft)).data('end', alert.end)
+								li.append(a)
+								li.append(span)
+								$('#alert-list').append(li)
+							})
+						}
+					})
+				}
+
+
+				$('#invasion-list').empty()
+				var showInvasions = false
+				if ('invasions' in data) {
+					$.each(data['invasions'], function(k, invasion) {
+						$.each(invasion.rewards, function(_, reward) {
+							var name = reward.item
+							if (reward.count > 1) name = reward.count + ' ' + name
+							var img = $('<img>').attr('src', '/textures/' + reward.icon).attr('style', 'width: 128px; height: 86px; position: absolute; right: -32px; top: -11px').attr('title', name.replace(/_/g, ' '))
+							//var a = $('<a href="http://warframe.wikia.com/wiki/' + reward.item + '"></a>')
+							var a = $('<a></a>')
+							a.append(img)
+							var li = $('<li></li>')
+							var span = $('<span class="counter"></span>').attr('style', '').html((invasion.progress * 100).toFixed(0) + '%').data('progress', invasion.progress)
+							li.append(a)
+							li.append(span)
+							$('#invasion-list').append(li)
+							showInvasions = true
+						})
+					})
+				}
+				if (showInvasions) $('#invasion-list').show()
+				else $('#invasion-list').hide()
+			}
+			UpdateAlerts()
+		}
+	})
+}
+GetAlerts()
+setInterval(GetAlerts, 60000)
+
+function UpdateAlerts() {
+	var now = Date.now()
+	var showAlerts = false
+	$('#alert-list li').each(function(i) {
+		var li = $( this )
+		var counter = li.find('.counter')
+		var timeleft = counter.data('end') - now
+		if (timeleft >= 0) {
+			counter.html(FormatTime(timeleft))
+			showAlerts = true
+		} else {
+			li.hide()
+		}
+	})
+	if (showAlerts) $('#alert-list').show()
+	else $('#alert-list').hide()
+}
+UpdateAlerts()
+setInterval(UpdateAlerts, 1000)
+</script>
+<!-- end alerts -->
+
+<div class="container">
+  <div class="panel panel-default">
+    <p style="margin: 0.5rem; text-align: center; font-weight: bold">Help fund development, <a href="https://www.patreon.com/bePatron?c=1213655" title="Please, hold for redemption while we process your offering" target="_blank" rel="nofollow">support us on Patreon!</a></p>
+  </div>
+</div>
+
+<link rel="stylesheet" href="/chosen/chosen.min.css">
+<style type="text/css">
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    padding-left: 20px;
+}
+
+#dispositions li {
+    cursor: pointer;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#dispositions li:hover {
+    background-color: #eee;
+}
+
+.col-md-6 {
+    background-color: #fff;
+    border-radius: 4px;
+}
+</style>
+
+<div class="container">
+<div class="row">
+    <div class="col-md-6">
+        <h1>Riven Calculator</h1>
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <form id="specialForm">
+                    <div>
+                        <select id="rivenTypes" data-placeholder="Choose a Riven Type!">
+                        </select>
+                        <select id="weaponList" data-placeholder="Choose a Weapon!">
+                            <option value=""></option>
+                        </select>
+                    </div>
+                    <div style="margin-top: 10px">
+                        <label for="numBuffs2" class="radio-inline"><input type="radio" name="numBuffs" id="numBuffs2" value="2" checked>2 Buffs</label>
+                        <label for="numBuffs3" class="radio-inline"><input type="radio" name="numBuffs" id="numBuffs3" value="3">3 Buffs</label>
+                        <label for="hasCurse" class="checkbox-inline" style="margin-left: 10px"><input type="checkbox" name="hasCurse" id="hasCurse" checked>Has Curse</label>
+                        <select id="rank" data-placeholder="Rank" style="margin-left: 10px; width: 80px">
+                            <option value="8">Rank 8</option>
+                            <option value="7">Rank 7</option>
+                            <option value="6">Rank 6</option>
+                            <option value="5">Rank 5</option>
+                            <option value="4">Rank 4</option>
+                            <option value="3">Rank 3</option>
+                            <option value="2">Rank 2</option>
+                            <option value="1">Rank 1</option>
+                            <option value="0">Rank 0</option>
+                        </select>
+                    </div>
+                    <div id="buffdiv" style="display: none; position: relative">
+                        <h1>Buffs</h1>
+                        <ul id="buffOutput"></ul>
+                        <div id="background-texture"></div>
+                    </div>
+                    <div id="cursediv" style="display: none">
+                        <h1>Curses</h1>
+                        <ul id="curseOutput"></ul>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div>
+        <ins class="adsbygoogle"
+            style="display:block"
+            data-ad-client="ca-pub-2402136322083237"
+            data-ad-slot="7773251345"
+            data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <h1 id="dispo-title">Dispositions</h1>
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <div>
+                    <ul id="dispositions">
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="/chosen/chosen.jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+var RivenStuff = {
+        "Buffs": [
+            {
+                "text": "|val|% Melee Damage", 
+                "value": 164.7
+            }, 
+            {
+                "text": "|val|% Physical Damage", 
+                "curse": true,
+                "value": 119.7
+            },
+            {
+                "text": "|val|% Critical Chance", 
+                "curse": true,
+                "value": 90.0
+            }, 
+            {
+                "text": "|val|% Critical Damage", 
+                "curse": true,
+                "value": 90.0
+            }, 
+            {
+                "text": "|val|% Elemental Damage", 
+                "value": 90.0
+            },
+            {
+                "text": "|val|% Status Chance", 
+                "curse": true,
+                "value": 90.0
+            }, 
+            {
+                "text": "|val|% Status Duration", 
+                "curse": true,
+                "value": 99.99
+            }, 
+            {
+                "text": "|val|% Damage to Faction", 
+                "curse": true,
+                "value": 45.0
+            },
+            {
+                "text": "|val|% Attack Speed", 
+                "curse": true,
+                "value": 54.9
+            }, 
+            {
+                "text": "|val|% Channeling Efficiency", 
+                "value": 90.0
+            },
+            {
+                "text": "|val|% Channeling Damage", 
+                "value": 150.3
+            }, 
+            {
+                "text": "|val|% Finisher Damage", 
+                "curse": true,
+                "value": 119.7
+            },
+            {
+                "text": "|val|% Range",
+                "curse": true,
+                "value": 119.7
+            }, 
+            {
+                "text": "Slide Attack has |val|% chance to be a Critical Hit.", 
+                "curse": true,
+                "value": 90.0
+            }, 
+            {
+                "text": "|val|s Combo Duration", 
+                "curse": true,
+                "value": 8.1
+            }, 
+        ]
+    }, 
+    "Shotgun": {
+        "Rivens": [
+            {
+                "disposition": 1.2, 
+                "name": "ASTILLA", 
+                "texture": "_Lotus_Interface_Icons_Store_GlassShotgun.png"
+            }, 
+            {
+                "disposition": 1.33, 
+                "name": "SOBEK", 
+                "texture": "_Lotus_Interface_Icons_Store_GrnDBSG.png"
+            }, 
+            {
+                "disposition": 0.5, 
+                "name": "TIGRIS PRIME", 
+                "texture": "_Lotus_Interface_Icons_Store_Primes_PrimeTigris.png"
+            }, 
+            {
+                "disposition": 1.0, 
+                "name": "CORINTH", 
+                "texture": "_Lotus_Interface_Icons_Store_TnHeavyShotgun.png"
+            }, 
+            {
+                "disposition": 1.34, 
+                "name": "BOAR PRIME", 
+                "texture": "_Lotus_Interface_Icons_Store_PrimeBoar.png"
+            }, 
+            {
+                "disposition": 1.34, 
+                "name": "BOAR", 
+                "texture": "_Lotus_Interface_Icons_Store_TennoFullAutoShotgun.png"
+            }, 
+            {
+                "disposition": 0.55, 
+                "name": "HEK", 
+                "texture": "_Lotus_Interface_Icons_Store_GrineerQuadShotgun.png"
+            }, 
+            {
+                "disposition": 1.42, 
+                "name": "STRUN WRAITH", 
+                "texture": "_Lotus_Interface_Icons_Store_VandalStrun.png"
+            }, 
+            {
+                "disposition": 1.42, 
+                "name": "STRUN", 
+                "texture": "_Lotus_Interface_Icons_Store_TennoShotgun.png"
+            }, 
+            {
+                "disposition": 1.0, 
+                "name": "SWEEPER", 
+                "texture": "_Lotus_Interface_Icons_Store_SentinelSweeper.png"
+            }, 
+            {
+                "disposition": 1.0, 
+                "name": "SWEEPER PRIME", 
+                "texture": "_Lotus_Interface_Icons_Store_SentinelSweeperPrime.png"
+            }, 
+            {
+                "disposition": 1.48, 
+                "name": "DRAKGOON", 
+                "texture": "_Lotus_Interface_Icons_Store_GrineerFlakCannon.png"
+            }, 
+            {
+                "disposition": 1.46, 
+                "name": "CONVECTRIX", 
+                "texture": "_Lotus_Interface_Icons_Store_CrpSplitRifle.png"
+            }, 
+            {
+                "disposition": 0.9, 
+                "name": "ARCA PLASMOR", 
+                "texture": "_Lotus_Interface_Icons_Store_CrpShotgun.png"
+            }, 
+            {
+                "disposition": 1.46, 
+                "name": "PHAGE", 
+                "texture": "_Lotus_Interface_Icons_Store_InfestedLongGunTwo.png"
+            }, 
+            {
+                "disposition": 1.4, 
+                "name": "KOHM", 
+                "texture": "_Lotus_Interface_Icons_Store_GrineerSparkGun.png"
+            }, 
+            {
+                "disposition": 0.5, 
+                "name": "SANCTI TIGRIS", 
+                "texture": "_Lotus_Interface_Icons_Store_SyndicateNLTigris.png"
+            }, 
+            {
+                "disposition": 1.42, 
+                "name": "MK1-STRUN", 
+                "texture": "_Lotus_Interface_Icons_Store_TennoShotgun.png"
+            }, 
+            {
+                "disposition": 0.5, 
+                "name": "TIGRIS", 
+                "texture": "_Lotus_Interface_Icons_Store_TennoDoubleBarrelSG.png"
+            }, 
+            {
+                "disposition": 0.55, 
+                "name": "VAYKOR HEK", 
+                "texture": "_Lotus_Interface_Icons_Store_SyndicateSMHek.png"
+            }
+        ], 
+        "Buffs": [
+            {
+                "text": "|val|% Multishot", 
+                "curse": true,
+                "value": 119.7
+            }, 
+            {
+                "text": "|val|% Damage", 
+                "curse": true,
+                "value": 164.7
+            }, 
+            {
+                "text": "|val|% Physical Damage", 
+                "value": 119.97
+            }, 
+            {
+                "text": "|val|% Critical Chance", 
+                "curse": true,
+                "value": 90.0
+            }, 
+            {
+                "text": "|val|% Critical Damage", 
+                "curse": true,
+                "value": 90.0
+            }, 
+            {
+                "text": "|val|% Elemental Damage", 
+                "value": 90.0
+            }, 
+            {
+                "text": "|val|% Status Chance", 
+                "curse": true,
+                "value": 90.0
+            }, 
+            {
+                "text": "|val|% Status Duration", 
+                "curse": true,
+                "value": 99.99
+            }, 
+            {
+                "text": "|val|% Damage to Faction", 
+                "curse": true,
+                "value": 45.0
+            },
+            {
+                "text": "|val|% Fire Rate (x2 for Bows)", 
+                "curse": true,
+                "value": 90.0
+            }, 
+            {
+                "text": "|val|% Magazine Capacity", 
+                "curse": true,
+                "value": 50.0
+            }, 
+            {
+                "text": "|val|% Ammo Maximum", 
+                "curse": true,
+                "value": 90.0
+            }, 
+            {
+                "text": "|val|% Flight Speed", 
+                "curse": true,
+                "value": 90.0
+            }, 
+            {
+                "text": "|val|% Reload Speed", 
+                "curse": true,
+                "value": 50.0
+            }, 
+            {
+                "text": "|val|% Weapon Recoil", 
+                "curse": true,
+                "value": -90.0
+            }, 
+            {
+                "text": "|val| Punch Through", 
+                "value": 2.7
+            }, 
+        ]
+    }, 
+    "Pistol": {
+        "Rivens": [
+            {
+                "disposition": 1.0, 
+                "name": "HYSTRIX", 
+                "texture": "_Lotus_Interface_Icons_Store_QuillDartGun.png"
+            }, 
+            {
+                "disposition": 1.2, 
+                "name": "FUSILAI", 
+                "texture": "_Lotus_Interface_Icons_Store_GlassKunai.png"
+            }, 
+            {
+                "disposition": 1.0, 
+                "name": "TWIN ROGGA", 
+                "texture": "_Lotus_Interface_Icons_Store_GrnQueenGuardDualPistols.png"
+            }, 
+            {
+                "disposition": 1.1, 
+                "name": "KULSTAR", 
+                "texture": "_Lotus_Interface_Icons_Store_GrnTorpedoPistol.png"
+            }, 
+            {
+                "disposition": 1.25, 
+                "name": "STUBBA", 
+                "texture": "_Lotus_Interface_Icons_Store_GrnUziWeapon.png"
+            }, 
+            {
+                "disposition": 0.87, 
+                "name": "ATOMOS", 
+                "texture": "_Lotus_Interface_Icons_Store_GrnHeatGun.png"
+            }, 
+            {
+                "disposition": 1.41, 
+                "name": "TWIN VIPERS WRAITH", 
+                "texture": "_Lotus_Interface_Icons_Store_WraithTwinVipers.png"
+            }, 
+            {
+                "disposition": 0.5, 
+                "name": "MARELOK", 
+                "texture": "_Lotus_Interface_Icons_Store_GrineerLeverActionPistol.png"
+            }, 
+            {
+                "disposition": 1.45, 
+                "name": "NUKOR", 
+                "texture": "_Lotus_Interface_Icons_Store_GrineerMicrowaveGun.png"
+            }, 
+            {
+                "disposition": 1.1, 
+                "name": "TWIN KOHMAK", 
+                "texture": "_Lotus_Interface_Icons_Store_DualKohmak.png"
+            }, 
+            {
+                "disposition": 1.2, 
+                "name": "KOHMAK", 
+                "texture": "_Lotus_Interface_Icons_Store_GrnWindUpPistol.png"
+            }, 
+            {
+                "disposition": 0.82, 
+                "name": "POX", 
+                "texture": "_Lotus_Interface_Icons_Store_InfProximityStars.png"
+            }, 
+            {
+                "disposition": 1.19, 
+                "name": "DUAL TOXOCYST", 
+                "texture": "_Lotus_Interface_Icons_Store_InfVomitGun.png"
+            }, 
+            {
+                "disposition": 1.45, 
+                "name": "BURST LASER", 
+                "texture": "_Lotus_Interface_Icons_Store_SentinelBurstLaser.png"
+            }, 
+            {
+                "disposition": 1.49, 
+                "name": "SPECTRA", 
+                "texture": "_Lotus_Interface_Icons_Store_CorpusModularPistol.png"
+            }, 
+            {
+                "disposition": 0.5, 
+                "name": "SONICOR", 
+                "texture": "_Lotus_Interface_Icons_Store_CrpAirPistolArray.png"
+            }, 
+            {
+                "disposition": 0.5, 
+                "name": "LEX", 
+                "texture": "_Lotus_Interface_Icons_Store_Bolto.png"
+            }, 
+            {
+                "disposition": 1.5, 
+                "name": "SICARUS", 
+                "texture": "_Lotus_Interface_Icons_Store_TennoBurstPistol.png"
+            }, 
+            {
+                "disposition": 1.2, 
+                "name": "BRONCO", 
+                "texture": "_Lotus_Interface_Icons_Store_HandCannon.png"
+            }, 
+            {
+                "disposition": 1.51, 
+                "name": "BOLTO", 
+                "texture": "_Lotus_Interface_Icons_Store_Lex.png"
+            }, 
+            {
+                "disposition": 1.35, 
+                "name": "FURIS", 
+                "texture": "_Lotus_Interface_Icons_Store_Furis.png"
+            }, 
+            {
+                "disposition": 1.2, 
+                "name": "AKBRONCO PRIME", 
+                "texture": "_Lotus_Interface_Icons_Store_PrimeDualBroncos.png"
+            }, 
+            {
+                "disposition": 1.2, 
+                "name": "BRONCO PRIME", 
+                "texture": "_Lotus_Interface_Icons_Store_PrimeBronco.png"
+            }, 
+            {
+                "disposition": 1.42, 
+                "name": "CASTANAS", 
+                "texture": "_Lotus_Interface_Icons_Store_TaserStar.png"
+            }, 
+            {
+                "disposition": 1.44, 
+                "name": "TALONS", 
+                "texture": "_Lotus_Interface_Icons_Store_U18throwingknives.png"
+            }, 
+            {
+                "disposition": 1.0, 
+                "name": "ZAKTI", 
+                "texture": "_Lotus_Interface_Icons_Store_TnGuandaoPistol.png"
+            }, 
+            {
+                "disposition": 1.0, 
+                "name": "KNELL", 
+                "texture": "_Lotus_Interface_Icons_Store_PriestPistol.png"
+            }, 
+            {
+                "disposition": 1.43, 
+                "name": "AKJAGARA", 
+                "texture": "_Lotus_Interface_Icons_Store_TnoBladedPistols.png"
+            }, 
+            {
+                "disposition": 1.0, 
+                "name": "PANDERO", 
+                "texture": "_Lotus_Interface_Icons_Store_TnBardPistol.png"
+            }, 
+            {
+                "disposition": 0.66, 
+                "name": "SPIRA PRIME", 
+                "texture": "_Lotus_Interface_Icons_Store_Primes_PrimeLiDagger.png"
+            }, 
+            {
+                "disposition": 0.69, 
+                "name": "HIKOU PRIME", 
+                "texture": "_Lotus_Interface_Icons_Store_PrimeHikou.png"
+            }, 
+            {
+                "disposition": 0.66, 
+                "name": "SPIRA", 
+                "texture": "_Lotus_Interface_Icons_Store_LiDagger.png"
+            }, 
+            {
+                "disposition": 1.33, 
+                "name": "ACRID", 
+                "texture": "_Lotus_Interface_Icons_Store_GrineerAcidBlowDartGun.png"
+            }, 
+            {
+                "disposition": 1.35, 
+                "name": "DUAL CESTRA", 
+                "texture": "_Lotus_Interface_Icons_Store_DualCorpusMinigun.png"
+            }, 
+            {
+                "disposition": 0.85, 
+                "name": "RAKTA BALLISTICA", 
+                "texture": "_Lotus_Interface_Icons_Store_RVBallistica.png"
+            }, 
+            {
+                "disposition": 1.35, 
+                "name": "SECURA DUAL CESTRA", 
+                "texture": "_Lotus_Interface_Icons_Store_PSDualCestra.png"
+            }, 
+            {
+                "disposition": 1.51, 
+                "name": "MK1-KUNAI", 
+                "texture": "_Lotus_Interface_Icons_Store_KunaiThrowingKnives.png"
+            }, 
+            {
+                "disposition": 1.35, 
+                "name": "MK1-FURIS", 
+                "texture": "_Lotus_Interface_Icons_Store_Furis.png"
+            }, 
+            {
+                "disposition": 1.45, 
+                "name": "EMBOLIST", 
+                "texture": "_Lotus_Interface_Icons_Store_InfestedPistol.png"
+            }, 
+            {
+                "disposition": 1.51, 
+                "name": "TYSIS", 
+                "texture": "_Lotus_Interface_Icons_Store_InfestedDartPistol.png"
+            }, 
+            {
+                "disposition": 1.42, 
+                "name": "SANCTI CASTANAS", 
+                "texture": "_Lotus_Interface_Icons_Store_NLCastanas.png"
+            }, 
+            {
+                "disposition": 0.53, 
+                "name": "SYNOID GAMMACOR", 
+                "texture": "_Lotus_Interface_Icons_Store_SynoidGammacor.png"
+            }, 
+            {
+                "disposition": 0.53, 
+                "name": "GAMMACOR", 
+                "texture": "_Lotus_Interface_Icons_Store_Gammacor.png"
+            }, 
+            {
+                "disposition": 0.85, 
+                "name": "TELOS AKBOLTO", 
+                "texture": "_Lotus_Interface_Icons_Store_AHAkbolto.png"
+            }, 
+            {
+                "disposition": 1.51, 
+                "name": "LATO PRIME", 
+                "texture": "_Lotus_Interface_Icons_Store_LatoPrime.png"
+            }, 
+            {
+                "disposition": 1.51, 
+                "name": "LATO VANDAL", 
+                "texture": "_Lotus_Interface_Icons_Store_LatoVandal.png"
+            }, 
+            {
+                "disposition": 1.51, 
+                "name": "LATO", 
+                "texture": "_Lotus_Interface_Icons_Store_Pistol.png"
+            }, 
+            {
+                "disposition": 1.53, 
+                "name": "VASTO", 
+                "texture": "_Lotus_Interface_Icons_Store_TennoHandCannon.png"
+            }, 
+            {
+                "disposition": 0.75, 
+                "name": "EUPHONA PRIME", 
+                "texture": "_Lotus_Interface_Icons_Store_Primes_EuphoraPrime.png"
+            }, 
+            {
+                "disposition": 0.85, 
+                "name": "BALLISTICA", 
+                "texture": "_Lotus_Interface_Icons_Store_TennoAutoCrossbow.png"
+            }, 
+            {
+                "disposition": 0.85, 
+                "name": "BALLISTICA PRIME", 
+                "texture": "_Lotus_Interface_Icons_Store_Primes_PrimeBallistica.png"
+            }, 
+            {
+                "disposition": 1.39, 
+                "name": "DEX FURIS", 
+                "texture": "_Lotus_Interface_Icons_Store_DexFuris.png"
+            }, 
+            {
+                "disposition": 1.45, 
+                "name": "PRISMA BURST LASER", 
+                "texture": "_Lotus_Interface_Icons_Store_PrismaSentinelBurstLaser.png"
+            }, 
+            {
+                "disposition": 1.52, 
+                "name": "CESTRA", 
+                "texture": "_Lotus_Interface_Icons_Store_CorpusMinigun.png"
+            }, 
+            {
+                "disposition": 1.24, 
+                "name": "DESPAIR", 
+                "texture": "_Lotus_Interface_Icons_Store_StalkerKunai.png"
+            }, 
+            {
+                "disposition": 1.51, 
+                "name": "KUNAI", 
+                "texture": "_Lotus_Interface_Icons_Store_KunaiThrowingKnives.png"
+            }, 
+            {
+                "disposition": 0.69, 
+                "name": "HIKOU", 
+                "texture": "_Lotus_Interface_Icons_Store_ThrowingStar.png"
+            }, 
+            {
+                "disposition": 1.0, 
+                "name": "MARA DETRON", 
+                "texture": "_Lotus_Interface_Icons_Store_VTDetron.png"
+            }, 
+            {
+                "disposition": 1.4, 
+                "name": "ANGSTRUM", 
+                "texture": "_Lotus_Interface_Icons_Store_CorpusHandRocket.png"
+            }, 
+            {
+                "disposition": 1.4, 
+                "name": "PRISMA ANGSTRUM", 
+                "texture": "_Lotus_Interface_Icons_Store_PrismaAngstrum.png"
+            }, 
+            {
+                "disposition": 0.53, 
+                "name": "STATICOR", 
+                "texture": "_Lotus_Interface_Icons_Store_CrpElectroMag.png"
+            }, 
+            {
+                "disposition": 1.0, 
+                "name": "ARCA SCISCO", 
+                "texture": "_Lotus_Interface_Icons_Store_CrpScopePistol.png"
+            }, 
+            {
+                "disposition": 1.5, 
+                "name": "TWIN GREMLINS", 
+                "texture": "_Lotus_Interface_Icons_Store_GrineerBulbousSmg.png"
+            }, 
+            {
+                "disposition": 1.53, 
+                "name": "KRAKEN", 
+                "texture": "_Lotus_Interface_Icons_Store_GrineerHeavyPistol.png"
+            }, 
+            {
+                "disposition": 1.53, 
+                "name": "VIPER", 
+                "texture": "_Lotus_Interface_Icons_Store_GrineerLightPistol.png"
+            }, 
+            {
+                "disposition": 0.76, 
+                "name": "TWIN GRAKATAS", 
+                "texture": "_Lotus_Interface_Icons_Store_Akgrakata.png"
+            }, 
+            {
+                "disposition": 1.5, 
+                "name": "SEER", 
+                "texture": "_Lotus_Interface_Icons_Store_CaptainVorPistol.png"
+            }, 
+            {
+                "disposition": 0.75, 
+                "name": "BRAKK", 
+                "texture": "_Lotus_Interface_Icons_Store_GrineerHandShotgun.png"
+            }, 
+            {
+                "disposition": 1.48, 
+                "name": "STUG", 
+                "texture": "_Lotus_Interface_Icons_Store_GrineerCrossbowGooGun.png"
+            }, 
+            {
+                "disposition": 1.28, 
+                "name": "AKMAGNUS", 
+                "texture": "_Lotus_Interface_Icons_Store_Akmagnus.png"
+            }, 
+            {
+                "disposition": 1.24, 
+                "name": "AKVASTO", 
+                "texture": "_Lotus_Interface_Icons_Store_DualVasto.png"
+            }, 
+            {
+                "disposition": 1.2, 
+                "name": "AKBRONCO", 
+                "texture": "_Lotus_Interface_Icons_Store_DualBroncos.png"
+            }, 
+            {
+                "disposition": 1.41, 
+                "name": "TWIN VIPERS", 
+                "texture": "_Lotus_Interface_Icons_Store_GrineerLightPistolAkimbo.png"
+            }, 
+            {
+                "disposition": 0.85, 
+                "name": "AKBOLTO", 
+                "texture": "_Lotus_Interface_Icons_Store_TennoAkimboPistols.png"
+            }, 
+            {
+                "disposition": 0.85, 
+                "name": "AKBOLTO PRIME", 
+                "texture": "_Lotus_Interface_Icons_Store_Primes_AkboltoPrime.png"
+            }, 
+            {
+                "disposition": 1.52, 
+                "name": "AKLATO", 
+                "texture": "_Lotus_Interface_Icons_Store_AklatoPistols.png"
+            }, 
+            {
+                "disposition": 1.0, 
+                "name": "AKLEX PRIME", 
+                "texture": "_Lotus_Interface_Icons_Store_AklexPrime.png"
+            }, 
+            {
+                "disposition": 1.39, 
+                "name": "AFURIS", 
+                "texture": "_Lotus_Interface_Icons_Store_TennoAkimboAutoPistols.png"
+            }, 
+            {
+                "disposition": 0.5, 
+                "name": "VAYKOR MARELOK", 
+                "texture": "_Lotus_Interface_Icons_Store_SMMarelok.png"
+            }, 
+            {
+                "disposition": 1.0, 
+                "name": "AKLEX", 
+                "texture": "_Lotus_Interface_Icons_Store_Aklex.png"
+            }, 
+            {
+                "disposition": 1.45, 
+                "name": "BURST LASER PRIME", 
+                "texture": "_Lotus_Interface_Icons_Store_SentinelBurstLaserPrime.png"
+            }, 
+            {
+                "disposition": 1.0, 
+                "name": "DETRON", 
+                "texture": "_Lotus_Interface_Icons_Store_CorpusHandCannon.png"
+            }, 
+            {
+                "disposition": 1.0, 
+                "name": "CYCRON", 
+                "texture": "_Lotus_Interface_Icons_Store_CrpChargeGun.png"
+            }, 
+            {
+                "disposition": 1.26, 
+                "name": "AKSOMATI", 
+                "texture": "_Lotus_Interface_Icons_Store_AkimboSomaPistols.png"
+            }, 
+            {
+                "disposition": 1.2, 
+                "name": "PYRANA", 
+                "texture": "_Lotus_Interface_Icons_Store_SawnOffShotgun.png"
+            }, 
+            {
+                "disposition": 1.53, 
+                "name": "VASTO PRIME", 
+                "texture": "_Lotus_Interface_Icons_Store_PrimeVasto.png"
+            }, 
+            {
+                "disposition": 1.5, 
+                "name": "SICARUS PRIME", 
+                "texture": "_Lotus_Interface_Icons_Store_PrimeSicarus.png"
+            }, 
+            {
+                "disposition": 0.5, 
+                "name": "LEX PRIME", 
+                "texture": "_Lotus_Interface_Icons_Store_PrimeLex.png"
+            }, 
+            {
+                "disposition": 0.5, 
+                "name": "AKSTILETTO PRIME", 
+                "texture": "_Lotus_Interface_Icons_Store_Primes_AkstilettoPrime.png"
+            }, 
+            {
+                "disposition": 1.53, 
+                "name": "MAGNUS", 
+                "texture": "_Lotus_Interface_Icons_Store_TennoMagnum.png"
+            }, 
+            {
+                "disposition": 1.52, 
+                "name": "AKZANI", 
+                "texture": "_Lotus_Interface_Icons_Store_HarlequinPistols.png"
+            }, 
+            {
+                "disposition": 0.5, 
+                "name": "AKSTILETTO", 
+                "texture": "_Lotus_Interface_Icons_Store_TennoUzi.png"
+            }, 
+            {
+                "disposition": 1.35, 
+                "name": "AZIMA", 
+                "texture": "_Lotus_Interface_Icons_Store_SundialPistol.png"
+            }
+        ], 
+        "Buffs": [
+            {
+                "text": "|val|% Multishot", 
+                "curse": true,
+                "value": 119.7
+            }, 
+            {
+                "text": "|val|% Damage", 
+                "curse": true,
+                "value": 219.6
+            }, 
+            {
+                "text": "|val|% Physical Damage", 
+                "curse": true,
+                "value": 119.97
+            }, 
+            {
+                "text": "|val|% Critical Chance", 
+                "curse": true,
+                "value": 149.99
+            }, 
+            {
+                "text": "|val|% Critical Damage", 
+                "curse": true,
+                "value": 90.0
+            }, 
+            {
+                "text": "|val|% Elemental Damage", 
+                "value": 90.0
+            }, 
+            {
+                "text": "|val|% Status Chance", 
+                "curse": true,
+                "value": 90.0
+            }, 
+            {
+                "text": "|val|% Status Duration", 
+                "curse": true,
+                "value": 99.99
+            }, 
+            {
+                "text": "|val|% Damage to Faction", 
+                "curse": true,
+                "value": 45.0
+            }, 
+            {
+                "text": "|val|% Fire Rate", 
+                "curse": true,
+                "value": 74.7
+            }, 
+            {
+                "text": "|val|% Magazine Capacity", 
+                "curse": true,
+                "value": 50.0
+            }, 
+            {
+                "text": "|val|% Ammo Maximum", 
+                "curse": true,
+                "value": 90.0
+            }, 
+            {
+                "text": "|val|% Flight Speed", 
+                "curse": true,
+                "value": 90.0
+            }, 
+            {
+                "text": "|val|% Reload Speed", 
+                "curse": true,
+                "value": 50.0
+            }, 
+            {
+                "text": "|val|% Weapon Recoil", 
+                "curse": true,
+                "value": -90.0
+            }, 
+            {
+                "text": "|val|% Zoom", 
+                "curse": true,
+                "value": 80.1
+            }, 
+            {
+                "text": "|val| Punch Through", 
+                "value": 2.7
+            }, 
+        ]
+    }, 
+    "Rifle": { 
+        "Buffs": [
+            {
+                "text": "|val|% Multishot", 
+                "curse": true,
+                "value": 90.0
+            }, 
+            {
+                "text": "|val|% Damage", 
+                "curse": true,
+                "value": 165.0
+            }, 
+            {
+                "text": "|val|% Physical Damage", 
+                "curse": true,
+                "value": 119.97
+            }, 
+            {
+                "text": "|val|% Critical Chance", 
+                "curse": true,
+                "value": 149.99
+            }, 
+            {
+                "text": "|val|% Critical Damage", 
+                "curse": true,
+                "value": 120.0
+            }, 
+            {
+                "text": "|val|% Elemental Damage", 
+                "value": 90.0
+            }, 
+            {
+                "text": "|val|% Status Chance", 
+                "curse": true,
+                "value": 90.0
+            }, 
+            {
+                "text": "|val|% Status Duration", 
+                "curse": true,
+                "value": 99.99
+            }, 
+            {
+                "text": "|val|% Damage to Faction", 
+                "curse": true,
+                "value": 45.0
+            }, 
+            {
+                "text": "|val|% Fire Rate (x2 for Bows)", 
+                "curse": true,
+                "value": 60.03
+            }, 
+            {
+                "text": "|val|% Magazine Capacity", 
+                "curse": true,
+                "value": 50.0
+            }, 
+            {
+                "text": "|val|% Ammo Maximum", 
+                "curse": true,
+                "value": 49.95
+            }, 
+            {
+                "text": "|val|% Flight Speed", 
+                "curse": true,
+                "value": 90.0
+            }, 
+            {
+                "text": "|val|% Reload Speed", 
+                "curse": true,
+                "value": 50.0
+            }, 
+            {
+                "text": "|val|% Weapon Recoil", 
+                "curse": true,
+                "value": -90.0
+            }, 
+            {
+                "text": "|val|% Zoom", 
+                "curse": true,
+                "value": 59.99
+            }, 
+            {
+                "text": "|val| Punch Through", 
+                "value": 2.7
+            }, 
+        ]
+    }
+}
+
+var RivenTypeOrder = ['Melee', 'Shotgun', 'Pistol', 'Rifle']
+
+function NameSort(a, b) {
+    return a.name < b.name ? -1 : a.name > b.name ? 1 : 0
+}
+
+function DispoSort(a, b) {
+    var adispo = a.disposition || 0
+    var bdispo = b.disposition || 0
+    if (adispo === bdispo) {
+        return NameSort(a, b)
+    }
+    return bdispo - adispo
+    //return adispo < bdispo ? 1 : adispo > bdispo ? -1 : 0
+    //return a.disposition < b.disposition ? 1 : a.disposition > b.disposition ? -1 : NameSort(a, b)
+}
+
+$.each(RivenTypeOrder, function(k, v) {
+    $('#rivenTypes').append($('<option></option>').val(v).html(v))
+    RivenStuff[v].Rivens.sort(NameSort)
+})
+/*
+$.each(RivenStuff, function(k, v) {
+    $('#rivenTypes').append($('<option></option>').val(k).html(k))
+})
+*/
+
+var ActiveRivenType = RivenTypeOrder[0]
+var InitWeaponIndex
+
+function UpdateBuffList() {
+    $('#buffdiv').hide()
+    $('#cursediv').hide()
+    $('#buffOutput').empty()
+    $('#curseOutput').empty()
+    var weaponIndex = $("#weaponList").val()
+    if (weaponIndex) {
+        var weapon = RivenStuff[ActiveRivenType].Rivens[weaponIndex]
+        var disposition = weapon.disposition // || 0
+        if (disposition) {
+            var rank = Number($("#rank").val()) + 1
+            var numBuffs
+            var hasCurse
+            if($('#hasCurse').is(':checked')) {
+                disposition = disposition * 1.25
+                hasCurse = '1'
+            } else {
+                hasCurse = '0'
+            }
+            if($('#numBuffs2').is(':checked')) {
+                disposition = disposition * 0.66
+                numBuffs = '2'
+            } else if($('#numBuffs3').is(':checked')) {
+                disposition = disposition * 0.5
+                numBuffs = '3'
+            }
+            disposition = disposition * 1.5 // SpecificFitAttenuation
+            var Buffs = RivenStuff[ActiveRivenType].Buffs
+            $.each(Buffs, function(i, p) {
+                var baseValue = disposition * p.value / 9 * rank
+                var minRange = baseValue * 0.9
+                var maxRange = baseValue * 1.1
+                var newText = p.text.replace('|val|', '<b>' + minRange.toFixed(1) + '</b> to <b>' + maxRange.toFixed(1) + '</b>')
+                $('#buffOutput').append($('<li></li>').html(newText))
+            })
+            
+            $('#background-texture').attr('style', 'background: url("/textures/' + weapon.texture + '"); background-size: 256px 171px; background-repeat: no-repeat; background-position: 100% 0px; opacity: 0.15; z-index: 0; position: absolute; top: -50px; left: 1em; right: 1em; bottom: 1em; pointer-events: none;')
+            $('#buffdiv').show()
+
+            if (hasCurse == '1') {
+                $.each(Buffs, function(i, p) {
+                    if (p.curse) {
+                        var baseValue = -1 * weapon.disposition * p.value * 1.5 / 9 * rank
+                        if (numBuffs == '2') baseValue *= 0.33
+                        else baseValue *= 0.5
+                        var minRange = baseValue * 0.9
+                        var maxRange = baseValue * 1.1
+                        var newText = p.text.replace('|val|', '<b>' + minRange.toFixed(1) + '</b> to <b>' + maxRange.toFixed(1) + '</b>')
+                        $('#curseOutput').append($('<li></li>').html(newText))
+                    }
+                })
+                $('#cursediv').show()
+            }
+
+
+            if (InitWeaponIndex == null) {
+                var rivenTypeIndex
+                $.each(RivenTypeOrder, function(i, v) {
+                    if (v == $('#rivenTypes').val()) {
+                        rivenTypeIndex = i + 1
+                        return false
+                    }
+                })
+                if (rivenTypeIndex && numBuffs && hasCurse) {
+                    var newURL = '/rivencalc/' + encodeURIComponent(weapon.name.toLowerCase()) + '/' + rivenTypeIndex.toString() + numBuffs + hasCurse
+                    history.replaceState(null, null, newURL)
+                }
+            }
+        }
+    }
+}
+
+function SelectWeapon(rivenType, rivenName) {
+    var rivenIndex
+    RivenStuff[rivenType].Rivens.sort(NameSort)
+    $.each(RivenStuff[rivenType].Rivens, function(i, v) {
+        if (v.name.toLowerCase() == rivenName.toLowerCase()) {
+            rivenIndex = i
+            return false
+        }
+    })
+    if (rivenIndex != null) {
+       $('#weaponList').val(rivenIndex)
+        $('#weaponList').trigger('chosen:updated')
+        UpdateBuffList()
+    }
+}
+
+function UpdateRivenTypes() {
+    ActiveRivenType = $('#rivenTypes').val()
+    $('#weaponList').empty()
+    $('#weaponList').append($('<option val=""></option>'))
+
+    RivenStuff[ActiveRivenType].Rivens.sort(NameSort)
+
+    $.each(RivenStuff[ActiveRivenType].Rivens, function(i, p) {
+        if (p.disposition) {
+            //$('#weaponList').append($('<option></option>').val(p.disposition || 0).html(p.name + ' (' + (p.disposition || 0) + ')'))
+            $('#weaponList').append($('<option></option>').val(i).html(p.name + ' (' + (p.disposition || 0) + ')'))
+        }
+    })
+
+    if (InitWeaponIndex != null) $('#weaponList').val(InitWeaponIndex)
+
+    $('#weaponList').trigger('chosen:updated')
+    UpdateBuffList()
+    InitWeaponIndex = null
+
+    $('#dispositions').empty()
+    $('#dispo-title').text(ActiveRivenType + ' Dispositions')
+    RivenStuff[ActiveRivenType].Rivens.sort(DispoSort)
+    $.each(RivenStuff[ActiveRivenType].Rivens, function(i, p) {
+        if (p.disposition) {
+            $('#dispositions').append($('<li></li>').html((p.disposition || 0).toFixed(2) + ' ' + p.name).on('click', function() {
+                SelectWeapon(ActiveRivenType, p.name)
+                $('html, body').animate({ scrollTop: 0 }, 'fast')
+            }))
+        }
+    })
+    RivenStuff[ActiveRivenType].Rivens.sort(NameSort)
+}
+$('#rivenTypes').chosen({'disable_search': true}).change(UpdateRivenTypes)
+UpdateRivenTypes()
+
+
+$("#weaponList").chosen().change(UpdateBuffList)
+$('#numBuffs2, #numBuffs3, #hasCurse').change(UpdateBuffList)
+
+// initialize values from url
+var rivenName = ""
+var rivenOptions = ""
+if (rivenName && rivenOptions.length == 3) {
+    var rivenType = RivenTypeOrder[ (Number(rivenOptions[0]) || 0) - 1 ]
+    var numBuffs = Number(rivenOptions[1])
+    var hasCurse = Number(rivenOptions[2])
+
+    if (rivenType && (numBuffs == 2 || numBuffs == 3) && (hasCurse == 0 || hasCurse == 1)) {
+        if (numBuffs == 2) $('#numBuffs2').prop('checked', true)
+        else $('#numBuffs3').prop('checked', true)
+        $('#hasCurse').prop('checked', hasCurse == 1)
+        rivenName = decodeURIComponent(rivenName.toLowerCase()).replace(/&amp;/g, '&')
+        ActiveRivenType = rivenType
+        var rivenIndex
+        $.each(RivenStuff[rivenType].Rivens, function(i, v) {
+            if (v.name.toLowerCase() == rivenName) {
+                rivenIndex = i
+                return false
+            }
+        })
+        if (rivenIndex != null) {
+            InitWeaponIndex = rivenIndex
+            $('#rivenTypes').val(rivenType)
+            $('#rivenTypes').trigger('chosen:updated')
+            UpdateRivenTypes()
+        }
+    }
+} else if (rivenName) {
+    // find weapon by name, default to 2 buffs 1 curse
+    rivenName = decodeURIComponent(rivenName.toLowerCase()).replace(/&amp;/g, '&')
+    var rivenType;
+    $.each(RivenStuff, function(rtype, rivenTable) { 
+        $.each(rivenTable.Rivens, function(i, v) {
+            if (v.name.toLowerCase() == rivenName) {
+                rivenType = rtype
+                rivenIndex = i
+                return false
+            }
+        })
+        if (rivenType) return false
+    })
+    if (rivenIndex != null && rivenType != null) {
+        if (rivenOptions.length == 2) {
+            var numBuffs = Number(rivenOptions[0])
+            var hasCurse = Number(rivenOptions[1])
+            if (numBuffs == 2) $('#numBuffs2').prop('checked', true)
+            else $('#numBuffs3').prop('checked', true)
+            $('#hasCurse').prop('checked', hasCurse == 1)
+        }
+        InitWeaponIndex = rivenIndex
+        $('#rivenTypes').val(rivenType)
+        $('#rivenTypes').trigger('chosen:updated')
+        UpdateRivenTypes()
+    }
+}
+
+
+$("#rank").chosen({'disable_search': true}).change(UpdateBuffList)
+</script>
+</div>
+
+
+</div>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="//www.googletagmanager.com/gtag/js?id=UA-110398044-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-110398044-1');
+	</script>
+
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+	    google_ad_client: "ca-pub-2402136322083237",
+	    enable_page_level_ads: true
+	  });
+	</script>
+	<!--
+	<script>
+	var observer = new MutationObserver(function (mutations) {
+	    mutations.forEach(function (mutation) {
+	        $.each(mutation.addedNodes, function(k, v) {
+	          if ('innerHTML' in v && v.innerHTML.indexOf('sandbox') < 0) v.innerHTML = v.innerHTML.replace(/<iframe /gi, '<iframe sandbox="allow-same-origin allow-scripts allow-forms" ')
+	        })
+	    });
+	});
+	$.each(document.getElementsByClassName('adsbygoogle'), function(k, v) {
+	  observer.observe(v, { childList: true, subtree: true });
+	})
+	</script>
+	// -->
+</body>
+</html>
