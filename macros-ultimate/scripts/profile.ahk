@@ -1,0 +1,3 @@
+global Selected := {
+    weapon : 
+}
